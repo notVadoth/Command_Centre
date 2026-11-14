@@ -1902,6 +1902,296 @@
    "url": "https://www.turkiyetoday.com/region/yemens-government-braces-for-houthi-assault-as-fighters-advance-toward-aden-3232326",
    "date": "2026-11-13T08:28:00+00:00",
    "seen": "2026-11-13T18:46:18.329694+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Zaporizhzhia",
+   "iso": "UKR",
+   "province": "Zaporizhia Oblast",
+   "province_id": "14850775B92888097715572",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "Russian attack on Zaporizhzhia: 22 injured, including three children – photos",
+   "sentence": "Russian attack on Zaporizhzhia: 22 injured, including three children",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/14/8062861/",
+   "date": "2026-11-14T12:54:00+00:00",
+   "seen": "2026-11-14T17:17:43.968937+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Sumy Oblast",
+   "iso": "UKR",
+   "province": "Sumy Oblast",
+   "province_id": "14850775B14512392274127",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "Police officer shields injured boy, 9, during repeat Russian attack in Sumy Oblast",
+   "sentence": "Police officer shields injured boy, 9, during repeat Russian attack in Sumy Oblast.",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/14/8062860/",
+   "date": "2026-11-14T12:34:00+00:00",
+   "seen": "2026-11-14T17:17:43.968937+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "West Bank",
+   "iso": "PSE",
+   "province": "West Bank",
+   "province_id": "83478781B28849486138516",
+   "outlet": "Al Jazeera",
+   "host": "aljazeera.com",
+   "partisan": false,
+   "title": "Jerusalem Daily: Israeli forces occupy Palestinian-American’s home",
+   "sentence": "Israeli forces occupied a Palestinian-American’s home in the occupied West Bank for 17 days.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/jerusalem-daily-israeli-forces-occupy-palestinian-americans-home?traffic_source=rss",
+   "date": "2026-11-14T15:36:37+00:00",
+   "seen": "2026-11-14T17:17:43.968937+00:00"
+  },
+  {
+   "war": "sudan",
+   "sides": [
+    "SAF",
+    "RSF"
+   ],
+   "place": "Sudanese",
+   "iso": "SDN",
+   "province": "North Kordofan",
+   "province_id": "86620642B75144405979625",
+   "outlet": "Al Jazeera",
+   "host": "aljazeera.com",
+   "partisan": false,
+   "title": "How SAF successes in Sudan’s Kordofan could turn tide against the RSF",
+   "sentence": "The SAF successes in Kordofan are seeing the battle against the RSF turn in favour of the Sudanese government.",
+   "url": "https://www.aljazeera.com/news/2026/11/14/how-saf-successes-in-sudans-kordofan-could-turn-tide-against-the-rsf?traffic_source=rss",
+   "date": "2026-11-14T12:49:17+00:00",
+   "seen": "2026-11-14T17:17:43.968937+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "West Bank",
+   "iso": "PSE",
+   "province": "West Bank",
+   "province_id": "83478781B28849486138516",
+   "outlet": "Anadolu Agency",
+   "host": "aa.com.tr",
+   "partisan": false,
+   "title": "Israeli occupiers attack Palestinian olive pickers in West Bank as army arrests farmer",
+   "sentence": "Israeli occupiers attack Palestinian olive pickers in West Bank as army arrests farmer.",
+   "url": "https://www.aa.com.tr/en/middle-east/israeli-occupiers-attack-palestinian-olive-pickers-in-west-bank-as-army-arrests-farmer/4125155",
+   "date": "2026-11-14T12:43:48+00:00",
+   "seen": "2026-11-14T17:17:43.968937+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "West Bank",
+   "iso": "PSE",
+   "province": "West Bank",
+   "province_id": "83478781B28849486138516",
+   "outlet": "Anadolu Agency",
+   "host": "aa.com.tr",
+   "partisan": false,
+   "title": "Israeli army arrests 10 Palestinians in raids across occupied West Bank",
+   "sentence": "Israeli army arrests 10 Palestinians in raids across occupied West Bank.",
+   "url": "https://www.aa.com.tr/en/middle-east/israeli-army-arrests-10-palestinians-in-raids-across-occupied-west-bank/4125011",
+   "date": "2026-11-14T09:36:20+00:00",
+   "seen": "2026-11-14T17:17:43.968937+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "Occupied Palestinian Territory",
+   "iso": "PSE",
+   "province": "West Bank",
+   "province_id": "83478781B28849486138516",
+   "outlet": "The Hindu",
+   "host": "thehindu.com",
+   "partisan": false,
+   "title": "India supports UNGA resolution on permanent sovereignty of Palestinian people",
+   "sentence": "It demanded that Israel “cease the exploitation, damage, cause of loss or depletion and endangerment of the natural resources in the Occupied Palestinian Territory, including East Jerusalem, and in the occupied Syrian Golan",
+   "url": "https://www.thehindu.com/news/national/india-supports-unga-resolution-on-permanent-sovereignty-of-palestinian-people/article71701074.ece",
+   "date": "2026-11-14T16:26:52+00:00",
+   "seen": "2026-11-14T17:17:43.968937+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Lahij",
+   "iso": "YEM",
+   "province": "Lahij Governorate",
+   "province_id": "18629408B46389326189415",
+   "outlet": "UA.NEWS",
+   "host": "ua.news",
+   "partisan": false,
+   "title": "Yemen government-aligned forces say they repelled Houthi attack in Lahij — Anadolu Agency",
+   "sentence": "Yemen government-aligned forces say they repelled Houthi attack in Lahij",
+   "url": "https://ua.news/en/dovkolo-svitu/loialni-do-uriadu-emenu-sili-zaiavili-pro-vidbittia-ataki-khusitiv-u-lakhdzhi-anadolu-agency",
+   "date": "2026-11-14T03:21:00+00:00",
+   "seen": "2026-11-14T17:17:43.968937+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Taiz",
+   "iso": "YEM",
+   "province": "Ta'izz Governorate",
+   "province_id": "18629408B66245584752084",
+   "outlet": "UA.NEWS",
+   "host": "ua.news",
+   "partisan": false,
+   "title": "Yemen government-aligned forces say they repelled Houthi attack in Lahij — Anadolu Agency",
+   "sentence": "Yemen government-aligned forces said they repelled a Houthi attack in Lahij as fighting in Taiz continues and more than 340,000 people have been displaced since August.",
+   "url": "https://ua.news/en/dovkolo-svitu/loialni-do-uriadu-emenu-sili-zaiavili-pro-vidbittia-ataki-khusitiv-u-lakhdzhi-anadolu-agency",
+   "date": "2026-11-14T03:21:00+00:00",
+   "seen": "2026-11-14T17:17:43.968937+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Southern Yemen",
+   "iso": "YEM",
+   "province": "‘Adan Governorate",
+   "province_id": "18629408B11945654439238",
+   "outlet": "Yemen Online",
+   "host": "yemenonline.info",
+   "partisan": false,
+   "title": "Clashes Escalate in Southern Yemen as Gov’t Forces Repel Houthi Attack...",
+   "sentence": "Clashes Escalate in Southern Yemen as Gov’t Forces Repel Houthi Attack....",
+   "url": "https://yemenonline.info/special-reports/14453",
+   "date": "2026-11-14T07:47:00+00:00",
+   "seen": "2026-11-14T17:17:43.968937+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Lahj",
+   "iso": "YEM",
+   "province": "Lahij Governorate",
+   "province_id": "18629408B46389326189415",
+   "outlet": "Dawn",
+   "host": "dawn.com",
+   "partisan": false,
+   "title": "Yemeni government-aligned forces repel Houthi attack as fighting displaces over 340,000 people",
+   "sentence": "Yemen’s government-aligned forces say they have repelled a Houthi attack in the southwestern province of Lahj, ...",
+   "url": "https://www.dawn.com/news/2044491",
+   "date": "2026-11-14T02:51:00+00:00",
+   "seen": "2026-11-14T17:17:43.968937+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Lahj",
+   "iso": "YEM",
+   "province": "Lahij Governorate",
+   "province_id": "18629408B46389326189415",
+   "outlet": "Daily Times",
+   "host": "dailytimes.com.pk",
+   "partisan": false,
+   "title": "Yemen fighting displaces over 340,000 people",
+   "sentence": "Yemen's government-aligned forces have repelled a Houthi attack in Lahj province.",
+   "url": "https://dailytimes.com.pk/1581468/yemen-fighting-displaces-over-340000-people/",
+   "date": "2026-11-14T09:14:00+00:00",
+   "seen": "2026-11-14T17:17:43.968937+00:00"
+  },
+  {
+   "war": "sudan",
+   "sides": [
+    "SAF",
+    "RSF"
+   ],
+   "place": "Sudanese",
+   "iso": "SDN",
+   "province": "North Kordofan",
+   "province_id": "86620642B75144405979625",
+   "outlet": "Al Jazeera on MSN",
+   "host": "msn.com",
+   "partisan": false,
+   "title": "How SAF successes in Sudan’s Kordofan could turn tide against the RSF",
+   "sentence": "The SAF successes in Kordofan are seeing the battle against the RSF turn in favour of the Sudanese government.",
+   "url": "https://www.msn.com/en-us/news/other/how-saf-successes-in-sudan-s-kordofan-could-turn-tide-against-the-rsf/ar-AA2hq2oP",
+   "date": "2026-11-14T04:49:17+00:00",
+   "seen": "2026-11-14T17:17:43.968937+00:00"
+  },
+  {
+   "war": "sudan",
+   "sides": [
+    "SAF"
+   ],
+   "place": "West Kordofan",
+   "iso": "SDN",
+   "province": "West Kordofan",
+   "province_id": "86620642B26042209819562",
+   "outlet": "The Rio Times",
+   "host": "riotimesonline.com",
+   "partisan": false,
+   "title": "Sudan Army Says It Has Taken Khuwei Town",
+   "sentence": "Sudan's army and Joint Force say they took Khuwei in West Kordofan on 13 November.",
+   "url": "https://www.riotimesonline.com/sudan-army-says-it-has-taken-khuwei-town/",
+   "date": "2026-11-14T01:33:00+00:00",
+   "seen": "2026-11-14T17:17:43.968937+00:00"
+  },
+  {
+   "war": "sudan",
+   "sides": [
+    "SAF"
+   ],
+   "place": "West Kordofan",
+   "iso": "SDN",
+   "province": "West Kordofan",
+   "province_id": "86620642B26042209819562",
+   "outlet": "Anadolu Agency",
+   "host": "aa.com.tr",
+   "partisan": false,
+   "title": "Sudanese army advances in West Kordofan, says it downed drone from Ethiopia",
+   "sentence": "The Sudanese army advanced into several areas near Al-Khuway in West Kordofan state Friday, while separately announcing that it had shot down a drone that crossed into Blue Nile state from Ethiopia.",
+   "url": "https://www.aa.com.tr/en/middle-east/sudanese-army-advances-in-west-kordofan-says-it-downed-drone-from-ethiopia/4124681",
+   "date": "2026-11-13T13:45:00+00:00",
+   "seen": "2026-11-14T17:17:43.968937+00:00"
+  },
+  {
+   "war": "sudan",
+   "sides": [
+    "SAF"
+   ],
+   "place": "Blue Nile",
+   "iso": "SDN",
+   "province": "Blue Nile",
+   "province_id": "86620642B86272532082738",
+   "outlet": "Anadolu Agency",
+   "host": "aa.com.tr",
+   "partisan": false,
+   "title": "Sudanese army advances in West Kordofan, says it downed drone from Ethiopia",
+   "sentence": "The Sudanese army advanced into several areas near Al-Khuway in West Kordofan state Friday, while separately announcing that it had shot down a drone that crossed into Blue Nile state from Ethiopia.",
+   "url": "https://www.aa.com.tr/en/middle-east/sudanese-army-advances-in-west-kordofan-says-it-downed-drone-from-ethiopia/4124681",
+   "date": "2026-11-13T13:45:00+00:00",
+   "seen": "2026-11-14T17:17:43.968937+00:00"
   }
  ],
  "truce": [
@@ -1954,6 +2244,26 @@
    "sentence": "Iran opens women’s training camp amid fears of renewed attacks.",
    "url": "https://newsus.cgtn.com/news/2026-11-12/Iran-opens-women-s-training-camp-amid-fears-of-renewed-attacks-1RZJtvj2Rpu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
    "date": "2026-11-11T17:10:17+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "kind": "end",
+   "outlet": "France 24",
+   "partisan": false,
+   "title": "Inside Ethiopia's war: Rare access to a hospital treating victims of renewed fighting",
+   "sentence": "Inside Ethiopia's war: Rare access to a hospital treating victims of renewed fighting.",
+   "url": "https://www.france24.com/en/inside-ethiopia-s-war-rare-access-to-a-hospital-treating-victims-of-renewed-fighting",
+   "date": "2026-11-14T12:23:32+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "kind": "end",
+   "outlet": "Daily Times",
+   "partisan": false,
+   "title": "Yemen fighting displaces over 340,000 people",
+   "sentence": "Meanwhile, renewed fighting has displaced more than 340,000 people since August.",
+   "url": "https://dailytimes.com.pk/1581468/yemen-fighting-displaces-over-340000-people/",
+   "date": "2026-11-14T09:14:00+00:00"
   }
  ],
  "withdrawals": [],
@@ -1961,28 +2271,43 @@
   {
    "iso": "ISR",
    "outlets": [
+    "Al Jazeera",
     "Anadolu Agency",
     "Dawn",
     "Middle East Eye"
    ],
    "examples": [
     {
-     "outlet": "Dawn",
-     "title": "Israeli forces shoot dead 14-year-old in West Bank: Palestinian officials",
-     "url": "https://www.dawn.com/news/2043498/israeli-forces-shoot-dead-14-year-old-in-west-bank-palestinian-officials"
-    },
-    {
-     "outlet": "Middle East Eye",
-     "title": "Israeli forces raid West Bank areas of Salfit and Nablus, detain Palestinian man",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-raid-west-bank-areas-salfit-and-nablus-detain-palestinian"
+     "outlet": "Al Jazeera",
+     "title": "Jerusalem Daily: Israeli forces occupy Palestinian-American’s home",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/jerusalem-daily-israeli-forces-occupy-palestinian-americans-home?traffic_source=rss"
     },
     {
      "outlet": "Anadolu Agency",
-     "title": "Israeli army arrests 6 Palestinians in renewed raids across occupied West Bank",
-     "url": "https://www.aa.com.tr/en/middle-east/israeli-army-arrests-6-palestinians-in-renewed-raids-across-occupied-west-bank/4114964"
+     "title": "Israeli army arrests 10 Palestinians in raids across occupied West Bank",
+     "url": "https://www.aa.com.tr/en/middle-east/israeli-army-arrests-10-palestinians-in-raids-across-occupied-west-bank/4125011"
+    },
+    {
+     "outlet": "Dawn",
+     "title": "Israeli forces shoot dead 14-year-old in West Bank: Palestinian officials",
+     "url": "https://www.dawn.com/news/2043498/israeli-forces-shoot-dead-14-year-old-in-west-bank-palestinian-officials"
     }
    ],
-   "last": "2026-11-10"
+   "last": "2026-11-14"
+  },
+  {
+   "iso": "USA",
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "examples": [
+    {
+     "outlet": "Al Jazeera",
+     "title": "Jerusalem Daily: Israeli forces occupy Palestinian-American’s home",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/jerusalem-daily-israeli-forces-occupy-palestinian-americans-home?traffic_source=rss"
+    }
+   ],
+   "last": "2026-11-14"
   }
  ]
 }

@@ -1,6 +1,6 @@
 // written by trawler.py — loaded automatically by commandcenter-map.html
 window.TRAWLER_GROUPINGS = {
- "generated": "2026-11-13T18:45:22.334336+00:00",
+ "generated": "2026-11-14T17:17:07.789476+00:00",
  "extractor": "rules",
  "verification": {
   "wikidata": true,
@@ -13,7 +13,7 @@ window.TRAWLER_GROUPINGS = {
    "conflict": "Wikidata contradicts the claim — review"
   }
  },
- "articles_in_store": 1345,
+ "articles_in_store": 1451,
  "blocs": {
   "EU": {
    "name": "European Union",
@@ -107,6 +107,26 @@ window.TRAWLER_GROUPINGS = {
        "sentence": "Clearly it’s something that on the EU side there’s real interest, so we are engaging in that discussion but I can’t comment in detail on the negotiations.”\nFalconer was firmly positive about the UK’s return next year to the Erasmus+ student exchange scheme, which the UK left under Boris Johnson’s Brexit deal in 2020, and will be open not just to universities but also to schools and colleges.",
        "hedged": false,
        "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Andy Burnham says UK has ‘lost more than we gained’ through Brexit",
+       "url": "https://www.theguardian.com/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit",
+       "date": "2026-11-14T15:34:54+00:00",
+       "sentence": "PM accuses Tories of burning ‘all our bridges’ and says deal he is pursuing with EU will ‘get food prices down’\nAndy Burnham has said the UK has “lost more than we gained” since leaving the EU, the prime minister’s latest in a string of comments criticising Brexit.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Andy Burnham says UK has ‘lost more than we gained’ through Brexit",
+       "url": "https://www.theguardian.com/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit",
+       "date": "2026-11-14T15:34:54+00:00",
+       "sentence": "PM accuses Tories of burning ‘all our bridges’ and says deal he is pursuing with EU will ‘get food prices down’\nAndy Burnham has said the UK has “lost more than we gained” since leaving the EU, the prime minister’s latest in a string of comments criticising Brexit.",
+       "hedged": false,
+       "syndicated_copy": true
       }
      ]
     },
@@ -371,6 +391,35 @@ window.TRAWLER_GROUPINGS = {
      ]
     },
     {
+     "country": "ISR",
+     "action": "left",
+     "status": "single-source",
+     "wikidata": "unknown",
+     "independent_outlets": 1,
+     "evidence": [
+      {
+       "source": "Al Jazeera",
+       "domain": "aljazeera.com",
+       "title": "EU calls for immediate humanitarian access to Gaza",
+       "url": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss",
+       "date": "2026-11-14T15:57:22+00:00",
+       "sentence": "In response, the EU said that “Israel must enable the work of the UN and its agencies, and humanitarian organisations including NGOs, and comply with all its obligations under international law, including international humanitarian law and international human rights law.”\nThe EU reaffirmed “its commitment to the two-state solution” and called for “the full withdrawal of Israeli forces from Gaza” a",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "Al Jazeera",
+       "domain": "aljazeera.com",
+       "title": "EU calls for immediate humanitarian access to Gaza",
+       "url": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss",
+       "date": "2026-11-14T15:57:22+00:00",
+       "sentence": "In response, the EU said that “Israel must enable the work of the UN and its agencies, and humanitarian organisations including NGOs, and comply with all its obligations under international law, including international humanitarian law and international human rights law.”\nThe EU reaffirmed “its commitment to the two-state solution” and called for “the full withdrawal of Israeli forces from Gaza” a",
+       "hedged": false,
+       "syndicated_copy": true
+      }
+     ]
+    },
+    {
      "country": "MNE",
      "action": "joined",
      "status": "speculative",
@@ -497,6 +546,7 @@ window.TRAWLER_GROUPINGS = {
    ],
    "partners": [],
    "applicants": [
+    "RUS",
     "UKR"
    ],
    "note": null,
@@ -511,7 +561,7 @@ window.TRAWLER_GROUPINGS = {
      "action": "joined",
      "status": "corroborated",
      "wikidata": "unknown",
-     "independent_outlets": 3,
+     "independent_outlets": 4,
      "evidence": [
       {
        "source": "CBC World",
@@ -582,6 +632,66 @@ window.TRAWLER_GROUPINGS = {
        "sentence": "We already knew about some of them – for example, Russia’s demand to keep the occupied Ukrainian territories and the entire Donbas region, demilitarise Ukrainian ports and keep Ukraine out of Nato – but there are also some new ones, including a reported request that Nato should not have any bases in the Baltics and that Finland, which only joined in 2023, should be made to leave the alliance.",
        "hedged": false,
        "syndicated_copy": true
+      },
+      {
+       "source": "France 24",
+       "domain": "france24.com",
+       "title": "US proposed Ukraine cedes Donbas in exchange for joining NATO, Zelensky says",
+       "url": "https://www.france24.com/en/europe/20261114-us-negotiators-suggest-ukraine-cedes-territory-in-exchange-for-nato-membership",
+       "date": "2026-11-14T10:30:04+00:00",
+       "sentence": "US proposed Ukraine cedes Donbas in exchange for joining NATO, Zelensky says.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "France 24",
+       "domain": "france24.com",
+       "title": "US proposed Ukraine cedes Donbas in exchange for joining NATO, Zelensky says",
+       "url": "https://www.france24.com/en/europe/20261114-us-negotiators-suggest-ukraine-cedes-territory-in-exchange-for-nato-membership",
+       "date": "2026-11-14T10:30:04+00:00",
+       "sentence": "Issued on: 14/11/2026 - 11:30Modified: 14/11/2026 - 11:42\nUkraine's President Volodymyr Zelensky said that the United States proposed Ukraine cede land to Russia in exchange for joining NATO and that his government was in talks on \"specific\" security guarantees from the West.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "France 24",
+       "domain": "france24.com",
+       "title": "US proposed Ukraine cedes Donbas in exchange for joining NATO, Zelensky says",
+       "url": "https://www.france24.com/en/europe/20261114-us-negotiators-suggest-ukraine-cedes-territory-in-exchange-for-nato-membership",
+       "date": "2026-11-14T10:30:04+00:00",
+       "sentence": "\"The Americans raised a question: \"What if Ukraine joins NATO?",
+       "hedged": true,
+       "syndicated_copy": false
+      },
+      {
+       "source": "DW World",
+       "domain": "dw.com",
+       "title": "Ukraine: Zelenskyy says security deal could go to referendum",
+       "url": "https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-world-4025-rdf",
+       "date": "2026-11-14T11:40:00+00:00",
+       "sentence": "The Ukrainian leader told reporters: \"The Americans raised a question: 'What if Ukraine joins NATO?",
+       "hedged": true,
+       "syndicated_copy": false
+      },
+      {
+       "source": "BBC World",
+       "domain": "bbc.co.uk",
+       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+       "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+       "date": "2026-11-14T15:15:57+00:00",
+       "sentence": "\"The Americans raised a question: 'What if Ukraine joins Nato?",
+       "hedged": true,
+       "syndicated_copy": true
+      },
+      {
+       "source": "Al Jazeera",
+       "domain": "aljazeera.com",
+       "title": "US suggested Ukraine cede parts of Donbas to Russia to become part of NATO",
+       "url": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato?traffic_source=rss",
+       "date": "2026-11-14T16:53:39+00:00",
+       "sentence": "“The Americans raised a question: ‘What if Ukraine joins NATO?",
+       "hedged": true,
+       "syndicated_copy": true
       }
      ]
     },
@@ -625,99 +735,11 @@ window.TRAWLER_GROUPINGS = {
      ]
     },
     {
-     "country": "RUS",
-     "action": "joined",
-     "status": "corroborated",
-     "wikidata": "unknown",
-     "independent_outlets": 2,
-     "evidence": [
-      {
-       "source": "Al Jazeera",
-       "domain": "aljazeera.com",
-       "title": "Ukraine claims record 3,000 Russian casualties in one day as war drags on",
-       "url": "https://www.aljazeera.com/news/2026/11/13/russias-demands-come-from-different-reality-as-war-efforts-stagnates?traffic_source=rss",
-       "date": "2026-11-13T14:15:52+00:00",
-       "sentence": "Russia has demanded territory Ukraine is not willing to surrender, and said NATO needs to pull out of all the former Soviet bloc countries which joined it since 1997.",
-       "hedged": false,
-       "syndicated_copy": false
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Europe should not walk into Russia’s ‘traps’ on Ukraine talks, EU’s foreign policy chief Kallas says – as it happened",
-       "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
-       "date": "2026-11-13T16:39:34+00:00",
-       "sentence": "We already knew about some of them – for example, Russia’s demand to keep the occupied Ukrainian territories and the entire Donbas region, demilitarise Ukrainian ports and keep Ukraine out of Nato – but there are also some new ones, including a reported request that Nato should not have any bases in the Baltics and that Finland, which only joined in 2023, should be made to leave the alliance.",
-       "hedged": false,
-       "syndicated_copy": false
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Europe should not walk into Russia’s ‘traps’ on Ukraine talks, EU’s foreign policy chief Kallas says – as it happened",
-       "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
-       "date": "2026-11-13T16:39:34+00:00",
-       "sentence": "We already knew about some of them – for example, Russia’s demand to keep the occupied Ukrainian territories and the entire Donbas region, demilitarise Ukrainian ports and keep Ukraine out of Nato – but there are also some new ones, including a reported request that Nato should not have any bases in the Baltics and that Finland, which only joined in 2023, should be made to leave the alliance.",
-       "hedged": false,
-       "syndicated_copy": true
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Europe should not walk into Russia’s ‘traps’ on Ukraine talks, EU’s foreign policy chief Kallas says – as it happened",
-       "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
-       "date": "2026-11-13T16:39:34+00:00",
-       "sentence": "We already knew about some of them – for example, Russia’s demand to keep the occupied Ukrainian territories and the entire Donbas region, demilitarise Ukrainian ports and keep Ukraine out of Nato – but there are also some new ones, including a reported request that Nato should not have any bases in the Baltics and that Finland, which only joined in 2023, should be made to leave the alliance.",
-       "hedged": false,
-       "syndicated_copy": true
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Europe should not walk into Russia’s ‘traps’ on Ukraine talks, EU’s foreign policy chief Kallas says – as it happened",
-       "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
-       "date": "2026-11-13T16:39:34+00:00",
-       "sentence": "We already knew about some of them – for example, Russia’s demand to keep the occupied Ukrainian territories and the entire Donbas region, demilitarise Ukrainian ports and keep Ukraine out of Nato – but there are also some new ones, including a reported request that Nato should not have any bases in the Baltics and that Finland, which only joined in 2023, should be made to leave the alliance.",
-       "hedged": false,
-       "syndicated_copy": true
-      }
-     ]
-    },
-    {
-     "country": "FRA",
-     "action": "left",
-     "status": "single-source",
-     "wikidata": "unknown",
-     "independent_outlets": 1,
-     "evidence": [
-      {
-       "source": "France 24",
-       "domain": "france24.com",
-       "title": "🔴 Watch live: 'We must change everything,' French far-left presidential candidate Mélenchon says",
-       "url": "https://www.france24.com/en/france/20261107-french-presidential-hopeful-m%C3%A9lenchon-launches-campaign-by-vowing-lower-retirement-age",
-       "date": "2026-11-07T14:44:24+00:00",
-       "sentence": "On ​foreign policy, Mélenchon's programme reiterates his long-standing criticism of NATO and calls for France's gradual withdrawal from the military alliance, starting with an exit from its integrated military command.",
-       "hedged": false,
-       "syndicated_copy": false
-      },
-      {
-       "source": "France 24",
-       "domain": "france24.com",
-       "title": "🔴 Watch live: 'We must change everything,' French far-left presidential candidate Mélenchon says",
-       "url": "https://www.france24.com/en/france/20261107-french-presidential-hopeful-m%C3%A9lenchon-launches-campaign-by-vowing-lower-retirement-age",
-       "date": "2026-11-07T14:44:24+00:00",
-       "sentence": "France previously withdrew from NATO's integrated military command in 1966 under president Charles de Gaulle, a decision later reversed under right-wing president Nicolas Sarkozy in 2009.",
-       "hedged": false,
-       "syndicated_copy": false
-      }
-     ]
-    },
-    {
      "country": "UKR",
      "action": "left",
-     "status": "single-source",
+     "status": "corroborated",
      "wikidata": "unknown",
-     "independent_outlets": 1,
+     "independent_outlets": 3,
      "evidence": [
       {
        "source": "France 24",
@@ -728,15 +750,45 @@ window.TRAWLER_GROUPINGS = {
        "sentence": "Before launching the war in Ukraine in 2022, the Kremlin delivered an ultimatum to NATO which included a demand that the alliance's troops be withdrawn from eastern Europe.",
        "hedged": false,
        "syndicated_copy": false
+      },
+      {
+       "source": "Al Jazeera",
+       "domain": "aljazeera.com",
+       "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
+       "url": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
+       "date": "2026-11-14T11:43:06+00:00",
+       "sentence": "Meanwhile, in Friday’s comments to reporters that were under embargo until Saturday, Ukrainian President Volodymyr Zelenskyy said United States negotiators had asked during this week’s Abu Dhabi talks whether Ukraine would withdraw its troops from its eastern region of Donbas in exchange for joining NATO, the transatlantic military alliance.",
+       "hedged": true,
+       "syndicated_copy": false
+      },
+      {
+       "source": "Al Jazeera",
+       "domain": "aljazeera.com",
+       "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
+       "url": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
+       "date": "2026-11-14T11:43:06+00:00",
+       "sentence": "Moscow demands a Ukrainian withdrawal from areas Kyiv still controls, while also opposing Ukraine joining NATO, whose members pledge to defend one another.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "BBC World",
+       "domain": "bbc.co.uk",
+       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+       "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+       "date": "2026-11-14T15:15:57+00:00",
+       "sentence": "US negotiators have touted the idea of Ukraine withdrawing its remaining forces from the eastern Donbas region in exchange for Nato membership, Volodymyr Zelensky has said.",
+       "hedged": false,
+       "syndicated_copy": false
       }
      ]
     },
     {
      "country": "RUS",
      "action": "applied",
-     "status": "single-source",
+     "status": "corroborated",
      "wikidata": "unknown",
-     "independent_outlets": 1,
+     "independent_outlets": 2,
      "evidence": [
       {
        "source": "The Guardian World",
@@ -787,6 +839,114 @@ window.TRAWLER_GROUPINGS = {
        "sentence": "As our Russia expert, Pjotr Sauer, said after yesterday’s discussions: “Russia appears to be seeking to revive demands it presented to Nato in 2021,” with maximalist conditions on future enlargement and deployments.",
        "hedged": false,
        "syndicated_copy": false
+      },
+      {
+       "source": "BBC World",
+       "domain": "bbc.co.uk",
+       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+       "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+       "date": "2026-11-14T15:15:57+00:00",
+       "sentence": "Kyiv has long sought membership of the military alliance, but this has previously been opposed by the US and others while Russia has said another Nato member on its border is unacceptable.",
+       "hedged": false,
+       "syndicated_copy": false
+      }
+     ]
+    },
+    {
+     "country": "RUS",
+     "action": "joined",
+     "status": "corroborated",
+     "wikidata": "unknown",
+     "independent_outlets": 3,
+     "evidence": [
+      {
+       "source": "Al Jazeera",
+       "domain": "aljazeera.com",
+       "title": "Ukraine claims record 3,000 Russian casualties in one day as war drags on",
+       "url": "https://www.aljazeera.com/news/2026/11/13/russias-demands-come-from-different-reality-as-war-efforts-stagnates?traffic_source=rss",
+       "date": "2026-11-13T14:15:52+00:00",
+       "sentence": "Russia has demanded territory Ukraine is not willing to surrender, and said NATO needs to pull out of all the former Soviet bloc countries which joined it since 1997.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Europe should not walk into Russia’s ‘traps’ on Ukraine talks, EU’s foreign policy chief Kallas says – as it happened",
+       "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
+       "date": "2026-11-13T16:39:34+00:00",
+       "sentence": "We already knew about some of them – for example, Russia’s demand to keep the occupied Ukrainian territories and the entire Donbas region, demilitarise Ukrainian ports and keep Ukraine out of Nato – but there are also some new ones, including a reported request that Nato should not have any bases in the Baltics and that Finland, which only joined in 2023, should be made to leave the alliance.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Europe should not walk into Russia’s ‘traps’ on Ukraine talks, EU’s foreign policy chief Kallas says – as it happened",
+       "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
+       "date": "2026-11-13T16:39:34+00:00",
+       "sentence": "We already knew about some of them – for example, Russia’s demand to keep the occupied Ukrainian territories and the entire Donbas region, demilitarise Ukrainian ports and keep Ukraine out of Nato – but there are also some new ones, including a reported request that Nato should not have any bases in the Baltics and that Finland, which only joined in 2023, should be made to leave the alliance.",
+       "hedged": false,
+       "syndicated_copy": true
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Europe should not walk into Russia’s ‘traps’ on Ukraine talks, EU’s foreign policy chief Kallas says – as it happened",
+       "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
+       "date": "2026-11-13T16:39:34+00:00",
+       "sentence": "We already knew about some of them – for example, Russia’s demand to keep the occupied Ukrainian territories and the entire Donbas region, demilitarise Ukrainian ports and keep Ukraine out of Nato – but there are also some new ones, including a reported request that Nato should not have any bases in the Baltics and that Finland, which only joined in 2023, should be made to leave the alliance.",
+       "hedged": false,
+       "syndicated_copy": true
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Europe should not walk into Russia’s ‘traps’ on Ukraine talks, EU’s foreign policy chief Kallas says – as it happened",
+       "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
+       "date": "2026-11-13T16:39:34+00:00",
+       "sentence": "We already knew about some of them – for example, Russia’s demand to keep the occupied Ukrainian territories and the entire Donbas region, demilitarise Ukrainian ports and keep Ukraine out of Nato – but there are also some new ones, including a reported request that Nato should not have any bases in the Baltics and that Finland, which only joined in 2023, should be made to leave the alliance.",
+       "hedged": false,
+       "syndicated_copy": true
+      },
+      {
+       "source": "France 24",
+       "domain": "france24.com",
+       "title": "US proposed Ukraine cedes Donbas in exchange for joining NATO, Zelensky says",
+       "url": "https://www.france24.com/en/europe/20261114-us-negotiators-suggest-ukraine-cedes-territory-in-exchange-for-nato-membership",
+       "date": "2026-11-14T10:30:04+00:00",
+       "sentence": "Issued on: 14/11/2026 - 11:30Modified: 14/11/2026 - 11:42\nUkraine's President Volodymyr Zelensky said that the United States proposed Ukraine cede land to Russia in exchange for joining NATO and that his government was in talks on \"specific\" security guarantees from the West.",
+       "hedged": false,
+       "syndicated_copy": false
+      }
+     ]
+    },
+    {
+     "country": "FRA",
+     "action": "left",
+     "status": "single-source",
+     "wikidata": "unknown",
+     "independent_outlets": 1,
+     "evidence": [
+      {
+       "source": "France 24",
+       "domain": "france24.com",
+       "title": "🔴 Watch live: 'We must change everything,' French far-left presidential candidate Mélenchon says",
+       "url": "https://www.france24.com/en/france/20261107-french-presidential-hopeful-m%C3%A9lenchon-launches-campaign-by-vowing-lower-retirement-age",
+       "date": "2026-11-07T14:44:24+00:00",
+       "sentence": "On ​foreign policy, Mélenchon's programme reiterates his long-standing criticism of NATO and calls for France's gradual withdrawal from the military alliance, starting with an exit from its integrated military command.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "France 24",
+       "domain": "france24.com",
+       "title": "🔴 Watch live: 'We must change everything,' French far-left presidential candidate Mélenchon says",
+       "url": "https://www.france24.com/en/france/20261107-french-presidential-hopeful-m%C3%A9lenchon-launches-campaign-by-vowing-lower-retirement-age",
+       "date": "2026-11-07T14:44:24+00:00",
+       "sentence": "France previously withdrew from NATO's integrated military command in 1966 under president Charles de Gaulle, a decision later reversed under right-wing president Nicolas Sarkozy in 2009.",
+       "hedged": false,
+       "syndicated_copy": false
       }
      ]
     },
@@ -804,6 +964,45 @@ window.TRAWLER_GROUPINGS = {
        "url": "https://www.dw.com/en/japan-watches-for-signs-of-change-in-trump-s-foreign-policy-priorities/a-79909398?maca=en-rss-en-world-4025-rdf",
        "date": "2026-11-10T13:31:00+00:00",
        "sentence": "Over the past decade, Tokyo has proactively diversified its security partnerships, stepping up defense cooperation with European Union member states and NATO, forging a quasi-alliance with Australia, and joining a range of minilateral frameworks across the Indo-Pacific, including with the Philippines.",
+       "hedged": false,
+       "syndicated_copy": false
+      }
+     ]
+    },
+    {
+     "country": "USA",
+     "action": "left",
+     "status": "single-source",
+     "wikidata": "unknown",
+     "independent_outlets": 1,
+     "evidence": [
+      {
+       "source": "DW World",
+       "domain": "dw.com",
+       "title": "Ukraine: Zelenskyy says security deal could go to referendum",
+       "url": "https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-world-4025-rdf",
+       "date": "2026-11-14T11:40:00+00:00",
+       "sentence": "Ukrainian President Volodymyr Zelenskyy said US peace envoys asked whether Kyiv would withdraw from its eastern region of ‌Donbas ⁠in exchange ⁠for joining NATO, according to remarks to the media published on Saturday.",
+       "hedged": true,
+       "syndicated_copy": false
+      },
+      {
+       "source": "Al Jazeera",
+       "domain": "aljazeera.com",
+       "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
+       "url": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
+       "date": "2026-11-14T11:43:06+00:00",
+       "sentence": "Meanwhile, in Friday’s comments to reporters that were under embargo until Saturday, Ukrainian President Volodymyr Zelenskyy said United States negotiators had asked during this week’s Abu Dhabi talks whether Ukraine would withdraw its troops from its eastern region of Donbas in exchange for joining NATO, the transatlantic military alliance.",
+       "hedged": true,
+       "syndicated_copy": false
+      },
+      {
+       "source": "BBC World",
+       "domain": "bbc.co.uk",
+       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+       "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+       "date": "2026-11-14T15:15:57+00:00",
+       "sentence": "US negotiators have touted the idea of Ukraine withdrawing its remaining forces from the eastern Donbas region in exchange for Nato membership, Volodymyr Zelensky has said.",
        "hedged": false,
        "syndicated_copy": false
       }
@@ -899,6 +1098,25 @@ window.TRAWLER_GROUPINGS = {
        "url": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
        "date": "2026-11-12T17:17:55+00:00",
        "sentence": "Ushakov said that Russia had made ⁠clear to the US envoys that ​Nato ​could not expand ​further and expressed hope ​that Europe ‌would support ​talks ​on a new European security architecture.\nin Rome\nA controversial bill approved in October in the lower house of Italy’s parliament includes measures that allow healthcare workers who were struck off their professional registers during the pandemic f",
+       "hedged": true,
+       "syndicated_copy": false
+      }
+     ]
+    },
+    {
+     "country": "UKR",
+     "action": "suspended",
+     "status": "speculative",
+     "wikidata": "unknown",
+     "independent_outlets": 0,
+     "evidence": [
+      {
+       "source": "BBC World",
+       "domain": "bbc.co.uk",
+       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+       "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+       "date": "2026-11-14T15:15:57+00:00",
+       "sentence": "Elections are suspended while Ukraine remains under martial law, but Zelensky has previously said he was willing to hold them within months of a peace deal being reached and would give up the presidency in exchange for Nato membership.",
        "hedged": true,
        "syndicated_copy": false
       }
@@ -1845,12 +2063,42 @@ window.TRAWLER_GROUPINGS = {
    ]
   },
   {
+   "group": "European Union",
+   "country": "ISR",
+   "action": "left",
+   "status": "single-source",
+   "wikidata": "unknown",
+   "independent_outlets": 1,
+   "evidence": [
+    {
+     "source": "Al Jazeera",
+     "domain": "aljazeera.com",
+     "title": "EU calls for immediate humanitarian access to Gaza",
+     "url": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss",
+     "date": "2026-11-14T15:57:22+00:00",
+     "sentence": "In response, the EU said that “Israel must enable the work of the UN and its agencies, and humanitarian organisations including NGOs, and comply with all its obligations under international law, including international humanitarian law and international human rights law.”\nThe EU reaffirmed “its commitment to the two-state solution” and called for “the full withdrawal of Israeli forces from Gaza” a",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "Al Jazeera",
+     "domain": "aljazeera.com",
+     "title": "EU calls for immediate humanitarian access to Gaza",
+     "url": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss",
+     "date": "2026-11-14T15:57:22+00:00",
+     "sentence": "In response, the EU said that “Israel must enable the work of the UN and its agencies, and humanitarian organisations including NGOs, and comply with all its obligations under international law, including international humanitarian law and international human rights law.”\nThe EU reaffirmed “its commitment to the two-state solution” and called for “the full withdrawal of Israeli forces from Gaza” a",
+     "hedged": false,
+     "syndicated_copy": true
+    }
+   ]
+  },
+  {
    "group": "NATO",
    "country": "UKR",
    "action": "joined",
    "status": "corroborated",
    "wikidata": "unknown",
-   "independent_outlets": 3,
+   "independent_outlets": 4,
    "evidence": [
     {
      "source": "CBC World",
@@ -1920,6 +2168,66 @@ window.TRAWLER_GROUPINGS = {
      "date": "2026-11-13T16:39:34+00:00",
      "sentence": "We already knew about some of them – for example, Russia’s demand to keep the occupied Ukrainian territories and the entire Donbas region, demilitarise Ukrainian ports and keep Ukraine out of Nato – but there are also some new ones, including a reported request that Nato should not have any bases in the Baltics and that Finland, which only joined in 2023, should be made to leave the alliance.",
      "hedged": false,
+     "syndicated_copy": true
+    },
+    {
+     "source": "France 24",
+     "domain": "france24.com",
+     "title": "US proposed Ukraine cedes Donbas in exchange for joining NATO, Zelensky says",
+     "url": "https://www.france24.com/en/europe/20261114-us-negotiators-suggest-ukraine-cedes-territory-in-exchange-for-nato-membership",
+     "date": "2026-11-14T10:30:04+00:00",
+     "sentence": "US proposed Ukraine cedes Donbas in exchange for joining NATO, Zelensky says.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "France 24",
+     "domain": "france24.com",
+     "title": "US proposed Ukraine cedes Donbas in exchange for joining NATO, Zelensky says",
+     "url": "https://www.france24.com/en/europe/20261114-us-negotiators-suggest-ukraine-cedes-territory-in-exchange-for-nato-membership",
+     "date": "2026-11-14T10:30:04+00:00",
+     "sentence": "Issued on: 14/11/2026 - 11:30Modified: 14/11/2026 - 11:42\nUkraine's President Volodymyr Zelensky said that the United States proposed Ukraine cede land to Russia in exchange for joining NATO and that his government was in talks on \"specific\" security guarantees from the West.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "France 24",
+     "domain": "france24.com",
+     "title": "US proposed Ukraine cedes Donbas in exchange for joining NATO, Zelensky says",
+     "url": "https://www.france24.com/en/europe/20261114-us-negotiators-suggest-ukraine-cedes-territory-in-exchange-for-nato-membership",
+     "date": "2026-11-14T10:30:04+00:00",
+     "sentence": "\"The Americans raised a question: \"What if Ukraine joins NATO?",
+     "hedged": true,
+     "syndicated_copy": false
+    },
+    {
+     "source": "DW World",
+     "domain": "dw.com",
+     "title": "Ukraine: Zelenskyy says security deal could go to referendum",
+     "url": "https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-11-14T11:40:00+00:00",
+     "sentence": "The Ukrainian leader told reporters: \"The Americans raised a question: 'What if Ukraine joins NATO?",
+     "hedged": true,
+     "syndicated_copy": false
+    },
+    {
+     "source": "BBC World",
+     "domain": "bbc.co.uk",
+     "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+     "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-14T15:15:57+00:00",
+     "sentence": "\"The Americans raised a question: 'What if Ukraine joins Nato?",
+     "hedged": true,
+     "syndicated_copy": true
+    },
+    {
+     "source": "Al Jazeera",
+     "domain": "aljazeera.com",
+     "title": "US suggested Ukraine cede parts of Donbas to Russia to become part of NATO",
+     "url": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato?traffic_source=rss",
+     "date": "2026-11-14T16:53:39+00:00",
+     "sentence": "“The Americans raised a question: ‘What if Ukraine joins NATO?",
+     "hedged": true,
      "syndicated_copy": true
     }
    ]
@@ -1998,9 +2306,9 @@ window.TRAWLER_GROUPINGS = {
    "group": "NATO",
    "country": "UKR",
    "action": "left",
-   "status": "single-source",
+   "status": "corroborated",
    "wikidata": "unknown",
-   "independent_outlets": 1,
+   "independent_outlets": 3,
    "evidence": [
     {
      "source": "France 24",
@@ -2011,6 +2319,36 @@ window.TRAWLER_GROUPINGS = {
      "sentence": "Before launching the war in Ukraine in 2022, the Kremlin delivered an ultimatum to NATO which included a demand that the alliance's troops be withdrawn from eastern Europe.",
      "hedged": false,
      "syndicated_copy": false
+    },
+    {
+     "source": "Al Jazeera",
+     "domain": "aljazeera.com",
+     "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
+     "url": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
+     "date": "2026-11-14T11:43:06+00:00",
+     "sentence": "Meanwhile, in Friday’s comments to reporters that were under embargo until Saturday, Ukrainian President Volodymyr Zelenskyy said United States negotiators had asked during this week’s Abu Dhabi talks whether Ukraine would withdraw its troops from its eastern region of Donbas in exchange for joining NATO, the transatlantic military alliance.",
+     "hedged": true,
+     "syndicated_copy": false
+    },
+    {
+     "source": "Al Jazeera",
+     "domain": "aljazeera.com",
+     "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
+     "url": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
+     "date": "2026-11-14T11:43:06+00:00",
+     "sentence": "Moscow demands a Ukrainian withdrawal from areas Kyiv still controls, while also opposing Ukraine joining NATO, whose members pledge to defend one another.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "BBC World",
+     "domain": "bbc.co.uk",
+     "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+     "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-14T15:15:57+00:00",
+     "sentence": "US negotiators have touted the idea of Ukraine withdrawing its remaining forces from the eastern Donbas region in exchange for Nato membership, Volodymyr Zelensky has said.",
+     "hedged": false,
+     "syndicated_copy": false
     }
    ]
   },
@@ -2018,9 +2356,9 @@ window.TRAWLER_GROUPINGS = {
    "group": "NATO",
    "country": "RUS",
    "action": "applied",
-   "status": "single-source",
+   "status": "corroborated",
    "wikidata": "unknown",
-   "independent_outlets": 1,
+   "independent_outlets": 2,
    "evidence": [
     {
      "source": "The Guardian World",
@@ -2071,6 +2409,16 @@ window.TRAWLER_GROUPINGS = {
      "sentence": "As our Russia expert, Pjotr Sauer, said after yesterday’s discussions: “Russia appears to be seeking to revive demands it presented to Nato in 2021,” with maximalist conditions on future enlargement and deployments.",
      "hedged": false,
      "syndicated_copy": false
+    },
+    {
+     "source": "BBC World",
+     "domain": "bbc.co.uk",
+     "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+     "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-14T15:15:57+00:00",
+     "sentence": "Kyiv has long sought membership of the military alliance, but this has previously been opposed by the US and others while Russia has said another Nato member on its border is unacceptable.",
+     "hedged": false,
+     "syndicated_copy": false
     }
    ]
   },
@@ -2100,7 +2448,7 @@ window.TRAWLER_GROUPINGS = {
    "action": "joined",
    "status": "corroborated",
    "wikidata": "unknown",
-   "independent_outlets": 2,
+   "independent_outlets": 3,
    "evidence": [
     {
      "source": "Al Jazeera",
@@ -2151,6 +2499,56 @@ window.TRAWLER_GROUPINGS = {
      "sentence": "We already knew about some of them – for example, Russia’s demand to keep the occupied Ukrainian territories and the entire Donbas region, demilitarise Ukrainian ports and keep Ukraine out of Nato – but there are also some new ones, including a reported request that Nato should not have any bases in the Baltics and that Finland, which only joined in 2023, should be made to leave the alliance.",
      "hedged": false,
      "syndicated_copy": true
+    },
+    {
+     "source": "France 24",
+     "domain": "france24.com",
+     "title": "US proposed Ukraine cedes Donbas in exchange for joining NATO, Zelensky says",
+     "url": "https://www.france24.com/en/europe/20261114-us-negotiators-suggest-ukraine-cedes-territory-in-exchange-for-nato-membership",
+     "date": "2026-11-14T10:30:04+00:00",
+     "sentence": "Issued on: 14/11/2026 - 11:30Modified: 14/11/2026 - 11:42\nUkraine's President Volodymyr Zelensky said that the United States proposed Ukraine cede land to Russia in exchange for joining NATO and that his government was in talks on \"specific\" security guarantees from the West.",
+     "hedged": false,
+     "syndicated_copy": false
+    }
+   ]
+  },
+  {
+   "group": "NATO",
+   "country": "USA",
+   "action": "left",
+   "status": "single-source",
+   "wikidata": "unknown",
+   "independent_outlets": 1,
+   "evidence": [
+    {
+     "source": "DW World",
+     "domain": "dw.com",
+     "title": "Ukraine: Zelenskyy says security deal could go to referendum",
+     "url": "https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-11-14T11:40:00+00:00",
+     "sentence": "Ukrainian President Volodymyr Zelenskyy said US peace envoys asked whether Kyiv would withdraw from its eastern region of ‌Donbas ⁠in exchange ⁠for joining NATO, according to remarks to the media published on Saturday.",
+     "hedged": true,
+     "syndicated_copy": false
+    },
+    {
+     "source": "Al Jazeera",
+     "domain": "aljazeera.com",
+     "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
+     "url": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
+     "date": "2026-11-14T11:43:06+00:00",
+     "sentence": "Meanwhile, in Friday’s comments to reporters that were under embargo until Saturday, Ukrainian President Volodymyr Zelenskyy said United States negotiators had asked during this week’s Abu Dhabi talks whether Ukraine would withdraw its troops from its eastern region of Donbas in exchange for joining NATO, the transatlantic military alliance.",
+     "hedged": true,
+     "syndicated_copy": false
+    },
+    {
+     "source": "BBC World",
+     "domain": "bbc.co.uk",
+     "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+     "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-14T15:15:57+00:00",
+     "sentence": "US negotiators have touted the idea of Ukraine withdrawing its remaining forces from the eastern Donbas region in exchange for Nato membership, Volodymyr Zelensky has said.",
+     "hedged": false,
+     "syndicated_copy": false
     }
    ]
   },

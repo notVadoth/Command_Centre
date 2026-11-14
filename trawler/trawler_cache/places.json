@@ -1598,5 +1598,174 @@
  "Yemen|MMR": [],
  "Lower Shabelle|MMR": [],
  "Lower Shabelle|BFA,MLI,NER": [],
- "Lower Shabelle|SOM": []
+ "Lower Shabelle|SOM": [],
+ "Cobra|RUS,UKR": [],
+ "Pavlohrad|RUS,UKR": [
+  {
+   "qid": "Q237206",
+   "iso": "UKR",
+   "lat": 48.52,
+   "lon": 35.87
+  },
+  {
+   "qid": "Q2993955",
+   "iso": "UKR",
+   "lat": 48.6425,
+   "lon": 35.9953
+  },
+  {
+   "qid": "Q4341856",
+   "iso": "UKR",
+   "lat": 48.926666666667,
+   "lon": 38.449722222222
+  },
+  {
+   "qid": "Q103820986",
+   "iso": "UKR",
+   "lat": 48.64257,
+   "lon": 35.9161
+  },
+  {
+   "qid": "Q16710707",
+   "iso": "UKR",
+   "lat": 48.550366,
+   "lon": 35.8537394
+  },
+  {
+   "qid": "Q16710709",
+   "iso": "UKR",
+   "lat": 48.4936111111111,
+   "lon": 35.9619444444445
+  },
+  {
+   "qid": "Q20083509",
+   "iso": "UKR",
+   "lat": 48.53967,
+   "lon": 35.92274
+  },
+  {
+   "qid": "Q104767731",
+   "iso": "UKR",
+   "lat": 48.53729516122354,
+   "lon": 35.839462280273445
+  }
+ ],
+ "Western|RUS,UKR": [],
+ "Gorlovka|RUS,UKR": [
+  {
+   "qid": "Q157260",
+   "iso": "UKR",
+   "lat": 48.333611111111,
+   "lon": 38.0925
+  },
+  {
+   "qid": "Q19847887",
+   "iso": "RUS",
+   "lat": 55.9092182,
+   "lon": 42.1873713
+  },
+  {
+   "qid": "Q4211048",
+   "iso": "RUS",
+   "lat": 58.537148,
+   "lon": 43.420674
+  }
+ ],
+ "Natural Resources|RUS,UKR": [],
+ "Sudanese|SDN": [
+  {
+   "qid": "Q31944",
+   "iso": "SDN",
+   "lat": 15,
+   "lon": 32
+  }
+ ],
+ "West Bank|RUS,UKR": [],
+ "Yemen’s Taiz|YEM": [],
+ "Occupied Palestinian Territory|PSE": [
+  {
+   "qid": "Q407199",
+   "iso": "PSE",
+   "lat": 31.883333333333,
+   "lon": 35.2
+  }
+ ],
+ "Syrian Golan|PSE": [],
+ "Occupied Palestinian Territory|LBN": [],
+ "Syrian Golan|LBN": [],
+ "Konstantinovka|RUS,UKR": [
+  {
+   "qid": "Q4231389",
+   "iso": "RUS",
+   "lat": 49.6175,
+   "lon": 127.98888888889
+  },
+  {
+   "qid": "Q16016886",
+   "iso": "RUS",
+   "lat": 54.6681,
+   "lon": 104.762
+  },
+  {
+   "qid": "Q4231422",
+   "iso": "RUS",
+   "lat": 54.933333333333,
+   "lon": 75.866666666667
+  },
+  {
+   "qid": "Q13666972",
+   "iso": "RUS",
+   "lat": 56.685555555556,
+   "lon": 50.876666666667
+  },
+  {
+   "qid": "Q20585074",
+   "iso": "RUS",
+   "lat": 55.79969876208342,
+   "lon": 49.229308146794175
+  },
+  {
+   "qid": "Q1066856",
+   "iso": "RUS",
+   "lat": 54.411666666667,
+   "lon": 56.160555555556
+  },
+  {
+   "qid": "Q18399532",
+   "iso": "RUS",
+   "lat": 54.47,
+   "lon": 45.37
+  },
+  {
+   "qid": "Q4231430",
+   "iso": "RUS",
+   "lat": 54.44,
+   "lon": 53.885277777778
+  },
+  {
+   "qid": "Q15241797",
+   "iso": "RUS",
+   "lat": 44.670174,
+   "lon": 132.989838
+  },
+  {
+   "qid": "Q4231398",
+   "iso": "UKR",
+   "lat": 45.672222222222,
+   "lon": 34.367222222222
+  }
+ ],
+ "Facebook|YEM": [],
+ "Southern Yemen|YEM": [
+  {
+   "qid": "Q199841",
+   "iso": "YEM",
+   "lat": 12.8,
+   "lon": 45.03
+  }
+ ],
+ "Khuwei|SDN": [],
+ "Al-Khuway|SDN": [],
+ "Hiran|YEM": [],
+ "Hiran|SOM": []
 }
