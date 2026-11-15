@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T17:17:07.789476+00:00",
+ "generated": "2026-11-15T17:58:19.942774+00:00",
  "extractor": "rules",
  "verification": {
   "wikidata": true,
@@ -12,7 +12,7 @@
    "conflict": "Wikidata contradicts the claim — review"
   }
  },
- "articles_in_store": 1451,
+ "articles_in_store": 1551,
  "blocs": {
   "EU": {
    "name": "European Union",
@@ -419,6 +419,44 @@
      ]
     },
     {
+     "country": "SGP",
+     "action": "applied",
+     "status": "single-source",
+     "wikidata": "unknown",
+     "independent_outlets": 1,
+     "evidence": [
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "World leaders head to Asia for back-to-back diplomatic summits",
+       "url": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean",
+       "date": "2026-11-15T04:00:02+00:00",
+       "sentence": "Jayant Menon, an economist at Singapore’s Iseas-Yusof Ishak Institute, said that countries in south-east Asia had been “laying the groundwork for a future with reduced dependence on the United States” by seeking deals elsewhere, including with each other and the EU.",
+       "hedged": false,
+       "syndicated_copy": false
+      }
+     ]
+    },
+    {
+     "country": "USA",
+     "action": "applied",
+     "status": "single-source",
+     "wikidata": "unknown",
+     "independent_outlets": 1,
+     "evidence": [
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "World leaders head to Asia for back-to-back diplomatic summits",
+       "url": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean",
+       "date": "2026-11-15T04:00:02+00:00",
+       "sentence": "Jayant Menon, an economist at Singapore’s Iseas-Yusof Ishak Institute, said that countries in south-east Asia had been “laying the groundwork for a future with reduced dependence on the United States” by seeking deals elsewhere, including with each other and the EU.",
+       "hedged": false,
+       "syndicated_copy": false
+      }
+     ]
+    },
+    {
      "country": "MNE",
      "action": "joined",
      "status": "speculative",
@@ -691,6 +729,16 @@
        "sentence": "“The Americans raised a question: ‘What if Ukraine joins NATO?",
        "hedged": true,
        "syndicated_copy": true
+      },
+      {
+       "source": "France 24",
+       "domain": "france24.com",
+       "title": "Ukrainian drones strike Russia's petrochemical capital in overnight assault",
+       "url": "https://www.france24.com/en/europe/20261115-ukrainian-drones-strike-russia-s-petrochemical-capital-in-overnight-assault",
+       "date": "2026-11-15T13:36:53+00:00",
+       "sentence": "Read moreUS proposed Ukraine cedes Donbas in exchange for joining NATO, Zelensky says\nNizhnekamsk, a city of about 240,000 people, is often dubbed the \"petrochemical capital\" of Tatarstan.",
+       "hedged": false,
+       "syndicated_copy": false
       }
      ]
     },
@@ -777,6 +825,26 @@
        "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
        "date": "2026-11-14T15:15:57+00:00",
        "sentence": "US negotiators have touted the idea of Ukraine withdrawing its remaining forces from the eastern Donbas region in exchange for Nato membership, Volodymyr Zelensky has said.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "CBC World",
+       "domain": "cbc.ca",
+       "title": "European security plan floated by U.S. would benefit Putin, Zelenskyy says",
+       "url": "https://www.cbc.ca/news/world/european-security-zelenskyy-putin-9.7422273?cmp=rss",
+       "date": "2026-11-14T19:06:09+00:00",
+       "sentence": "Zelenskyy said the U.S. had asked for the first time whether Ukraine would withdraw from parts of the Donbas region in eastern Ukraine that Russia does not control if Kyiv were admitted to NATO.",
+       "hedged": true,
+       "syndicated_copy": false
+      },
+      {
+       "source": "Al Jazeera",
+       "domain": "aljazeera.com",
+       "title": "Starshield restrictions help Russia’s energy attacks on Ukraine: Zelenskyy",
+       "url": "https://www.aljazeera.com/news/2026/11/15/starshield-restrictions-help-russias-energy-attacks-on-ukraine-zelenskyy?traffic_source=rss",
+       "date": "2026-11-15T13:37:08+00:00",
+       "sentence": "Zelenskyy said the US floated the idea of Ukraine withdrawing its remaining forces from the eastern Donbas region in exchange for NATO membership.",
        "hedged": false,
        "syndicated_copy": false
       }
@@ -921,6 +989,65 @@
      ]
     },
     {
+     "country": "USA",
+     "action": "left",
+     "status": "corroborated",
+     "wikidata": "unknown",
+     "independent_outlets": 2,
+     "evidence": [
+      {
+       "source": "DW World",
+       "domain": "dw.com",
+       "title": "Ukraine: Zelenskyy says security deal could go to referendum",
+       "url": "https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-world-4025-rdf",
+       "date": "2026-11-14T11:40:00+00:00",
+       "sentence": "Ukrainian President Volodymyr Zelenskyy said US peace envoys asked whether Kyiv would withdraw from its eastern region of ‌Donbas ⁠in exchange ⁠for joining NATO, according to remarks to the media published on Saturday.",
+       "hedged": true,
+       "syndicated_copy": false
+      },
+      {
+       "source": "Al Jazeera",
+       "domain": "aljazeera.com",
+       "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
+       "url": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
+       "date": "2026-11-14T11:43:06+00:00",
+       "sentence": "Meanwhile, in Friday’s comments to reporters that were under embargo until Saturday, Ukrainian President Volodymyr Zelenskyy said United States negotiators had asked during this week’s Abu Dhabi talks whether Ukraine would withdraw its troops from its eastern region of Donbas in exchange for joining NATO, the transatlantic military alliance.",
+       "hedged": true,
+       "syndicated_copy": false
+      },
+      {
+       "source": "BBC World",
+       "domain": "bbc.co.uk",
+       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+       "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+       "date": "2026-11-14T15:15:57+00:00",
+       "sentence": "US negotiators have touted the idea of Ukraine withdrawing its remaining forces from the eastern Donbas region in exchange for Nato membership, Volodymyr Zelensky has said.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "CBC World",
+       "domain": "cbc.ca",
+       "title": "European security plan floated by U.S. would benefit Putin, Zelenskyy says",
+       "url": "https://www.cbc.ca/news/world/european-security-zelenskyy-putin-9.7422273?cmp=rss",
+       "date": "2026-11-14T19:06:09+00:00",
+       "sentence": "Zelenskyy said the U.S. had asked for the first time whether Ukraine would withdraw from parts of the Donbas region in eastern Ukraine that Russia does not control if Kyiv were admitted to NATO.",
+       "hedged": true,
+       "syndicated_copy": false
+      },
+      {
+       "source": "Al Jazeera",
+       "domain": "aljazeera.com",
+       "title": "Starshield restrictions help Russia’s energy attacks on Ukraine: Zelenskyy",
+       "url": "https://www.aljazeera.com/news/2026/11/15/starshield-restrictions-help-russias-energy-attacks-on-ukraine-zelenskyy?traffic_source=rss",
+       "date": "2026-11-15T13:37:08+00:00",
+       "sentence": "Zelenskyy said the US floated the idea of Ukraine withdrawing its remaining forces from the eastern Donbas region in exchange for NATO membership.",
+       "hedged": false,
+       "syndicated_copy": false
+      }
+     ]
+    },
+    {
      "country": "FRA",
      "action": "left",
      "status": "single-source",
@@ -963,45 +1090,6 @@
        "url": "https://www.dw.com/en/japan-watches-for-signs-of-change-in-trump-s-foreign-policy-priorities/a-79909398?maca=en-rss-en-world-4025-rdf",
        "date": "2026-11-10T13:31:00+00:00",
        "sentence": "Over the past decade, Tokyo has proactively diversified its security partnerships, stepping up defense cooperation with European Union member states and NATO, forging a quasi-alliance with Australia, and joining a range of minilateral frameworks across the Indo-Pacific, including with the Philippines.",
-       "hedged": false,
-       "syndicated_copy": false
-      }
-     ]
-    },
-    {
-     "country": "USA",
-     "action": "left",
-     "status": "single-source",
-     "wikidata": "unknown",
-     "independent_outlets": 1,
-     "evidence": [
-      {
-       "source": "DW World",
-       "domain": "dw.com",
-       "title": "Ukraine: Zelenskyy says security deal could go to referendum",
-       "url": "https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-world-4025-rdf",
-       "date": "2026-11-14T11:40:00+00:00",
-       "sentence": "Ukrainian President Volodymyr Zelenskyy said US peace envoys asked whether Kyiv would withdraw from its eastern region of ‌Donbas ⁠in exchange ⁠for joining NATO, according to remarks to the media published on Saturday.",
-       "hedged": true,
-       "syndicated_copy": false
-      },
-      {
-       "source": "Al Jazeera",
-       "domain": "aljazeera.com",
-       "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
-       "url": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
-       "date": "2026-11-14T11:43:06+00:00",
-       "sentence": "Meanwhile, in Friday’s comments to reporters that were under embargo until Saturday, Ukrainian President Volodymyr Zelenskyy said United States negotiators had asked during this week’s Abu Dhabi talks whether Ukraine would withdraw its troops from its eastern region of Donbas in exchange for joining NATO, the transatlantic military alliance.",
-       "hedged": true,
-       "syndicated_copy": false
-      },
-      {
-       "source": "BBC World",
-       "domain": "bbc.co.uk",
-       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-       "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-       "date": "2026-11-14T15:15:57+00:00",
-       "sentence": "US negotiators have touted the idea of Ukraine withdrawing its remaining forces from the eastern Donbas region in exchange for Nato membership, Volodymyr Zelensky has said.",
        "hedged": false,
        "syndicated_copy": false
       }
@@ -1262,7 +1350,27 @@
     "label": null
    },
    "baseline_audit": null,
-   "changes": []
+   "changes": [
+    {
+     "country": "PHL",
+     "action": "left",
+     "status": "speculative",
+     "wikidata": "unknown",
+     "independent_outlets": 0,
+     "evidence": [
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations",
+       "url": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations",
+       "date": "2026-11-15T06:22:32+00:00",
+       "sentence": "Albanese, in the Philippines before a meeting of Quad leaders and talks with south-east Asian leaders at the Asean summit, left open the possibility of joining an Apec group photo with Putin if China wished for it to go ahead.",
+       "hedged": true,
+       "syndicated_copy": false
+      }
+     ]
+    }
+   ]
   },
   "SCO": {
    "name": "Shanghai Cooperation Org.",
@@ -1530,7 +1638,27 @@
     "description": "strategic dialogue between the United States, Japan, Australia and India"
    },
    "baseline_audit": null,
-   "changes": []
+   "changes": [
+    {
+     "country": "PHL",
+     "action": "left",
+     "status": "speculative",
+     "wikidata": "unknown",
+     "independent_outlets": 0,
+     "evidence": [
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations",
+       "url": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations",
+       "date": "2026-11-15T06:22:32+00:00",
+       "sentence": "Albanese, in the Philippines before a meeting of Quad leaders and talks with south-east Asian leaders at the Asean summit, left open the possibility of joining an Apec group photo with Putin if China wished for it to go ahead.",
+       "hedged": true,
+       "syndicated_copy": false
+      }
+     ]
+    }
+   ]
   },
   "MECCA": {
    "name": "Mecca Joint Defence Agreement",
@@ -2092,6 +2220,46 @@
    ]
   },
   {
+   "group": "European Union",
+   "country": "SGP",
+   "action": "applied",
+   "status": "single-source",
+   "wikidata": "unknown",
+   "independent_outlets": 1,
+   "evidence": [
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "World leaders head to Asia for back-to-back diplomatic summits",
+     "url": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean",
+     "date": "2026-11-15T04:00:02+00:00",
+     "sentence": "Jayant Menon, an economist at Singapore’s Iseas-Yusof Ishak Institute, said that countries in south-east Asia had been “laying the groundwork for a future with reduced dependence on the United States” by seeking deals elsewhere, including with each other and the EU.",
+     "hedged": false,
+     "syndicated_copy": false
+    }
+   ]
+  },
+  {
+   "group": "European Union",
+   "country": "USA",
+   "action": "applied",
+   "status": "single-source",
+   "wikidata": "unknown",
+   "independent_outlets": 1,
+   "evidence": [
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "World leaders head to Asia for back-to-back diplomatic summits",
+     "url": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean",
+     "date": "2026-11-15T04:00:02+00:00",
+     "sentence": "Jayant Menon, an economist at Singapore’s Iseas-Yusof Ishak Institute, said that countries in south-east Asia had been “laying the groundwork for a future with reduced dependence on the United States” by seeking deals elsewhere, including with each other and the EU.",
+     "hedged": false,
+     "syndicated_copy": false
+    }
+   ]
+  },
+  {
    "group": "NATO",
    "country": "UKR",
    "action": "joined",
@@ -2228,6 +2396,16 @@
      "sentence": "“The Americans raised a question: ‘What if Ukraine joins NATO?",
      "hedged": true,
      "syndicated_copy": true
+    },
+    {
+     "source": "France 24",
+     "domain": "france24.com",
+     "title": "Ukrainian drones strike Russia's petrochemical capital in overnight assault",
+     "url": "https://www.france24.com/en/europe/20261115-ukrainian-drones-strike-russia-s-petrochemical-capital-in-overnight-assault",
+     "date": "2026-11-15T13:36:53+00:00",
+     "sentence": "Read moreUS proposed Ukraine cedes Donbas in exchange for joining NATO, Zelensky says\nNizhnekamsk, a city of about 240,000 people, is often dubbed the \"petrochemical capital\" of Tatarstan.",
+     "hedged": false,
+     "syndicated_copy": false
     }
    ]
   },
@@ -2346,6 +2524,26 @@
      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
      "date": "2026-11-14T15:15:57+00:00",
      "sentence": "US negotiators have touted the idea of Ukraine withdrawing its remaining forces from the eastern Donbas region in exchange for Nato membership, Volodymyr Zelensky has said.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "CBC World",
+     "domain": "cbc.ca",
+     "title": "European security plan floated by U.S. would benefit Putin, Zelenskyy says",
+     "url": "https://www.cbc.ca/news/world/european-security-zelenskyy-putin-9.7422273?cmp=rss",
+     "date": "2026-11-14T19:06:09+00:00",
+     "sentence": "Zelenskyy said the U.S. had asked for the first time whether Ukraine would withdraw from parts of the Donbas region in eastern Ukraine that Russia does not control if Kyiv were admitted to NATO.",
+     "hedged": true,
+     "syndicated_copy": false
+    },
+    {
+     "source": "Al Jazeera",
+     "domain": "aljazeera.com",
+     "title": "Starshield restrictions help Russia’s energy attacks on Ukraine: Zelenskyy",
+     "url": "https://www.aljazeera.com/news/2026/11/15/starshield-restrictions-help-russias-energy-attacks-on-ukraine-zelenskyy?traffic_source=rss",
+     "date": "2026-11-15T13:37:08+00:00",
+     "sentence": "Zelenskyy said the US floated the idea of Ukraine withdrawing its remaining forces from the eastern Donbas region in exchange for NATO membership.",
      "hedged": false,
      "syndicated_copy": false
     }
@@ -2515,9 +2713,9 @@
    "group": "NATO",
    "country": "USA",
    "action": "left",
-   "status": "single-source",
+   "status": "corroborated",
    "wikidata": "unknown",
-   "independent_outlets": 1,
+   "independent_outlets": 2,
    "evidence": [
     {
      "source": "DW World",
@@ -2546,6 +2744,26 @@
      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
      "date": "2026-11-14T15:15:57+00:00",
      "sentence": "US negotiators have touted the idea of Ukraine withdrawing its remaining forces from the eastern Donbas region in exchange for Nato membership, Volodymyr Zelensky has said.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "CBC World",
+     "domain": "cbc.ca",
+     "title": "European security plan floated by U.S. would benefit Putin, Zelenskyy says",
+     "url": "https://www.cbc.ca/news/world/european-security-zelenskyy-putin-9.7422273?cmp=rss",
+     "date": "2026-11-14T19:06:09+00:00",
+     "sentence": "Zelenskyy said the U.S. had asked for the first time whether Ukraine would withdraw from parts of the Donbas region in eastern Ukraine that Russia does not control if Kyiv were admitted to NATO.",
+     "hedged": true,
+     "syndicated_copy": false
+    },
+    {
+     "source": "Al Jazeera",
+     "domain": "aljazeera.com",
+     "title": "Starshield restrictions help Russia’s energy attacks on Ukraine: Zelenskyy",
+     "url": "https://www.aljazeera.com/news/2026/11/15/starshield-restrictions-help-russias-energy-attacks-on-ukraine-zelenskyy?traffic_source=rss",
+     "date": "2026-11-15T13:37:08+00:00",
+     "sentence": "Zelenskyy said the US floated the idea of Ukraine withdrawing its remaining forces from the eastern Donbas region in exchange for NATO membership.",
      "hedged": false,
      "syndicated_copy": false
     }

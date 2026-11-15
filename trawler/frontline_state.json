@@ -2192,6 +2192,369 @@
    "url": "https://www.aa.com.tr/en/middle-east/sudanese-army-advances-in-west-kordofan-says-it-downed-drone-from-ethiopia/4124681",
    "date": "2026-11-13T13:45:00+00:00",
    "seen": "2026-11-14T17:17:43.968937+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Ust-Luga",
+   "iso": "RUS",
+   "province": "Leningrad oblast",
+   "province_id": "28173009B90810482533567",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "Fuel storage tanks burned out in Russian port of Ust-Luga following attack – video",
+   "sentence": "Fuel storage tanks burned out in Russian port of Ust-Luga following attack",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/15/8062982/",
+   "date": "2026-11-15T16:53:00+00:00",
+   "seen": "2026-11-15T17:59:14.694615+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Dnipro",
+   "iso": "UKR",
+   "province": "Dnipropetrovsk Oblast",
+   "province_id": "14850775B41808765507575",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "Part of Dnipro and Kamianske without power due to repeat Russian strike on energy facility",
+   "sentence": "Russian attacks damaged grid equipment, cutting power to parts of Dnipro and Kamianske.",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/15/8062963/",
+   "date": "2026-11-15T13:54:00+00:00",
+   "seen": "2026-11-15T17:59:14.694615+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "West Bank",
+   "iso": "PSE",
+   "province": "West Bank",
+   "province_id": "83478781B28849486138516",
+   "outlet": "RT",
+   "host": "rt-english.com",
+   "partisan": false,
+   "title": "Israeli settlers accused of torching Palestinian village scrapyard (VIDEOS)",
+   "sentence": "Israeli settlers allegedly set fire to a scrapyard in the occupied West Bank, destroying over 100 vehicles Read Full Article at RT.com",
+   "url": "https://rt-english.com/news/648847-israeli-settlers-accused-burned-scrapyard/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+   "date": "2026-11-15T00:10:28+00:00",
+   "seen": "2026-11-15T17:59:14.694615+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "ZNPP",
+   "iso": "UKR",
+   "province": "Zaporizhia Oblast",
+   "province_id": "14850775B92888097715572",
+   "outlet": "TASS",
+   "host": "tass.com",
+   "partisan": true,
+   "title": "Russian diplomat calls on IAEA chief to tell Kiev that attacks on ZNPP are unacceptable",
+   "sentence": "Russian diplomat calls on IAEA chief to tell Kiev that attacks on ZNPP are unacceptable.",
+   "url": "https://tass.com/politics/2218369",
+   "date": "2026-11-15T16:54:18+00:00",
+   "seen": "2026-11-15T17:59:14.694615+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "Gaza",
+   "iso": "PSE",
+   "province": "Gaza",
+   "province_id": "83478781B7121896376882",
+   "outlet": "Tehran Times",
+   "host": "tehrantimes.com",
+   "partisan": false,
+   "title": "IHR Council condemns continued Israeli attacks on Gaza",
+   "sentence": "IHR Council condemns continued Israeli attacks on Gaza.",
+   "url": "https://www.tehrantimes.com/news/532190/IHR-Council-condemns-continued-Israeli-attacks-on-Gaza",
+   "date": "2026-11-15T17:56:59+00:00",
+   "seen": "2026-11-15T17:59:14.694615+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis",
+    "Government"
+   ],
+   "place": "Al-Jawf",
+   "iso": "YEM",
+   "province": "Al Jawf Governorate",
+   "province_id": "18629408B7407331306690",
+   "outlet": "Anadolu Agency",
+   "host": "aa.com.tr",
+   "partisan": false,
+   "title": "Yemeni government forces say senior commander killed in clashes with Houthis in Al-Jawf",
+   "sentence": "Yemeni government forces say senior commander killed in clashes with Houthis in Al-Jawf.",
+   "url": "https://www.aa.com.tr/en/middle-east/yemeni-government-forces-say-senior-commander-killed-in-clashes-with-houthis-in-al-jawf/4125693",
+   "date": "2026-11-15T10:16:52+00:00",
+   "seen": "2026-11-15T17:59:14.694615+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Taiz",
+   "iso": "YEM",
+   "province": "Ta'izz Governorate",
+   "province_id": "18629408B66245584752084",
+   "outlet": "Anadolu Agency",
+   "host": "aa.com.tr",
+   "partisan": false,
+   "title": "Yemeni government forces say senior commander killed in clashes with Houthis in Al-Jawf",
+   "sentence": "6 civilians injured in Houthi attacks in Taiz province, local media says",
+   "url": "https://www.aa.com.tr/en/middle-east/yemeni-government-forces-say-senior-commander-killed-in-clashes-with-houthis-in-al-jawf/4125693",
+   "date": "2026-11-15T10:16:52+00:00",
+   "seen": "2026-11-15T17:59:14.694615+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Kharkiv Oblast",
+   "iso": "UKR",
+   "province": "Kharkiv Oblast",
+   "province_id": "14850775B15913324833724",
+   "outlet": "UA.NEWS",
+   "host": "ua.news",
+   "partisan": false,
+   "title": "The occupiers did not launch any assaults in eastern Kharkiv Oblast, but attempted to infiltrate the rear",
+   "sentence": "On Saturday, November 14, Russian troops did not carry out any assault operations in the Velyka Burlut and Kupiansk sectors in the east of Kharkiv Oblast; instead, they attempted to infiltrate ...",
+   "url": "https://ua.news/en/war-vs-rf/okupanti-ne-provodili-shturmiv-na-skhodi-kharkivshchini-ale-namagalisia-prosochitisia-v-til",
+   "date": "2026-11-15T07:38:00+00:00",
+   "seen": "2026-11-15T17:59:14.694615+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Druzhkivka",
+   "iso": "UKR",
+   "province": "Donetsk Oblast",
+   "province_id": "14850775B15615817748403",
+   "outlet": "Charter97",
+   "host": "charter97.org",
+   "partisan": false,
+   "title": "Fighters From The 93rd Brigade Of The Ukrainian Armed Forces Routed A Russian Mechanized Column",
+   "sentence": "Soldiers from the 93rd Separate Mechanized Brigade “Kholodny Yar” thwarted a large-scale mechanized assault by Russian occupiers in the Druzhkivka sector and routed the enemy convoy.",
+   "url": "https://charter97.org/en/news/2026/11/15/705630/",
+   "date": "2026-11-15T06:41:00+00:00",
+   "seen": "2026-11-15T17:59:14.694615+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Ukraine"
+   ],
+   "place": "Velyka Novosilka",
+   "iso": "UKR",
+   "province": "Donetsk Oblast",
+   "province_id": "14850775B15615817748403",
+   "outlet": "Головне в Україні",
+   "host": "glavnoe.in.ua",
+   "partisan": false,
+   "title": "Ukrainian forces advance 8.5 km near Velyka Novosilka and liberate three villages — Mashovets",
+   "sentence": "Ukrainian forces advance 8.5 km near Velyka Novosilka and liberate three villages",
+   "url": "https://glavnoe.in.ua/en/news-en/ukrainian-forces-advance-8-5-km-near-velyka-novosilka-and-liberate-three-villages-mashovets",
+   "date": "2026-11-15T01:33:00+00:00",
+   "seen": "2026-11-15T17:59:14.694615+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Aden",
+   "iso": "YEM",
+   "province": "‘Adan Governorate",
+   "province_id": "18629408B11945654439238",
+   "outlet": "Hindustan Times on MSN",
+   "host": "msn.com",
+   "partisan": false,
+   "title": "Yemens Most Important Port About To Fall MBS Panics As Houthis Make Major Advance Encircle Aden",
+   "sentence": "15 -- Is the Houthi offensive threatening Yemen's strategic port city of Aden?",
+   "url": "https://www.msn.com/en-in/news/other/yemens-most-important-port-about-to-fall-mbs-panics-as-houthis-make-major-advance-encircle-aden/vi-AA2hsQ6N",
+   "date": "2026-11-15T07:04:14+00:00",
+   "seen": "2026-11-15T17:59:14.694615+00:00"
+  },
+  {
+   "war": "sudan",
+   "sides": [
+    "SAF",
+    "RSF"
+   ],
+   "place": "West Kordofan",
+   "iso": "SDN",
+   "province": "West Kordofan",
+   "province_id": "86620642B26042209819562",
+   "outlet": "usmuslims",
+   "host": "usmuslims.com",
+   "partisan": false,
+   "title": "Sudanese army seizes 3 areas in West Kordofan amid fighting with RSF: Military sources",
+   "sentence": "Sudanese army seizes 3 areas in West Kordofan amid fighting with RSF: Military sources.",
+   "url": "https://usmuslims.com/sudanese-army-seizes-3-areas-in-west-kordofan-amid-fighting-with-rsf-military-381701h.htm",
+   "date": "2026-11-14T16:00:00+00:00",
+   "seen": "2026-11-15T17:59:14.694615+00:00"
+  },
+  {
+   "war": "sudan",
+   "sides": [
+    "SAF"
+   ],
+   "place": "West Kordofan State",
+   "iso": "SDN",
+   "province": "West Kordofan",
+   "province_id": "86620642B26042209819562",
+   "outlet": "Ahram Online",
+   "host": "english.ahram.org.eg",
+   "partisan": false,
+   "title": "Sudanese army, allied forces recapture 8 areas in West Kordofan",
+   "sentence": "The Joint Force of Armed Movements, allied with the Sudanese army, announced on Saturday evening that it had recaptured eight areas in West Kordofan State alongside army troops, following extensive ...",
+   "url": "https://english.ahram.org.eg/UI/Front/NewsContent/2/1263/582510/World/War-in-Sudan/Sudanese-army,-allied-forces-recapture--areas-in-W.aspx",
+   "date": "2026-11-14T16:00:00+00:00",
+   "seen": "2026-11-15T17:59:14.694615+00:00"
+  },
+  {
+   "war": "sudan",
+   "sides": [
+    "SAF"
+   ],
+   "place": "West Kordofan",
+   "iso": "SDN",
+   "province": "West Kordofan",
+   "province_id": "86620642B26042209819562",
+   "outlet": "UA.NEWS",
+   "host": "ua.news",
+   "partisan": false,
+   "title": "Sudanese army captures three areas in West Kordofan, sources say — Anadolu Agency",
+   "sentence": "Sudanese army and allied forces reportedly captured three areas east of Al-Nuhud in West Kordofan and continued advancing toward the city.",
+   "url": "https://ua.news/en/dovkolo-svitu/armiia-sudanu-vziala-tri-teritoriyi-zakhidnogo-kordofanu-zaiavili-dzherela-anadolu-agency",
+   "date": "2026-11-14T15:34:00+00:00",
+   "seen": "2026-11-15T17:59:14.694615+00:00"
+  },
+  {
+   "war": "sudan",
+   "sides": [
+    "SAF"
+   ],
+   "place": "West Kordofan",
+   "iso": "SDN",
+   "province": "West Kordofan",
+   "province_id": "86620642B26042209819562",
+   "outlet": "Sudan Tribune on MSN",
+   "host": "msn.com",
+   "partisan": false,
+   "title": "Sudanese army pushes into West Kordofan, retakes Al-Khuwai",
+   "sentence": "The Sudanese army and a joint force of armed movements took control of Al-Khuwai on Friday, one of the main cities in West Kordofan state.The army’s push followed a ...",
+   "url": "https://www.msn.com/en-xl/news/other/sudanese-army-pushes-into-west-kordofan-retakes-al-khuwai/ar-AA2hswwi",
+   "date": "2026-11-14T17:08:29+00:00",
+   "seen": "2026-11-15T17:59:14.694615+00:00"
+  },
+  {
+   "war": "sudan",
+   "sides": [
+    "SAF"
+   ],
+   "place": "West Kordofan State",
+   "iso": "SDN",
+   "province": "West Kordofan",
+   "province_id": "86620642B26042209819562",
+   "outlet": "Ahram Online",
+   "host": "english.ahram.org.eg",
+   "partisan": false,
+   "title": "Sudanese army, allied forces recapture 8 areas in West Kordofan",
+   "sentence": "The Joint Force of Armed Movements, allied with the Sudanese army, announced on Saturday evening that it had recaptured eight areas in West Kordofan State alongside army troops, following extensive ...",
+   "url": "https://english.ahram.org.eg/NewsContent/2/1263/582510/World/War-in-Sudan/Sudanese-army,-allied-forces-recapture--areas-in-W.aspx",
+   "date": "2026-11-14T16:00:00+00:00",
+   "seen": "2026-11-15T17:59:14.694615+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel",
+    "Hamas"
+   ],
+   "place": "Gaza",
+   "iso": "PSE",
+   "province": "Gaza",
+   "province_id": "83478781B7121896376882",
+   "outlet": "Kursiv Media Uzbekistan",
+   "host": "uz.kursiv.media",
+   "partisan": false,
+   "title": "Israel kills Hamas commander linked to October 7 attack in Gaza",
+   "sentence": "Israel kills Hamas commander linked to October 7 attack in Gaza.",
+   "url": "https://uz.kursiv.media/en/2026-11-15/hamas-commander-samir-abu-younis/",
+   "date": "2026-11-15T06:30:00+00:00",
+   "seen": "2026-11-15T17:59:14.694615+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "Gaza",
+   "iso": "PSE",
+   "province": "Gaza",
+   "province_id": "83478781B7121896376882",
+   "outlet": "PTC News",
+   "host": "ptcnews.tv",
+   "partisan": false,
+   "title": "Israeli airstrike kills Hamas commander who helped plan, oversee October 7 attack",
+   "sentence": "Meanwhile, Israel has continued carrying out regular airstrikes in Gaza despite the ceasefire largely reducing the scale of fighting.",
+   "url": "https://www.ptcnews.tv/world-news/israeli-airstrike-kills-hamas-commander-who-helped-plan-oversee-october-7-attack-4431748",
+   "date": "2026-11-15T08:13:00+00:00",
+   "seen": "2026-11-15T17:59:14.694615+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "Palestine",
+   "iso": "PSE",
+   "province": "West Bank",
+   "province_id": "83478781B28849486138516",
+   "outlet": "zeteo",
+   "host": "zeteo.com",
+   "partisan": false,
+   "title": "This Week in Palestine: Israel Kills Surgeon in Hospital Attack and a Baby Dies of Hypothermia in Gaza",
+   "sentence": "This Week in Palestine: Israel Kills Surgeon in Hospital Attack and a Baby Dies of Hypothermia in Gaza.",
+   "url": "https://zeteo.com/p/this-week-in-palestine-israel-kills-5a6",
+   "date": "2026-11-14T11:30:00+00:00",
+   "seen": "2026-11-15T17:59:14.694615+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "Gaza",
+   "iso": "PSE",
+   "province": "Gaza",
+   "province_id": "83478781B7121896376882",
+   "outlet": "zeteo",
+   "host": "zeteo.com",
+   "partisan": false,
+   "title": "This Week in Palestine: Israel Kills Surgeon in Hospital Attack and a Baby Dies of Hypothermia in Gaza",
+   "sentence": "This Week in Palestine: Israel Kills Surgeon in Hospital Attack and a Baby Dies of Hypothermia in Gaza.",
+   "url": "https://zeteo.com/p/this-week-in-palestine-israel-kills-5a6",
+   "date": "2026-11-14T11:30:00+00:00",
+   "seen": "2026-11-15T17:59:14.694615+00:00"
   }
  ],
  "truce": [

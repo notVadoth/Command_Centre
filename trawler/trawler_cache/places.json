@@ -1767,5 +1767,185 @@
  "Khuwei|SDN": [],
  "Al-Khuway|SDN": [],
  "Hiran|YEM": [],
- "Hiran|SOM": []
+ "Hiran|SOM": [],
+ "Ust-Luga|RUS,UKR": [
+  {
+   "qid": "Q4478481",
+   "iso": "RUS",
+   "lat": 59.658876,
+   "lon": 28.240257
+  },
+  {
+   "qid": "Q937354",
+   "iso": "RUS",
+   "lat": 59.65777777777778,
+   "lon": 28.266666666666666
+  },
+  {
+   "qid": "Q4478482",
+   "iso": "RUS",
+   "lat": 59.7659,
+   "lon": 28.4776
+  }
+ ],
+ "Threod Systems|RUS,UKR": [],
+ "IAEA|RUS,UKR": [],
+ "Russia’s Taganrog|RUS,UKR": [],
+ "United Nations Security|PSE": [],
+ "United Nations Security|LBN": [],
+ "Iran|YEM": [],
+ "Yemen|PSE": [],
+ "Saudi Arabia|PSE": [],
+ "Yemen|LBN": [],
+ "Saudi Arabia|LBN": [],
+ "Donbas Fortress Belt|RUS,UKR": [],
+ "Dobropillia|RUS,UKR": [
+  {
+   "qid": "Q2415973",
+   "iso": "UKR",
+   "lat": 48.470277777778,
+   "lon": 37.082222222222
+  },
+  {
+   "qid": "Q2995150",
+   "iso": "UKR",
+   "lat": 48.4833,
+   "lon": 37.0117
+  },
+  {
+   "qid": "Q4163755",
+   "iso": "UKR",
+   "lat": 48.423888888889,
+   "lon": 37.050833333333
+  },
+  {
+   "qid": "Q4163752",
+   "iso": "UKR",
+   "lat": 47.782488990539,
+   "lon": 36.195160457333
+  },
+  {
+   "qid": "Q4163754",
+   "iso": "UKR",
+   "lat": 46.235555555556,
+   "lon": 32.580277777778
+  },
+  {
+   "qid": "Q4163751",
+   "iso": "UKR",
+   "lat": 49.961388888889,
+   "lon": 35.7175
+  },
+  {
+   "qid": "Q4163750",
+   "iso": "UKR",
+   "lat": 51.416666666667,
+   "lon": 32.616666666667
+  },
+  {
+   "qid": "Q22058055",
+   "iso": "UKR",
+   "lat": 48.4483333333333,
+   "lon": 37.0758333333333
+  },
+  {
+   "qid": "Q108433022",
+   "iso": "UKR",
+   "lat": 48.45,
+   "lon": 37.083333333333336
+  }
+ ],
+ "Velyka Burlut|RUS,UKR": [],
+ "Druzhkivka|RUS,UKR": [
+  {
+   "qid": "Q157795",
+   "iso": "UKR",
+   "lat": 48.620277777778,
+   "lon": 37.527777777778
+  },
+  {
+   "qid": "Q106704420",
+   "iso": "UKR",
+   "lat": 48.56729318403587,
+   "lon": 37.49771118164063
+  },
+  {
+   "qid": "Q4168847",
+   "iso": "UKR",
+   "lat": 48.627391666667,
+   "lon": 37.546313888889
+  }
+ ],
+ "Velyka Novosilka|RUS,UKR": [
+  {
+   "qid": "Q4106309",
+   "iso": "UKR",
+   "lat": 47.833333333333,
+   "lon": 36.833333333333
+  },
+  {
+   "qid": "Q629212",
+   "iso": "UKR",
+   "lat": 47.8412,
+   "lon": 36.8356
+  },
+  {
+   "qid": "Q107295363",
+   "iso": "UKR",
+   "lat": 47.833333333333,
+   "lon": 36.833333333333
+  },
+  {
+   "qid": "Q113686825",
+   "iso": "UKR",
+   "lat": 47.833333333333336,
+   "lon": 36.833333333333336
+  }
+ ],
+ "Yemen Retreat From|YEM": [],
+ "Yemen's Aden|YEM": [],
+ "Khamasat|SDN": [],
+ "RSF-held Al-Nuhud|SDN": [],
+ "Khamasat|MMR": [],
+ "RSF-held Al-Nuhud|MMR": [],
+ "Armed Movements|SDN": [],
+ "Al-Nuhud|SDN": [],
+ "Al-Nuhud|MMR": [],
+ "Al-Khuwai|SDN": [],
+ "Somalia's Hiiraan|SOM": [],
+ "Beledweyne|SOM": [],
+ "Comaad|SOM": [],
+ "Mogadishu|SOM": [],
+ "Hamas’ Rafah Brigade|PSE": [],
+ "Palestine|PSE": [
+  {
+   "qid": "Q219060",
+   "iso": "PSE",
+   "lat": 32,
+   "lon": 35.25
+  },
+  {
+   "qid": "Q23792",
+   "iso": "PSE",
+   "lat": 31.625321,
+   "lon": 35.145264
+  },
+  {
+   "qid": "Q407199",
+   "iso": "PSE",
+   "lat": 31.883333333333,
+   "lon": 35.2
+  },
+  {
+   "qid": "Q42620",
+   "iso": "PSE",
+   "lat": 31.88333333,
+   "lon": 35.2
+  }
+ ],
+ "Hospital Attack|PSE": [],
+ "Hypothermia|PSE": [],
+ "Palestine|LBN": [],
+ "Hospital Attack|LBN": [],
+ "Hypothermia|LBN": []
 }
