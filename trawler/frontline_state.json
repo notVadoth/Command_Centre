@@ -2555,6 +2555,576 @@
    "url": "https://zeteo.com/p/this-week-in-palestine-israel-kills-5a6",
    "date": "2026-11-14T11:30:00+00:00",
    "seen": "2026-11-15T17:59:14.694615+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Crimea",
+   "iso": "UKR",
+   "province": "Autonomous Republic of Crimea",
+   "province_id": "14850775B24260608407062",
+   "outlet": "The Guardian",
+   "host": "theguardian.com",
+   "partisan": false,
+   "title": "Ukraine hits Kerch bridge between Russia and occupied Crimea",
+   "sentence": "Ukraine hits Kerch bridge between Russia and occupied Crimea.",
+   "url": "https://www.theguardian.com/world/2026/nov/16/ukraine-drone-kerch-bridge-russia-occupied-crimea",
+   "date": "2026-11-16T12:45:09+00:00",
+   "seen": "2026-11-16T21:14:45.462919+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Yemen",
+   "iso": "YEM",
+   "province": "‘Adan Governorate",
+   "province_id": "18629408B11945654439238",
+   "outlet": "France 24",
+   "host": "france24.com",
+   "partisan": false,
+   "title": "Saudi Arabia dismisses commander of anti-Houthi coalition as rebels advance",
+   "sentence": "The shake up comes after Houthi forces took territory on Yemen's southern coast and Saudi-backed forces fell back to defend the capital.",
+   "url": "https://www.france24.com/en/yemen/20261116-saudi-arabia-dismisses-commander-of-anti-houthi-coalition-as-rebels-advance",
+   "date": "2026-11-16T14:42:44+00:00",
+   "seen": "2026-11-16T21:14:45.462919+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Dnipro",
+   "iso": "UKR",
+   "province": "Dnipropetrovsk Oblast",
+   "province_id": "14850775B41808765507575",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "Sixth blackout in two weeks: Russia leaves almost half of Dnipro without power",
+   "sentence": "Two people have been killed and eight others injured in Russian attacks on Dnipro.",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/16/8063149/",
+   "date": "2026-11-16T17:18:00+00:00",
+   "seen": "2026-11-16T21:14:45.462919+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel",
+    "Hamas"
+   ],
+   "place": "West Bank",
+   "iso": "PSE",
+   "province": "West Bank",
+   "province_id": "83478781B28849486138516",
+   "outlet": "RT",
+   "host": "rt-english.com",
+   "partisan": false,
+   "title": "Israel arrests AFP journalist",
+   "sentence": "Israeli forces have arrested AFP videographer in the occupied West Bank, accusing him of Hamas links without presenting evidence Read Full Article at RT.com",
+   "url": "https://rt-english.com/news/648878-israel-arrests-afp-journalist-over/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+   "date": "2026-11-16T04:03:27+00:00",
+   "seen": "2026-11-16T21:14:45.462919+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Ukraine"
+   ],
+   "place": "Belgorod Region",
+   "iso": "RUS",
+   "province": "Belgorod Oblast",
+   "province_id": "28173009B21416061393121",
+   "outlet": "TASS",
+   "host": "tass.com",
+   "partisan": true,
+   "title": "One killed, four wounded in Ukrainian attacks on Belgorod Region",
+   "sentence": "One killed, four wounded in Ukrainian attacks on Belgorod Region.",
+   "url": "https://tass.com/politics/2218765",
+   "date": "2026-11-16T13:05:23+00:00",
+   "seen": "2026-11-16T21:14:45.462919+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Crimean Bridge",
+   "iso": "RUS",
+   "province": "Moscow",
+   "province_id": "28173009B19676032168465",
+   "outlet": "Meduza",
+   "host": "meduza.io",
+   "partisan": false,
+   "title": "After Ukraine’s latest attack, Moscow calls damage to the Crimean Bridge ‘insignificant,’ but OSINT analysts say its main road span is visibly deformed",
+   "sentence": "Vehicle traffic has partially resumed on the Crimean Bridge after it was halted following a Ukrainian attack, Russian Deputy Prime Minister Marat Khusnullin said.",
+   "url": "https://meduza.io/en/news/2026/11/16/after-ukraine-s-latest-attack-moscow-calls-damage-to-the-crimean-bridge-insignificant-but-osint-analysts-say-its-main-road-span-is-visibly-deformed",
+   "date": "2026-11-16T17:58:34+00:00",
+   "seen": "2026-11-16T21:14:45.462919+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Crimea",
+   "iso": "UKR",
+   "province": "Autonomous Republic of Crimea",
+   "province_id": "14850775B24260608407062",
+   "outlet": "Meduza",
+   "host": "meduza.io",
+   "partisan": false,
+   "title": "Ukrainian drone attack damages Crimea Bridge, shutting down road traffic for hours. Kremlin says damage is ‘minor.’",
+   "sentence": "Ukrainian drones struck the Crimean Bridge, which connects Russia’s Krasnodar Krai and the Crimean Peninsula, on the morning of November 16, Sergei Aksyonov, the Kremlin-installed head of occupied Crimea, announced.",
+   "url": "https://meduza.io/en/feature/2026/11/16/ukrainian-drone-attack-damages-crimea-bridge-shutting-down-road-traffic-for-hours-kremlin-says-damage-is-minor",
+   "date": "2026-11-16T14:58:14+00:00",
+   "seen": "2026-11-16T21:14:45.462919+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Ust-Luga",
+   "iso": "RUS",
+   "province": "Leningrad oblast",
+   "province_id": "28173009B90810482533567",
+   "outlet": "Meduza",
+   "host": "meduza.io",
+   "partisan": false,
+   "title": "Ukraine’s Ust-Luga strike destroyed five fuel tanks and may have hit a Russian warship and three helicopters. Now pro-war media are spreading claims of a plot to assassinate Zelensky.",
+   "sentence": "Ukraine’s attack on the port of Ust-Luga in Russia’s Leningrad region destroyed at least five fuel tanks, according to satellite images published on November 15 by RFE/RL’s Russian service.",
+   "url": "https://meduza.io/en/feature/2026/11/16/ukraine-s-ust-luga-strike-destroyed-five-fuel-tanks-and-may-have-hit-a-russian-warship-and-three-helicopters-now-pro-war-media-are-spreading-claims-of-a-plot-to-assassinate-zelensky",
+   "date": "2026-11-16T13:34:53+00:00",
+   "seen": "2026-11-16T21:14:45.462919+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Crimea",
+   "iso": "UKR",
+   "province": "Autonomous Republic of Crimea",
+   "province_id": "14850775B24260608407062",
+   "outlet": "Meduza",
+   "host": "meduza.io",
+   "partisan": false,
+   "title": "Ukraine strikes Crimea bridge, traffic suspended",
+   "sentence": "Sergey Aksyonov, the Russian-installed head of occupied Crimea, said Ukrainian forces attacked the bridge linking the peninsula to Russia.",
+   "url": "https://meduza.io/en/news/2026/11/16/ukraine-strikes-crimea-bridge-traffic-suspended",
+   "date": "2026-11-16T08:04:50+00:00",
+   "seen": "2026-11-16T21:14:45.462919+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "Tuqu",
+   "iso": "PSE",
+   "province": "West Bank",
+   "province_id": "83478781B28849486138516",
+   "outlet": "Middle East Eye",
+   "host": "middleeasteye.net",
+   "partisan": false,
+   "title": "Israeli settler injures eight Palestinians in ramming incident, Al Jazeera reports",
+   "sentence": "An Israeli settler rammed his vehicle into a group of Palestinians in the town of Tuqu, south of Bethlehem in the occupied West Bank, injuring at least eight people, Al Jazeera reported.",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settler-injures-eight-palestinians-ramming-incident-al-jazeera",
+   "date": "2026-11-16T17:17:17+00:00",
+   "seen": "2026-11-16T21:14:45.462919+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "Nablus",
+   "iso": "PSE",
+   "province": "West Bank",
+   "province_id": "83478781B28849486138516",
+   "outlet": "Middle East Eye",
+   "host": "middleeasteye.net",
+   "partisan": false,
+   "title": "Two wounded in alleged car-ramming at West Bank checkpoint: Israeli report",
+   "sentence": "Two Israelis were wounded in an alleged ramming attack at a military checkpoint south of Nablus in the occupied West Bank on Monday, Israeli media reported.",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-wounded-alleged-car-ramming-military-checkpoint-occupied-west-bank",
+   "date": "2026-11-16T16:01:28+00:00",
+   "seen": "2026-11-16T21:14:45.462919+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Government"
+   ],
+   "place": "Dhub",
+   "iso": "YEM",
+   "province": "Ta'izz Governorate",
+   "province_id": "18629408B66245584752084",
+   "outlet": "Middle East Eye",
+   "host": "middleeasteye.net",
+   "partisan": false,
+   "title": "Saudi-backed forces retreat from Bab al-Mandab as Houthis gain ground",
+   "sentence": "The Southern Armed Forces, who are backed by Saudi Arabia and fighting alongside the internationally recognised Yemeni government, said on Sunday they had \"redeployed\" troops from Dhub",
+   "url": "https://www.middleeasteye.net/news/saudi-backed-forces-retreat-bab-al-mandab-houthis-gain-ground",
+   "date": "2026-11-16T14:44:34+00:00",
+   "seen": "2026-11-16T21:14:45.462919+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Yemen",
+   "iso": "YEM",
+   "province": "‘Adan Governorate",
+   "province_id": "18629408B11945654439238",
+   "outlet": "Tehran Times",
+   "host": "tehrantimes.com",
+   "partisan": false,
+   "title": "Ansarallah’s advances in Yemen throw Saudi Arabia into disarray",
+   "sentence": "Ansarallah’s advances in Yemen throw Saudi Arabia into disarray.",
+   "url": "https://www.tehrantimes.com/news/532220/Ansarallah-s-advances-in-Yemen-throw-Saudi-Arabia-into-disarray",
+   "date": "2026-11-16T17:51:55+00:00",
+   "seen": "2026-11-16T21:14:45.462919+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Sumy",
+   "iso": "UKR",
+   "province": "Sumy Oblast",
+   "province_id": "14850775B14512392274127",
+   "outlet": "Voennoe Delo",
+   "host": "voennoedelo.com",
+   "partisan": false,
+   "title": "Ukraine Frontline Update for November 16: Russian Advances and Fighting Across Seven Fronts",
+   "sentence": "Ukraine frontline update for November 16: fighting continues near Sumy, Kharkov, Krasny Liman and Konstantinovka as Russian forces advance in Zaporozhye.",
+   "url": "https://voennoedelo.com/en/posts/id22254-ukraine-frontline-update-november-16-russian-advances",
+   "date": "2026-11-16T01:59:00+00:00",
+   "seen": "2026-11-16T21:14:45.462919+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Zaporozhye",
+   "iso": "UKR",
+   "province": "Zaporizhia Oblast",
+   "province_id": "14850775B92888097715572",
+   "outlet": "Voennoe Delo",
+   "host": "voennoedelo.com",
+   "partisan": false,
+   "title": "Ukraine Frontline Update for November 16: Russian Advances and Fighting Across Seven Fronts",
+   "sentence": "Ukraine frontline update for November 16: fighting continues near Sumy, Kharkov, Krasny Liman and Konstantinovka as Russian forces advance in Zaporozhye.",
+   "url": "https://voennoedelo.com/en/posts/id22254-ukraine-frontline-update-november-16-russian-advances",
+   "date": "2026-11-16T01:59:00+00:00",
+   "seen": "2026-11-16T21:14:45.462919+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Tersyanka",
+   "iso": "RUS",
+   "province": "Saratov Oblast",
+   "province_id": "28173009B21415173479872",
+   "outlet": "Voennoe Delo",
+   "host": "voennoedelo.com",
+   "partisan": false,
+   "title": "Russian Assault Soldier Reveals How Vostok Forces Caught Ukrainian Troops Off Guard in Tersyanka",
+   "sentence": "Russian Assault Soldier Reveals How Vostok Forces Caught Ukrainian Troops Off Guard in Tersyanka.",
+   "url": "https://voennoedelo.com/en/posts/id22259-russian-soldier-describes-surprise-assault-on-tersyanka",
+   "date": "2026-11-16T04:41:00+00:00",
+   "seen": "2026-11-16T21:14:45.462919+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Donetsk",
+   "iso": "UKR",
+   "province": "Donetsk Oblast",
+   "province_id": "14850775B15615817748403",
+   "outlet": "UA.NEWS",
+   "host": "ua.news",
+   "partisan": false,
+   "title": "DeepState has documented the advance of Russian troops in the Donetsk and Kharkiv regions",
+   "sentence": "DeepState has documented the advance of Russian troops in the Donetsk and Kharkiv regions.",
+   "url": "https://ua.news/en/war-vs-rf/deepstate-zafiksuvav-prosuvannia-rosiiskikh-viisk-u-donetskii-ta-kharkivskii-oblastiakh",
+   "date": "2026-11-16T02:06:00+00:00",
+   "seen": "2026-11-16T21:14:45.462919+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis",
+    "Government"
+   ],
+   "place": "Al-Jawf",
+   "iso": "YEM",
+   "province": "Al Jawf Governorate",
+   "province_id": "18629408B7407331306690",
+   "outlet": "Daily Times on MSN",
+   "host": "msn.com",
+   "partisan": false,
+   "title": "Yemeni forces commander killed in clashes with HouthisPublished on: November 16, 2026 10:35 AM",
+   "sentence": "16 -- Yemeni government forces said on Sunday that a senior military commander and several other personnel were killed in clashes with the Houthis in the northern province of Al-Jawf.",
+   "url": "https://www.msn.com/en-xl/asia/pakistan/yemeni-forces-commander-killed-in-clashes-with-houthispublished-on-november-16-2026-1035-am/ar-AA2hvEQH",
+   "date": "2026-11-16T03:05:00+00:00",
+   "seen": "2026-11-16T21:14:45.462919+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Aden",
+   "iso": "YEM",
+   "province": "‘Adan Governorate",
+   "province_id": "18629408B11945654439238",
+   "outlet": "The Avenue Mail",
+   "host": "avenuemail.in",
+   "partisan": false,
+   "title": "Houthis advance to positions 70 km from Yemen’s Aden",
+   "sentence": "Yemen’s Houthi forces have advanced to positions roughly 70 km from the southern port city of Aden, a government military source told Xinhua on Sunday.",
+   "url": "https://avenuemail.in/houthi-forces-advance-near-aden-bab-al-mandeb-retreat/",
+   "date": "2026-11-16T07:27:00+00:00",
+   "seen": "2026-11-16T21:14:45.462919+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Aden",
+   "iso": "YEM",
+   "province": "‘Adan Governorate",
+   "province_id": "18629408B11945654439238",
+   "outlet": "The Times of Israel",
+   "host": "timesofisrael.com",
+   "partisan": false,
+   "title": "Houthis advance toward Aden, closing to within 60 km as government bolsters defenses",
+   "sentence": "Houthis advance toward Aden, closing to within 60 km as government bolsters defenses.",
+   "url": "https://www.timesofisrael.com/houthis-advance-toward-aden-closing-to-within-60-km-as-government-bolsters-defenses/",
+   "date": "2026-11-15T16:00:00+00:00",
+   "seen": "2026-11-16T21:14:45.462919+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Aden",
+   "iso": "YEM",
+   "province": "‘Adan Governorate",
+   "province_id": "18629408B11945654439238",
+   "outlet": "International Business Times on MSN",
+   "host": "msn.com",
+   "partisan": false,
+   "title": "Houthis Advance to Within 60 Kilometers of Aden. Saudi-Backed Forces Pull Back From Strategic Red Sea Coast.",
+   "sentence": "Houthis Advance to Within 60 Kilometers of Aden.",
+   "url": "https://www.msn.com/en-us/news/other/houthis-advance-to-within-60-kilometers-of-aden-saudi-backed-forces-pull-back-from-strategic-red-sea-coast/ar-AA2hxceU",
+   "date": "2026-11-16T03:08:21+00:00",
+   "seen": "2026-11-16T21:14:45.462919+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Lahj",
+   "iso": "YEM",
+   "province": "Lahij Governorate",
+   "province_id": "18629408B46389326189415",
+   "outlet": "International Business Times on MSN",
+   "host": "msn.com",
+   "partisan": false,
+   "title": "Houthis Advance to Within 60 Kilometers of Aden. Saudi-Backed Forces Pull Back From Strategic Red Sea Coast.",
+   "sentence": "Military sources say Houthi fighters have gained territory in Lahj province, while the latest fighting has put additional pressure on Taiz.",
+   "url": "https://www.msn.com/en-us/news/other/houthis-advance-to-within-60-kilometers-of-aden-saudi-backed-forces-pull-back-from-strategic-red-sea-coast/ar-AA2hxceU",
+   "date": "2026-11-16T03:08:21+00:00",
+   "seen": "2026-11-16T21:14:45.462919+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Taiz",
+   "iso": "YEM",
+   "province": "Ta'izz Governorate",
+   "province_id": "18629408B66245584752084",
+   "outlet": "International Business Times on MSN",
+   "host": "msn.com",
+   "partisan": false,
+   "title": "Houthis Advance to Within 60 Kilometers of Aden. Saudi-Backed Forces Pull Back From Strategic Red Sea Coast.",
+   "sentence": "Military sources say Houthi fighters have gained territory in Lahj province, while the latest fighting has put additional pressure on Taiz.",
+   "url": "https://www.msn.com/en-us/news/other/houthis-advance-to-within-60-kilometers-of-aden-saudi-backed-forces-pull-back-from-strategic-red-sea-coast/ar-AA2hxceU",
+   "date": "2026-11-16T03:08:21+00:00",
+   "seen": "2026-11-16T21:14:45.462919+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis",
+    "Government"
+   ],
+   "place": "Aden",
+   "iso": "YEM",
+   "province": "‘Adan Governorate",
+   "province_id": "18629408B11945654439238",
+   "outlet": "BBC",
+   "host": "bbc.co.uk",
+   "partisan": false,
+   "title": "Yemen's government redeployes forces to protect Aden from Houthi advances",
+   "sentence": "Yemeni government sources told AFP that Iranian backed Houthis had advanced to within sixty kilometres of Aden.",
+   "url": "https://www.bbc.co.uk/sounds/play/w1730c1q3j8g28g",
+   "date": "2026-11-15T16:00:00+00:00",
+   "seen": "2026-11-16T21:14:45.462919+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Yemen",
+   "iso": "YEM",
+   "province": "‘Adan Governorate",
+   "province_id": "18629408B11945654439238",
+   "outlet": "South China Morning Post on MSN",
+   "host": "msn.com",
+   "partisan": false,
+   "title": "Houthis advance on Yemen government stronghold of Aden",
+   "sentence": "Houthis advance on Yemen government stronghold of Aden.",
+   "url": "https://www.msn.com/en-xl/news/other/houthis-advance-on-yemen-government-stronghold-of-aden/ar-AA2hwdkJ",
+   "date": "2026-11-15T20:48:31+00:00",
+   "seen": "2026-11-16T21:14:45.462919+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Yemen",
+   "iso": "YEM",
+   "province": "‘Adan Governorate",
+   "province_id": "18629408B11945654439238",
+   "outlet": "The Manila Times on MSN",
+   "host": "msn.com",
+   "partisan": false,
+   "title": "Houthis advance toward Yemen’s major city",
+   "sentence": "Houthis advance toward Yemen’s major city.",
+   "url": "https://www.msn.com/en-ph/news/world/houthis-advance-toward-yemen-s-major-city/ar-AA2hy3du",
+   "date": "2026-11-16T08:03:00+00:00",
+   "seen": "2026-11-16T21:14:45.462919+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Aden",
+   "iso": "YEM",
+   "province": "‘Adan Governorate",
+   "province_id": "18629408B11945654439238",
+   "outlet": "BBC",
+   "host": "bbc.co.uk",
+   "partisan": false,
+   "title": "Yemen’s Houthis advance on Aden",
+   "sentence": "Yemen’s Houthis advance on Aden.",
+   "url": "https://www.bbc.co.uk/sounds/play/w1730bncr1mxx0y",
+   "date": "2026-11-15T16:00:00+00:00",
+   "seen": "2026-11-16T21:14:45.462919+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Taiz",
+   "iso": "YEM",
+   "province": "Ta'izz Governorate",
+   "province_id": "18629408B66245584752084",
+   "outlet": "Yemen Online",
+   "host": "yemenonline.info",
+   "partisan": false,
+   "title": "Yemeni Forces Repel Houthi Attack in Taiz as Rights Groups Report Civilian Casualties",
+   "sentence": "Yemeni Forces Repel Houthi Attack in Taiz as Rights Groups Report Civilian Casualties.",
+   "url": "https://yemenonline.info/special-reports/14483",
+   "date": "2026-11-16T08:05:00+00:00",
+   "seen": "2026-11-16T21:14:45.462919+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis",
+    "Government"
+   ],
+   "place": "Yemen",
+   "iso": "YEM",
+   "province": "‘Adan Governorate",
+   "province_id": "18629408B11945654439238",
+   "outlet": "Reuters on MSN",
+   "host": "msn.com",
+   "partisan": false,
+   "title": "Houthis seize ground on Yemen's southern coast, edge closer to Aden",
+   "sentence": "Houthi fighters have seized territory on Yemen's southern coast after Saudi-backed government forces fell back to defend Aden, military sources said on Monday, ...",
+   "url": "https://www.msn.com/en-us/news/other/houthis-seize-ground-on-yemens-southern-coast-edge-closer-to-aden/ar-AA2hyjoF",
+   "date": "2026-11-16T05:59:34+00:00",
+   "seen": "2026-11-16T21:14:45.462919+00:00"
+  },
+  {
+   "war": "myanmar",
+   "sides": [
+    "Military"
+   ],
+   "place": "Karen State",
+   "iso": "MMR",
+   "province": "Kayin",
+   "province_id": "20573499B82081528957960",
+   "outlet": "christianitydaily.com",
+   "host": "christianitydaily.com",
+   "partisan": false,
+   "title": "Myanmar Military Airstrike Kills 3 Students at Christian Bible School, Injures 6",
+   "sentence": "Three students were killed and six others injured when Myanmar's military launched an airstrike and drone assault on a Christian Bible school in Karen State.",
+   "url": "https://www.christianitydaily.com/news/myanmar-military-airstrike-kills-3-students-at-bible-school.html",
+   "date": "2026-11-15T16:00:00+00:00",
+   "seen": "2026-11-16T21:14:45.462919+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Hamas"
+   ],
+   "place": "Gaza Strip",
+   "iso": "PSE",
+   "province": "Gaza",
+   "province_id": "83478781B7121896376882",
+   "outlet": "The Times of Israel",
+   "host": "timesofisrael.com",
+   "partisan": false,
+   "title": "IDF says 5 Hamas members who participated in Oct. 7 killed in recent Gaza strikes",
+   "sentence": "Five Hamas operatives, including a terrorist who took part in the October 7 onslaught, were killed in recent strikes in the Gaza Strip, the military announces.",
+   "url": "https://www.timesofisrael.com/liveblog_entry/idf-says-5-hamas-members-who-participated-in-oct-7-killed-in-recent-gaza-strikes/",
+   "date": "2026-11-16T10:02:00+00:00",
+   "seen": "2026-11-16T21:14:45.462919+00:00"
   }
  ],
  "truce": [
@@ -2627,6 +3197,16 @@
    "sentence": "Meanwhile, renewed fighting has displaced more than 340,000 people since August.",
    "url": "https://dailytimes.com.pk/1581468/yemen-fighting-displaces-over-340000-people/",
    "date": "2026-11-14T09:14:00+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "kind": "end",
+   "outlet": "Outlook India",
+   "partisan": false,
+   "title": "Houthis Capture Key Positions In Southern Yemen As Government Forces Pull Back",
+   "sentence": "Houthi fighters have seized territory along Yemen's southern coast as Saudi-backed government forces withdraw to defend Aden amid renewed fighting ...",
+   "url": "https://www.outlookindia.com/international/yemen-houthis-advance-saudi-arab-backed-forces-retreat-aden",
+   "date": "2026-11-15T23:37:00+00:00"
   }
  ],
  "withdrawals": [],
@@ -2637,9 +3217,15 @@
     "Al Jazeera",
     "Anadolu Agency",
     "Dawn",
-    "Middle East Eye"
+    "Middle East Eye",
+    "RT"
    ],
    "examples": [
+    {
+     "outlet": "RT",
+     "title": "Israel arrests AFP journalist",
+     "url": "https://rt-english.com/news/648878-israel-arrests-afp-journalist-over/?utm_source=rss&utm_medium=rss&utm_campaign=RSS"
+    },
     {
      "outlet": "Al Jazeera",
      "title": "Jerusalem Daily: Israeli forces occupy Palestinian-American’s home",
@@ -2649,14 +3235,9 @@
      "outlet": "Anadolu Agency",
      "title": "Israeli army arrests 10 Palestinians in raids across occupied West Bank",
      "url": "https://www.aa.com.tr/en/middle-east/israeli-army-arrests-10-palestinians-in-raids-across-occupied-west-bank/4125011"
-    },
-    {
-     "outlet": "Dawn",
-     "title": "Israeli forces shoot dead 14-year-old in West Bank: Palestinian officials",
-     "url": "https://www.dawn.com/news/2043498/israeli-forces-shoot-dead-14-year-old-in-west-bank-palestinian-officials"
     }
    ],
-   "last": "2026-11-14"
+   "last": "2026-11-16"
   },
   {
    "iso": "USA",

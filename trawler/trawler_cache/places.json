@@ -1947,5 +1947,90 @@
  "Hypothermia|PSE": [],
  "Palestine|LBN": [],
  "Hospital Attack|LBN": [],
- "Hypothermia|LBN": []
+ "Hypothermia|LBN": [],
+ "Russian-occupied|RUS,UKR": [],
+ "Russian-occupied|MMR": [],
+ "Crimean Bridge|RUS,UKR": [
+  {
+   "qid": "Q2652980",
+   "iso": "UKR",
+   "lat": 45.3086,
+   "lon": 36.5061
+  },
+  {
+   "qid": "Q2361244",
+   "iso": "RUS",
+   "lat": 55.733888888889,
+   "lon": 37.598888888889
+  },
+  {
+   "qid": "Q114492886",
+   "iso": "RUS",
+   "lat": 45.30111111111111,
+   "lon": 36.5125
+  }
+ ],
+ "Hamas|LBN": [],
+ "UN General Assembly|RUS,UKR": [],
+ "Starlink|RUS,UKR": [],
+ "Starlink|SDN": [],
+ "Starlink|MMR": [],
+ "Starobelsk-Novoaidar|RUS,UKR": [],
+ "Khrushchev Thaw|RUS,UKR": [],
+ "Moscow’s Sokolniki Park|RUS,UKR": [],
+ "Russia’s Leningrad|RUS,UKR": [],
+ "Korean Peninsula|RUS,UKR": [],
+ "Palestinians|PSE": [],
+ "Tuqu|PSE": [
+  {
+   "qid": "Q2448610",
+   "iso": "PSE",
+   "lat": 31.636388888889,
+   "lon": 35.214444444444
+  }
+ ],
+ "Palestinians|LBN": [],
+ "Tuqu|LBN": [],
+ "Nablus|MMR": [],
+ "Dhub|YEM": [
+  {
+   "qid": "Q4118401",
+   "iso": "YEM",
+   "lat": 12.965833333333,
+   "lon": 43.472222222222
+  }
+ ],
+ "Tersyanka|RUS,UKR": [
+  {
+   "qid": "Q34970130",
+   "iso": "RUS",
+   "lat": 52.066666666667,
+   "lon": 47.55
+  }
+ ],
+ "DeepState|RUS,UKR": [],
+ "Al-Jawf|MMR": [],
+ "Aden|MMR": [],
+ "Bab al-Mandeb|YEM": [
+  {
+   "qid": "Q83318",
+   "iso": "YEM",
+   "lat": 12.583333333333,
+   "lon": 43.333333333333
+  }
+ ],
+ "Yemen's Aden|SOM": [],
+ "Bab al-Mandeb|SOM": [],
+ "Aden|SOM": [],
+ "Karen State|MMR": [
+  {
+   "qid": "Q495342",
+   "iso": "MMR",
+   "lat": 17,
+   "lon": 97.75
+  }
+ ],
+ "Barawe|SDN": [],
+ "Barawe|SOM": [],
+ "Gaza Strip|MMR": []
 }
