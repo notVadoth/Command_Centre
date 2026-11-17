@@ -2032,5 +2032,120 @@
  ],
  "Barawe|SDN": [],
  "Barawe|SOM": [],
- "Gaza Strip|MMR": []
+ "Gaza Strip|MMR": [],
+ "Russian-annexed Crimea|RUS,UKR": [],
+ "Volodymyr Zelenskyy|RUS,UKR": [],
+ "Crimean Peninsula|RUS,UKR": [
+  {
+   "qid": "Q7835",
+   "iso": "UKR",
+   "lat": 45,
+   "lon": 34
+  }
+ ],
+ "Bahrain|MMR": [],
+ "American|MMR": [],
+ "Georgia|RUS,UKR": [
+  {
+   "qid": "Q8108",
+   "iso": "RUS",
+   "lat": 41.5,
+   "lon": 45
+  }
+ ],
+ "Abkhazia|RUS,UKR": [
+  {
+   "qid": "Q5111",
+   "iso": "RUS",
+   "lat": 43.15,
+   "lon": 41
+  }
+ ],
+ "Georgia|MMR": [],
+ "Abkhazia|MMR": [],
+ "Defense|RUS,UKR": [],
+ "Russian|MMR": [],
+ "Kursk|MMR": [],
+ "Army Staff Field|MMR": [],
+ "Syria|PSE": [],
+ "Syrian|PSE": [],
+ "Syria|LBN": [],
+ "Syrian|LBN": [
+  {
+   "qid": "Q469482",
+   "iso": "LBN",
+   "lat": 33.899963888889,
+   "lon": 35.482283333333
+  }
+ ],
+ "Combat|RUS,UKR": [],
+ "Zalivnoye|RUS,UKR": [
+  {
+   "qid": "Q13637169",
+   "iso": "UKR",
+   "lat": 46.005555555556,
+   "lon": 33.679166666667
+  }
+ ],
+ "Kupiansk|RUS,UKR": [
+  {
+   "qid": "Q889555",
+   "iso": "UKR",
+   "lat": 49.711403,
+   "lon": 37.613913
+  },
+  {
+   "qid": "Q2631933",
+   "iso": "UKR",
+   "lat": 49.676625,
+   "lon": 37.686267
+  },
+  {
+   "qid": "Q12115849",
+   "iso": "UKR",
+   "lat": 49.662333333333336,
+   "lon": 37.643861111111114
+  },
+  {
+   "qid": "Q28706883",
+   "iso": "UKR",
+   "lat": 49.654333333333,
+   "lon": 37.644222222222
+  },
+  {
+   "qid": "Q115045451",
+   "iso": "UKR",
+   "lat": 49.656777777777776,
+   "lon": 37.74755555555556
+  },
+  {
+   "qid": "Q55171981",
+   "iso": "UKR",
+   "lat": 49.71225,
+   "lon": 37.606333333333
+  },
+  {
+   "qid": "Q12115850",
+   "iso": "UKR",
+   "lat": 50.40947222,
+   "lon": 30.49286111
+  },
+  {
+   "qid": "Q65200776",
+   "iso": "UKR",
+   "lat": 49.714167,
+   "lon": 37.611111
+  }
+ ],
+ "Bab al-Mandeb|MMR": [],
+ "War|YEM": [],
+ "Yemen The Houthis|YEM": [],
+ "South Yemen|YEM": [
+  {
+   "qid": "Q199841",
+   "iso": "YEM",
+   "lat": 12.8,
+   "lon": 45.03
+  }
+ ]
 }

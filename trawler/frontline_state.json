@@ -3125,6 +3125,484 @@
    "url": "https://www.timesofisrael.com/liveblog_entry/idf-says-5-hamas-members-who-participated-in-oct-7-killed-in-recent-gaza-strikes/",
    "date": "2026-11-16T10:02:00+00:00",
    "seen": "2026-11-16T21:14:45.462919+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Crimea",
+   "iso": "UKR",
+   "province": "Autonomous Republic of Crimea",
+   "province_id": "14850775B24260608407062",
+   "outlet": "BBC News",
+   "host": "bbc.co.uk",
+   "partisan": false,
+   "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+   "sentence": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
+   "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T17:19:57+00:00",
+   "seen": "2026-11-17T20:00:47.420787+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Crimea",
+   "iso": "UKR",
+   "province": "Autonomous Republic of Crimea",
+   "province_id": "14850775B24260608407062",
+   "outlet": "The Guardian",
+   "host": "theguardian.com",
+   "partisan": false,
+   "title": "‘They were keeping it for a rainy day’: Ukraine’s Kerch bridge attack is proof Kyiv still has cards to play",
+   "sentence": "Partial demolition of bridge linking Russia and occupied Crimea is obvious embarrassment to Putin days before meeting with Xi and Trump Europe live",
+   "url": "https://www.theguardian.com/world/2026/nov/17/ukraine-kerch-bridge-attack-russia-crimea-analysis",
+   "date": "2026-11-17T16:40:26+00:00",
+   "seen": "2026-11-17T20:00:47.420787+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Crimean Peninsula",
+   "iso": "UKR",
+   "province": "Autonomous Republic of Crimea",
+   "province_id": "14850775B24260608407062",
+   "outlet": "France 24",
+   "host": "france24.com",
+   "partisan": false,
+   "title": "Ukraine strikes major Russian bridge in Crimea with drones and missiles",
+   "sentence": "Ukrainian drones and missiles struck a vital bridge linking Russia to the occupied Crimean Peninsula, Ukrainian President Volodymyr Zelensky said Tuesday, calling it an “unprecedented” operation as Russia reported that its forces downed a record number of Ukrainian drones for the second straight day",
+   "url": "https://www.france24.com/en/video/20261117-ukraine-strikes-major-russian-bridge-in-crimea-with-drones-and-missiles",
+   "date": "2026-11-17T12:17:34+00:00",
+   "seen": "2026-11-17T20:00:47.420787+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Crimean Peninsula",
+   "iso": "UKR",
+   "province": "Autonomous Republic of Crimea",
+   "province_id": "14850775B24260608407062",
+   "outlet": "NPR",
+   "host": "npr.org",
+   "partisan": false,
+   "title": "Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate",
+   "sentence": "A Ukrainian drone and missile attack prepared over several weeks struck a vital Russian rail and road bridge to the occupied Crimean Peninsula, Ukrainian President Volodymyr Zelenskyy said Tuesday.",
+   "url": "https://www.npr.org/2026/11/17/g-s1-153946/russia-ukraine-war",
+   "date": "2026-11-17T09:50:45+00:00",
+   "seen": "2026-11-17T20:00:47.420787+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Zakarpattia",
+   "iso": "UKR",
+   "province": "Zakarpattia Oblast",
+   "province_id": "14850775B82824220650579",
+   "outlet": "Kyiv Independent",
+   "host": "kyivindependent.com",
+   "partisan": false,
+   "title": "Hungary halts rail services with Ukraine for 2 days after Russian attack on Zakarpattia",
+   "sentence": "Hungary halts rail services with Ukraine for 2 days after Russian attack on Zakarpattia.",
+   "url": "https://kyivindependent.com/hungary-halts-rail-services-with-ukraine-for-2-days-after-russian-attack-on-zakarpattia/",
+   "date": "2026-11-17T15:53:45+00:00",
+   "seen": "2026-11-17T20:00:47.420787+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Dnipropetrovsk Oblast",
+   "iso": "UKR",
+   "province": "Dnipropetrovsk Oblast",
+   "province_id": "14850775B41808765507575",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "Twenty injured, including two children, in Russian attacks on Dnipropetrovsk Oblast",
+   "sentence": "Twenty injured, including two children, in Russian attacks on Dnipropetrovsk Oblast.",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/17/8063328/",
+   "date": "2026-11-17T17:31:00+00:00",
+   "seen": "2026-11-17T20:00:47.420787+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Ukraine"
+   ],
+   "place": "Kursk",
+   "iso": "RUS",
+   "province": "Kursk Oblast",
+   "province_id": "28173009B94971452660823",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "Monument to North Korean soldiers who fought against Ukraine appears in Kursk",
+   "sentence": "Monument to North Korean soldiers who fought against Ukraine appears in Kursk.",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/17/8063298/",
+   "date": "2026-11-17T14:38:00+00:00",
+   "seen": "2026-11-17T20:00:47.420787+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Kharkov Region",
+   "iso": "UKR",
+   "province": "Kharkiv Oblast",
+   "province_id": "14850775B15913324833724",
+   "outlet": "TASS",
+   "host": "tass.com",
+   "partisan": true,
+   "title": "Russian forces establishing buffer zone in Kharkov Region, advancing on 150-km-wide front",
+   "sentence": "Russian forces establishing buffer zone in Kharkov Region, advancing on 150-km-wide front.",
+   "url": "https://tass.com/politics/2219749",
+   "date": "2026-11-17T13:40:01+00:00",
+   "seen": "2026-11-17T20:00:47.420787+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Kursk",
+   "iso": "RUS",
+   "province": "Kursk Oblast",
+   "province_id": "28173009B94971452660823",
+   "outlet": "Meduza",
+   "host": "meduza.io",
+   "partisan": false,
+   "title": "Russia erects monument in Kursk to North Korean troops who fought alongside its forces against Ukraine",
+   "sentence": "Russia erects monument in Kursk to North Korean troops who fought alongside its forces against Ukraine.",
+   "url": "https://meduza.io/en/news/2026/11/17/russia-erects-monument-in-kursk-to-north-korean-troops-who-fought-alongside-its-forces-against-ukraine",
+   "date": "2026-11-17T10:00:00+00:00",
+   "seen": "2026-11-17T20:00:47.420787+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Crimea",
+   "iso": "UKR",
+   "province": "Autonomous Republic of Crimea",
+   "province_id": "14850775B24260608407062",
+   "outlet": "Meduza",
+   "host": "meduza.io",
+   "partisan": false,
+   "title": "Ukrainian monitoring channels claim missile strike sends Crimea bridge road arch into the water",
+   "sentence": "Ukrainian forces attacked the Crimean Bridge again overnight on November 17, said Sergey Aksyonov, the Russia-installed head of Crimea.",
+   "url": "https://meduza.io/en/news/2026/11/17/ukrainian-monitoring-channels-claim-missile-strike-sends-crimea-bridge-road-arch-into-the-water",
+   "date": "2026-11-17T05:49:12+00:00",
+   "seen": "2026-11-17T20:00:47.420787+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Aden",
+   "iso": "YEM",
+   "province": "‘Adan Governorate",
+   "province_id": "18629408B11945654439238",
+   "outlet": "Al Jazeera",
+   "host": "aljazeera.com",
+   "partisan": false,
+   "title": "Houthi advance on Aden may spur resurgence of Yemen’s southern separatists",
+   "sentence": "Houthi advance on Aden may spur resurgence of Yemen’s southern separatists.",
+   "url": "https://www.aljazeera.com/news/2026/11/17/houthi-advance-on-aden-sparks-resurgence-of-yemens-southern-separatists?traffic_source=rss",
+   "date": "2026-11-17T15:26:55+00:00",
+   "seen": "2026-11-17T20:00:47.420787+00:00"
+  },
+  {
+   "war": "israel-lebanon",
+   "sides": [
+    "Israel"
+   ],
+   "place": "Syrian",
+   "iso": "LBN",
+   "province": "Beyrouth",
+   "province_id": "68408151B13555465262434",
+   "outlet": "Dawn",
+   "host": "dawn.com",
+   "partisan": false,
+   "title": "Pakistan condemns Israeli attacks in Syria, calls for withdrawal from occupied territories",
+   "sentence": "WASHINGTON: Pakistan on Tuesday strongly condemned Israel’s continued attacks and incursions into Syrian territory, calling for an immediate end to the violations, withdrawal from occupied areas and full compliance with the 1974 Disengagement Agreement and relevant UN Security Council resolutions.",
+   "url": "https://www.dawn.com/news/2045137/pakistan-condemns-israeli-attacks-in-syria-calls-for-withdrawal-from-occupied-territories",
+   "date": "2026-11-17T05:31:45+00:00",
+   "seen": "2026-11-17T20:00:47.420787+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Zaporozhye",
+   "iso": "UKR",
+   "province": "Zaporizhia Oblast",
+   "province_id": "14850775B92888097715572",
+   "outlet": "Voennoe Delo",
+   "host": "voennoedelo.com",
+   "partisan": false,
+   "title": "Russian Forces Capture Zalivnoye as Fighting Continues Along Tersa River",
+   "sentence": "Russian troops captured Zalivnoye in the Zaporozhye region.",
+   "url": "https://voennoedelo.com/en/posts/id22307-russian-troops-take-zalivnoye-in-zaporozhye-region",
+   "date": "2026-11-17T07:01:00+00:00",
+   "seen": "2026-11-17T20:00:47.420787+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Zalivnoye",
+   "iso": "UKR",
+   "province": "Autonomous Republic of Crimea",
+   "province_id": "14850775B24260608407062",
+   "outlet": "Voennoe Delo",
+   "host": "voennoedelo.com",
+   "partisan": false,
+   "title": "Russian Forces Capture Zalivnoye as Fighting Continues Along Tersa River",
+   "sentence": "Russian troops captured Zalivnoye in the Zaporozhye region.",
+   "url": "https://voennoedelo.com/en/posts/id22307-russian-troops-take-zalivnoye-in-zaporozhye-region",
+   "date": "2026-11-17T07:01:00+00:00",
+   "seen": "2026-11-17T20:00:47.420787+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Crimean Peninsula",
+   "iso": "UKR",
+   "province": "Autonomous Republic of Crimea",
+   "province_id": "14850775B24260608407062",
+   "outlet": "Daily Mail",
+   "host": "dailymail.com",
+   "partisan": false,
+   "title": "Ukraine declares Putin's Crimean bridge 'beyond repair' after unleashing second drone attack as section collapses into river",
+   "sentence": "Vladimir Putin's Kerch Bridge, which connects Russia&#160;with the occupied Crimean Peninsula, has been damaged after it was struck by a second Ukrainian airstrike in 24 hours.",
+   "url": "https://www.dailymail.com/news/article-16298675/Putins-Crimean-bridge-seriously-damaged-second-attack-Ukraine-drones-section-collapses-river.html",
+   "date": "2026-11-16T23:11:00+00:00",
+   "seen": "2026-11-17T20:00:47.420787+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Kupiansk",
+   "iso": "UKR",
+   "province": "Kharkiv Oblast",
+   "province_id": "14850775B15913324833724",
+   "outlet": "Gwara Media",
+   "host": "gwaramedia.com",
+   "partisan": false,
+   "title": "Russian forces change tactics of attacks near Kupiansk in eastern Kharkiv oblast",
+   "sentence": "Russian forces change tactics of attacks near Kupiansk in eastern Kharkiv oblast.",
+   "url": "https://gwaramedia.com/en/russian-forces-change-tactics-of-attacks-near-kupiansk-in-eastern-kharkiv-oblast/",
+   "date": "2026-11-17T09:42:00+00:00",
+   "seen": "2026-11-17T20:00:47.420787+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Aden",
+   "iso": "YEM",
+   "province": "‘Adan Governorate",
+   "province_id": "18629408B11945654439238",
+   "outlet": "Yahoo",
+   "host": "yahoo.com",
+   "partisan": false,
+   "title": "Houthi advance on Aden may spur resurgence of Yemen’s southern separatists",
+   "sentence": "Houthi advance on Aden may spur resurgence of Yemen’s southern separatists.",
+   "url": "https://www.yahoo.com/news/world/articles/houthi-advance-aden-may-spur-152655871.html",
+   "date": "2026-11-17T07:26:00+00:00",
+   "seen": "2026-11-17T20:00:47.420787+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Yemen",
+   "iso": "YEM",
+   "province": "‘Adan Governorate",
+   "province_id": "18629408B11945654439238",
+   "outlet": "Midland Reporter-Telegram on MSN",
+   "host": "msn.com",
+   "partisan": false,
+   "title": "Saudi-backed forces in Yemen bolster defenses near Aden to deter Houthis, and other Mideast news",
+   "sentence": "Saudi-backed forces in Yemen are deploying more troops near Aden to counter a potential Houthi advance.",
+   "url": "https://www.msn.com/en-us/news/other/saudi-backed-forces-in-yemen-bolster-defenses-near-aden-to-deter-houthis-and-other-mideast-news/ar-AA2hC9lC",
+   "date": "2026-11-17T11:08:57+00:00",
+   "seen": "2026-11-17T20:00:47.420787+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Aden",
+   "iso": "YEM",
+   "province": "‘Adan Governorate",
+   "province_id": "18629408B11945654439238",
+   "outlet": "bne IntelliNews on MSN",
+   "host": "msn.com",
+   "partisan": false,
+   "title": "Yemen's government pulls back from Bab al-Mandeb as Houthis advance on Aden",
+   "sentence": "Yemen's government pulls back from Bab al-Mandeb as Houthis advance on Aden.",
+   "url": "https://www.msn.com/en-us/news/other/yemens-government-pulls-back-from-bab-al-mandeb-as-houthis-advance-on-aden/ar-AA2hCezD",
+   "date": "2026-11-17T04:21:22+00:00",
+   "seen": "2026-11-17T20:00:47.420787+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis",
+    "Government"
+   ],
+   "place": "Aden",
+   "iso": "YEM",
+   "province": "‘Adan Governorate",
+   "province_id": "18629408B11945654439238",
+   "outlet": "bne IntelliNews on MSN",
+   "host": "msn.com",
+   "partisan": false,
+   "title": "Explainer: How Yemen's Houthis reached the edge of Aden",
+   "sentence": "Yemen's Houthis have advanced to within 60 km of Aden after government forces withdrew from Bab al-Mandeb, military sources said on November 15.",
+   "url": "https://www.msn.com/en-us/news/other/explainer-how-yemen-s-houthis-reached-the-edge-of-aden/ar-AA2hCZ1e",
+   "date": "2026-11-17T06:21:27+00:00",
+   "seen": "2026-11-17T20:00:47.420787+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Yemen",
+   "iso": "YEM",
+   "province": "‘Adan Governorate",
+   "province_id": "18629408B11945654439238",
+   "outlet": "Associated Press News",
+   "host": "apnews.com",
+   "partisan": false,
+   "title": "Saudi-backed forces in Yemen beef up defenses outside Aden to thwart Houthis, and other Mideast news",
+   "sentence": "Saudi-backed forces in Yemen have deployed more troops near the port city of Aden to counter a potential Houthi rebel advance.",
+   "url": "https://apnews.com/article/mideast-news-israel-gaza-iran-houthis-november-17-2026-36dc900f45aa414a1b8544dce7de53fc",
+   "date": "2026-11-17T03:44:00+00:00",
+   "seen": "2026-11-17T20:00:47.420787+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis",
+    "Government"
+   ],
+   "place": "Aden",
+   "iso": "YEM",
+   "province": "‘Adan Governorate",
+   "province_id": "18629408B11945654439238",
+   "outlet": "bne IntelliNews on MSN",
+   "host": "msn.com",
+   "partisan": false,
+   "title": "Explainer: How Yemen's Houthis reached the edge of Aden",
+   "sentence": "Yemen's Houthis have advanced to within 60 km of Aden after government forces withdrew from Bab al-Mandeb, military sources said on November 15.",
+   "url": "https://www.msn.com/en-us/news/other/explainer-how-yemens-houthis-reached-the-edge-of-aden/ar-AA2hCZ1e",
+   "date": "2026-11-17T06:21:27+00:00",
+   "seen": "2026-11-17T20:00:47.420787+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Yemen",
+   "iso": "YEM",
+   "province": "‘Adan Governorate",
+   "province_id": "18629408B11945654439238",
+   "outlet": "U.S. News & World Report",
+   "host": "usnews.com",
+   "partisan": false,
+   "title": "Saudi-Backed Forces in Yemen Bolster Defenses Near Aden to Deter Houthis, and Other Mideast News",
+   "sentence": "Saudi-backed forces in Yemen have deployed more troops near the port city of Aden to counter a potential Houthi rebel advance ...",
+   "url": "https://www.usnews.com/news/world/articles/2026-11-17/saudi-backed-forces-in-yemen-beef-up-defenses-outside-aden-to-thwart-houthis-and-other-mideast-news",
+   "date": "2026-11-16T22:44:00+00:00",
+   "seen": "2026-11-17T20:00:47.420787+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Aden",
+   "iso": "YEM",
+   "province": "‘Adan Governorate",
+   "province_id": "18629408B11945654439238",
+   "outlet": "Fakti.bg",
+   "host": "fakti.bg",
+   "partisan": false,
+   "title": "The Houthis Are Advancing Toward Aden",
+   "sentence": "The Demographics of the War in Yemen The Houthis are advancing toward Aden and are now less than 100 km from this key port, which was once the capital of the state of South Yemen.",
+   "url": "https://fakti.bg/en/world/1101972-the-houthis-are-advancing-toward-aden",
+   "date": "2026-11-16T23:39:00+00:00",
+   "seen": "2026-11-17T20:00:47.420787+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Yemen",
+   "iso": "YEM",
+   "province": "‘Adan Governorate",
+   "province_id": "18629408B11945654439238",
+   "outlet": "Laredo Morning Times on MSN",
+   "host": "msn.com",
+   "partisan": false,
+   "title": "Saudi-backed forces in Yemen bolster defenses near Aden to deter Houthis and other Mideast news",
+   "sentence": "Saudi-backed forces in Yemen are deploying more troops near Aden to counter a potential Houthi advance.",
+   "url": "https://www.msn.com/en-us/news/news/saudi-backed-forces-in-yemen-bolster-defenses-near-aden-to-deter-houthis-and-other-mideast-news/ar-AA2hC1R5",
+   "date": "2026-11-17T08:38:14+00:00",
+   "seen": "2026-11-17T20:00:47.420787+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel",
+    "Hamas"
+   ],
+   "place": "Gaza",
+   "iso": "PSE",
+   "province": "Gaza",
+   "province_id": "83478781B7121896376882",
+   "outlet": "CaspianReport on MSN",
+   "host": "msn.com",
+   "partisan": false,
+   "title": "Why Hamas rejected Trump's plan to govern Gaza with Tony Blair and an international peace board",
+   "sentence": "After two years of war, Donald Trump brokered a ceasefire agreement between Israel and Hamas, but the deal quickly faced difficulties as Israeli forces opened fire in Gaza and clashes erupted between ...",
+   "url": "https://www.msn.com/en-us/news/other/why-hamas-rejected-trump-s-plan-to-govern-gaza-with-tony-blair-and-an-international-peace-board/vi-AA2hCrpU",
+   "date": "2026-11-17T05:43:34+00:00",
+   "seen": "2026-11-17T20:00:47.420787+00:00"
   }
  ],
  "truce": [
@@ -3207,6 +3685,26 @@
    "sentence": "Houthi fighters have seized territory along Yemen's southern coast as Saudi-backed government forces withdraw to defend Aden amid renewed fighting ...",
    "url": "https://www.outlookindia.com/international/yemen-houthis-advance-saudi-arab-backed-forces-retreat-aden",
    "date": "2026-11-15T23:37:00+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "kind": "end",
+   "outlet": "Orlando Sentinel",
+   "partisan": false,
+   "title": "Board of Peace delivers bleak report on Gaza, warning of ceasefire collapse without immediate action",
+   "sentence": "Board of Peace delivers bleak report on Gaza, warning of ceasefire collapse without immediate action.",
+   "url": "https://www.orlandosentinel.com/2026/11/17/board-of-peace-un-gaza-report/",
+   "date": "2026-11-17T11:24:00+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "kind": "end",
+   "outlet": "Bastille Post",
+   "partisan": false,
+   "title": "Board of Peace delivers bleak report on Gaza, warning of ceasefire collapse without immediate action",
+   "sentence": "Board of Peace delivers bleak report on Gaza, warning of ceasefire collapse without immediate action.",
+   "url": "https://www.bastillepost.com/global/article/6370613-board-of-peace-delivers-bleak-report-on-gaza-warning-of-ceasefire-collapse-without-immediate-action",
+   "date": "2026-11-17T05:05:00+00:00"
   }
  ],
  "withdrawals": [],
@@ -3227,17 +3725,17 @@
      "url": "https://rt-english.com/news/648878-israel-arrests-afp-journalist-over/?utm_source=rss&utm_medium=rss&utm_campaign=RSS"
     },
     {
+     "outlet": "RT",
+     "title": "Israel arrests AFP journalist",
+     "url": "https://rt-english.com/news/648878-israel-arrests-afp-journalist-over/?utm_source=rss&utm_medium=rss&utm_campaign=RSS"
+    },
+    {
      "outlet": "Al Jazeera",
      "title": "Jerusalem Daily: Israeli forces occupy Palestinian-American’s home",
      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/jerusalem-daily-israeli-forces-occupy-palestinian-americans-home?traffic_source=rss"
-    },
-    {
-     "outlet": "Anadolu Agency",
-     "title": "Israeli army arrests 10 Palestinians in raids across occupied West Bank",
-     "url": "https://www.aa.com.tr/en/middle-east/israeli-army-arrests-10-palestinians-in-raids-across-occupied-west-bank/4125011"
     }
    ],
-   "last": "2026-11-16"
+   "last": "2026-11-17"
   },
   {
    "iso": "USA",

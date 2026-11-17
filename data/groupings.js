@@ -1,6 +1,6 @@
 // written by trawler.py — loaded automatically by commandcenter-map.html
 window.TRAWLER_GROUPINGS = {
- "generated": "2026-11-16T21:14:07.177336+00:00",
+ "generated": "2026-11-17T19:59:42.532682+00:00",
  "extractor": "rules",
  "verification": {
   "wikidata": true,
@@ -13,7 +13,7 @@ window.TRAWLER_GROUPINGS = {
    "conflict": "Wikidata contradicts the claim — review"
   }
  },
- "articles_in_store": 1684,
+ "articles_in_store": 1822,
  "blocs": {
   "EU": {
    "name": "European Union",
@@ -882,6 +882,16 @@ window.TRAWLER_GROUPINGS = {
        "sentence": "Zelenskyy said the US floated the idea of Ukraine withdrawing its remaining forces from the eastern Donbas region in exchange for NATO membership.",
        "hedged": false,
        "syndicated_copy": false
+      },
+      {
+       "source": "DW World",
+       "domain": "dw.com",
+       "title": "Back to 1997: Russia wants NATO to roll back its eastern expansion",
+       "url": "https://www.dw.com/en/back-to-1997-russia-wants-nato-to-roll-back-its-eastern-expansion/a-79970289?maca=en-rss-en-world-4025-rdf",
+       "date": "2026-11-17T16:20:00+00:00",
+       "sentence": "Dated November 10, the document reportedly calls not only for an end to Western arms deliveries to Ukraine but also for NATO to withdraw its troops and bases and move them back to where they were in 1997.",
+       "hedged": true,
+       "syndicated_copy": false
       }
      ]
     },
@@ -1020,6 +1030,26 @@ window.TRAWLER_GROUPINGS = {
        "sentence": "Issued on: 14/11/2026 - 11:30Modified: 14/11/2026 - 11:42\nUkraine's President Volodymyr Zelensky said that the United States proposed Ukraine cede land to Russia in exchange for joining NATO and that his government was in talks on \"specific\" security guarantees from the West.",
        "hedged": false,
        "syndicated_copy": false
+      },
+      {
+       "source": "DW World",
+       "domain": "dw.com",
+       "title": "Back to 1997: Russia wants NATO to roll back its eastern expansion",
+       "url": "https://www.dw.com/en/back-to-1997-russia-wants-nato-to-roll-back-its-eastern-expansion/a-79970289?maca=en-rss-en-world-4025-rdf",
+       "date": "2026-11-17T16:20:00+00:00",
+       "sentence": "The draft agreement with NATO also proposed that Russia and NATO members that had already joined the alliance as of May 27, 1997, refrain from deploying additional troops or weapons on the territory of other European countries beyond the levels stationed there on that date.",
+       "hedged": true,
+       "syndicated_copy": false
+      },
+      {
+       "source": "DW World",
+       "domain": "dw.com",
+       "title": "Back to 1997: Russia wants NATO to roll back its eastern expansion",
+       "url": "https://www.dw.com/en/back-to-1997-russia-wants-nato-to-roll-back-its-eastern-expansion/a-79970289?maca=en-rss-en-world-4025-rdf",
+       "date": "2026-11-17T16:20:00+00:00",
+       "sentence": "The draft agreement with NATO also proposed that Russia and NATO members that had already joined the alliance as of May 27, 1997, refrain from deploying additional troops or weapons on the territory of other European countries beyond the levels stationed there on that date.",
+       "hedged": true,
+       "syndicated_copy": true
       }
      ]
     },
@@ -1243,6 +1273,25 @@ window.TRAWLER_GROUPINGS = {
        "syndicated_copy": false
       }
      ]
+    },
+    {
+     "country": "RUS",
+     "action": "left",
+     "status": "speculative",
+     "wikidata": "unknown",
+     "independent_outlets": 0,
+     "evidence": [
+      {
+       "source": "DW World",
+       "domain": "dw.com",
+       "title": "Back to 1997: Russia wants NATO to roll back its eastern expansion",
+       "url": "https://www.dw.com/en/back-to-1997-russia-wants-nato-to-roll-back-its-eastern-expansion/a-79970289?maca=en-rss-en-world-4025-rdf",
+       "date": "2026-11-17T16:20:00+00:00",
+       "sentence": "A withdrawal would make defense more difficult and could lead Russia to believe that an attack on NATO territory would involve fewer risks for Moscow.",
+       "hedged": true,
+       "syndicated_copy": false
+      }
+     ]
     }
    ]
   },
@@ -1402,6 +1451,35 @@ window.TRAWLER_GROUPINGS = {
        "sentence": "Albanese, in the Philippines before a meeting of Quad leaders and talks with south-east Asian leaders at the Asean summit, left open the possibility of joining an Apec group photo with Putin if China wished for it to go ahead.",
        "hedged": true,
        "syndicated_copy": false
+      }
+     ]
+    },
+    {
+     "country": "PHL",
+     "action": "joined",
+     "status": "speculative",
+     "wikidata": "unknown",
+     "independent_outlets": 0,
+     "evidence": [
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
+       "url": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines",
+       "date": "2026-11-17T11:00:39+00:00",
+       "sentence": "Organisers claimed as many as 10,000 people would be joining protests against Trump in the capital of the Philippines on Tuesday, where he is attending the Association of Southeast Asian Nations (Asean) summit.",
+       "hedged": true,
+       "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
+       "url": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines",
+       "date": "2026-11-17T11:00:39+00:00",
+       "sentence": "Organisers claimed as many as 10,000 people would be joining protests against Trump in the capital of the Philippines on Tuesday, where he is attending the Association of Southeast Asian Nations (Asean) summit.",
+       "hedged": true,
+       "syndicated_copy": true
       }
      ]
     }
@@ -1707,6 +1785,25 @@ window.TRAWLER_GROUPINGS = {
        "url": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
        "date": "2026-11-16T21:00:21+00:00",
        "sentence": "Underlying the diplomatic swing are efforts by the federal government to avoid angering China as the Quad leaders gather for the first time since 2024 – and after Australia joined countries, including the US and Japan, in an agreement for new protections around key AI technologies.",
+       "hedged": false,
+       "syndicated_copy": false
+      }
+     ]
+    },
+    {
+     "country": "CHN",
+     "action": "applied",
+     "status": "single-source",
+     "wikidata": "unknown",
+     "independent_outlets": 1,
+     "evidence": [
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "‘Peace through strength’: Albanese and Trump hail progress on Quad alliance",
+       "url": "https://www.theguardian.com/us-news/2026/nov/17/peace-through-strength-albanese-and-trump-hail-progress-on-quad-alliance",
+       "date": "2026-11-17T12:22:56+00:00",
+       "sentence": "It’s about our own sovereignty, but also about peace and security in the region,” he said\nThe Quad leaders want the group to present a multilateral coalition of resistance against Beijing, seeking to undermine its dominance, including in the South and East China seas.",
        "hedged": false,
        "syndicated_copy": false
       }
@@ -2767,6 +2864,16 @@ window.TRAWLER_GROUPINGS = {
      "sentence": "Zelenskyy said the US floated the idea of Ukraine withdrawing its remaining forces from the eastern Donbas region in exchange for NATO membership.",
      "hedged": false,
      "syndicated_copy": false
+    },
+    {
+     "source": "DW World",
+     "domain": "dw.com",
+     "title": "Back to 1997: Russia wants NATO to roll back its eastern expansion",
+     "url": "https://www.dw.com/en/back-to-1997-russia-wants-nato-to-roll-back-its-eastern-expansion/a-79970289?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-11-17T16:20:00+00:00",
+     "sentence": "Dated November 10, the document reportedly calls not only for an end to Western arms deliveries to Ukraine but also for NATO to withdraw its troops and bases and move them back to where they were in 1997.",
+     "hedged": true,
+     "syndicated_copy": false
     }
    ]
   },
@@ -2927,6 +3034,26 @@ window.TRAWLER_GROUPINGS = {
      "sentence": "Issued on: 14/11/2026 - 11:30Modified: 14/11/2026 - 11:42\nUkraine's President Volodymyr Zelensky said that the United States proposed Ukraine cede land to Russia in exchange for joining NATO and that his government was in talks on \"specific\" security guarantees from the West.",
      "hedged": false,
      "syndicated_copy": false
+    },
+    {
+     "source": "DW World",
+     "domain": "dw.com",
+     "title": "Back to 1997: Russia wants NATO to roll back its eastern expansion",
+     "url": "https://www.dw.com/en/back-to-1997-russia-wants-nato-to-roll-back-its-eastern-expansion/a-79970289?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-11-17T16:20:00+00:00",
+     "sentence": "The draft agreement with NATO also proposed that Russia and NATO members that had already joined the alliance as of May 27, 1997, refrain from deploying additional troops or weapons on the territory of other European countries beyond the levels stationed there on that date.",
+     "hedged": true,
+     "syndicated_copy": false
+    },
+    {
+     "source": "DW World",
+     "domain": "dw.com",
+     "title": "Back to 1997: Russia wants NATO to roll back its eastern expansion",
+     "url": "https://www.dw.com/en/back-to-1997-russia-wants-nato-to-roll-back-its-eastern-expansion/a-79970289?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-11-17T16:20:00+00:00",
+     "sentence": "The draft agreement with NATO also proposed that Russia and NATO members that had already joined the alliance as of May 27, 1997, refrain from deploying additional troops or weapons on the territory of other European countries beyond the levels stationed there on that date.",
+     "hedged": true,
+     "syndicated_copy": true
     }
    ]
   },
@@ -3065,6 +3192,26 @@ window.TRAWLER_GROUPINGS = {
      "url": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
      "date": "2026-11-16T21:00:21+00:00",
      "sentence": "Underlying the diplomatic swing are efforts by the federal government to avoid angering China as the Quad leaders gather for the first time since 2024 – and after Australia joined countries, including the US and Japan, in an agreement for new protections around key AI technologies.",
+     "hedged": false,
+     "syndicated_copy": false
+    }
+   ]
+  },
+  {
+   "group": "Quad",
+   "country": "CHN",
+   "action": "applied",
+   "status": "single-source",
+   "wikidata": "unknown",
+   "independent_outlets": 1,
+   "evidence": [
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "‘Peace through strength’: Albanese and Trump hail progress on Quad alliance",
+     "url": "https://www.theguardian.com/us-news/2026/nov/17/peace-through-strength-albanese-and-trump-hail-progress-on-quad-alliance",
+     "date": "2026-11-17T12:22:56+00:00",
+     "sentence": "It’s about our own sovereignty, but also about peace and security in the region,” he said\nThe Quad leaders want the group to present a multilateral coalition of resistance against Beijing, seeking to undermine its dominance, including in the South and East China seas.",
      "hedged": false,
      "syndicated_copy": false
     }
