@@ -2147,5 +2147,230 @@
    "lat": 12.8,
    "lon": 45.03
   }
- ]
+ ],
+ "Jericho|PSE": [
+  {
+   "qid": "Q5687",
+   "iso": "PSE",
+   "lat": 31.856111111111,
+   "lon": 35.463055555556
+  },
+  {
+   "qid": "Q2402267",
+   "iso": "PSE",
+   "lat": 31.87171944,
+   "lon": 35.44456389
+  }
+ ],
+ "Jericho|LBN": [],
+ "Yellow Line|MMR": [],
+ "Yellow Line|PSE": [],
+ "Yellow Line|LBN": [],
+ "Luhansk Oblast|MMR": [],
+ "Modern Art|RUS,UKR": [],
+ "Qeshm Island|MMR": [],
+ "Bahrain Read Full|MMR": [],
+ "Svetloye|RUS,UKR": [
+  {
+   "qid": "Q2372609",
+   "iso": "RUS",
+   "lat": 60.551944444444445,
+   "lon": 29.780555555555555
+  },
+  {
+   "qid": "Q15254856",
+   "iso": "RUS",
+   "lat": 53.693597,
+   "lon": 60.369913
+  },
+  {
+   "qid": "Q12151264",
+   "iso": "RUS",
+   "lat": 57.05777778,
+   "lon": 53.62194444
+  },
+  {
+   "qid": "Q24729276",
+   "iso": "RUS",
+   "lat": 52.9075,
+   "lon": 81.05417
+  },
+  {
+   "qid": "Q15276036",
+   "iso": "RUS",
+   "lat": 56.926826,
+   "lon": 61.797486
+  },
+  {
+   "qid": "Q37965055",
+   "iso": "RUS",
+   "lat": 52.293888888889,
+   "lon": 85.651666666667
+  },
+  {
+   "qid": "Q37961874",
+   "iso": "RUS",
+   "lat": 60.502777777778,
+   "lon": 60.016944444444
+  },
+  {
+   "qid": "Q28482976",
+   "iso": "RUS",
+   "lat": 44.152616,
+   "lon": 42.2285
+  },
+  {
+   "qid": "Q4410408",
+   "iso": "UKR",
+   "lat": 45.197222222222,
+   "lon": 35.304166666667
+  }
+ ],
+ "Starobelsk|MMR": [],
+ "Federal Register|RUS,UKR": [],
+ "Medical Organizations|RUS,UKR": [],
+ "Crimean Bridge|MMR": [],
+ "Anti-Corruption Foundation|RUS,UKR": [],
+ "Poland|RUS,UKR": [],
+ "Volkov|RUS,UKR": [
+  {
+   "qid": "Q1848616",
+   "iso": "RUS",
+   "lat": 59.901624,
+   "lon": 30.362605
+  },
+  {
+   "qid": "Q4263743",
+   "iso": "RUS",
+   "lat": 59.904422222222,
+   "lon": 30.36154
+  },
+  {
+   "qid": "Q1058016",
+   "iso": "RUS",
+   "lat": 55.176388888889,
+   "lon": 56.355833333333
+  }
+ ],
+ "Jericho|SDN": [],
+ "Care|RUS,UKR": [],
+ "Kramatorsk|RUS,UKR": [
+  {
+   "qid": "Q33613",
+   "iso": "UKR",
+   "lat": 48.73916666666667,
+   "lon": 37.583888888888886
+  },
+  {
+   "qid": "Q97495623",
+   "iso": "UKR",
+   "lat": 48.747695,
+   "lon": 37.394
+  },
+  {
+   "qid": "Q4237543",
+   "iso": "UKR",
+   "lat": 48.725805555556,
+   "lon": 37.543444444444
+  },
+  {
+   "qid": "Q107295402",
+   "iso": "UKR",
+   "lat": 48.720833333333,
+   "lon": 37.555555555556
+  },
+  {
+   "qid": "Q111528870",
+   "iso": "UKR",
+   "lat": 48.72611111111111,
+   "lon": 37.54277777777778
+  },
+  {
+   "qid": "Q20529086",
+   "iso": "UKR",
+   "lat": 48.70555556,
+   "lon": 37.62888889
+  }
+ ],
+ "Andreyevka|RUS,UKR": [
+  {
+   "qid": "Q4065578",
+   "iso": "UKR",
+   "lat": 49.5325,
+   "lon": 36.621944444444
+  },
+  {
+   "qid": "Q1064018",
+   "iso": "RUS",
+   "lat": 55.696111111111,
+   "lon": 54.386944444444
+  },
+  {
+   "qid": "Q3616196",
+   "iso": "RUS",
+   "lat": 55.979722222222,
+   "lon": 37.135277777778
+  },
+  {
+   "qid": "Q4065620",
+   "iso": "RUS",
+   "lat": 53.698888888889,
+   "lon": 54.753055555556
+  },
+  {
+   "qid": "Q2791073",
+   "iso": "RUS",
+   "lat": 42.644444444444,
+   "lon": 131.12638888889
+  },
+  {
+   "qid": "Q4065619",
+   "iso": "RUS",
+   "lat": 55.582222222222,
+   "lon": 55.636388888889
+  },
+  {
+   "qid": "Q18765355",
+   "iso": "RUS",
+   "lat": 56.63278,
+   "lon": 48.24389
+  },
+  {
+   "qid": "Q15255308",
+   "iso": "RUS",
+   "lat": 44.5546,
+   "lon": 133.515
+  },
+  {
+   "qid": "Q16015074",
+   "iso": "RUS",
+   "lat": 54.736111111111,
+   "lon": 100.70222222222
+  },
+  {
+   "qid": "Q12529251",
+   "iso": "RUS",
+   "lat": 61.388888888889,
+   "lon": 42.715
+  },
+  {
+   "qid": "Q1068151",
+   "iso": "RUS",
+   "lat": 52.828611111111,
+   "lon": 56.336666666667
+  }
+ ],
+ "Front Line|RUS,UKR": [],
+ "Russia’s Shadow War|RUS,UKR": [],
+ "Leipzig|RUS,UKR": [],
+ "Yemen Step Up|YEM": [],
+ "South Kivu|SDN": [],
+ "Nyabiondo|SDN": [],
+ "Masisi|SDN": [],
+ "Democratic Republic|COD": [],
+ "Congo|COD": [],
+ "Airstrikes|SOM": [],
+ "Somalia Amid Heavy|SOM": [],
+ "US Africa Command|SOM": [],
+ "Gaza|MMR": []
 }

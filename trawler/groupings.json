@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T19:59:42.532682+00:00",
+ "generated": "2026-11-18T19:34:32.669011+00:00",
  "extractor": "rules",
  "verification": {
   "wikidata": true,
@@ -12,7 +12,7 @@
    "conflict": "Wikidata contradicts the claim — review"
   }
  },
- "articles_in_store": 1822,
+ "articles_in_store": 1963,
  "blocs": {
   "EU": {
    "name": "European Union",
@@ -53,81 +53,18 @@
     "qid": "Q458",
     "label": null
    },
-   "baseline_audit": null,
+   "baseline_audit": {
+    "in_wikidata_not_baseline": [],
+    "in_baseline_not_wikidata": [
+     "NLD"
+    ]
+   },
    "changes": [
-    {
-     "country": "SRB",
-     "action": "applied",
-     "status": "single-source",
-     "wikidata": "unknown",
-     "independent_outlets": 1,
-     "evidence": [
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Serbia detains police officers over alleged use of force against protesters",
-       "url": "https://www.theguardian.com/world/2026/nov/04/serbia-officers-protesters",
-       "date": "2026-11-04T20:42:14+00:00",
-       "sentence": "Anti-corruption protests swept ⁠across Serbia, ​a candidate for European Union membership, in 2025 and 2026 after 16 people died when a concrete canopy ⁠on a renovated railway station in the city of Novi Sad collapsed on 1 November 2024.",
-       "hedged": false,
-       "syndicated_copy": false
-      }
-     ]
-    },
-    {
-     "country": "GBR",
-     "action": "applied",
-     "status": "single-source",
-     "wikidata": "unknown",
-     "independent_outlets": 1,
-     "evidence": [
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "EU presses UK to guarantee discounted university tuition fees for European students",
-       "url": "https://www.theguardian.com/world/2026/nov/05/eu-seeks-firmer-pledge-from-uk-discounted-university-tuition-fees",
-       "date": "2026-11-05T16:58:54+00:00",
-       "sentence": "Failure to agree lower fees for EU citizens studying in UK should delay prized food and drink deal, members say\nUK politics live – latest updates\nThe EU is seeking a firmer pledge from the British government to guarantee European students discounted rates on university tuition fees before a much-anticipated summit this month.",
-       "hedged": false,
-       "syndicated_copy": false
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "EU presses UK to guarantee discounted university tuition fees for European students",
-       "url": "https://www.theguardian.com/world/2026/nov/05/eu-seeks-firmer-pledge-from-uk-discounted-university-tuition-fees",
-       "date": "2026-11-05T16:58:54+00:00",
-       "sentence": "Failure to agree lower fees for EU citizens studying in UK should delay prized food and drink deal, members say\nUK politics live – latest updates\nThe EU is seeking a firmer pledge from the British government to guarantee European students discounted rates on university tuition fees before a much-anticipated summit this month.",
-       "hedged": false,
-       "syndicated_copy": true
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Britain willing to discuss paying into EU to join electricity market, says minister",
-       "url": "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer",
-       "date": "2026-11-10T17:52:07+00:00",
-       "sentence": "The UK had been seeking to join the first round of the EU’s Security Action for Europe (Safe) fund, a low-interest loan scheme that is part of the EU’s push to grow defence spending by €800bn.",
-       "hedged": false,
-       "syndicated_copy": false
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Britain willing to discuss paying into EU to join electricity market, says minister",
-       "url": "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer",
-       "date": "2026-11-10T17:52:07+00:00",
-       "sentence": "The UK had been seeking to join the first round of the EU’s Security Action for Europe (Safe) fund, a low-interest loan scheme that is part of the EU’s push to grow defence spending by €800bn.",
-       "hedged": false,
-       "syndicated_copy": true
-      }
-     ]
-    },
     {
      "country": "GBR",
      "action": "left",
-     "status": "single-source",
-     "wikidata": "unknown",
+     "status": "confirmed",
+     "wikidata": "agrees",
      "independent_outlets": 1,
      "evidence": [
       {
@@ -208,6 +145,84 @@
        "date": "2026-11-16T07:00:38+00:00",
        "sentence": "It is the latest in a string of comments by the prime minister criticising Brexit, after he told the Welsh Labour conference on Saturday that the UK has “lost more than we gained” through leaving the EU.",
        "hedged": false,
+       "syndicated_copy": false
+      }
+     ]
+    },
+    {
+     "country": "SRB",
+     "action": "applied",
+     "status": "single-source",
+     "wikidata": "unknown",
+     "independent_outlets": 1,
+     "evidence": [
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Serbia detains police officers over alleged use of force against protesters",
+       "url": "https://www.theguardian.com/world/2026/nov/04/serbia-officers-protesters",
+       "date": "2026-11-04T20:42:14+00:00",
+       "sentence": "Anti-corruption protests swept ⁠across Serbia, ​a candidate for European Union membership, in 2025 and 2026 after 16 people died when a concrete canopy ⁠on a renovated railway station in the city of Novi Sad collapsed on 1 November 2024.",
+       "hedged": false,
+       "syndicated_copy": false
+      }
+     ]
+    },
+    {
+     "country": "GBR",
+     "action": "applied",
+     "status": "single-source",
+     "wikidata": "unknown",
+     "independent_outlets": 1,
+     "evidence": [
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "EU presses UK to guarantee discounted university tuition fees for European students",
+       "url": "https://www.theguardian.com/world/2026/nov/05/eu-seeks-firmer-pledge-from-uk-discounted-university-tuition-fees",
+       "date": "2026-11-05T16:58:54+00:00",
+       "sentence": "Failure to agree lower fees for EU citizens studying in UK should delay prized food and drink deal, members say\nUK politics live – latest updates\nThe EU is seeking a firmer pledge from the British government to guarantee European students discounted rates on university tuition fees before a much-anticipated summit this month.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "EU presses UK to guarantee discounted university tuition fees for European students",
+       "url": "https://www.theguardian.com/world/2026/nov/05/eu-seeks-firmer-pledge-from-uk-discounted-university-tuition-fees",
+       "date": "2026-11-05T16:58:54+00:00",
+       "sentence": "Failure to agree lower fees for EU citizens studying in UK should delay prized food and drink deal, members say\nUK politics live – latest updates\nThe EU is seeking a firmer pledge from the British government to guarantee European students discounted rates on university tuition fees before a much-anticipated summit this month.",
+       "hedged": false,
+       "syndicated_copy": true
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Britain willing to discuss paying into EU to join electricity market, says minister",
+       "url": "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer",
+       "date": "2026-11-10T17:52:07+00:00",
+       "sentence": "The UK had been seeking to join the first round of the EU’s Security Action for Europe (Safe) fund, a low-interest loan scheme that is part of the EU’s push to grow defence spending by €800bn.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Britain willing to discuss paying into EU to join electricity market, says minister",
+       "url": "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer",
+       "date": "2026-11-10T17:52:07+00:00",
+       "sentence": "The UK had been seeking to join the first round of the EU’s Security Action for Europe (Safe) fund, a low-interest loan scheme that is part of the EU’s push to grow defence spending by €800bn.",
+       "hedged": false,
+       "syndicated_copy": true
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "EU to reject UK talks on longer-term ties pending clarity from Burnham on next steps",
+       "url": "https://www.theguardian.com/politics/2026/nov/18/eu-uk-reset-summit-talks-burnham-brexit",
+       "date": "2026-11-18T19:17:19+00:00",
+       "sentence": "Diplomats says piecemeal approach of resets coming to an end and they want government decision on whether it will seek to reverse Brexit\nThe EU will shut the door to discussions with Andy Burnham about the UK’s longer-term relationship with the bloc until the government has decided whether it wants to proceed with reversing Brexit, diplomats have said.",
+       "hedged": true,
        "syndicated_copy": false
       }
      ]
@@ -2213,95 +2228,15 @@
      "sentence": "The UK had been seeking to join the first round of the EU’s Security Action for Europe (Safe) fund, a low-interest loan scheme that is part of the EU’s push to grow defence spending by €800bn.",
      "hedged": false,
      "syndicated_copy": true
-    }
-   ]
-  },
-  {
-   "group": "European Union",
-   "country": "GBR",
-   "action": "left",
-   "status": "single-source",
-   "wikidata": "unknown",
-   "independent_outlets": 1,
-   "evidence": [
-    {
-     "source": "The Guardian World",
-     "domain": "theguardian.com",
-     "title": "Home Office sued after stripping almost 1,500 EU citizens of right to live in UK",
-     "url": "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled",
-     "date": "2026-11-07T09:15:35+00:00",
-     "sentence": "Campaign group the3million lodges court papers after EU citizens told pre-settled status was an ‘error’\nThe Home Office is being sued for alleged breach of the Brexit withdrawal agreement after stripping almost 1,500 EU citizens of their full rights to live in the UK.",
-     "hedged": false,
-     "syndicated_copy": false
     },
     {
      "source": "The Guardian World",
      "domain": "theguardian.com",
-     "title": "Home Office sued after stripping almost 1,500 EU citizens of right to live in UK",
-     "url": "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled",
-     "date": "2026-11-07T09:15:35+00:00",
-     "sentence": "Campaign group the3million lodges court papers after EU citizens told pre-settled status was an ‘error’\nThe Home Office is being sued for alleged breach of the Brexit withdrawal agreement after stripping almost 1,500 EU citizens of their full rights to live in the UK.",
-     "hedged": false,
-     "syndicated_copy": true
-    },
-    {
-     "source": "BBC World",
-     "domain": "bbc.co.uk",
-     "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-     "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
-     "date": "2026-11-07T15:19:35+00:00",
-     "sentence": "The prime minister has said rejoining the bloc's internal market was among options he could pursue as part of a reshaping of ties since the UK's exit from the EU nearly six years ago.",
+     "title": "EU to reject UK talks on longer-term ties pending clarity from Burnham on next steps",
+     "url": "https://www.theguardian.com/politics/2026/nov/18/eu-uk-reset-summit-talks-burnham-brexit",
+     "date": "2026-11-18T19:17:19+00:00",
+     "sentence": "Diplomats says piecemeal approach of resets coming to an end and they want government decision on whether it will seek to reverse Brexit\nThe EU will shut the door to discussions with Andy Burnham about the UK’s longer-term relationship with the bloc until the government has decided whether it wants to proceed with reversing Brexit, diplomats have said.",
      "hedged": true,
-     "syndicated_copy": false
-    },
-    {
-     "source": "The Guardian World",
-     "domain": "theguardian.com",
-     "title": "Britain willing to discuss paying into EU to join electricity market, says minister",
-     "url": "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer",
-     "date": "2026-11-10T17:52:07+00:00",
-     "sentence": "Clearly it’s something that on the EU side there’s real interest, so we are engaging in that discussion but I can’t comment in detail on the negotiations.”\nFalconer was firmly positive about the UK’s return next year to the Erasmus+ student exchange scheme, which the UK left under Boris Johnson’s Brexit deal in 2020, and will be open not just to universities but also to schools and colleges.",
-     "hedged": false,
-     "syndicated_copy": false
-    },
-    {
-     "source": "The Guardian World",
-     "domain": "theguardian.com",
-     "title": "Andy Burnham says UK has ‘lost more than we gained’ through Brexit",
-     "url": "https://www.theguardian.com/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit",
-     "date": "2026-11-14T15:34:54+00:00",
-     "sentence": "PM accuses Tories of burning ‘all our bridges’ and says deal he is pursuing with EU will ‘get food prices down’\nAndy Burnham has said the UK has “lost more than we gained” since leaving the EU, the prime minister’s latest in a string of comments criticising Brexit.",
-     "hedged": false,
-     "syndicated_copy": false
-    },
-    {
-     "source": "The Guardian World",
-     "domain": "theguardian.com",
-     "title": "Andy Burnham says UK has ‘lost more than we gained’ through Brexit",
-     "url": "https://www.theguardian.com/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit",
-     "date": "2026-11-14T15:34:54+00:00",
-     "sentence": "PM accuses Tories of burning ‘all our bridges’ and says deal he is pursuing with EU will ‘get food prices down’\nAndy Burnham has said the UK has “lost more than we gained” since leaving the EU, the prime minister’s latest in a string of comments criticising Brexit.",
-     "hedged": false,
-     "syndicated_copy": true
-    },
-    {
-     "source": "The Guardian World",
-     "domain": "theguardian.com",
-     "title": "Monday briefing: The many stages of the UK-EU relationship – and what’s next",
-     "url": "https://www.theguardian.com/world/2026/nov/16/monday-briefing-the-many-stages-of-the-uk-eu-relationship-and-whats-next",
-     "date": "2026-11-16T06:46:27+00:00",
-     "sentence": "While the guy you really want to hear from right now – David Cameron, the prime minister who lost the 2016 Brexit referendum – has insisted the UK’s problems have nothing to do with its exit from the EU.",
-     "hedged": false,
-     "syndicated_copy": false
-    },
-    {
-     "source": "The Guardian World",
-     "domain": "theguardian.com",
-     "title": "Andy Burnham to say Brexit ‘has not worked’ and he will sign new deal with EU",
-     "url": "https://www.theguardian.com/politics/2026/nov/16/andy-burnham-brexit-has-not-worked-sign-new-deal-with-eu",
-     "date": "2026-11-16T07:00:38+00:00",
-     "sentence": "It is the latest in a string of comments by the prime minister criticising Brexit, after he told the Welsh Labour conference on Saturday that the UK has “lost more than we gained” through leaving the EU.",
-     "hedged": false,
      "syndicated_copy": false
     }
    ]

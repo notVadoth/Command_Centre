@@ -3603,6 +3603,393 @@
    "url": "https://www.msn.com/en-us/news/other/why-hamas-rejected-trump-s-plan-to-govern-gaza-with-tony-blair-and-an-international-peace-board/vi-AA2hCrpU",
    "date": "2026-11-17T05:43:34+00:00",
    "seen": "2026-11-17T20:00:47.420787+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Kharkiv",
+   "iso": "UKR",
+   "province": "Kharkiv Oblast",
+   "province_id": "14850775B15913324833724",
+   "outlet": "BBC News",
+   "host": "bbc.co.uk",
+   "partisan": false,
+   "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+   "sentence": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
+   "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T17:00:04+00:00",
+   "seen": "2026-11-18T19:35:24.509889+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "West Bank",
+   "iso": "PSE",
+   "province": "West Bank",
+   "province_id": "83478781B28849486138516",
+   "outlet": "The Guardian",
+   "host": "theguardian.com",
+   "partisan": false,
+   "title": "Palestinian woman shot dead by Israeli settlers near Jericho, witnesses say",
+   "sentence": "Bullet hit 72-year-old Fadha Wadha in head outside her home in al-Duyuk al-Tahta, in the West Bank, say residents A 72-year-old Palestinian woman has been shot dead in an overnight attack by Israeli settlers in a village near Jericho where settlers have recently moved in after taking over several Pa",
+   "url": "https://www.theguardian.com/world/2026/nov/17/palestinian-woman-shot-dead-israeli-settlers-near-jericho-witnesses-say",
+   "date": "2026-11-17T20:21:48+00:00",
+   "seen": "2026-11-18T19:35:24.509889+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis",
+    "Government"
+   ],
+   "place": "Aden",
+   "iso": "YEM",
+   "province": "‘Adan Governorate",
+   "province_id": "18629408B11945654439238",
+   "outlet": "France 24",
+   "host": "france24.com",
+   "partisan": false,
+   "title": "Yemen: Why the Houthis may besiege Aden rather than storm it",
+   "sentence": "Bolstered by their recent military successes, Houthi rebels this week advanced close to the southern port city of Aden, the interim capital of the internationally recognised Yemeni government.",
+   "url": "https://www.france24.com/en/middle-east/20261118-yemen-why-the-houthis-may-besiege-aden-rather-than-storm-it",
+   "date": "2026-11-18T15:55:41+00:00",
+   "seen": "2026-11-18T19:35:24.509889+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Luhansk Oblast",
+   "iso": "UKR",
+   "province": "Luhansk Oblast",
+   "province_id": "14850775B31033086218351",
+   "outlet": "Kyiv Independent",
+   "host": "kyivindependent.com",
+   "partisan": false,
+   "title": "Ukraine strikes Russian bridge in occupied Luhansk Oblast, damages 3 military aircraft, General Staff says",
+   "sentence": "Ukraine strikes Russian bridge in occupied Luhansk Oblast, damages 3 military aircraft, General Staff says.",
+   "url": "https://kyivindependent.com/ukraine-strikes-russian-bridge-in-occupied-luhansk-oblast-damages-3-military-aircraft-general-staff-says/",
+   "date": "2026-11-18T15:20:23+00:00",
+   "seen": "2026-11-18T19:35:24.509889+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Krasnodar Krai",
+   "iso": "RUS",
+   "province": "Krasnodar Krai",
+   "province_id": "28173009B83675725671802",
+   "outlet": "Kyiv Independent",
+   "host": "kyivindependent.com",
+   "partisan": false,
+   "title": "Ukrainian General Staff confirms overnight attack on 2 Russian oil refineries in Krasnodar Krai",
+   "sentence": "Ukrainian General Staff confirms overnight attack on 2 Russian oil refineries in Krasnodar Krai.",
+   "url": "https://kyivindependent.com/2-russian-oil-refineries-reportedly-targeted-in-overnight-drone-attack-on-krasnodar-krai/",
+   "date": "2026-11-18T04:56:50+00:00",
+   "seen": "2026-11-18T19:35:24.509889+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Kaliningrad",
+   "iso": "RUS",
+   "province": "Kaliningrad",
+   "province_id": "28173009B40138449315491",
+   "outlet": "Kyiv Independent",
+   "host": "kyivindependent.com",
+   "partisan": false,
+   "title": "'The goal was to halt aid to Ukraine' — Russia planned high casualty false-flag attack near Kaliningrad border, Rzeczpospolita reports",
+   "sentence": "Russia planned high casualty false-flag attack near Kaliningrad border, Rzeczpospolita reports.",
+   "url": "https://kyivindependent.com/the-goal-was-to-halt-aid-to-ukraine-russia-planned-high-casualty-false-flag-attack-near-kaliningrad-border-rzeczpospolita-reports/",
+   "date": "2026-11-18T11:49:53+00:00",
+   "seen": "2026-11-18T19:35:24.509889+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Kharkiv Oblast",
+   "iso": "UKR",
+   "province": "Kharkiv Oblast",
+   "province_id": "14850775B15913324833724",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "Russians launch evening attack on Kharkiv Oblast: apartment building hit, one injured",
+   "sentence": "Russians launch evening attack on Kharkiv Oblast: apartment building hit, one injured.",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/18/8063512/",
+   "date": "2026-11-18T18:18:00+00:00",
+   "seen": "2026-11-18T19:35:24.509889+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Odesa",
+   "iso": "UKR",
+   "province": "Odessa Oblast",
+   "province_id": "14850775B53240635394722",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "Russian attack damages Museum of Modern Art in Odesa – photo",
+   "sentence": "Russian attack damages Museum of Modern Art in Odesa",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/18/8063495/",
+   "date": "2026-11-18T16:54:00+00:00",
+   "seen": "2026-11-18T19:35:24.509889+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Crimea",
+   "iso": "UKR",
+   "province": "Autonomous Republic of Crimea",
+   "province_id": "14850775B24260608407062",
+   "outlet": "Meduza",
+   "host": "meduza.io",
+   "partisan": false,
+   "title": "Russia has closed one in six maternity hospitals in six years, BBC Russia finds. Officials blame falling birth rates and declining women’s health.",
+   "sentence": "The number of maternity hospitals and hospitals with maternity wards in Russia and occupied Crimea has fallen 18% since late 2020, according to calculations by BBC Russia based on data from the Federal Register of Medical Organizations (FRMO).",
+   "url": "https://meduza.io/en/feature/2026/11/18/russia-has-closed-one-in-six-maternity-hospitals-in-six-years-bbc-russia-finds-officials-blame-falling-birth-rates-and-declining-women-s-health",
+   "date": "2026-11-18T15:22:18+00:00",
+   "seen": "2026-11-18T19:35:24.509889+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "Jericho",
+   "iso": "PSE",
+   "province": "West Bank",
+   "province_id": "83478781B28849486138516",
+   "outlet": "Al Jazeera",
+   "host": "aljazeera.com",
+   "partisan": false,
+   "title": "Jerusalem Daily: Chaos in the Knesset as new speaker elected",
+   "sentence": "Israel’s army beat a journalist covering a settler attack near Jericho.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/jerusalem-daily-chaos-in-the-knesset-as-new-speaker-elected?traffic_source=rss",
+   "date": "2026-11-18T16:28:54+00:00",
+   "seen": "2026-11-18T19:35:24.509889+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Kharkiv",
+   "iso": "UKR",
+   "province": "Kharkiv Oblast",
+   "province_id": "14850775B15913324833724",
+   "outlet": "BBC on MSN",
+   "host": "msn.com",
+   "partisan": false,
+   "title": "Inside the old gas pipeline where Ukraine is fighting an underground war",
+   "sentence": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
+   "url": "https://www.msn.com/en-us/news/other/inside-the-old-gas-pipeline-where-ukraine-is-fighting-an-underground-war/ar-AA2hHHGY",
+   "date": "2026-11-18T09:00:04+00:00",
+   "seen": "2026-11-18T19:35:24.509889+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Kharkov",
+   "iso": "UKR",
+   "province": "Kharkiv Oblast",
+   "province_id": "14850775B15913324833724",
+   "outlet": "Voennoe Delo",
+   "host": "voennoedelo.com",
+   "partisan": false,
+   "title": "Ukraine Frontline Update for November 18: Russian Advances and Fighting Across Six Sectors",
+   "sentence": "Russian reports describe gains near Kharkov, fighting around Kupyansk and Orekhov, and the claimed capture of Zalivnoye.",
+   "url": "https://voennoedelo.com/en/posts/id22348-ukraine-frontline-update-russian-advances-november-18",
+   "date": "2026-11-18T01:59:00+00:00",
+   "seen": "2026-11-18T19:35:24.509889+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Zalivnoye",
+   "iso": "UKR",
+   "province": "Autonomous Republic of Crimea",
+   "province_id": "14850775B24260608407062",
+   "outlet": "Voennoe Delo",
+   "host": "voennoedelo.com",
+   "partisan": false,
+   "title": "Ukraine Frontline Update for November 18: Russian Advances and Fighting Across Six Sectors",
+   "sentence": "Russian reports describe gains near Kharkov, fighting around Kupyansk and Orekhov, and the claimed capture of Zalivnoye.",
+   "url": "https://voennoedelo.com/en/posts/id22348-ukraine-frontline-update-russian-advances-november-18",
+   "date": "2026-11-18T01:59:00+00:00",
+   "seen": "2026-11-18T19:35:24.509889+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Kramatorsk",
+   "iso": "UKR",
+   "province": "Donetsk Oblast",
+   "province_id": "14850775B15615817748403",
+   "outlet": "Voennoe Delo",
+   "host": "voennoedelo.com",
+   "partisan": false,
+   "title": "Russian Forces Advance Southwest of Kramatorsk as Fighting Intensifies Near Belozerskoye",
+   "sentence": "Russian Forces Advance Southwest of Kramatorsk as Fighting Intensifies Near Belozerskoye.",
+   "url": "https://voennoedelo.com/en/posts/id22357-russian-forces-push-toward-kramatorsk-from-southwest",
+   "date": "2026-11-18T05:40:00+00:00",
+   "seen": "2026-11-18T19:35:24.509889+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Aden",
+   "iso": "YEM",
+   "province": "‘Adan Governorate",
+   "province_id": "18629408B11945654439238",
+   "outlet": "UA.NEWS",
+   "host": "ua.news",
+   "partisan": false,
+   "title": "Houthis 100 km from Aden, assault considered unlikely — The National",
+   "sentence": "Houthis 100 km from Aden, assault considered unlikely",
+   "url": "https://ua.news/en/dovkolo-svitu/khusiti-za-100-km-vid-adena-shturm-vvazhaiut-maloimovirnim-the-national",
+   "date": "2026-11-18T05:03:00+00:00",
+   "seen": "2026-11-18T19:35:24.509889+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis",
+    "Government"
+   ],
+   "place": "Aden",
+   "iso": "YEM",
+   "province": "‘Adan Governorate",
+   "province_id": "18629408B11945654439238",
+   "outlet": "AOL.co.uk",
+   "host": "aol.co.uk",
+   "partisan": false,
+   "title": "Yemen: Why the Houthis may besiege Aden rather than storm it",
+   "sentence": "Bolstered by their recent military successes, Houthi rebels this week advanced close to the southern port city of Aden, the interim capital of the internationally recognised Yemeni government.",
+   "url": "https://www.aol.co.uk/articles/yemen-why-houthis-may-besiege-155541000.html",
+   "date": "2026-11-18T07:55:00+00:00",
+   "seen": "2026-11-18T19:35:24.509889+00:00"
+  },
+  {
+   "war": "sudan",
+   "sides": [
+    "SAF",
+    "RSF"
+   ],
+   "place": "West Kordofan",
+   "iso": "SDN",
+   "province": "West Kordofan",
+   "province_id": "86620642B26042209819562",
+   "outlet": "News.az",
+   "host": "news.az",
+   "partisan": false,
+   "title": "Sudan army advances in West Kordofan as RSF retreats",
+   "sentence": "Sudan army advances in West Kordofan as RSF retreats.",
+   "url": "https://news.az/news/sudan-army-advances-in-west-kordofan-as-rsf-retreats",
+   "date": "2026-11-18T01:36:00+00:00",
+   "seen": "2026-11-18T19:35:24.509889+00:00"
+  },
+  {
+   "war": "sudan",
+   "sides": [
+    "SAF",
+    "RSF"
+   ],
+   "place": "West Kordofan",
+   "iso": "SDN",
+   "province": "West Kordofan",
+   "province_id": "86620642B26042209819562",
+   "outlet": "UA.NEWS",
+   "host": "ua.news",
+   "partisan": false,
+   "title": "Military sources report Sudanese army advances in three areas — Anadolu Agency",
+   "sentence": "Sudanese military sources say the army and allied forces advanced in three areas of West Kordofan as the RSF retreated.",
+   "url": "https://ua.news/en/dovkolo-svitu/viiskovi-dzherela-zaiavili-pro-prosuvannia-armiyi-sudanu-u-trokh-raionakh-anadolu-agency",
+   "date": "2026-11-17T20:46:00+00:00",
+   "seen": "2026-11-18T19:35:24.509889+00:00"
+  },
+  {
+   "war": "drc-m23",
+   "sides": [
+    "M23",
+    "Government"
+   ],
+   "place": "South Kivu",
+   "iso": "COD",
+   "province": "South Kivu",
+   "province_id": "28894549B54646848790483",
+   "outlet": "Global South World on MSN",
+   "host": "msn.com",
+   "partisan": false,
+   "title": "DR Congo captures six suspected M23 fighters as ex-rebels allege executions",
+   "sentence": "The Democratic Republic of the Congo's armed forces (FARDC) have captured six suspected FRN-M23 fighters in South Kivu, amid ongoing clashes in the country's east.",
+   "url": "https://www.msn.com/en-xl/news/other/dr-congo-captures-six-suspected-m23-fighters-as-ex-rebels-allege-executions/ar-AA2hIlWR",
+   "date": "2026-11-18T08:43:00+00:00",
+   "seen": "2026-11-18T19:35:24.509889+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "Gaza",
+   "iso": "PSE",
+   "province": "Gaza",
+   "province_id": "83478781B7121896376882",
+   "outlet": "DW on MSN",
+   "host": "msn.com",
+   "partisan": false,
+   "title": "Israel launches new ground operation in Gaza",
+   "sentence": "Israel launches new ground operation in Gaza.",
+   "url": "https://www.msn.com/en-xl/news/other/israel-launches-new-ground-operation-in-gaza/ar-AA2hIE7L",
+   "date": "2026-11-18T10:29:00+00:00",
+   "seen": "2026-11-18T19:35:24.509889+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "Gaza",
+   "iso": "PSE",
+   "province": "Gaza",
+   "province_id": "83478781B7121896376882",
+   "outlet": "Daily Sun",
+   "host": "daily-sun.com",
+   "partisan": false,
+   "title": "Israeli military begins new offensive in Gaza, kills seven people",
+   "sentence": "Israeli military begins new offensive in Gaza, kills seven people.",
+   "url": "https://www.daily-sun.com/world/909905/israeli-military-begins-new-offensive-in-gaza-kills-seven-people",
+   "date": "2026-11-17T22:10:00+00:00",
+   "seen": "2026-11-18T19:35:24.509889+00:00"
   }
  ],
  "truce": [
@@ -3705,6 +4092,16 @@
    "sentence": "Board of Peace delivers bleak report on Gaza, warning of ceasefire collapse without immediate action.",
    "url": "https://www.bastillepost.com/global/article/6370613-board-of-peace-delivers-bleak-report-on-gaza-warning-of-ceasefire-collapse-without-immediate-action",
    "date": "2026-11-17T05:05:00+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "kind": "end",
+   "outlet": "Dawn",
+   "partisan": false,
+   "title": "Trump's Board of Peace faults Israel and Hamas for failure to end Gaza war",
+   "sentence": "The body overseeing US President Donald Trump’s plan to end the Gaza war accused both Israel and Hamas of failing to meet their commitments to end hostilities, leaving the population of Gaza in dire conditions and the ceasefire in danger of collapse.",
+   "url": "https://www.dawn.com/news/2045436/trumps-board-of-peace-faults-israel-and-hamas-for-failure-to-end-gaza-war",
+   "date": "2026-11-18T14:13:49+00:00"
   }
  ],
  "withdrawals": [],
