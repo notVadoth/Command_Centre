@@ -1,6 +1,6 @@
 // written by trawler.py — loaded automatically by commandcenter-map.html
 window.TRAWLER_GROUPINGS = {
- "generated": "2026-11-18T19:34:32.669011+00:00",
+ "generated": "2026-11-19T19:37:52.377169+00:00",
  "extractor": "rules",
  "verification": {
   "wikidata": true,
@@ -13,7 +13,7 @@ window.TRAWLER_GROUPINGS = {
    "conflict": "Wikidata contradicts the claim — review"
   }
  },
- "articles_in_store": 1963,
+ "articles_in_store": 2091,
  "blocs": {
   "EU": {
    "name": "European Union",
@@ -48,7 +48,10 @@ window.TRAWLER_GROUPINGS = {
     "SWE"
    ],
    "partners": [],
-   "applicants": [],
+   "applicants": [
+    "RUS",
+    "UKR"
+   ],
    "note": null,
    "wikidata": {
     "qid": "Q458",
@@ -66,7 +69,7 @@ window.TRAWLER_GROUPINGS = {
      "action": "left",
      "status": "confirmed",
      "wikidata": "agrees",
-     "independent_outlets": 1,
+     "independent_outlets": 2,
      "evidence": [
       {
        "source": "The Guardian World",
@@ -147,6 +150,114 @@ window.TRAWLER_GROUPINGS = {
        "sentence": "It is the latest in a string of comments by the prime minister criticising Brexit, after he told the Welsh Labour conference on Saturday that the UK has “lost more than we gained” through leaving the EU.",
        "hedged": false,
        "syndicated_copy": false
+      },
+      {
+       "source": "Al Jazeera",
+       "domain": "aljazeera.com",
+       "title": "As Burnham heads to Brussels, are new Brexit wars about to begin?",
+       "url": "https://www.aljazeera.com/news/2026/11/19/as-burnham-heads-to-brussels-are-new-brexit-wars-about-to-begin?traffic_source=rss",
+       "date": "2026-11-19T15:24:51+00:00",
+       "sentence": "In September, 55 percent of respondents told YouGov that leaving the EU was a wrong turn for the UK.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answered readers questions",
+       "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
+       "date": "2026-11-19T18:02:33+00:00",
+       "sentence": "I don’t think Brexit had an impact on the rise of far-right parties in the EU countries – other than to discourage some of them, which had been toying with the idea of backing withdrawal from the EU, to give up on the idea because it ended so badly for the UK.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answered readers questions",
+       "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
+       "date": "2026-11-19T18:02:33+00:00",
+       "sentence": "I don’t think Brexit had an impact on the rise of far-right parties in the EU countries – other than to discourage some of them, which had been toying with the idea of backing withdrawal from the EU, to give up on the idea because it ended so badly for the UK.",
+       "hedged": false,
+       "syndicated_copy": true
+      }
+     ]
+    },
+    {
+     "country": "RUS",
+     "action": "applied",
+     "status": "corroborated",
+     "wikidata": "unknown",
+     "independent_outlets": 2,
+     "evidence": [
+      {
+       "source": "France 24",
+       "domain": "france24.com",
+       "title": "Russian network used social media to blame French riots on immigration, EU report says",
+       "url": "https://www.france24.com/en/france/20261109-russian-network-used-social-media-to-blame-french-riots-on-immigration-eu-report-says",
+       "date": "2026-11-09T15:38:42+00:00",
+       "sentence": "The EU analysis, which covers the period from October 7 to 21, found that Russia sought to \"depict the French leadership as weak and increasingly ‌authoritarian\".",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "BBC World",
+       "domain": "bbc.co.uk",
+       "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+       "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+       "date": "2026-11-19T17:38:22+00:00",
+       "sentence": "He said Ukraine and Europe were not yet ready to make compromises to resolve the conflict in Ukraine - but he said Russia had invited EU representatives to Moscow to better understand Europe's position.",
+       "hedged": false,
+       "syndicated_copy": false
+      }
+     ]
+    },
+    {
+     "country": "UKR",
+     "action": "applied",
+     "status": "corroborated",
+     "wikidata": "unknown",
+     "independent_outlets": 2,
+     "evidence": [
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Merz accused of ‘blackmail’ by Slovak PM after demand for Ukraine aid in EU budget",
+       "url": "https://www.theguardian.com/world/2026/nov/10/friedrich-merz-accused-blackmail-ukraine-aid-eu-budget",
+       "date": "2026-11-10T16:44:27+00:00",
+       "sentence": "He also states that all member states need to contribute to a “sound” financial perspective for Ukraine from 2028 in the context of the EU’s next seven-year budget, known as the multiannual financial framework.\n\n\nafter newsletter promotion\nA German government official said: “Financial support for Ukraine of all EU member states is essential in order to successfully complete the MFF.”\nBerlin is als",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Merz accused of ‘blackmail’ by Slovak PM after demand for Ukraine aid in EU budget",
+       "url": "https://www.theguardian.com/world/2026/nov/10/friedrich-merz-accused-blackmail-ukraine-aid-eu-budget",
+       "date": "2026-11-10T16:44:27+00:00",
+       "sentence": "He also states that all member states need to contribute to a “sound” financial perspective for Ukraine from 2028 in the context of the EU’s next seven-year budget, known as the multiannual financial framework.\n\n\nafter newsletter promotion\nA German government official said: “Financial support for Ukraine of all EU member states is essential in order to successfully complete the MFF.”\nBerlin is als",
+       "hedged": false,
+       "syndicated_copy": true
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Merz accused of ‘blackmail’ by Slovak PM after demand for Ukraine aid in EU budget",
+       "url": "https://www.theguardian.com/world/2026/nov/10/friedrich-merz-accused-blackmail-ukraine-aid-eu-budget",
+       "date": "2026-11-10T16:44:27+00:00",
+       "sentence": "He also states that all member states need to contribute to a “sound” financial perspective for Ukraine from 2028 in the context of the EU’s next seven-year budget, known as the multiannual financial framework.\n\n\nafter newsletter promotion\nA German government official said: “Financial support for Ukraine of all EU member states is essential in order to successfully complete the MFF.”\nBerlin is als",
+       "hedged": false,
+       "syndicated_copy": true
+      },
+      {
+       "source": "BBC World",
+       "domain": "bbc.co.uk",
+       "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+       "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+       "date": "2026-11-19T17:38:22+00:00",
+       "sentence": "He said Ukraine and Europe were not yet ready to make compromises to resolve the conflict in Ukraine - but he said Russia had invited EU representatives to Moscow to better understand Europe's position.",
+       "hedged": false,
+       "syndicated_copy": false
       }
      ]
     },
@@ -225,6 +336,46 @@ window.TRAWLER_GROUPINGS = {
        "sentence": "Diplomats says piecemeal approach of resets coming to an end and they want government decision on whether it will seek to reverse Brexit\nThe EU will shut the door to discussions with Andy Burnham about the UK’s longer-term relationship with the bloc until the government has decided whether it wants to proceed with reversing Brexit, diplomats have said.",
        "hedged": true,
        "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
+       "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
+       "date": "2026-11-19T17:19:17+00:00",
+       "sentence": "Asked about Britain’s status as a rule taker, No 10 said the Labour manifesto had aimed to build closer ties with the EU, adding: “We were obviously elected on a manifesto that promised to reset the relationship and seek to deepen ties with our European friends.”\nAccording to EU sources, the UK has been pushing to have a formal role in EU committees involved in implementing existing and setting ne",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
+       "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
+       "date": "2026-11-19T17:19:17+00:00",
+       "sentence": "Asked about Britain’s status as a rule taker, No 10 said the Labour manifesto had aimed to build closer ties with the EU, adding: “We were obviously elected on a manifesto that promised to reset the relationship and seek to deepen ties with our European friends.”\nAccording to EU sources, the UK has been pushing to have a formal role in EU committees involved in implementing existing and setting ne",
+       "hedged": false,
+       "syndicated_copy": true
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
+       "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
+       "date": "2026-11-19T17:19:17+00:00",
+       "sentence": "Asked about Britain’s status as a rule taker, No 10 said the Labour manifesto had aimed to build closer ties with the EU, adding: “We were obviously elected on a manifesto that promised to reset the relationship and seek to deepen ties with our European friends.”\nAccording to EU sources, the UK has been pushing to have a formal role in EU committees involved in implementing existing and setting ne",
+       "hedged": false,
+       "syndicated_copy": true
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
+       "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
+       "date": "2026-11-19T17:19:17+00:00",
+       "sentence": "The UK has prioritised seeking commitments on Britain’s position relating to the EU’s Made in Europe legislation.",
+       "hedged": false,
+       "syndicated_copy": false
       }
      ]
     },
@@ -248,25 +399,6 @@ window.TRAWLER_GROUPINGS = {
      ]
     },
     {
-     "country": "RUS",
-     "action": "applied",
-     "status": "single-source",
-     "wikidata": "unknown",
-     "independent_outlets": 1,
-     "evidence": [
-      {
-       "source": "France 24",
-       "domain": "france24.com",
-       "title": "Russian network used social media to blame French riots on immigration, EU report says",
-       "url": "https://www.france24.com/en/france/20261109-russian-network-used-social-media-to-blame-french-riots-on-immigration-eu-report-says",
-       "date": "2026-11-09T15:38:42+00:00",
-       "sentence": "The EU analysis, which covers the period from October 7 to 21, found that Russia sought to \"depict the French leadership as weak and increasingly ‌authoritarian\".",
-       "hedged": false,
-       "syndicated_copy": false
-      }
-     ]
-    },
-    {
      "country": "TUR",
      "action": "joined",
      "status": "single-source",
@@ -282,45 +414,6 @@ window.TRAWLER_GROUPINGS = {
        "sentence": "The EU’s climate chief, Wopke Hoekstra, has admitted that expectations were “low” from the Cop31 summit in Turkey this year, but said there was hope for “meaningful” progress on clean electricity.",
        "hedged": false,
        "syndicated_copy": false
-      }
-     ]
-    },
-    {
-     "country": "UKR",
-     "action": "applied",
-     "status": "single-source",
-     "wikidata": "unknown",
-     "independent_outlets": 1,
-     "evidence": [
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Merz accused of ‘blackmail’ by Slovak PM after demand for Ukraine aid in EU budget",
-       "url": "https://www.theguardian.com/world/2026/nov/10/friedrich-merz-accused-blackmail-ukraine-aid-eu-budget",
-       "date": "2026-11-10T16:44:27+00:00",
-       "sentence": "He also states that all member states need to contribute to a “sound” financial perspective for Ukraine from 2028 in the context of the EU’s next seven-year budget, known as the multiannual financial framework.\n\n\nafter newsletter promotion\nA German government official said: “Financial support for Ukraine of all EU member states is essential in order to successfully complete the MFF.”\nBerlin is als",
-       "hedged": false,
-       "syndicated_copy": false
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Merz accused of ‘blackmail’ by Slovak PM after demand for Ukraine aid in EU budget",
-       "url": "https://www.theguardian.com/world/2026/nov/10/friedrich-merz-accused-blackmail-ukraine-aid-eu-budget",
-       "date": "2026-11-10T16:44:27+00:00",
-       "sentence": "He also states that all member states need to contribute to a “sound” financial perspective for Ukraine from 2028 in the context of the EU’s next seven-year budget, known as the multiannual financial framework.\n\n\nafter newsletter promotion\nA German government official said: “Financial support for Ukraine of all EU member states is essential in order to successfully complete the MFF.”\nBerlin is als",
-       "hedged": false,
-       "syndicated_copy": true
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Merz accused of ‘blackmail’ by Slovak PM after demand for Ukraine aid in EU budget",
-       "url": "https://www.theguardian.com/world/2026/nov/10/friedrich-merz-accused-blackmail-ukraine-aid-eu-budget",
-       "date": "2026-11-10T16:44:27+00:00",
-       "sentence": "He also states that all member states need to contribute to a “sound” financial perspective for Ukraine from 2028 in the context of the EU’s next seven-year budget, known as the multiannual financial framework.\n\n\nafter newsletter promotion\nA German government official said: “Financial support for Ukraine of all EU member states is essential in order to successfully complete the MFF.”\nBerlin is als",
-       "hedged": false,
-       "syndicated_copy": true
       }
      ]
     },
@@ -587,6 +680,25 @@ window.TRAWLER_GROUPINGS = {
        "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
        "date": "2026-11-16T16:21:40+00:00",
        "sentence": "In a statement released on Monday the five EU countries said “concrete negotiations with partner country Rwanda will begin for implementation”, saying the scheme would make “an important contribution to further curbing illegal migration, dismantling the business model of smugglers and relieving the burden on our population”.",
+       "hedged": true,
+       "syndicated_copy": false
+      }
+     ]
+    },
+    {
+     "country": "GBR",
+     "action": "joined",
+     "status": "speculative",
+     "wikidata": "unknown",
+     "independent_outlets": 0,
+     "evidence": [
+      {
+       "source": "Al Jazeera",
+       "domain": "aljazeera.com",
+       "title": "As Burnham heads to Brussels, are new Brexit wars about to begin?",
+       "url": "https://www.aljazeera.com/news/2026/11/19/as-burnham-heads-to-brussels-are-new-brexit-wars-about-to-begin?traffic_source=rss",
+       "date": "2026-11-19T15:24:51+00:00",
+       "sentence": "In the most popular scenario, 58 percent said they would vote to rejoin if the UK stayed out of the euro, joined the border-free Schengen Zone, and kept its previous rebate from the EU budget.",
        "hedged": true,
        "syndicated_copy": false
       }
@@ -2055,6 +2167,58 @@ window.TRAWLER_GROUPINGS = {
    ]
   },
   {
+   "name": "Coalition",
+   "status": "single-source",
+   "wikidata": {
+    "qid": "Q124964",
+    "label": "coalition",
+    "description": "group formed of people, factions, states, political parties, militaries, or other parties agree to work together, often temporarily, in a partnership to achieve a common goal"
+   },
+   "color": "#a2d9ae",
+   "members": [
+    {
+     "country": "UKR",
+     "status": "single-source",
+     "wikidata": "unknown",
+     "action": "joined",
+     "independent_outlets": 1,
+     "hedged_only": false,
+     "evidence": [
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Hakeem Jeffries on brink of House history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
+       "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
+       "date": "2026-11-19T19:24:04+00:00",
+       "sentence": "Speaking to the media following a Berlin meeting of the Coalition of the Willing (a group of about 35 countries formed to offer financial and diplomatic support for Ukraine), Jared Kushner – Donald Trump’s special envoy and son-in-law – said that the US president dialed into the meeting with European allies.",
+       "hedged": false,
+       "syndicated_copy": false
+      }
+     ]
+    },
+    {
+     "country": "USA",
+     "status": "single-source",
+     "wikidata": "unknown",
+     "action": "joined",
+     "independent_outlets": 1,
+     "hedged_only": false,
+     "evidence": [
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Hakeem Jeffries on brink of House history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
+       "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
+       "date": "2026-11-19T19:24:04+00:00",
+       "sentence": "Speaking to the media following a Berlin meeting of the Coalition of the Willing (a group of about 35 countries formed to offer financial and diplomatic support for Ukraine), Jared Kushner – Donald Trump’s special envoy and son-in-law – said that the US president dialed into the meeting with European allies.",
+       "hedged": false,
+       "syndicated_copy": false
+      }
+     ]
+    }
+   ]
+  },
+  {
    "name": "International Accord",
    "status": "single-source",
    "wikidata": null,
@@ -2239,6 +2403,46 @@ window.TRAWLER_GROUPINGS = {
      "sentence": "Diplomats says piecemeal approach of resets coming to an end and they want government decision on whether it will seek to reverse Brexit\nThe EU will shut the door to discussions with Andy Burnham about the UK’s longer-term relationship with the bloc until the government has decided whether it wants to proceed with reversing Brexit, diplomats have said.",
      "hedged": true,
      "syndicated_copy": false
+    },
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
+     "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
+     "date": "2026-11-19T17:19:17+00:00",
+     "sentence": "Asked about Britain’s status as a rule taker, No 10 said the Labour manifesto had aimed to build closer ties with the EU, adding: “We were obviously elected on a manifesto that promised to reset the relationship and seek to deepen ties with our European friends.”\nAccording to EU sources, the UK has been pushing to have a formal role in EU committees involved in implementing existing and setting ne",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
+     "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
+     "date": "2026-11-19T17:19:17+00:00",
+     "sentence": "Asked about Britain’s status as a rule taker, No 10 said the Labour manifesto had aimed to build closer ties with the EU, adding: “We were obviously elected on a manifesto that promised to reset the relationship and seek to deepen ties with our European friends.”\nAccording to EU sources, the UK has been pushing to have a formal role in EU committees involved in implementing existing and setting ne",
+     "hedged": false,
+     "syndicated_copy": true
+    },
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
+     "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
+     "date": "2026-11-19T17:19:17+00:00",
+     "sentence": "Asked about Britain’s status as a rule taker, No 10 said the Labour manifesto had aimed to build closer ties with the EU, adding: “We were obviously elected on a manifesto that promised to reset the relationship and seek to deepen ties with our European friends.”\nAccording to EU sources, the UK has been pushing to have a formal role in EU committees involved in implementing existing and setting ne",
+     "hedged": false,
+     "syndicated_copy": true
+    },
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
+     "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
+     "date": "2026-11-19T17:19:17+00:00",
+     "sentence": "The UK has prioritised seeking commitments on Britain’s position relating to the EU’s Made in Europe legislation.",
+     "hedged": false,
+     "syndicated_copy": false
     }
    ]
   },
@@ -2266,9 +2470,9 @@ window.TRAWLER_GROUPINGS = {
    "group": "European Union",
    "country": "RUS",
    "action": "applied",
-   "status": "single-source",
+   "status": "corroborated",
    "wikidata": "unknown",
-   "independent_outlets": 1,
+   "independent_outlets": 2,
    "evidence": [
     {
      "source": "France 24",
@@ -2277,6 +2481,16 @@ window.TRAWLER_GROUPINGS = {
      "url": "https://www.france24.com/en/france/20261109-russian-network-used-social-media-to-blame-french-riots-on-immigration-eu-report-says",
      "date": "2026-11-09T15:38:42+00:00",
      "sentence": "The EU analysis, which covers the period from October 7 to 21, found that Russia sought to \"depict the French leadership as weak and increasingly ‌authoritarian\".",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "BBC World",
+     "domain": "bbc.co.uk",
+     "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+     "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-19T17:38:22+00:00",
+     "sentence": "He said Ukraine and Europe were not yet ready to make compromises to resolve the conflict in Ukraine - but he said Russia had invited EU representatives to Moscow to better understand Europe's position.",
      "hedged": false,
      "syndicated_copy": false
     }
@@ -2306,9 +2520,9 @@ window.TRAWLER_GROUPINGS = {
    "group": "European Union",
    "country": "UKR",
    "action": "applied",
-   "status": "single-source",
+   "status": "corroborated",
    "wikidata": "unknown",
-   "independent_outlets": 1,
+   "independent_outlets": 2,
    "evidence": [
     {
      "source": "The Guardian World",
@@ -2339,6 +2553,16 @@ window.TRAWLER_GROUPINGS = {
      "sentence": "He also states that all member states need to contribute to a “sound” financial perspective for Ukraine from 2028 in the context of the EU’s next seven-year budget, known as the multiannual financial framework.\n\n\nafter newsletter promotion\nA German government official said: “Financial support for Ukraine of all EU member states is essential in order to successfully complete the MFF.”\nBerlin is als",
      "hedged": false,
      "syndicated_copy": true
+    },
+    {
+     "source": "BBC World",
+     "domain": "bbc.co.uk",
+     "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+     "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-19T17:38:22+00:00",
+     "sentence": "He said Ukraine and Europe were not yet ready to make compromises to resolve the conflict in Ukraine - but he said Russia had invited EU representatives to Moscow to better understand Europe's position.",
+     "hedged": false,
+     "syndicated_copy": false
     }
    ]
   },
@@ -3251,6 +3475,34 @@ window.TRAWLER_GROUPINGS = {
      "url": "https://www.npr.org/2026/11/15/nx-s1-6013327/sydney-sweeney-jeans-american-eagle-garment-industry",
      "date": "2026-11-15T22:07:55+00:00",
      "sentence": "For apparel companies in Bangladesh and Pakistan that have signed on to the accord, the International Accord staff will regularly inspect factories to ensure they're kept cool.",
+     "hedged": false,
+     "syndicated_copy": false
+    }
+   ]
+  },
+  {
+   "group": "Coalition",
+   "country": "UKR,USA",
+   "action": "new grouping",
+   "status": "single-source",
+   "evidence": [
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "Hakeem Jeffries on brink of House history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
+     "date": "2026-11-19T19:24:04+00:00",
+     "sentence": "Speaking to the media following a Berlin meeting of the Coalition of the Willing (a group of about 35 countries formed to offer financial and diplomatic support for Ukraine), Jared Kushner – Donald Trump’s special envoy and son-in-law – said that the US president dialed into the meeting with European allies.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "Hakeem Jeffries on brink of House history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
+     "date": "2026-11-19T19:24:04+00:00",
+     "sentence": "Speaking to the media following a Berlin meeting of the Coalition of the Willing (a group of about 35 countries formed to offer financial and diplomatic support for Ukraine), Jared Kushner – Donald Trump’s special envoy and son-in-law – said that the US president dialed into the meeting with European allies.",
      "hedged": false,
      "syndicated_copy": false
     }

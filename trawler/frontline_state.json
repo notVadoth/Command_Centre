@@ -3990,6 +3990,242 @@
    "url": "https://www.daily-sun.com/world/909905/israeli-military-begins-new-offensive-in-gaza-kills-seven-people",
    "date": "2026-11-17T22:10:00+00:00",
    "seen": "2026-11-18T19:35:24.509889+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "Gaza",
+   "iso": "PSE",
+   "province": "Gaza",
+   "province_id": "83478781B7121896376882",
+   "outlet": "BBC News",
+   "host": "bbc.co.uk",
+   "partisan": false,
+   "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+   "sentence": "Israeli military completes ground operation in Gaza beyond Yellow Line.",
+   "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T17:03:23+00:00",
+   "seen": "2026-11-19T19:38:47.718956+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Kerch Bridge",
+   "iso": "UKR",
+   "province": "Autonomous Republic of Crimea",
+   "province_id": "14850775B24260608407062",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "Trump says Putin upset with Zelenskyy over Kerch Bridge attack",
+   "sentence": "US President Donald Trump has told a journalist after the summit in China that Kremlin leader Vladimir Putin was upset with Ukrainian President Volodymyr Zelenskyy over the attack on the Kerch Bridge.",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/19/8063675/",
+   "date": "2026-11-19T16:45:00+00:00",
+   "seen": "2026-11-19T19:38:47.718956+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Crimea",
+   "iso": "UKR",
+   "province": "Autonomous Republic of Crimea",
+   "province_id": "14850775B24260608407062",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "Open-source analyst shows satellite images of Kerch Bridge after Neptune attack",
+   "sentence": "New visuals mark impact points on both the road and rail sections of the crossing linking occupied Crimea with Russia in overnight strikes.",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/19/8063662/",
+   "date": "2026-11-19T15:57:00+00:00",
+   "seen": "2026-11-19T19:38:47.718956+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Odesa",
+   "iso": "UKR",
+   "province": "Odessa Oblast",
+   "province_id": "14850775B53240635394722",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "UNESCO condemns Russian attack on historic centre of Odesa",
+   "sentence": "UNESCO condemns Russian attack on historic centre of Odesa.",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/19/8063642/",
+   "date": "2026-11-19T14:40:00+00:00",
+   "seen": "2026-11-19T19:38:47.718956+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Ukraine"
+   ],
+   "place": "Kursk",
+   "iso": "RUS",
+   "province": "Kursk Oblast",
+   "province_id": "28173009B94971452660823",
+   "outlet": "TASS",
+   "host": "tass.com",
+   "partisan": true,
+   "title": "Number of people injured in Ukrainian attack on Kursk rises to 13",
+   "sentence": "Number of people injured in Ukrainian attack on Kursk rises to 13.",
+   "url": "https://tass.com/politics/2222021",
+   "date": "2026-11-19T16:11:02+00:00",
+   "seen": "2026-11-19T19:38:47.718956+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Ukraine"
+   ],
+   "place": "Kursk",
+   "iso": "RUS",
+   "province": "Kursk Oblast",
+   "province_id": "28173009B94971452660823",
+   "outlet": "TASS",
+   "host": "tass.com",
+   "partisan": true,
+   "title": "IN BRIEF: What is known about Ukrainian attack on Kursk",
+   "sentence": "IN BRIEF: What is known about Ukrainian attack on Kursk.",
+   "url": "https://tass.com/politics/2221505",
+   "date": "2026-11-19T11:54:19+00:00",
+   "seen": "2026-11-19T19:38:47.718956+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Crimea",
+   "iso": "UKR",
+   "province": "Autonomous Republic of Crimea",
+   "province_id": "14850775B24260608407062",
+   "outlet": "Meduza",
+   "host": "meduza.io",
+   "partisan": false,
+   "title": "Train traffic across Crimean Bridge suspended after another Ukrainian strike",
+   "sentence": "Ukrainian forces again struck the Crimean Bridge, which connects occupied Crimea to Russia’s Krasnodar Krai.",
+   "url": "https://meduza.io/en/news/2026/11/19/ukraine-strikes-crimean-bridge-again-halting-train-traffic",
+   "date": "2026-11-19T08:06:04+00:00",
+   "seen": "2026-11-19T19:38:47.718956+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Crimea",
+   "iso": "UKR",
+   "province": "Autonomous Republic of Crimea",
+   "province_id": "14850775B24260608407062",
+   "outlet": "Japan Times",
+   "host": "japantimes.co.jp",
+   "partisan": false,
+   "title": "New attack on Crimea bridge: Russian official",
+   "sentence": "New attack on Crimea bridge: Russian official.",
+   "url": "https://www.japantimes.co.jp/news/2026/11/19/world/new-attack-crimea-bridge/",
+   "date": "2026-11-19T05:52:00+00:00",
+   "seen": "2026-11-19T19:38:47.718956+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "Nuseirat",
+   "iso": "PSE",
+   "province": "Gaza",
+   "province_id": "83478781B7121896376882",
+   "outlet": "Al Jazeera",
+   "host": "aljazeera.com",
+   "partisan": false,
+   "title": "Palestinians in Gaza face new displacement after Israeli army operation",
+   "sentence": "Families in Nuseirat spend the night without shelter, while many fear returning despite Israel ending offensive.",
+   "url": "https://www.aljazeera.com/news/2026/11/19/palestinians-in-gaza-face-new-displacement-after-israeli-army-operation?traffic_source=rss",
+   "date": "2026-11-19T18:46:10+00:00",
+   "seen": "2026-11-19T19:38:47.718956+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "West Bank",
+   "iso": "PSE",
+   "province": "West Bank",
+   "province_id": "83478781B28849486138516",
+   "outlet": "Middle East Eye",
+   "host": "middleeasteye.net",
+   "partisan": false,
+   "title": "Israeli non-profit helping Britons move to occupied West Bank to tour UK cities",
+   "sentence": "Israeli non-profit helping Britons move to occupied West Bank to tour UK cities.",
+   "url": "https://www.middleeasteye.net/news/israeli-non-profit-helping-britons-move-occupied-west-bank-tour-uk-cities",
+   "date": "2026-11-19T16:31:38+00:00",
+   "seen": "2026-11-19T19:38:47.718956+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Donetsk",
+   "iso": "UKR",
+   "province": "Donetsk Oblast",
+   "province_id": "14850775B15615817748403",
+   "outlet": "UA.NEWS",
+   "host": "ua.news",
+   "partisan": false,
+   "title": "Shilivka remains under the control of the Ukrainian Armed Forces; the Russians' claims are untrue",
+   "sentence": "Russian media outlets claimed that the “Typhoon” assault unit had allegedly captured Shylivka in the Donetsk region.",
+   "url": "https://ua.news/en/war-vs-rf/shilivka-zalishaietsia-pid-kontrolem-zsu-zaiavi-rosiian-ne-vidpovidaiut-diisnosti",
+   "date": "2026-11-18T21:57:00+00:00",
+   "seen": "2026-11-19T19:38:47.718956+00:00"
+  },
+  {
+   "war": "sudan",
+   "sides": [
+    "RSF"
+   ],
+   "place": "Kernoi",
+   "iso": "SDN",
+   "province": "North Darfur",
+   "province_id": "86620642B32784125865646",
+   "outlet": "The Rio Times",
+   "host": "riotimesonline.com",
+   "partisan": false,
+   "title": "Darfur Force Says It Repelled Kernoi Attack",
+   "sentence": "Darfur’s Joint Force says it repelled a Rapid Support Forces attack on Kernoi on 18 November and destroyed 31 vehicles.",
+   "url": "https://www.riotimesonline.com/darfur-joint-force-says-it-repelled-kernoi-attack/",
+   "date": "2026-11-19T03:16:00+00:00",
+   "seen": "2026-11-19T19:38:47.718956+00:00"
+  },
+  {
+   "war": "sudan",
+   "sides": [
+    "RSF"
+   ],
+   "place": "North Darfur",
+   "iso": "SDN",
+   "province": "North Darfur",
+   "province_id": "86620642B32784125865646",
+   "outlet": "Sudan Tribune",
+   "host": "sudantribune.com",
+   "partisan": false,
+   "title": "Sudan’s Joint Force says it repelled RSF attack in North Darfur",
+   "sentence": "Sudan’s Joint Force says it repelled RSF attack in North Darfur.",
+   "url": "https://sudantribune.com/article/321415",
+   "date": "2026-11-18T16:01:00+00:00",
+   "seen": "2026-11-19T19:38:47.718956+00:00"
   }
  ],
  "truce": [
@@ -4102,6 +4338,26 @@
    "sentence": "The body overseeing US President Donald Trump’s plan to end the Gaza war accused both Israel and Hamas of failing to meet their commitments to end hostilities, leaving the population of Gaza in dire conditions and the ceasefire in danger of collapse.",
    "url": "https://www.dawn.com/news/2045436/trumps-board-of-peace-faults-israel-and-hamas-for-failure-to-end-gaza-war",
    "date": "2026-11-18T14:13:49+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "kind": "end",
+   "outlet": "Ukrainska Pravda",
+   "partisan": false,
+   "title": "Russians attack Kyiv Oblast again: man injured, houses damaged",
+   "sentence": "Emergency medics were dispatched after a man suffered leg injuries in the Brovary district, while four homes were damaged in the Fastiv district during renewed attacks on 19 November.",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/19/8063651/",
+   "date": "2026-11-19T14:26:00+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "kind": "end",
+   "outlet": "Yahoo",
+   "partisan": false,
+   "title": "Heightened hostilities in the Middle East reignite conflict",
+   "sentence": "Renewed hostilities across the Middle East fed fears that simmering clashes could escalate into full-blown regional conflicts once again.",
+   "url": "https://www.yahoo.com/news/world/articles/heightened-hostilities-middle-east-reignite-133256936.html",
+   "date": "2026-11-19T05:32:00+00:00"
   }
  ],
  "withdrawals": [],

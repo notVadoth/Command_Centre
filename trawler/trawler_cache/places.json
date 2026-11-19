@@ -2372,5 +2372,77 @@
  "Airstrikes|SOM": [],
  "Somalia Amid Heavy|SOM": [],
  "US Africa Command|SOM": [],
- "Gaza|MMR": []
+ "Gaza|MMR": [],
+ "Rakhine|SDN": [],
+ "Telegram|RUS,UKR": [],
+ "China|RUS,UKR": [],
+ "Kerch Bridge|RUS,UKR": [
+  {
+   "qid": "Q2652980",
+   "iso": "UKR",
+   "lat": 45.3086,
+   "lon": 36.5061
+  },
+  {
+   "qid": "Q114492886",
+   "iso": "RUS",
+   "lat": 45.30111111111111,
+   "lon": 36.5125
+  }
+ ],
+ "UN Security Council|RUS,UKR": [],
+ "Nuseirat|PSE": [
+  {
+   "qid": "Q2918829",
+   "iso": "PSE",
+   "lat": 31.45,
+   "lon": 34.39169444444445
+  },
+  {
+   "qid": "Q126453114",
+   "iso": "PSE",
+   "lat": 31.4475,
+   "lon": 34.3928
+  }
+ ],
+ "Nuseirat|LBN": [],
+ "Shylivka|RUS,UKR": [
+  {
+   "qid": "Q4523866",
+   "iso": "UKR",
+   "lat": 48.379722222222,
+   "lon": 36.941944444444
+  },
+  {
+   "qid": "Q4523867",
+   "iso": "UKR",
+   "lat": 50.133469534419,
+   "lon": 34.389633964847
+  },
+  {
+   "qid": "Q4523871",
+   "iso": "UKR",
+   "lat": 49.574101861443,
+   "lon": 33.851540638379
+  }
+ ],
+ "United States|RUS,UKR": [],
+ "Shenzhen|RUS,UKR": [],
+ "Saudi Sovereign Wealth|YEM": [],
+ "Kernoi|SDN": [
+  {
+   "qid": "Q11735936",
+   "iso": "SDN",
+   "lat": 15.077,
+   "lon": 23.258
+  },
+  {
+   "qid": "Q133452737",
+   "iso": "SDN",
+   "lat": 15.077,
+   "lon": 23.258
+  }
+ ],
+ "North Kivu|SDN": [],
+ "Walikale|SDN": []
 }
