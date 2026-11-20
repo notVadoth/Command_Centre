@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T19:37:52.377169+00:00",
+ "generated": "2026-11-20T19:15:05.199428+00:00",
  "extractor": "rules",
  "verification": {
   "wikidata": true,
@@ -12,7 +12,7 @@
    "conflict": "Wikidata contradicts the claim — review"
   }
  },
- "articles_in_store": 2091,
+ "articles_in_store": 2213,
  "blocs": {
   "EU": {
    "name": "European Union",
@@ -48,6 +48,7 @@
    ],
    "partners": [],
    "applicants": [
+    "GBR",
     "RUS",
     "UKR"
    ],
@@ -183,6 +184,145 @@
      ]
     },
     {
+     "country": "GBR",
+     "action": "applied",
+     "status": "corroborated",
+     "wikidata": "unknown",
+     "independent_outlets": 2,
+     "evidence": [
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "EU presses UK to guarantee discounted university tuition fees for European students",
+       "url": "https://www.theguardian.com/world/2026/nov/05/eu-seeks-firmer-pledge-from-uk-discounted-university-tuition-fees",
+       "date": "2026-11-05T16:58:54+00:00",
+       "sentence": "Failure to agree lower fees for EU citizens studying in UK should delay prized food and drink deal, members say\nUK politics live – latest updates\nThe EU is seeking a firmer pledge from the British government to guarantee European students discounted rates on university tuition fees before a much-anticipated summit this month.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "EU presses UK to guarantee discounted university tuition fees for European students",
+       "url": "https://www.theguardian.com/world/2026/nov/05/eu-seeks-firmer-pledge-from-uk-discounted-university-tuition-fees",
+       "date": "2026-11-05T16:58:54+00:00",
+       "sentence": "Failure to agree lower fees for EU citizens studying in UK should delay prized food and drink deal, members say\nUK politics live – latest updates\nThe EU is seeking a firmer pledge from the British government to guarantee European students discounted rates on university tuition fees before a much-anticipated summit this month.",
+       "hedged": false,
+       "syndicated_copy": true
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Britain willing to discuss paying into EU to join electricity market, says minister",
+       "url": "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer",
+       "date": "2026-11-10T17:52:07+00:00",
+       "sentence": "The UK had been seeking to join the first round of the EU’s Security Action for Europe (Safe) fund, a low-interest loan scheme that is part of the EU’s push to grow defence spending by €800bn.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Britain willing to discuss paying into EU to join electricity market, says minister",
+       "url": "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer",
+       "date": "2026-11-10T17:52:07+00:00",
+       "sentence": "The UK had been seeking to join the first round of the EU’s Security Action for Europe (Safe) fund, a low-interest loan scheme that is part of the EU’s push to grow defence spending by €800bn.",
+       "hedged": false,
+       "syndicated_copy": true
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "EU to reject UK talks on longer-term ties pending clarity from Burnham on next steps",
+       "url": "https://www.theguardian.com/politics/2026/nov/18/eu-uk-reset-summit-talks-burnham-brexit",
+       "date": "2026-11-18T19:17:19+00:00",
+       "sentence": "Diplomats says piecemeal approach of resets coming to an end and they want government decision on whether it will seek to reverse Brexit\nThe EU will shut the door to discussions with Andy Burnham about the UK’s longer-term relationship with the bloc until the government has decided whether it wants to proceed with reversing Brexit, diplomats have said.",
+       "hedged": true,
+       "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
+       "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
+       "date": "2026-11-19T17:19:17+00:00",
+       "sentence": "Asked about Britain’s status as a rule taker, No 10 said the Labour manifesto had aimed to build closer ties with the EU, adding: “We were obviously elected on a manifesto that promised to reset the relationship and seek to deepen ties with our European friends.”\nAccording to EU sources, the UK has been pushing to have a formal role in EU committees involved in implementing existing and setting ne",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
+       "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
+       "date": "2026-11-19T17:19:17+00:00",
+       "sentence": "Asked about Britain’s status as a rule taker, No 10 said the Labour manifesto had aimed to build closer ties with the EU, adding: “We were obviously elected on a manifesto that promised to reset the relationship and seek to deepen ties with our European friends.”\nAccording to EU sources, the UK has been pushing to have a formal role in EU committees involved in implementing existing and setting ne",
+       "hedged": false,
+       "syndicated_copy": true
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
+       "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
+       "date": "2026-11-19T17:19:17+00:00",
+       "sentence": "Asked about Britain’s status as a rule taker, No 10 said the Labour manifesto had aimed to build closer ties with the EU, adding: “We were obviously elected on a manifesto that promised to reset the relationship and seek to deepen ties with our European friends.”\nAccording to EU sources, the UK has been pushing to have a formal role in EU committees involved in implementing existing and setting ne",
+       "hedged": false,
+       "syndicated_copy": true
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
+       "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
+       "date": "2026-11-19T17:19:17+00:00",
+       "sentence": "The UK has prioritised seeking commitments on Britain’s position relating to the EU’s Made in Europe legislation.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "DW World",
+       "domain": "dw.com",
+       "title": "EU and UK strike 'landmark deal' to strengthen ties after Brexit",
+       "url": "https://www.dw.com/en/eu-and-uk-strike-landmark-deal-to-strengthen-ties-after-brexit/a-80001076?maca=en-rss-en-world-4025-rdf",
+       "date": "2026-11-20T14:30:00+00:00",
+       "sentence": "She also said Britain will rejoin the Erasmus+ program, adding, \"We miss them so much.\"\nBurnham said the agreements reached Friday, however, represent the most the UK could achieve at the moment, \"What we are announcing today is probably ‌the limit of what we can achieve in this ‌Parliament, given what needs ‌to be done to implement it.\"\nIn September, Burnham said he would seek a political consens",
+       "hedged": true,
+       "syndicated_copy": false
+      },
+      {
+       "source": "BBC World",
+       "domain": "bbc.co.uk",
+       "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+       "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+       "date": "2026-11-20T17:49:48+00:00",
+       "sentence": "He said over the coming months before the next UK-EU summit both sides will \"seek to conduct an informal brainstorming process\" to look at what those options are.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
+       "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
+       "date": "2026-11-20T17:59:55+00:00",
+       "sentence": "And it’s why we need the UK-EU food trade deal announced today.”\nTo celebrate the EU-UK reset deal Andy Burnham and his cabinet are invited to lunch with the European Commission and European Council.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
+       "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
+       "date": "2026-11-20T17:59:55+00:00",
+       "sentence": "And it’s why we need the UK-EU food trade deal announced today.”\nTo celebrate the EU-UK reset deal Andy Burnham and his cabinet are invited to lunch with the European Commission and European Council.",
+       "hedged": false,
+       "syndicated_copy": true
+      }
+     ]
+    },
+    {
      "country": "RUS",
      "action": "applied",
      "status": "corroborated",
@@ -274,105 +414,6 @@
        "url": "https://www.theguardian.com/world/2026/nov/04/serbia-officers-protesters",
        "date": "2026-11-04T20:42:14+00:00",
        "sentence": "Anti-corruption protests swept ⁠across Serbia, ​a candidate for European Union membership, in 2025 and 2026 after 16 people died when a concrete canopy ⁠on a renovated railway station in the city of Novi Sad collapsed on 1 November 2024.",
-       "hedged": false,
-       "syndicated_copy": false
-      }
-     ]
-    },
-    {
-     "country": "GBR",
-     "action": "applied",
-     "status": "single-source",
-     "wikidata": "unknown",
-     "independent_outlets": 1,
-     "evidence": [
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "EU presses UK to guarantee discounted university tuition fees for European students",
-       "url": "https://www.theguardian.com/world/2026/nov/05/eu-seeks-firmer-pledge-from-uk-discounted-university-tuition-fees",
-       "date": "2026-11-05T16:58:54+00:00",
-       "sentence": "Failure to agree lower fees for EU citizens studying in UK should delay prized food and drink deal, members say\nUK politics live – latest updates\nThe EU is seeking a firmer pledge from the British government to guarantee European students discounted rates on university tuition fees before a much-anticipated summit this month.",
-       "hedged": false,
-       "syndicated_copy": false
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "EU presses UK to guarantee discounted university tuition fees for European students",
-       "url": "https://www.theguardian.com/world/2026/nov/05/eu-seeks-firmer-pledge-from-uk-discounted-university-tuition-fees",
-       "date": "2026-11-05T16:58:54+00:00",
-       "sentence": "Failure to agree lower fees for EU citizens studying in UK should delay prized food and drink deal, members say\nUK politics live – latest updates\nThe EU is seeking a firmer pledge from the British government to guarantee European students discounted rates on university tuition fees before a much-anticipated summit this month.",
-       "hedged": false,
-       "syndicated_copy": true
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Britain willing to discuss paying into EU to join electricity market, says minister",
-       "url": "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer",
-       "date": "2026-11-10T17:52:07+00:00",
-       "sentence": "The UK had been seeking to join the first round of the EU’s Security Action for Europe (Safe) fund, a low-interest loan scheme that is part of the EU’s push to grow defence spending by €800bn.",
-       "hedged": false,
-       "syndicated_copy": false
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Britain willing to discuss paying into EU to join electricity market, says minister",
-       "url": "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer",
-       "date": "2026-11-10T17:52:07+00:00",
-       "sentence": "The UK had been seeking to join the first round of the EU’s Security Action for Europe (Safe) fund, a low-interest loan scheme that is part of the EU’s push to grow defence spending by €800bn.",
-       "hedged": false,
-       "syndicated_copy": true
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "EU to reject UK talks on longer-term ties pending clarity from Burnham on next steps",
-       "url": "https://www.theguardian.com/politics/2026/nov/18/eu-uk-reset-summit-talks-burnham-brexit",
-       "date": "2026-11-18T19:17:19+00:00",
-       "sentence": "Diplomats says piecemeal approach of resets coming to an end and they want government decision on whether it will seek to reverse Brexit\nThe EU will shut the door to discussions with Andy Burnham about the UK’s longer-term relationship with the bloc until the government has decided whether it wants to proceed with reversing Brexit, diplomats have said.",
-       "hedged": true,
-       "syndicated_copy": false
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
-       "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
-       "date": "2026-11-19T17:19:17+00:00",
-       "sentence": "Asked about Britain’s status as a rule taker, No 10 said the Labour manifesto had aimed to build closer ties with the EU, adding: “We were obviously elected on a manifesto that promised to reset the relationship and seek to deepen ties with our European friends.”\nAccording to EU sources, the UK has been pushing to have a formal role in EU committees involved in implementing existing and setting ne",
-       "hedged": false,
-       "syndicated_copy": false
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
-       "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
-       "date": "2026-11-19T17:19:17+00:00",
-       "sentence": "Asked about Britain’s status as a rule taker, No 10 said the Labour manifesto had aimed to build closer ties with the EU, adding: “We were obviously elected on a manifesto that promised to reset the relationship and seek to deepen ties with our European friends.”\nAccording to EU sources, the UK has been pushing to have a formal role in EU committees involved in implementing existing and setting ne",
-       "hedged": false,
-       "syndicated_copy": true
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
-       "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
-       "date": "2026-11-19T17:19:17+00:00",
-       "sentence": "Asked about Britain’s status as a rule taker, No 10 said the Labour manifesto had aimed to build closer ties with the EU, adding: “We were obviously elected on a manifesto that promised to reset the relationship and seek to deepen ties with our European friends.”\nAccording to EU sources, the UK has been pushing to have a formal role in EU committees involved in implementing existing and setting ne",
-       "hedged": false,
-       "syndicated_copy": true
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
-       "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
-       "date": "2026-11-19T17:19:17+00:00",
-       "sentence": "The UK has prioritised seeking commitments on Britain’s position relating to the EU’s Made in Europe legislation.",
        "hedged": false,
        "syndicated_copy": false
       }
@@ -752,14 +793,108 @@
     "qid": "Q7184",
     "label": null
    },
-   "baseline_audit": null,
+   "baseline_audit": {
+    "in_wikidata_not_baseline": [],
+    "in_baseline_not_wikidata": [
+     "DNK",
+     "NLD"
+    ]
+   },
    "changes": [
+    {
+     "country": "FRA",
+     "action": "left",
+     "status": "conflict",
+     "wikidata": "disagrees",
+     "independent_outlets": 1,
+     "evidence": [
+      {
+       "source": "France 24",
+       "domain": "france24.com",
+       "title": "🔴 Watch live: 'We must change everything,' French far-left presidential candidate Mélenchon says",
+       "url": "https://www.france24.com/en/france/20261107-french-presidential-hopeful-m%C3%A9lenchon-launches-campaign-by-vowing-lower-retirement-age",
+       "date": "2026-11-07T14:44:24+00:00",
+       "sentence": "On ​foreign policy, Mélenchon's programme reiterates his long-standing criticism of NATO and calls for France's gradual withdrawal from the military alliance, starting with an exit from its integrated military command.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "France 24",
+       "domain": "france24.com",
+       "title": "🔴 Watch live: 'We must change everything,' French far-left presidential candidate Mélenchon says",
+       "url": "https://www.france24.com/en/france/20261107-french-presidential-hopeful-m%C3%A9lenchon-launches-campaign-by-vowing-lower-retirement-age",
+       "date": "2026-11-07T14:44:24+00:00",
+       "sentence": "France previously withdrew from NATO's integrated military command in 1966 under president Charles de Gaulle, a decision later reversed under right-wing president Nicolas Sarkozy in 2009.",
+       "hedged": false,
+       "syndicated_copy": false
+      }
+     ]
+    },
+    {
+     "country": "USA",
+     "action": "left",
+     "status": "conflict",
+     "wikidata": "disagrees",
+     "independent_outlets": 2,
+     "evidence": [
+      {
+       "source": "DW World",
+       "domain": "dw.com",
+       "title": "Ukraine: Zelenskyy says security deal could go to referendum",
+       "url": "https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-world-4025-rdf",
+       "date": "2026-11-14T11:40:00+00:00",
+       "sentence": "Ukrainian President Volodymyr Zelenskyy said US peace envoys asked whether Kyiv would withdraw from its eastern region of ‌Donbas ⁠in exchange ⁠for joining NATO, according to remarks to the media published on Saturday.",
+       "hedged": true,
+       "syndicated_copy": false
+      },
+      {
+       "source": "Al Jazeera",
+       "domain": "aljazeera.com",
+       "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
+       "url": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
+       "date": "2026-11-14T11:43:06+00:00",
+       "sentence": "Meanwhile, in Friday’s comments to reporters that were under embargo until Saturday, Ukrainian President Volodymyr Zelenskyy said United States negotiators had asked during this week’s Abu Dhabi talks whether Ukraine would withdraw its troops from its eastern region of Donbas in exchange for joining NATO, the transatlantic military alliance.",
+       "hedged": true,
+       "syndicated_copy": false
+      },
+      {
+       "source": "BBC World",
+       "domain": "bbc.co.uk",
+       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+       "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+       "date": "2026-11-14T15:15:57+00:00",
+       "sentence": "US negotiators have touted the idea of Ukraine withdrawing its remaining forces from the eastern Donbas region in exchange for Nato membership, Volodymyr Zelensky has said.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "CBC World",
+       "domain": "cbc.ca",
+       "title": "European security plan floated by U.S. would benefit Putin, Zelenskyy says",
+       "url": "https://www.cbc.ca/news/world/european-security-zelenskyy-putin-9.7422273?cmp=rss",
+       "date": "2026-11-14T19:06:09+00:00",
+       "sentence": "Zelenskyy said the U.S. had asked for the first time whether Ukraine would withdraw from parts of the Donbas region in eastern Ukraine that Russia does not control if Kyiv were admitted to NATO.",
+       "hedged": true,
+       "syndicated_copy": false
+      },
+      {
+       "source": "Al Jazeera",
+       "domain": "aljazeera.com",
+       "title": "Starshield restrictions help Russia’s energy attacks on Ukraine: Zelenskyy",
+       "url": "https://www.aljazeera.com/news/2026/11/15/starshield-restrictions-help-russias-energy-attacks-on-ukraine-zelenskyy?traffic_source=rss",
+       "date": "2026-11-15T13:37:08+00:00",
+       "sentence": "Zelenskyy said the US floated the idea of Ukraine withdrawing its remaining forces from the eastern Donbas region in exchange for NATO membership.",
+       "hedged": false,
+       "syndicated_copy": false
+      }
+     ]
+    },
     {
      "country": "UKR",
      "action": "joined",
      "status": "corroborated",
      "wikidata": "unknown",
-     "independent_outlets": 4,
+     "independent_outlets": 5,
      "evidence": [
       {
        "source": "CBC World",
@@ -898,6 +1033,16 @@
        "url": "https://www.france24.com/en/europe/20261115-ukrainian-drones-strike-russia-s-petrochemical-capital-in-overnight-assault",
        "date": "2026-11-15T13:36:53+00:00",
        "sentence": "Read moreUS proposed Ukraine cedes Donbas in exchange for joining NATO, Zelensky says\nNizhnekamsk, a city of about 240,000 people, is often dubbed the \"petrochemical capital\" of Tatarstan.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "BBC World",
+       "domain": "bbc.co.uk",
+       "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+       "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+       "date": "2026-11-20T13:01:16+00:00",
+       "sentence": "The Kremlin has long cited the prospect of Ukraine joining Nato as a key justification for its war effort.",
        "hedged": false,
        "syndicated_copy": false
       }
@@ -1176,94 +1321,6 @@
        "sentence": "The draft agreement with NATO also proposed that Russia and NATO members that had already joined the alliance as of May 27, 1997, refrain from deploying additional troops or weapons on the territory of other European countries beyond the levels stationed there on that date.",
        "hedged": true,
        "syndicated_copy": true
-      }
-     ]
-    },
-    {
-     "country": "USA",
-     "action": "left",
-     "status": "corroborated",
-     "wikidata": "unknown",
-     "independent_outlets": 2,
-     "evidence": [
-      {
-       "source": "DW World",
-       "domain": "dw.com",
-       "title": "Ukraine: Zelenskyy says security deal could go to referendum",
-       "url": "https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-world-4025-rdf",
-       "date": "2026-11-14T11:40:00+00:00",
-       "sentence": "Ukrainian President Volodymyr Zelenskyy said US peace envoys asked whether Kyiv would withdraw from its eastern region of ‌Donbas ⁠in exchange ⁠for joining NATO, according to remarks to the media published on Saturday.",
-       "hedged": true,
-       "syndicated_copy": false
-      },
-      {
-       "source": "Al Jazeera",
-       "domain": "aljazeera.com",
-       "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
-       "url": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
-       "date": "2026-11-14T11:43:06+00:00",
-       "sentence": "Meanwhile, in Friday’s comments to reporters that were under embargo until Saturday, Ukrainian President Volodymyr Zelenskyy said United States negotiators had asked during this week’s Abu Dhabi talks whether Ukraine would withdraw its troops from its eastern region of Donbas in exchange for joining NATO, the transatlantic military alliance.",
-       "hedged": true,
-       "syndicated_copy": false
-      },
-      {
-       "source": "BBC World",
-       "domain": "bbc.co.uk",
-       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-       "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-       "date": "2026-11-14T15:15:57+00:00",
-       "sentence": "US negotiators have touted the idea of Ukraine withdrawing its remaining forces from the eastern Donbas region in exchange for Nato membership, Volodymyr Zelensky has said.",
-       "hedged": false,
-       "syndicated_copy": false
-      },
-      {
-       "source": "CBC World",
-       "domain": "cbc.ca",
-       "title": "European security plan floated by U.S. would benefit Putin, Zelenskyy says",
-       "url": "https://www.cbc.ca/news/world/european-security-zelenskyy-putin-9.7422273?cmp=rss",
-       "date": "2026-11-14T19:06:09+00:00",
-       "sentence": "Zelenskyy said the U.S. had asked for the first time whether Ukraine would withdraw from parts of the Donbas region in eastern Ukraine that Russia does not control if Kyiv were admitted to NATO.",
-       "hedged": true,
-       "syndicated_copy": false
-      },
-      {
-       "source": "Al Jazeera",
-       "domain": "aljazeera.com",
-       "title": "Starshield restrictions help Russia’s energy attacks on Ukraine: Zelenskyy",
-       "url": "https://www.aljazeera.com/news/2026/11/15/starshield-restrictions-help-russias-energy-attacks-on-ukraine-zelenskyy?traffic_source=rss",
-       "date": "2026-11-15T13:37:08+00:00",
-       "sentence": "Zelenskyy said the US floated the idea of Ukraine withdrawing its remaining forces from the eastern Donbas region in exchange for NATO membership.",
-       "hedged": false,
-       "syndicated_copy": false
-      }
-     ]
-    },
-    {
-     "country": "FRA",
-     "action": "left",
-     "status": "single-source",
-     "wikidata": "unknown",
-     "independent_outlets": 1,
-     "evidence": [
-      {
-       "source": "France 24",
-       "domain": "france24.com",
-       "title": "🔴 Watch live: 'We must change everything,' French far-left presidential candidate Mélenchon says",
-       "url": "https://www.france24.com/en/france/20261107-french-presidential-hopeful-m%C3%A9lenchon-launches-campaign-by-vowing-lower-retirement-age",
-       "date": "2026-11-07T14:44:24+00:00",
-       "sentence": "On ​foreign policy, Mélenchon's programme reiterates his long-standing criticism of NATO and calls for France's gradual withdrawal from the military alliance, starting with an exit from its integrated military command.",
-       "hedged": false,
-       "syndicated_copy": false
-      },
-      {
-       "source": "France 24",
-       "domain": "france24.com",
-       "title": "🔴 Watch live: 'We must change everything,' French far-left presidential candidate Mélenchon says",
-       "url": "https://www.france24.com/en/france/20261107-french-presidential-hopeful-m%C3%A9lenchon-launches-campaign-by-vowing-lower-retirement-age",
-       "date": "2026-11-07T14:44:24+00:00",
-       "sentence": "France previously withdrew from NATO's integrated military command in 1966 under president Charles de Gaulle, a decision later reversed under right-wing president Nicolas Sarkozy in 2009.",
-       "hedged": false,
-       "syndicated_copy": false
       }
      ]
     },
@@ -2349,9 +2406,9 @@
    "group": "European Union",
    "country": "GBR",
    "action": "applied",
-   "status": "single-source",
+   "status": "corroborated",
    "wikidata": "unknown",
-   "independent_outlets": 1,
+   "independent_outlets": 2,
    "evidence": [
     {
      "source": "The Guardian World",
@@ -2442,6 +2499,46 @@
      "sentence": "The UK has prioritised seeking commitments on Britain’s position relating to the EU’s Made in Europe legislation.",
      "hedged": false,
      "syndicated_copy": false
+    },
+    {
+     "source": "DW World",
+     "domain": "dw.com",
+     "title": "EU and UK strike 'landmark deal' to strengthen ties after Brexit",
+     "url": "https://www.dw.com/en/eu-and-uk-strike-landmark-deal-to-strengthen-ties-after-brexit/a-80001076?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-11-20T14:30:00+00:00",
+     "sentence": "She also said Britain will rejoin the Erasmus+ program, adding, \"We miss them so much.\"\nBurnham said the agreements reached Friday, however, represent the most the UK could achieve at the moment, \"What we are announcing today is probably ‌the limit of what we can achieve in this ‌Parliament, given what needs ‌to be done to implement it.\"\nIn September, Burnham said he would seek a political consens",
+     "hedged": true,
+     "syndicated_copy": false
+    },
+    {
+     "source": "BBC World",
+     "domain": "bbc.co.uk",
+     "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+     "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-20T17:49:48+00:00",
+     "sentence": "He said over the coming months before the next UK-EU summit both sides will \"seek to conduct an informal brainstorming process\" to look at what those options are.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
+     "date": "2026-11-20T17:59:55+00:00",
+     "sentence": "And it’s why we need the UK-EU food trade deal announced today.”\nTo celebrate the EU-UK reset deal Andy Burnham and his cabinet are invited to lunch with the European Commission and European Council.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
+     "date": "2026-11-20T17:59:55+00:00",
+     "sentence": "And it’s why we need the UK-EU food trade deal announced today.”\nTo celebrate the EU-UK reset deal Andy Burnham and his cabinet are invited to lunch with the European Commission and European Council.",
+     "hedged": false,
+     "syndicated_copy": true
     }
    ]
   },
@@ -2741,7 +2838,7 @@
    "action": "joined",
    "status": "corroborated",
    "wikidata": "unknown",
-   "independent_outlets": 4,
+   "independent_outlets": 5,
    "evidence": [
     {
      "source": "CBC World",
@@ -2882,6 +2979,16 @@
      "sentence": "Read moreUS proposed Ukraine cedes Donbas in exchange for joining NATO, Zelensky says\nNizhnekamsk, a city of about 240,000 people, is often dubbed the \"petrochemical capital\" of Tatarstan.",
      "hedged": false,
      "syndicated_copy": false
+    },
+    {
+     "source": "BBC World",
+     "domain": "bbc.co.uk",
+     "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+     "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-20T13:01:16+00:00",
+     "sentence": "The Kremlin has long cited the prospect of Ukraine joining Nato as a key justification for its war effort.",
+     "hedged": false,
+     "syndicated_copy": false
     }
    ]
   },
@@ -2889,8 +2996,8 @@
    "group": "NATO",
    "country": "FRA",
    "action": "left",
-   "status": "single-source",
-   "wikidata": "unknown",
+   "status": "conflict",
+   "wikidata": "disagrees",
    "independent_outlets": 1,
    "evidence": [
     {
@@ -3219,8 +3326,8 @@
    "group": "NATO",
    "country": "USA",
    "action": "left",
-   "status": "corroborated",
-   "wikidata": "unknown",
+   "status": "conflict",
+   "wikidata": "disagrees",
    "independent_outlets": 2,
    "evidence": [
     {

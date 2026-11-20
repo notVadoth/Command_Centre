@@ -4226,6 +4226,316 @@
    "url": "https://sudantribune.com/article/321415",
    "date": "2026-11-18T16:01:00+00:00",
    "seen": "2026-11-19T19:38:47.718956+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Kharkiv",
+   "iso": "UKR",
+   "province": "Kharkiv Oblast",
+   "province_id": "14850775B15913324833724",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "Russians attack outskirts of Kharkiv, injuring two people",
+   "sentence": "Russians attack outskirts of Kharkiv, injuring two people.",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/20/8063879/",
+   "date": "2026-11-20T18:48:00+00:00",
+   "seen": "2026-11-20T19:15:49.198565+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Dnipropetrovsk Oblast",
+   "iso": "UKR",
+   "province": "Dnipropetrovsk Oblast",
+   "province_id": "14850775B41808765507575",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "One killed and another injured in Russian attacks on Dnipropetrovsk Oblast",
+   "sentence": "One killed and another injured in Russian attacks on Dnipropetrovsk Oblast.",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/20/8063864/",
+   "date": "2026-11-20T17:37:00+00:00",
+   "seen": "2026-11-20T19:15:49.198565+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Donetsk Oblast",
+   "iso": "UKR",
+   "province": "Donetsk Oblast",
+   "province_id": "14850775B15615817748403",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "Three occupation \"officials\" from Donetsk served with notices of suspicion for deporting 55 Ukrainian children",
+   "sentence": "Investigators have established that they organised the deportation of 55 Ukrainian children from temporarily occupied Donetsk Oblast to Russia.",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/20/8063847/",
+   "date": "2026-11-20T16:15:00+00:00",
+   "seen": "2026-11-20T19:15:49.198565+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Kharkiv",
+   "iso": "UKR",
+   "province": "Kharkiv Oblast",
+   "province_id": "14850775B15913324833724",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "Russia strikes emergency hospital in Kharkiv, damaging MRI scan room – photos",
+   "sentence": "Russian forces have attacked an emergency hospital in Kharkiv.",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/20/8063837/",
+   "date": "2026-11-20T15:00:00+00:00",
+   "seen": "2026-11-20T19:15:49.198565+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Ukraine"
+   ],
+   "place": "Belgorod Region",
+   "iso": "RUS",
+   "province": "Belgorod Oblast",
+   "province_id": "28173009B21416061393121",
+   "outlet": "TASS",
+   "host": "tass.com",
+   "partisan": true,
+   "title": "Woman killed, man wounded in Ukrainian attacks on Belgorod Region",
+   "sentence": "Woman killed, man wounded in Ukrainian attacks on Belgorod Region.",
+   "url": "https://tass.com/emergencies/2222537",
+   "date": "2026-11-20T13:43:39+00:00",
+   "seen": "2026-11-20T19:15:49.198565+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Ukraine"
+   ],
+   "place": "Kherson Region",
+   "iso": "UKR",
+   "province": "Kherson Oblast",
+   "province_id": "14850775B65901307765467",
+   "outlet": "TASS",
+   "host": "tass.com",
+   "partisan": true,
+   "title": "Ukrainian attacks kill 10, wound 23 in Kherson Region over week — governor",
+   "sentence": "Ukrainian attacks kill 10, wound 23 in Kherson Region over week",
+   "url": "https://tass.com/politics/2222513",
+   "date": "2026-11-20T13:19:45+00:00",
+   "seen": "2026-11-20T19:15:49.198565+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "Gaza",
+   "iso": "PSE",
+   "province": "Gaza",
+   "province_id": "83478781B7121896376882",
+   "outlet": "Al Jazeera",
+   "host": "aljazeera.com",
+   "partisan": false,
+   "title": "Jerusalem Daily: Palestinians return home to ruins",
+   "sentence": "Palestinians return to find their homes reduced to rubble after Israel’s ground offensive, as attacks on Gaza continue.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/jerusalem-daily-palestinians-return-home-to-ruins?traffic_source=rss",
+   "date": "2026-11-20T15:42:04+00:00",
+   "seen": "2026-11-20T19:15:49.198565+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Sumy",
+   "iso": "UKR",
+   "province": "Sumy Oblast",
+   "province_id": "14850775B14512392274127",
+   "outlet": "Voennoe Delo",
+   "host": "voennoedelo.com",
+   "partisan": false,
+   "title": "Ukraine Frontline Report for November 20: Russian Advances, Strikes and Ukrainian Counterattacks",
+   "sentence": "Russian advances near Kostiantynivka and Dobropillia, Ukrainian counterattacks in Sumy and fighting across nine fronts.",
+   "url": "https://voennoedelo.com/en/posts/id22447-russia-ukraine-war-update-november-20-frontline-developments",
+   "date": "2026-11-20T01:58:00+00:00",
+   "seen": "2026-11-20T19:15:49.198565+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Ukraine"
+   ],
+   "place": "Kharkiv",
+   "iso": "UKR",
+   "province": "Kharkiv Oblast",
+   "province_id": "14850775B15913324833724",
+   "outlet": "Censor.NET",
+   "host": "censor.net",
+   "partisan": false,
+   "title": "Ukrainian Armed Forces carried out unique Operation Bear Trap in Kharkiv region: 14 settlements liberated. VIDEO",
+   "sentence": "Ukrainian Armed Forces carried out unique Operation Bear Trap in Kharkiv region: 14 settlements liberated.",
+   "url": "https://censor.net/en/news/4034826/ukrainian-armed-forces-carried-out-unique-operation-bear-trap-in-kharkiv-region-14-settlements",
+   "date": "2026-11-19T22:11:00+00:00",
+   "seen": "2026-11-20T19:15:49.198565+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Kharkiv",
+   "iso": "UKR",
+   "province": "Kharkiv Oblast",
+   "province_id": "14850775B15913324833724",
+   "outlet": "Mezha",
+   "host": "mezha.net",
+   "partisan": false,
+   "title": "“Bear Trap”: How a Ukrainian operation foiled an attempt to encircle forces in Kharkiv region",
+   "sentence": "The counteroffensive in the north of Kharkiv region was intended to halt the Russian advance and prevent Ukrainian forces from being encircled.",
+   "url": "https://mezha.net/eng/news/mezha-9a5d2873bbaf740f93f28fcf_bear_trap-_how/",
+   "date": "2026-11-20T07:23:00+00:00",
+   "seen": "2026-11-20T19:15:49.198565+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Donetsk",
+   "iso": "UKR",
+   "province": "Donetsk Oblast",
+   "province_id": "14850775B15615817748403",
+   "outlet": "UA.NEWS",
+   "host": "ua.news",
+   "partisan": false,
+   "title": "Russian \"Molniya\" rockets in the Kramatorsk area carry up to 20 kg of explosives",
+   "sentence": "Near Chasovoy Yar in the Donetsk region, Russian troops have stepped up assaults by small groups.",
+   "url": "https://ua.news/en/war-vs-rf/rosiiski-molniyi-na-kramatorskomu-napriamku-nesut-do-20-kg-vibukhivki",
+   "date": "2026-11-20T10:20:00+00:00",
+   "seen": "2026-11-20T19:15:49.198565+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis",
+    "Government"
+   ],
+   "place": "Taiz",
+   "iso": "YEM",
+   "province": "Ta'izz Governorate",
+   "province_id": "18629408B66245584752084",
+   "outlet": "usmuslims",
+   "host": "usmuslims.com",
+   "partisan": false,
+   "title": "Yemeni army says it repels 2 Houthi attacks south of Taiz",
+   "sentence": "Yemeni army says it repels 2 Houthi attacks south of Taiz.",
+   "url": "https://www.usmuslims.com/yemeni-army-says-it-repels-2-houthi-attacks-south-of-taiz-382836h.htm",
+   "date": "2026-11-20T02:13:00+00:00",
+   "seen": "2026-11-20T19:15:49.198565+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Hodeidah",
+   "iso": "YEM",
+   "province": "Al Hudaydah Governorate",
+   "province_id": "18629408B71394624267216",
+   "outlet": "Reuters on MSN",
+   "host": "msn.com",
+   "partisan": false,
+   "title": "Saudi-led forces strike Yemen port as Houthis warn airlines off the kingdom",
+   "sentence": "The Saudi-led coalition fighting Yemen's Iran-aligned Houthis said it had struck the Red Sea port of Hodeidah to destroy Houthi capabilities ...",
+   "url": "https://www.msn.com/en-us/news/other/saudi-led-forces-strike-yemen-port-as-houthis-warn-airlines-off-the-kingdom/ar-AA2hRXWZ",
+   "date": "2026-11-20T08:35:11+00:00",
+   "seen": "2026-11-20T19:15:49.198565+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Hodeida",
+   "iso": "YEM",
+   "province": "Al Hudaydah Governorate",
+   "province_id": "18629408B71394624267216",
+   "outlet": "AFP on MSN",
+   "host": "msn.com",
+   "partisan": false,
+   "title": "Saudi coalition launches 'special operation', Yemen's Houthis vow reprisals",
+   "sentence": "The Saudi-led coalition fighting Yemen's Houthis attacked the Red Sea port city of Hodeida and other targets in a \"special operation\" on Friday, as the group threatened reprisals.",
+   "url": "https://www.msn.com/en-us/news/world/saudi-coalition-launches-special-operation-yemens-houthis-vow-reprisals/ar-AA2hS3Oa",
+   "date": "2026-11-20T06:38:58+00:00",
+   "seen": "2026-11-20T19:15:49.198565+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Hodeida",
+   "iso": "YEM",
+   "province": "Al Hudaydah Governorate",
+   "province_id": "18629408B71394624267216",
+   "outlet": "The New Indian Express",
+   "host": "newindianexpress.com",
+   "partisan": false,
+   "title": "Saudi coalition issues Hodeida evacuation warning, sparking Houthi threats",
+   "sentence": "RIYADH: The Saudi-led coalition fighting Yemen's Houthis warned civilians to evacuate the major port of Hodeida on Friday, prompting threats of widespread repri ...",
+   "url": "https://www.newindianexpress.com/world/2026/Nov/20/saudi-coalition-issues-hodeida-evacuation-warning-sparking-houthi-threats",
+   "date": "2026-11-20T04:57:00+00:00",
+   "seen": "2026-11-20T19:15:49.198565+00:00"
+  },
+  {
+   "war": "sudan",
+   "sides": [
+    "SAF"
+   ],
+   "place": "En Nahud",
+   "iso": "SDN",
+   "province": "West Kordofan",
+   "province_id": "86620642B26042209819562",
+   "outlet": "Anadolu Agency",
+   "host": "aa.com.tr",
+   "partisan": false,
+   "title": "Sudanese army says it dismantled RSF positions in 10 areas of West Kordofan",
+   "sentence": "Operations around En Nahud, Abu Zabad come amid weeklong army offensive to retake territory in state",
+   "url": "https://www.aa.com.tr/en/middle-east/sudanese-army-says-it-dismantled-rsf-positions-in-10-areas-of-west-kordofan/4132384",
+   "date": "2026-11-20T10:28:00+00:00",
+   "seen": "2026-11-20T19:15:49.198565+00:00"
+  },
+  {
+   "war": "sudan",
+   "sides": [
+    "RSF"
+   ],
+   "place": "Ed Damazin",
+   "iso": "SDN",
+   "province": "Blue Nile",
+   "province_id": "86620642B86272532082738",
+   "outlet": "Sudan Tribune",
+   "host": "sudantribune.com",
+   "partisan": false,
+   "title": "RSF and SPLM-N alliance claims capture of five new areas in Sudan’s Blue Nile",
+   "sentence": "The RSF and SPLM-N alliance claims to have seized five new areas in Geissan locality, Blue Nile, triggering a fresh wave of displacement toward Ed Damazin.",
+   "url": "https://sudantribune.com/article/321467",
+   "date": "2026-11-20T07:18:00+00:00",
+   "seen": "2026-11-20T19:15:49.198565+00:00"
   }
  ],
  "truce": [

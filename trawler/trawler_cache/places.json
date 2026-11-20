@@ -2444,5 +2444,87 @@
   }
  ],
  "North Kivu|SDN": [],
- "Walikale|SDN": []
+ "Walikale|SDN": [],
+ "Ukraine|MMR": [],
+ "Patriarchal Chambers|RUS,UKR": [],
+ "Shajarah Tayyebeh|PSE": [],
+ "Shajarah Tayyebeh|LBN": [],
+ "Putin|RUS,UKR": [],
+ "Chmielek|RUS,UKR": [],
+ "Lublin|RUS,UKR": [],
+ "Several Locations|RUS,UKR": [],
+ "Poland Following Russian|RUS,UKR": [],
+ "Kahlan|YEM": [
+  {
+   "qid": "Q12226936",
+   "iso": "YEM",
+   "lat": 14.26353,
+   "lon": 44.49945
+  },
+  {
+   "qid": "Q20306628",
+   "iso": "YEM",
+   "lat": 15.999444444444,
+   "lon": 43.198333333333
+  }
+ ],
+ "Hodeida|YEM": [
+  {
+   "qid": "Q275755",
+   "iso": "YEM",
+   "lat": 14.766666666667,
+   "lon": 43.25
+  },
+  {
+   "qid": "Q270041",
+   "iso": "YEM",
+   "lat": 14.802222222222,
+   "lon": 42.951111111111
+  },
+  {
+   "qid": "Q4118505",
+   "iso": "YEM",
+   "lat": 14.7701,
+   "lon": 42.9542
+  },
+  {
+   "qid": "Q2584014",
+   "iso": "YEM",
+   "lat": 14.753,
+   "lon": 42.976336111111
+  }
+ ],
+ "En Nahud|SDN": [
+  {
+   "qid": "Q287343",
+   "iso": "SDN",
+   "lat": 12.7,
+   "lon": 28.433333333333
+  },
+  {
+   "qid": "Q140380547",
+   "iso": "SDN",
+   "lat": 12.5,
+   "lon": 28.5
+  },
+  {
+   "qid": "Q3290440",
+   "iso": "SDN",
+   "lat": 12.667,
+   "lon": 28.333
+  }
+ ],
+ "Geissan|SDN": [],
+ "Ed Damazin|SDN": [
+  {
+   "qid": "Q311307",
+   "iso": "SDN",
+   "lat": 11.766666666667,
+   "lon": 34.35
+  }
+ ],
+ "Bau|SDN": [],
+ "Africa|RUS,UKR": [],
+ "Beit Shemesh|PSE": [],
+ "Beit Shemesh|LBN": []
 }
