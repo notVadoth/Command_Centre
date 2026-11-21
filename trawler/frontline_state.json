@@ -4536,6 +4536,303 @@
    "url": "https://sudantribune.com/article/321467",
    "date": "2026-11-20T07:18:00+00:00",
    "seen": "2026-11-20T19:15:49.198565+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Kerch Bridge",
+   "iso": "UKR",
+   "province": "Autonomous Republic of Crimea",
+   "province_id": "14850775B24260608407062",
+   "outlet": "DW",
+   "host": "dw.com",
+   "partisan": false,
+   "title": "Russia strikes Zelenskyy's hometown, killing 2",
+   "sentence": "The attacks follow Russian President Vladimir Putin's vow of a \"painful\" response to Ukraine's attacks this week on the Kerch Bridge, linking Russian-occupied Crimea.",
+   "url": "https://www.dw.com/en/russia-strikes-zelenskyy-s-hometown-killing-2/a-80009458?maca=en-rss-en-world-4025-rdf",
+   "date": "2026-11-21T14:44:00+00:00",
+   "seen": "2026-11-21T18:12:37.529815+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Donetsk",
+   "iso": "UKR",
+   "province": "Donetsk Oblast",
+   "province_id": "14850775B15615817748403",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "Ukraine's National Guard destroys US$15m Russian Pantsir air defence system with bomber drone – video",
+   "sentence": "Lasar's Group, part of Ukraine's National Guard, has destroyed a US$15 million Russian Pantsir-S1 air defence system near occupied Donetsk using a heavy bomber drone.",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/21/8063989/",
+   "date": "2026-11-21T17:12:00+00:00",
+   "seen": "2026-11-21T18:12:37.529815+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Dnipropetrovsk",
+   "iso": "UKR",
+   "province": "Dnipropetrovsk Oblast",
+   "province_id": "14850775B41808765507575",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "Eleven injured in Russian attacks on Dnipropetrovsk and Kherson oblasts",
+   "sentence": "Eleven injured in Russian attacks on Dnipropetrovsk and Kherson oblasts.",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/21/8063987/",
+   "date": "2026-11-21T16:48:00+00:00",
+   "seen": "2026-11-21T18:12:37.529815+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Zhytomyr Oblast",
+   "iso": "UKR",
+   "province": "Zhytomyr Oblast",
+   "province_id": "14850775B79197734087513",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "One person injured in Russian attack on railway station in Zhytomyr Oblast",
+   "sentence": "One person injured in Russian attack on railway station in Zhytomyr Oblast.",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/21/8063982/",
+   "date": "2026-11-21T15:52:00+00:00",
+   "seen": "2026-11-21T18:12:37.529815+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Crimea",
+   "iso": "UKR",
+   "province": "Autonomous Republic of Crimea",
+   "province_id": "14850775B24260608407062",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "Russia attacked Ukrainian bridges 109 times before our strike on Crimean Bridge – Zelenskyy",
+   "sentence": "Zelenskyy said Russia attacked Ukrainian bridges 109 times before the Crimean Bridge strike, calling it a logistics route to militarise occupied Crimea.",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/21/8063973/",
+   "date": "2026-11-21T14:41:00+00:00",
+   "seen": "2026-11-21T18:12:37.529815+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Kherson",
+   "iso": "UKR",
+   "province": "Kherson Oblast",
+   "province_id": "14850775B65901307765467",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "Zelenskyy names 15 settlements for evacuations similar to Oleshky operation",
+   "sentence": "Zelenskyy has named 15 settlements in Russian-occupied Kherson and Zaporizhzhia oblasts where Ukraine proposes humanitarian evacuations similar to the Oleshky operation.",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/21/8063949/",
+   "date": "2026-11-21T12:31:00+00:00",
+   "seen": "2026-11-21T18:12:37.529815+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Sumy Oblast",
+   "iso": "UKR",
+   "province": "Sumy Oblast",
+   "province_id": "14850775B14512392274127",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "Zelenskyy: Russia attacks railway station in Sumy Oblast",
+   "sentence": "Zelenskyy: Russia attacks railway station in Sumy Oblast.",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/21/8063945/",
+   "date": "2026-11-21T11:52:00+00:00",
+   "seen": "2026-11-21T18:12:37.529815+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Zaporizhzhia",
+   "iso": "UKR",
+   "province": "Zaporizhia Oblast",
+   "province_id": "14850775B92888097715572",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "Ukraine hits ammunition depot in Crimea and bridge in Luhansk Oblast",
+   "sentence": "Ukraine's defence forces struck an ammunition depot in Russian-occupied Crimea, two Russian command posts in Zaporizhzhia and Donetsk oblasts, and a road bridge near Luhansk on 20 November and the night of 20-21 November.",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/21/8063937/",
+   "date": "2026-11-21T10:28:00+00:00",
+   "seen": "2026-11-21T18:12:37.529815+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Luhansk",
+   "iso": "UKR",
+   "province": "Luhansk Oblast",
+   "province_id": "14850775B31033086218351",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "Ukraine hits ammunition depot in Crimea and bridge in Luhansk Oblast",
+   "sentence": "Ukraine's defence forces struck an ammunition depot in Russian-occupied Crimea, two Russian command posts in Zaporizhzhia and Donetsk oblasts, and a road bridge near Luhansk on 20 November and the night of 20-21 November.",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/21/8063937/",
+   "date": "2026-11-21T10:28:00+00:00",
+   "seen": "2026-11-21T18:12:37.529815+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Crimea",
+   "iso": "UKR",
+   "province": "Autonomous Republic of Crimea",
+   "province_id": "14850775B24260608407062",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "Ukraine hits ammunition depot in Crimea and bridge in Luhansk Oblast",
+   "sentence": "Ukraine's defence forces struck an ammunition depot in Russian-occupied Crimea, two Russian command posts in Zaporizhzhia and Donetsk oblasts, and a road bridge near Luhansk on 20 November and the night of 20-21 November.",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/21/8063937/",
+   "date": "2026-11-21T10:28:00+00:00",
+   "seen": "2026-11-21T18:12:37.529815+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "Jabalia",
+   "iso": "PSE",
+   "province": "Gaza",
+   "province_id": "83478781B7121896376882",
+   "outlet": "Al Jazeera",
+   "host": "aljazeera.com",
+   "partisan": false,
+   "title": "Israeli strike on vehicle distributing food aid in Gaza kills three",
+   "sentence": "Separately, Palestinian man is shot dead by Israeli forces in Jabalia and three people injured in attack in Khan Younis.",
+   "url": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
+   "date": "2026-11-21T12:29:49+00:00",
+   "seen": "2026-11-21T18:12:37.529815+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "West Bank",
+   "iso": "PSE",
+   "province": "West Bank",
+   "province_id": "83478781B28849486138516",
+   "outlet": "UN News",
+   "host": "news.un.org",
+   "partisan": false,
+   "title": "West Bank: Record settler attacks mar olive harvest as UN urges Israel to protect farmers",
+   "sentence": "Israeli settlers have carried out more than 400 attacks causing casualties or property damage during this year’s olive harvest in the occupied West Bank",
+   "url": "https://news.un.org/feed/view/en/story/2026/11/1168849",
+   "date": "2026-11-20T12:00:00+00:00",
+   "seen": "2026-11-21T18:12:37.529815+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Zelensky",
+   "iso": "RUS",
+   "province": "Nizhny Novgorod Oblast",
+   "province_id": "28173009B18259284234443",
+   "outlet": "CNN on MSN",
+   "host": "msn.com",
+   "partisan": false,
+   "title": "Russian ‘triple-tap’ attack in Ukraine kills emergency worker and 7-year-old in Zelensky’s home city",
+   "sentence": "Russian ‘triple-tap’ attack in Ukraine kills emergency worker and 7-year-old in Zelensky’s home city.",
+   "url": "https://www.msn.com/en-us/news/other/russian-triple-tap-attack-in-ukraine-kills-emergency-worker-and-7-year-old-in-zelensky-s-home-city/ar-AA2hUzKE",
+   "date": "2026-11-21T05:00:43+00:00",
+   "seen": "2026-11-21T18:12:37.529815+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Hodeida",
+   "iso": "YEM",
+   "province": "Al Hudaydah Governorate",
+   "province_id": "18629408B71394624267216",
+   "outlet": "The Express Tribune",
+   "host": "tribune.com.pk",
+   "partisan": false,
+   "title": "Saudi forces launch major strikes in Yemen",
+   "sentence": "The Saudi-led coalition fighting Yemen's Iran-aligned Houthis launched a series of strikes on the Red Sea port of Hodeida and other targets on Friday, as the rebels threatened retaliatory attacks on ...",
+   "url": "https://tribune.com.pk/story/2641480/saudi-forces-launch-major-strikes-in-yemen",
+   "date": "2026-11-20T14:43:00+00:00",
+   "seen": "2026-11-21T18:12:37.529815+00:00"
+  },
+  {
+   "war": "sudan",
+   "sides": [
+    "SAF",
+    "RSF"
+   ],
+   "place": "Ed Damazin",
+   "iso": "SDN",
+   "province": "Blue Nile",
+   "province_id": "86620642B86272532082738",
+   "outlet": "africa.dailynewsegypt",
+   "host": "africa.dailynewsegypt.com",
+   "partisan": false,
+   "title": "Sudan’s Blue Nile fighting nears Ed Damazin as RSF militia claims new areas",
+   "sentence": "Blue Nile fighting: the RSF militia and SPLM-North say they took five areas 40km from Ed Damazin after claiming Bau; the army disputes it and blames Ethiopia.",
+   "url": "https://africa.dailynewsegypt.com/blue-nile-fighting-bau/",
+   "date": "2026-11-20T13:32:00+00:00",
+   "seen": "2026-11-21T18:12:37.529815+00:00"
+  },
+  {
+   "war": "drc-m23",
+   "sides": [
+    "Government"
+   ],
+   "place": "North Kivu",
+   "iso": "COD",
+   "province": "North Kivu",
+   "province_id": "28894549B19306184040235",
+   "outlet": "Taarifa Rwanda",
+   "host": "taarifa.rw",
+   "partisan": false,
+   "title": "FRN Rebels Clash With Wazalendo",
+   "sentence": "Residents of Masisi territory in North Kivu are fleeing their homes following deadly clashes between FRN rebels and government militia, Wazalendo.",
+   "url": "https://taarifa.rw/2026/11/21/frn-rebels-clash-with-wazalendo/",
+   "date": "2026-11-21T06:43:00+00:00",
+   "seen": "2026-11-21T18:12:37.529815+00:00"
   }
  ],
  "truce": [

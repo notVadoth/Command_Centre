@@ -1,6 +1,6 @@
 // written by trawler.py — loaded automatically by commandcenter-map.html
 window.TRAWLER_GROUPINGS = {
- "generated": "2026-11-20T19:15:05.199428+00:00",
+ "generated": "2026-11-21T18:11:53.874559+00:00",
  "extractor": "rules",
  "verification": {
   "wikidata": true,
@@ -13,7 +13,7 @@ window.TRAWLER_GROUPINGS = {
    "conflict": "Wikidata contradicts the claim — review"
   }
  },
- "articles_in_store": 2213,
+ "articles_in_store": 2328,
  "blocs": {
   "EU": {
    "name": "European Union",
@@ -58,132 +58,8 @@ window.TRAWLER_GROUPINGS = {
     "qid": "Q458",
     "label": null
    },
-   "baseline_audit": {
-    "in_wikidata_not_baseline": [],
-    "in_baseline_not_wikidata": [
-     "NLD"
-    ]
-   },
+   "baseline_audit": null,
    "changes": [
-    {
-     "country": "GBR",
-     "action": "left",
-     "status": "confirmed",
-     "wikidata": "agrees",
-     "independent_outlets": 2,
-     "evidence": [
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Home Office sued after stripping almost 1,500 EU citizens of right to live in UK",
-       "url": "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled",
-       "date": "2026-11-07T09:15:35+00:00",
-       "sentence": "Campaign group the3million lodges court papers after EU citizens told pre-settled status was an ‘error’\nThe Home Office is being sued for alleged breach of the Brexit withdrawal agreement after stripping almost 1,500 EU citizens of their full rights to live in the UK.",
-       "hedged": false,
-       "syndicated_copy": false
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Home Office sued after stripping almost 1,500 EU citizens of right to live in UK",
-       "url": "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled",
-       "date": "2026-11-07T09:15:35+00:00",
-       "sentence": "Campaign group the3million lodges court papers after EU citizens told pre-settled status was an ‘error’\nThe Home Office is being sued for alleged breach of the Brexit withdrawal agreement after stripping almost 1,500 EU citizens of their full rights to live in the UK.",
-       "hedged": false,
-       "syndicated_copy": true
-      },
-      {
-       "source": "BBC World",
-       "domain": "bbc.co.uk",
-       "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-       "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
-       "date": "2026-11-07T15:19:35+00:00",
-       "sentence": "The prime minister has said rejoining the bloc's internal market was among options he could pursue as part of a reshaping of ties since the UK's exit from the EU nearly six years ago.",
-       "hedged": true,
-       "syndicated_copy": false
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Britain willing to discuss paying into EU to join electricity market, says minister",
-       "url": "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer",
-       "date": "2026-11-10T17:52:07+00:00",
-       "sentence": "Clearly it’s something that on the EU side there’s real interest, so we are engaging in that discussion but I can’t comment in detail on the negotiations.”\nFalconer was firmly positive about the UK’s return next year to the Erasmus+ student exchange scheme, which the UK left under Boris Johnson’s Brexit deal in 2020, and will be open not just to universities but also to schools and colleges.",
-       "hedged": false,
-       "syndicated_copy": false
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Andy Burnham says UK has ‘lost more than we gained’ through Brexit",
-       "url": "https://www.theguardian.com/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit",
-       "date": "2026-11-14T15:34:54+00:00",
-       "sentence": "PM accuses Tories of burning ‘all our bridges’ and says deal he is pursuing with EU will ‘get food prices down’\nAndy Burnham has said the UK has “lost more than we gained” since leaving the EU, the prime minister’s latest in a string of comments criticising Brexit.",
-       "hedged": false,
-       "syndicated_copy": false
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Andy Burnham says UK has ‘lost more than we gained’ through Brexit",
-       "url": "https://www.theguardian.com/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit",
-       "date": "2026-11-14T15:34:54+00:00",
-       "sentence": "PM accuses Tories of burning ‘all our bridges’ and says deal he is pursuing with EU will ‘get food prices down’\nAndy Burnham has said the UK has “lost more than we gained” since leaving the EU, the prime minister’s latest in a string of comments criticising Brexit.",
-       "hedged": false,
-       "syndicated_copy": true
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Monday briefing: The many stages of the UK-EU relationship – and what’s next",
-       "url": "https://www.theguardian.com/world/2026/nov/16/monday-briefing-the-many-stages-of-the-uk-eu-relationship-and-whats-next",
-       "date": "2026-11-16T06:46:27+00:00",
-       "sentence": "While the guy you really want to hear from right now – David Cameron, the prime minister who lost the 2016 Brexit referendum – has insisted the UK’s problems have nothing to do with its exit from the EU.",
-       "hedged": false,
-       "syndicated_copy": false
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Andy Burnham to say Brexit ‘has not worked’ and he will sign new deal with EU",
-       "url": "https://www.theguardian.com/politics/2026/nov/16/andy-burnham-brexit-has-not-worked-sign-new-deal-with-eu",
-       "date": "2026-11-16T07:00:38+00:00",
-       "sentence": "It is the latest in a string of comments by the prime minister criticising Brexit, after he told the Welsh Labour conference on Saturday that the UK has “lost more than we gained” through leaving the EU.",
-       "hedged": false,
-       "syndicated_copy": false
-      },
-      {
-       "source": "Al Jazeera",
-       "domain": "aljazeera.com",
-       "title": "As Burnham heads to Brussels, are new Brexit wars about to begin?",
-       "url": "https://www.aljazeera.com/news/2026/11/19/as-burnham-heads-to-brussels-are-new-brexit-wars-about-to-begin?traffic_source=rss",
-       "date": "2026-11-19T15:24:51+00:00",
-       "sentence": "In September, 55 percent of respondents told YouGov that leaving the EU was a wrong turn for the UK.",
-       "hedged": false,
-       "syndicated_copy": false
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answered readers questions",
-       "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
-       "date": "2026-11-19T18:02:33+00:00",
-       "sentence": "I don’t think Brexit had an impact on the rise of far-right parties in the EU countries – other than to discourage some of them, which had been toying with the idea of backing withdrawal from the EU, to give up on the idea because it ended so badly for the UK.",
-       "hedged": false,
-       "syndicated_copy": false
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answered readers questions",
-       "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
-       "date": "2026-11-19T18:02:33+00:00",
-       "sentence": "I don’t think Brexit had an impact on the rise of far-right parties in the EU countries – other than to discourage some of them, which had been toying with the idea of backing withdrawal from the EU, to give up on the idea because it ended so badly for the UK.",
-       "hedged": false,
-       "syndicated_copy": true
-      }
-     ]
-    },
     {
      "country": "GBR",
      "action": "applied",
@@ -318,6 +194,125 @@ window.TRAWLER_GROUPINGS = {
        "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
        "date": "2026-11-20T17:59:55+00:00",
        "sentence": "And it’s why we need the UK-EU food trade deal announced today.”\nTo celebrate the EU-UK reset deal Andy Burnham and his cabinet are invited to lunch with the European Commission and European Council.",
+       "hedged": false,
+       "syndicated_copy": true
+      }
+     ]
+    },
+    {
+     "country": "GBR",
+     "action": "left",
+     "status": "corroborated",
+     "wikidata": "unknown",
+     "independent_outlets": 2,
+     "evidence": [
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Home Office sued after stripping almost 1,500 EU citizens of right to live in UK",
+       "url": "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled",
+       "date": "2026-11-07T09:15:35+00:00",
+       "sentence": "Campaign group the3million lodges court papers after EU citizens told pre-settled status was an ‘error’\nThe Home Office is being sued for alleged breach of the Brexit withdrawal agreement after stripping almost 1,500 EU citizens of their full rights to live in the UK.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Home Office sued after stripping almost 1,500 EU citizens of right to live in UK",
+       "url": "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled",
+       "date": "2026-11-07T09:15:35+00:00",
+       "sentence": "Campaign group the3million lodges court papers after EU citizens told pre-settled status was an ‘error’\nThe Home Office is being sued for alleged breach of the Brexit withdrawal agreement after stripping almost 1,500 EU citizens of their full rights to live in the UK.",
+       "hedged": false,
+       "syndicated_copy": true
+      },
+      {
+       "source": "BBC World",
+       "domain": "bbc.co.uk",
+       "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+       "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+       "date": "2026-11-07T15:19:35+00:00",
+       "sentence": "The prime minister has said rejoining the bloc's internal market was among options he could pursue as part of a reshaping of ties since the UK's exit from the EU nearly six years ago.",
+       "hedged": true,
+       "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Britain willing to discuss paying into EU to join electricity market, says minister",
+       "url": "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer",
+       "date": "2026-11-10T17:52:07+00:00",
+       "sentence": "Clearly it’s something that on the EU side there’s real interest, so we are engaging in that discussion but I can’t comment in detail on the negotiations.”\nFalconer was firmly positive about the UK’s return next year to the Erasmus+ student exchange scheme, which the UK left under Boris Johnson’s Brexit deal in 2020, and will be open not just to universities but also to schools and colleges.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Andy Burnham says UK has ‘lost more than we gained’ through Brexit",
+       "url": "https://www.theguardian.com/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit",
+       "date": "2026-11-14T15:34:54+00:00",
+       "sentence": "PM accuses Tories of burning ‘all our bridges’ and says deal he is pursuing with EU will ‘get food prices down’\nAndy Burnham has said the UK has “lost more than we gained” since leaving the EU, the prime minister’s latest in a string of comments criticising Brexit.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Andy Burnham says UK has ‘lost more than we gained’ through Brexit",
+       "url": "https://www.theguardian.com/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit",
+       "date": "2026-11-14T15:34:54+00:00",
+       "sentence": "PM accuses Tories of burning ‘all our bridges’ and says deal he is pursuing with EU will ‘get food prices down’\nAndy Burnham has said the UK has “lost more than we gained” since leaving the EU, the prime minister’s latest in a string of comments criticising Brexit.",
+       "hedged": false,
+       "syndicated_copy": true
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Monday briefing: The many stages of the UK-EU relationship – and what’s next",
+       "url": "https://www.theguardian.com/world/2026/nov/16/monday-briefing-the-many-stages-of-the-uk-eu-relationship-and-whats-next",
+       "date": "2026-11-16T06:46:27+00:00",
+       "sentence": "While the guy you really want to hear from right now – David Cameron, the prime minister who lost the 2016 Brexit referendum – has insisted the UK’s problems have nothing to do with its exit from the EU.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Andy Burnham to say Brexit ‘has not worked’ and he will sign new deal with EU",
+       "url": "https://www.theguardian.com/politics/2026/nov/16/andy-burnham-brexit-has-not-worked-sign-new-deal-with-eu",
+       "date": "2026-11-16T07:00:38+00:00",
+       "sentence": "It is the latest in a string of comments by the prime minister criticising Brexit, after he told the Welsh Labour conference on Saturday that the UK has “lost more than we gained” through leaving the EU.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "Al Jazeera",
+       "domain": "aljazeera.com",
+       "title": "As Burnham heads to Brussels, are new Brexit wars about to begin?",
+       "url": "https://www.aljazeera.com/news/2026/11/19/as-burnham-heads-to-brussels-are-new-brexit-wars-about-to-begin?traffic_source=rss",
+       "date": "2026-11-19T15:24:51+00:00",
+       "sentence": "In September, 55 percent of respondents told YouGov that leaving the EU was a wrong turn for the UK.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answered readers questions",
+       "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
+       "date": "2026-11-19T18:02:33+00:00",
+       "sentence": "I don’t think Brexit had an impact on the rise of far-right parties in the EU countries – other than to discourage some of them, which had been toying with the idea of backing withdrawal from the EU, to give up on the idea because it ended so badly for the UK.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answered readers questions",
+       "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
+       "date": "2026-11-19T18:02:33+00:00",
+       "sentence": "I don’t think Brexit had an impact on the rise of far-right parties in the EU countries – other than to discourage some of them, which had been toying with the idea of backing withdrawal from the EU, to give up on the idea because it ended so badly for the UK.",
        "hedged": false,
        "syndicated_copy": true
       }
@@ -2538,6 +2533,126 @@ window.TRAWLER_GROUPINGS = {
      "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
      "date": "2026-11-20T17:59:55+00:00",
      "sentence": "And it’s why we need the UK-EU food trade deal announced today.”\nTo celebrate the EU-UK reset deal Andy Burnham and his cabinet are invited to lunch with the European Commission and European Council.",
+     "hedged": false,
+     "syndicated_copy": true
+    }
+   ]
+  },
+  {
+   "group": "European Union",
+   "country": "GBR",
+   "action": "left",
+   "status": "corroborated",
+   "wikidata": "unknown",
+   "independent_outlets": 2,
+   "evidence": [
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "Home Office sued after stripping almost 1,500 EU citizens of right to live in UK",
+     "url": "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled",
+     "date": "2026-11-07T09:15:35+00:00",
+     "sentence": "Campaign group the3million lodges court papers after EU citizens told pre-settled status was an ‘error’\nThe Home Office is being sued for alleged breach of the Brexit withdrawal agreement after stripping almost 1,500 EU citizens of their full rights to live in the UK.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "Home Office sued after stripping almost 1,500 EU citizens of right to live in UK",
+     "url": "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled",
+     "date": "2026-11-07T09:15:35+00:00",
+     "sentence": "Campaign group the3million lodges court papers after EU citizens told pre-settled status was an ‘error’\nThe Home Office is being sued for alleged breach of the Brexit withdrawal agreement after stripping almost 1,500 EU citizens of their full rights to live in the UK.",
+     "hedged": false,
+     "syndicated_copy": true
+    },
+    {
+     "source": "BBC World",
+     "domain": "bbc.co.uk",
+     "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-07T15:19:35+00:00",
+     "sentence": "The prime minister has said rejoining the bloc's internal market was among options he could pursue as part of a reshaping of ties since the UK's exit from the EU nearly six years ago.",
+     "hedged": true,
+     "syndicated_copy": false
+    },
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "Britain willing to discuss paying into EU to join electricity market, says minister",
+     "url": "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer",
+     "date": "2026-11-10T17:52:07+00:00",
+     "sentence": "Clearly it’s something that on the EU side there’s real interest, so we are engaging in that discussion but I can’t comment in detail on the negotiations.”\nFalconer was firmly positive about the UK’s return next year to the Erasmus+ student exchange scheme, which the UK left under Boris Johnson’s Brexit deal in 2020, and will be open not just to universities but also to schools and colleges.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "Andy Burnham says UK has ‘lost more than we gained’ through Brexit",
+     "url": "https://www.theguardian.com/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit",
+     "date": "2026-11-14T15:34:54+00:00",
+     "sentence": "PM accuses Tories of burning ‘all our bridges’ and says deal he is pursuing with EU will ‘get food prices down’\nAndy Burnham has said the UK has “lost more than we gained” since leaving the EU, the prime minister’s latest in a string of comments criticising Brexit.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "Andy Burnham says UK has ‘lost more than we gained’ through Brexit",
+     "url": "https://www.theguardian.com/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit",
+     "date": "2026-11-14T15:34:54+00:00",
+     "sentence": "PM accuses Tories of burning ‘all our bridges’ and says deal he is pursuing with EU will ‘get food prices down’\nAndy Burnham has said the UK has “lost more than we gained” since leaving the EU, the prime minister’s latest in a string of comments criticising Brexit.",
+     "hedged": false,
+     "syndicated_copy": true
+    },
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "Monday briefing: The many stages of the UK-EU relationship – and what’s next",
+     "url": "https://www.theguardian.com/world/2026/nov/16/monday-briefing-the-many-stages-of-the-uk-eu-relationship-and-whats-next",
+     "date": "2026-11-16T06:46:27+00:00",
+     "sentence": "While the guy you really want to hear from right now – David Cameron, the prime minister who lost the 2016 Brexit referendum – has insisted the UK’s problems have nothing to do with its exit from the EU.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "Andy Burnham to say Brexit ‘has not worked’ and he will sign new deal with EU",
+     "url": "https://www.theguardian.com/politics/2026/nov/16/andy-burnham-brexit-has-not-worked-sign-new-deal-with-eu",
+     "date": "2026-11-16T07:00:38+00:00",
+     "sentence": "It is the latest in a string of comments by the prime minister criticising Brexit, after he told the Welsh Labour conference on Saturday that the UK has “lost more than we gained” through leaving the EU.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "Al Jazeera",
+     "domain": "aljazeera.com",
+     "title": "As Burnham heads to Brussels, are new Brexit wars about to begin?",
+     "url": "https://www.aljazeera.com/news/2026/11/19/as-burnham-heads-to-brussels-are-new-brexit-wars-about-to-begin?traffic_source=rss",
+     "date": "2026-11-19T15:24:51+00:00",
+     "sentence": "In September, 55 percent of respondents told YouGov that leaving the EU was a wrong turn for the UK.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answered readers questions",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
+     "date": "2026-11-19T18:02:33+00:00",
+     "sentence": "I don’t think Brexit had an impact on the rise of far-right parties in the EU countries – other than to discourage some of them, which had been toying with the idea of backing withdrawal from the EU, to give up on the idea because it ended so badly for the UK.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answered readers questions",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
+     "date": "2026-11-19T18:02:33+00:00",
+     "sentence": "I don’t think Brexit had an impact on the rise of far-right parties in the EU countries – other than to discourage some of them, which had been toying with the idea of backing withdrawal from the EU, to give up on the idea because it ended so badly for the UK.",
      "hedged": false,
      "syndicated_copy": true
     }

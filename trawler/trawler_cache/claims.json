@@ -17703,6 +17703,926 @@
    "date": "2026-11-19T10:25:01+00:00",
    "seen": "2026-11-20T19:15:05.199428+00:00",
    "n_claims": 0
+  },
+  "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss": {
+   "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+   "source": "BBC World",
+   "domain": "bbc.co.uk",
+   "date": "2026-11-21T13:17:38+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss": {
+   "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+   "source": "BBC World",
+   "domain": "bbc.co.uk",
+   "date": "2026-11-21T14:54:24+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss": {
+   "title": "FBI reportedly investigating apparent hack of its criminal database",
+   "source": "BBC World",
+   "domain": "bbc.co.uk",
+   "date": "2026-11-21T16:35:15+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss": {
+   "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+   "source": "BBC World",
+   "domain": "bbc.co.uk",
+   "date": "2026-11-21T13:15:21+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss": {
+   "title": "French police officers sentenced for beating of music producer Michel Zecler",
+   "source": "BBC World",
+   "domain": "bbc.co.uk",
+   "date": "2026-11-20T22:37:09+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss": {
+   "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+   "source": "BBC World",
+   "domain": "bbc.co.uk",
+   "date": "2026-11-21T10:26:36+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss": {
+   "title": "Man convicted of starting Palisades fire in Los Angeles",
+   "source": "BBC World",
+   "domain": "bbc.co.uk",
+   "date": "2026-11-21T04:34:00+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss": {
+   "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+   "source": "BBC World",
+   "domain": "bbc.co.uk",
+   "date": "2026-11-21T09:40:55+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss": {
+   "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
+   "source": "BBC World",
+   "domain": "bbc.co.uk",
+   "date": "2026-11-20T23:08:57+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss": {
+   "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+   "source": "BBC World",
+   "domain": "bbc.co.uk",
+   "date": "2026-11-21T00:01:39+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss": {
+   "title": "Trafalgar Square Christmas tree felled in Norway",
+   "source": "BBC World",
+   "domain": "bbc.co.uk",
+   "date": "2026-11-21T08:10:03+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss": {
+   "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+   "source": "BBC World",
+   "domain": "bbc.co.uk",
+   "date": "2026-11-21T08:10:25+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss": {
+   "title": "Trump threatens ban on US firms building AI data centres overseas",
+   "source": "BBC World",
+   "domain": "bbc.co.uk",
+   "date": "2026-11-20T20:54:12+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss": {
+   "title": "US declassifies more UFO footage filmed in the Middle East",
+   "source": "BBC World",
+   "domain": "bbc.co.uk",
+   "date": "2026-11-20T23:15:20+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&at_campaign=rss": {
+   "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
+   "source": "BBC World",
+   "domain": "bbc.co.uk",
+   "date": "2026-11-20T18:48:48+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss": {
+   "title": "What the new UK-EU deal could mean for future post-Brexit relations",
+   "source": "BBC World",
+   "domain": "bbc.co.uk",
+   "date": "2026-11-20T21:43:22+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss": {
+   "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
+   "source": "BBC World",
+   "domain": "bbc.co.uk",
+   "date": "2026-11-21T01:02:39+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss": {
+   "title": "ANC fights to keep control of South Africa's key cities after election setback",
+   "source": "BBC World",
+   "domain": "bbc.co.uk",
+   "date": "2026-11-21T00:34:51+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_medium=RSS&at_campaign=rss": {
+   "title": "These dead pets were meant to be cremated - then their bodies appeared on a livestream",
+   "source": "BBC World",
+   "domain": "bbc.co.uk",
+   "date": "2026-11-20T23:20:33+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss": {
+   "title": "A new Nepal, an old neighbour - Balendra Shah's India test on first visit",
+   "source": "BBC World",
+   "domain": "bbc.co.uk",
+   "date": "2026-11-20T23:28:17+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested": {
+   "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
+   "source": "The Guardian World",
+   "domain": "theguardian.com",
+   "date": "2026-11-21T17:46:55+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele": {
+   "title": "Haitians excited but uneasy as El Salvador troops fight gangs",
+   "source": "The Guardian World",
+   "domain": "theguardian.com",
+   "date": "2026-11-21T11:00:57+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve": {
+   "title": "China commits to low-carbon electrification and help for others to improve",
+   "source": "The Guardian World",
+   "domain": "theguardian.com",
+   "date": "2026-11-21T09:47:57+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house": {
+   "title": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
+   "source": "The Guardian World",
+   "domain": "theguardian.com",
+   "date": "2026-11-20T21:47:41+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.theguardian.com/australia-news/2026/nov/21/teenager-allegedly-organised-arsons-and-kidnapping-on-signal-during-melbourne-hospitality-wars-ntwnfb": {
+   "title": "Teenager allegedly organised arsons and kidnapping on Signal during Melbourne hospitality wars",
+   "source": "The Guardian World",
+   "domain": "theguardian.com",
+   "date": "2026-11-21T04:44:00+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb": {
+   "title": "Victorian Greens seek urgent injunction over how-to-vote cards mimicking party’s branding but preferencing it last",
+   "source": "The Guardian World",
+   "domain": "theguardian.com",
+   "date": "2026-11-21T00:26:56+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.theguardian.com/australia-news/2026/nov/21/nsw-passes-hunter-valley-coalmine-law-as-greens-claim-change-an-attempt-to-head-off-one-nation-ntwnfb": {
+   "title": "NSW passes Mount Pleasant coalmine law as Greens claim change an attempt to head off One Nation",
+   "source": "The Guardian World",
+   "domain": "theguardian.com",
+   "date": "2026-11-20T23:09:57+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse": {
+   "title": "International UN talks on controlling use of autonomous weapons collapse",
+   "source": "The Guardian World",
+   "domain": "theguardian.com",
+   "date": "2026-11-21T16:36:11+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.theguardian.com/uk-news/2026/nov/21/british-man-recalls-despair-over-sons-death-after-fall-from-cyprus-window": {
+   "title": "British man recalls ‘despair’ over son’s death after fall from Cyprus window",
+   "source": "The Guardian World",
+   "domain": "theguardian.com",
+   "date": "2026-11-21T15:19:03+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband": {
+   "title": "Rejoining EU ‘on the table’ as UK makes deals on trade and young people",
+   "source": "The Guardian World",
+   "domain": "theguardian.com",
+   "date": "2026-11-21T11:33:01+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.theguardian.com/world/2026/nov/21/kyiv-russian-attacks-bridges": {
+   "title": "‘So what if there’s a hole? It hasn’t collapsed’: Kyiv residents unbothered by Russian attacks on city’s bridges",
+   "source": "The Guardian World",
+   "domain": "theguardian.com",
+   "date": "2026-11-21T05:00:50+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.theguardian.com/world/2026/nov/21/rohingya-who-escaped-myanmars-genocide-tell-their-stories": {
+   "title": "When you see smoke, run: Rohingya who escaped Myanmar’s genocide tell their stories",
+   "source": "The Guardian World",
+   "domain": "theguardian.com",
+   "date": "2026-11-21T04:00:47+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.theguardian.com/uk-news/2026/nov/21/uk-weather-cold-rain-warning-south-west-england": {
+   "title": "Cold gives way to rain in parts of UK as weather warning issued for south-west England",
+   "source": "The Guardian World",
+   "domain": "theguardian.com",
+   "date": "2026-11-21T14:51:37+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.theguardian.com/uk-news/2026/nov/21/princess-of-wales-impact-cancer-diagnosis-bbc-film-heal": {
+   "title": "Princess of Wales speaks about impact of cancer diagnosis in BBC film Heal",
+   "source": "The Guardian World",
+   "domain": "theguardian.com",
+   "date": "2026-11-21T14:42:56+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.theguardian.com/politics/2026/nov/21/reform-uk-considers-pact-restore-britain-stalling-performance-polls": {
+   "title": "Reform UK considers pact with Restore Britain to overcome stalling performance in polls",
+   "source": "The Guardian World",
+   "domain": "theguardian.com",
+   "date": "2026-11-21T12:22:54+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.theguardian.com/news/2026/nov/21/sound-system-pioneers-music-manchester-windrush": {
+   "title": "‘Music was our teacher’: the sound system pioneers reviving the scene in Manchester and beyond",
+   "source": "The Guardian World",
+   "domain": "theguardian.com",
+   "date": "2026-11-21T12:00:58+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.theguardian.com/lifeandstyle/2026/nov/21/black-friday-deals-liquid-brazilian-butt-lifts-criticised-safety-fears": {
+   "title": "Black Friday deals for liquid Brazilian butt lifts criticised over safety fears",
+   "source": "The Guardian World",
+   "domain": "theguardian.com",
+   "date": "2026-11-21T11:08:21+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.theguardian.com/us-news/2026/nov/21/vance-trump-iran-nuclear-weapon": {
+   "title": "Vance stops short of endorsing Trump’s claim that Iran was close to nuclear weapon",
+   "source": "The Guardian World",
+   "domain": "theguardian.com",
+   "date": "2026-11-21T17:24:51+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai": {
+   "title": "Anthropic mathematician claims he used Claude to prove 19th-century Riemann hypothesis",
+   "source": "The Guardian World",
+   "domain": "theguardian.com",
+   "date": "2026-11-21T16:39:49+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.theguardian.com/us-news/2026/nov/21/virginia-child-dies-measles": {
+   "title": "Virginia child dies in state’s first measles-associated death of 2026",
+   "source": "The Guardian World",
+   "domain": "theguardian.com",
+   "date": "2026-11-21T15:30:07+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.theguardian.com/tv-and-radio/2026/nov/21/snl-sister-caregiving": {
+   "title": "SNL’s skit Sister captures the quiet agony of caregiving for women: ‘I’ve never felt seen like that’",
+   "source": "The Guardian World",
+   "domain": "theguardian.com",
+   "date": "2026-11-21T15:00:01+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.theguardian.com/us-news/2026/nov/21/new-york-judge-ice-shooting-immigration": {
+   "title": "Federal judge denies request to release man shot by immigration agents in New York",
+   "source": "The Guardian World",
+   "domain": "theguardian.com",
+   "date": "2026-11-21T14:52:30+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss": {
+   "title": "Israeli strike hits food aid vehicle in Gaza, killing three",
+   "source": "Al Jazeera",
+   "domain": "aljazeera.com",
+   "date": "2026-11-21T17:54:19+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.aljazeera.com/sports/2026/11/21/liverpool-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss": {
+   "title": "Liverpool vs Manchester United: Premier League – teams, prediction, lineups",
+   "source": "Al Jazeera",
+   "domain": "aljazeera.com",
+   "date": "2026-11-21T17:28:51+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.aljazeera.com/sports/2026/11/21/chelsea-beaten-4-1-by-leeds-united-at-home-in-the-premier-league?traffic_source=rss": {
+   "title": "Chelsea beaten 4-1 by Leeds to suffer third loss in four in Premier League",
+   "source": "Al Jazeera",
+   "domain": "aljazeera.com",
+   "date": "2026-11-21T17:21:37+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss": {
+   "title": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
+   "source": "Al Jazeera",
+   "domain": "aljazeera.com",
+   "date": "2026-11-21T17:20:03+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss": {
+   "title": "India’s opposition stages protests against Meta over account removals",
+   "source": "Al Jazeera",
+   "domain": "aljazeera.com",
+   "date": "2026-11-21T16:14:01+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss": {
+   "title": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
+   "source": "Al Jazeera",
+   "domain": "aljazeera.com",
+   "date": "2026-11-21T16:03:16+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss": {
+   "title": "US midterms 2026: What happens before the new Congress takes office?",
+   "source": "Al Jazeera",
+   "domain": "aljazeera.com",
+   "date": "2026-11-21T15:49:32+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.aljazeera.com/video/newsfeed/2026/11/21/french-presidential-candidate-blames-media-for-racist-attack?traffic_source=rss": {
+   "title": "French presidential candidate blames media for racist attack",
+   "source": "Al Jazeera",
+   "domain": "aljazeera.com",
+   "date": "2026-11-21T15:46:18+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.aljazeera.com/sports/2026/11/21/diallo-present-as-africa-football-boss-motsepe-reiterates-infantino-support?traffic_source=rss": {
+   "title": "Diallo present as Africa’s Motsepe reiterates support for FIFA’s Infantino",
+   "source": "Al Jazeera",
+   "domain": "aljazeera.com",
+   "date": "2026-11-21T15:20:43+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss": {
+   "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
+   "source": "Al Jazeera",
+   "domain": "aljazeera.com",
+   "date": "2026-11-21T15:01:18+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.aljazeera.com/sports/2026/11/21/man-city-fightback-for-1-1-draw-with-fulham-to-end-three-game-losing-streak?traffic_source=rss": {
+   "title": "Man City claw back 1-1 draw with Fulham to end three-game losing streak",
+   "source": "Al Jazeera",
+   "domain": "aljazeera.com",
+   "date": "2026-11-21T14:35:52+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.aljazeera.com/sports/liveblog/2026/11/21/newcastle-united-vs-arsenal-live-premier-league?traffic_source=rss": {
+   "title": "Newcastle United vs Arsenal LIVE: Premier League",
+   "source": "Al Jazeera",
+   "domain": "aljazeera.com",
+   "date": "2026-11-21T14:30:00+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme?traffic_source=rss": {
+   "title": "Could Iran reverse its stated policy of a civil-only nuclear programme?",
+   "source": "Al Jazeera",
+   "domain": "aljazeera.com",
+   "date": "2026-11-21T14:15:36+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 1
+  },
+  "https://www.aljazeera.com/video/newsfeed/2026/11/21/jerusalem-daily-gaza-faces-deadly-strikes-and-health-crisis?traffic_source=rss": {
+   "title": "Jerusalem Daily: Gaza faces deadly strikes and health crisis",
+   "source": "Al Jazeera",
+   "domain": "aljazeera.com",
+   "date": "2026-11-21T14:06:06+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.aljazeera.com/sports/2026/11/21/chaudhary-helps-australia-beat-england-in-t20-shake-off-of-scandal-hit-run?traffic_source=rss": {
+   "title": "Chaudhary helps Australia beat England in T20 shake-off of scandal-hit run",
+   "source": "Al Jazeera",
+   "domain": "aljazeera.com",
+   "date": "2026-11-21T13:08:59+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.aljazeera.com/news/2026/11/21/riemann-hypothesis-has-the-worlds-most-famous-maths-problem-been-cracked?traffic_source=rss": {
+   "title": "Riemann hypothesis: Has the world’s most famous maths problem been cracked?",
+   "source": "Al Jazeera",
+   "domain": "aljazeera.com",
+   "date": "2026-11-21T12:49:20+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland?traffic_source=rss": {
+   "title": "Russian crew evacuating ship hit by drones off coast of Finland",
+   "source": "Al Jazeera",
+   "domain": "aljazeera.com",
+   "date": "2026-11-21T12:45:24+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.aljazeera.com/news/2026/11/21/sudans-elderly-face-hardship-and-heartbreak-in-a-life-of-displacement?traffic_source=rss": {
+   "title": "Sudan’s elderly face hardship and heartbreak in a life of displacement",
+   "source": "Al Jazeera",
+   "domain": "aljazeera.com",
+   "date": "2026-11-21T12:30:49+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss": {
+   "title": "Israeli strike on vehicle distributing food aid in Gaza kills three",
+   "source": "Al Jazeera",
+   "domain": "aljazeera.com",
+   "date": "2026-11-21T12:29:49+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.aljazeera.com/video/newsfeed/2026/11/21/florida-residents-turn-to-kayaks-and-rafts-as-floods-swamp-streets?traffic_source=rss": {
+   "title": "Florida residents turn to kayaks and rafts as floods swamp streets",
+   "source": "Al Jazeera",
+   "domain": "aljazeera.com",
+   "date": "2026-11-21T12:22:24+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.aljazeera.com/video/newsfeed/2026/11/21/mexico-captures-fbi-wanted-cartel-boss-in-military-raid?traffic_source=rss": {
+   "title": "Mexico captures FBI-wanted cartel boss in military raid",
+   "source": "Al Jazeera",
+   "domain": "aljazeera.com",
+   "date": "2026-11-21T11:53:56+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.aljazeera.com/video/by-the-numbers-3/2026/11/21/why-is-gta-vi-so-expensive-to-play?traffic_source=rss": {
+   "title": "Why is GTA VI so expensive to play?",
+   "source": "Al Jazeera",
+   "domain": "aljazeera.com",
+   "date": "2026-11-21T11:39:03+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.aljazeera.com/sports/2026/11/21/pakistan-drop-rizwan-and-masood-but-babar-and-agha-backed-in-overhaul?traffic_source=rss": {
+   "title": "Pakistan drop Rizwan and Masood, but back Babar and Agha in overhaul",
+   "source": "Al Jazeera",
+   "domain": "aljazeera.com",
+   "date": "2026-11-21T11:35:42+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.aljazeera.com/video/newsfeed/2026/11/21/migrants-caravan-in-mexico-walks-towards-us-border?traffic_source=rss": {
+   "title": "Migrants caravan in Mexico walks towards US border",
+   "source": "Al Jazeera",
+   "domain": "aljazeera.com",
+   "date": "2026-11-21T11:04:10+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss": {
+   "title": "Russian missiles hit Poland: What happened, and could NATO respond?",
+   "source": "Al Jazeera",
+   "domain": "aljazeera.com",
+   "date": "2026-11-21T11:02:49+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.dw.com/en/russian-helicopter-suspected-of-violating-finnish-airspace/a-80010133?maca=en-rss-en-world-4025-rdf": {
+   "title": "Russian helicopter suspected of violating Finnish airspace",
+   "source": "DW World",
+   "domain": "dw.com",
+   "date": "2026-11-21T17:08:00+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.dw.com/en/eu-and-indonesia-sign-trade-deal/a-80010099?maca=en-rss-en-world-4025-rdf": {
+   "title": "EU and Indonesia sign trade deal",
+   "source": "DW World",
+   "domain": "dw.com",
+   "date": "2026-11-21T15:21:00+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.dw.com/en/new-eu-budget-proposal-aims-at-tax-gobal-tech-giants/a-80009255?maca=en-rss-en-world-4025-rdf": {
+   "title": "New EU budget proposal aims at tax gobal tech giants",
+   "source": "DW World",
+   "domain": "dw.com",
+   "date": "2026-11-21T14:58:00+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.dw.com/en/russia-strikes-zelenskyy-s-hometown-killing-2/a-80009458?maca=en-rss-en-world-4025-rdf": {
+   "title": "Russia strikes Zelenskyy's hometown, killing 2",
+   "source": "DW World",
+   "domain": "dw.com",
+   "date": "2026-11-21T14:44:00+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.dw.com/en/anthropic-researcher-uses-ai-to-solve-math-s-greatest-riddle/a-80008428?maca=en-rss-en-world-4025-rdf": {
+   "title": "Anthropic researcher uses AI to solve math's greatest riddle",
+   "source": "DW World",
+   "domain": "dw.com",
+   "date": "2026-11-21T10:29:00+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.dw.com/en/man-convicted-of-arson-over-deadly-2025-palisades-fire-in-los-angeles/a-80007933?maca=en-rss-en-world-4025-rdf": {
+   "title": "Man convicted of arson over deadly 2025 Palisades fire in Los Angeles",
+   "source": "DW World",
+   "domain": "dw.com",
+   "date": "2026-11-21T07:10:00+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.dw.com/en/brazil-ex-president-jair-bolsonaro-taken-to-hospital-over-abdominal-pain/a-80007648?maca=en-rss-en-world-4025-rdf": {
+   "title": "Brazil ex-President Jair Bolsonaro taken to hospital over abdominal pain",
+   "source": "DW World",
+   "domain": "dw.com",
+   "date": "2026-11-21T03:16:00+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.dw.com/en/russian-ornithologist-jailed-over-small-donations-to-navalny-s-foundation/a-80005505?maca=en-rss-en-world-4025-rdf": {
+   "title": "Russian ornithologist jailed over small donations to Navalny's foundation",
+   "source": "DW World",
+   "domain": "dw.com",
+   "date": "2026-11-20T20:45:00+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.dw.com/en/repression-against-iranian-lawyers-increases/a-80006742?maca=en-rss-en-world-4025-rdf": {
+   "title": "Repression against Iranian lawyers increases",
+   "source": "DW World",
+   "domain": "dw.com",
+   "date": "2026-11-20T20:36:00+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.france24.com/en/drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland": {
+   "title": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland",
+   "source": "France 24",
+   "domain": "france24.com",
+   "date": "2026-11-21T18:02:23+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.france24.com/en/cop31-deep-divisions-persist-over-energy-finance-and-science": {
+   "title": "COP31: Deep divisions persist over energy, finance and science",
+   "source": "France 24",
+   "domain": "france24.com",
+   "date": "2026-11-21T17:26:47+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.france24.com/en/fbi-criminal-database-hacked": {
+   "title": "FBI criminal database hacked",
+   "source": "France 24",
+   "domain": "france24.com",
+   "date": "2026-11-21T17:23:18+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.france24.com/en/man-convicted-of-starting-palisades-fire": {
+   "title": "Man convicted of starting palisades fire",
+   "source": "France 24",
+   "domain": "france24.com",
+   "date": "2026-11-21T17:21:55+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.france24.com/en/tv-shows/a-week-in-france/20261121-french-police-officers-convicted-of-racist-assault": {
+   "title": "French police officers convicted of racist assault",
+   "source": "France 24",
+   "domain": "france24.com",
+   "date": "2026-11-21T16:41:49+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.france24.com/en/endurance-athlete-swims-in-hormuz-strait": {
+   "title": "Endurance athlete swims in Hormuz Strait",
+   "source": "France 24",
+   "domain": "france24.com",
+   "date": "2026-11-21T16:02:59+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.france24.com/en/france-demonstrations-losing-steam-as-movement-enters-sixth-week": {
+   "title": "France: Demonstrations losing steam as movement enters sixth week",
+   "source": "France 24",
+   "domain": "france24.com",
+   "date": "2026-11-21T16:00:03+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.france24.com/en/countries-race-to-secure-cop31-deal": {
+   "title": "Countries race to secure Cop31 deal",
+   "source": "France 24",
+   "domain": "france24.com",
+   "date": "2026-11-21T15:52:00+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.france24.com/en/new-day-of-protests-across-france": {
+   "title": "New day of protests across France",
+   "source": "France 24",
+   "domain": "france24.com",
+   "date": "2026-11-21T15:50:52+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.france24.com/en/cargo-ship-runs-aground-off-french-coast": {
+   "title": "Cargo ship runs aground off French coast",
+   "source": "France 24",
+   "domain": "france24.com",
+   "date": "2026-11-21T12:52:27+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.france24.com/en/russia-tests-nato-s-eastern-defences": {
+   "title": "Russia tests NATO’s eastern defences",
+   "source": "France 24",
+   "domain": "france24.com",
+   "date": "2026-11-21T12:50:35+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.france24.com/en/thousands-protest-overs-prices-education-military-spending-in-france-and-europe": {
+   "title": "Thousands protest overs prices, education, military spending in France and Europe",
+   "source": "France 24",
+   "domain": "france24.com",
+   "date": "2026-11-21T12:48:46+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.france24.com/en/europe/20261121-drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland": {
+   "title": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland",
+   "source": "France 24",
+   "domain": "france24.com",
+   "date": "2026-11-21T12:35:54+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.france24.com/en/ethiopia-tackling-period-poverty-and-stigma": {
+   "title": "Ethiopia: Tackling period poverty and stigma",
+   "source": "France 24",
+   "domain": "france24.com",
+   "date": "2026-11-21T12:22:44+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.france24.com/en/ethiopia-eritrea-troops-mobilise-along-the-border": {
+   "title": "Ethiopia - Eritrea: Troops mobilise along the border",
+   "source": "France 24",
+   "domain": "france24.com",
+   "date": "2026-11-21T12:19:21+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.france24.com/en/music-strikes-a-chord-at-french-protest": {
+   "title": "Music strikes a chord at French protest",
+   "source": "France 24",
+   "domain": "france24.com",
+   "date": "2026-11-21T12:17:52+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.france24.com/en/europe/20261121-accept-cookies-russia-collected-data-swaths-unknowing-swedes": {
+   "title": "'Accept cookies'? Russia collects data from swaths of unknowing Swedes",
+   "source": "France 24",
+   "domain": "france24.com",
+   "date": "2026-11-21T10:55:32+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.france24.com/en/europe/20261121-unacceptable-eu-chief-condemns-alleged-russian-plot-to-kill-us-ukrainian-citizen": {
+   "title": "'Unacceptable': EU chief condemns alleged Russian plot to kill US-Ukrainian citizen",
+   "source": "France 24",
+   "domain": "france24.com",
+   "date": "2026-11-21T10:32:36+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.france24.com/en/tv-shows/truth-or-fake/20261121-was-vladimir-putin-snubbed-by-xi-jinping-viral-handshake-video-is-ai-fake": {
+   "title": "Was Vladimir Putin 'snubbed' by Xi Jinping? Viral handshake video is AI fake",
+   "source": "France 24",
+   "domain": "france24.com",
+   "date": "2026-11-21T10:16:44+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.france24.com/en/denmark-accuses-russia-of-assassination-plot-expels-diplomat": {
+   "title": "Denmark accuses Russia of assassination plot, expels diplomat",
+   "source": "France 24",
+   "domain": "france24.com",
+   "date": "2026-11-21T09:51:01+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.france24.com/en/houthis-launch-strikes-on-saudi-arabia": {
+   "title": "Houthis launch strikes on Saudi Arabia",
+   "source": "France 24",
+   "domain": "france24.com",
+   "date": "2026-11-21T09:49:44+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.france24.com/en/russian-projectiles-hit-poland-as-nato-tensions-rise": {
+   "title": "Russian projectiles hit Poland as NATO tensions rise",
+   "source": "France 24",
+   "domain": "france24.com",
+   "date": "2026-11-21T09:47:05+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.france24.com/en/tv-shows/sports/20261121-nations-league-france-to-face-spain-in-quarter-finals-england-to-take-on-norway": {
+   "title": "Nations League: France to face Spain in quarter-finals, England to take on Norway",
+   "source": "France 24",
+   "domain": "france24.com",
+   "date": "2026-11-21T09:46:43+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.france24.com/en/eu-uk-reach-reset-deal-after-brexit": {
+   "title": "EU, UK reach reset deal after Brexit",
+   "source": "France 24",
+   "domain": "france24.com",
+   "date": "2026-11-21T09:43:42+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained": {
+   "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence",
+   "source": "NPR World",
+   "domain": "npr.org",
+   "date": "2026-11-21T18:08:55+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones": {
+   "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
+   "source": "NPR World",
+   "domain": "npr.org",
+   "date": "2026-11-21T14:18:17+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.npr.org/2026/11/21/nx-s1-6047379/military-analyst-phillips-obrien-on-ukraine-and-europe-being-left-out-of-trumps-talks": {
+   "title": "Military analyst Phillips O'Brien on Ukraine and Europe being left out of Trump's talks",
+   "source": "NPR World",
+   "domain": "npr.org",
+   "date": "2026-11-21T12:40:18+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai": {
+   "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
+   "source": "NPR World",
+   "domain": "npr.org",
+   "date": "2026-11-21T12:30:16+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in": {
+   "title": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
+   "source": "NPR World",
+   "domain": "npr.org",
+   "date": "2026-11-21T08:08:01+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.npr.org/2026/11/20/nx-s1-6042206/another-day-of-survival-for-a-family-in-ukraine": {
+   "title": "Another day of survival for a family in Ukraine",
+   "source": "NPR World",
+   "domain": "npr.org",
+   "date": "2026-11-20T21:32:31+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.cbc.ca/news/world/israeli-settler-violence-at-unprecedented-levels-during-palestinian-olive-harvest-9.7426808?cmp=rss": {
+   "title": "Israeli settler violence at unprecedented levels during Palestinian olive harvest",
+   "source": "CBC World",
+   "domain": "cbc.ca",
+   "date": "2026-11-21T09:00:00+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.cbc.ca/news/world/mexico-detains-sinaloa-cartel-boss-el-chapo-isidro-9.7431280?cmp=rss": {
+   "title": "Mexico detains top cartel boss El Chapo Isidro, setting off burst of violence in Sinaloa",
+   "source": "CBC World",
+   "domain": "cbc.ca",
+   "date": "2026-11-21T16:32:44+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.cbc.ca/player/play/9.7431322?cmp=rss": {
+   "title": "FBI investigating apparent hack of its criminal database",
+   "source": "CBC World",
+   "domain": "cbc.ca",
+   "date": "2026-11-21T17:36:13+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.cbc.ca/news/world/elon-musk-maga-distance-9.7429741?cmp=rss": {
+   "title": "Elon Musk looks to break up with MAGA. To what end?",
+   "source": "CBC World",
+   "domain": "cbc.ca",
+   "date": "2026-11-21T09:00:00+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.cbc.ca/news/politics/canada-surveillance-gap-underwater-drone-technology-9.7425421?cmp=rss": {
+   "title": "Allies are buying Canadian underwater surveillance drones. Canada is 'not there yet'",
+   "source": "CBC World",
+   "domain": "cbc.ca",
+   "date": "2026-11-21T09:00:00+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.cbc.ca/news/world/russia-ukraine-zelenskyy-hometown-9.7431164?cmp=rss": {
+   "title": "Russian strike on Zelenskyy's hometown in central Ukraine kills 2, wounds 60",
+   "source": "CBC World",
+   "domain": "cbc.ca",
+   "date": "2026-11-21T13:26:36+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.cbc.ca/news/world/israel-strike-gaza-aid-vehicle-9.7431224?cmp=rss": {
+   "title": "Israeli strike kills 3 in vehicle distributing aid in Gaza, witnesses say",
+   "source": "CBC World",
+   "domain": "cbc.ca",
+   "date": "2026-11-21T14:38:36+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.cbc.ca/news/world/ai-data-centres-us-tech-companies-trump-9.7430426?cmp=rss": {
+   "title": "Trump threatens to penalize U.S. tech companies that build AI data centres in other countries",
+   "source": "CBC World",
+   "domain": "cbc.ca",
+   "date": "2026-11-20T21:35:47+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
+  },
+  "https://www.cbc.ca/news/world/katie-zacharia-california-state-bar-investigation-9.7430437?cmp=rss": {
+   "title": "Former White House press secretary Katie Zacharia investigated by California state bar",
+   "source": "CBC World",
+   "domain": "cbc.ca",
+   "date": "2026-11-20T21:21:40+00:00",
+   "seen": "2026-11-21T18:11:53.874559+00:00",
+   "n_claims": 0
   }
  },
  "claims": [
@@ -19876,6 +20796,19 @@
    "source": "DW World",
    "title": "EU and UK strike 'landmark deal' to strengthen ties after Brexit",
    "date": "2026-11-20T14:30:00+00:00"
+  },
+  {
+   "kind": "new",
+   "group": "Treaty",
+   "country": "IRN",
+   "action": "joined",
+   "hedged": false,
+   "sentence": "However, Iran has also insisted it has the right to enrich uranium for these purposes under the Treaty on the Non-Proliferation of Nuclear Weapons (NPT), which it joined in 1970.",
+   "url": "https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme?traffic_source=rss",
+   "domain": "aljazeera.com",
+   "source": "Al Jazeera",
+   "title": "Could Iran reverse its stated policy of a civil-only nuclear programme?",
+   "date": "2026-11-21T14:15:36+00:00"
   }
  ]
 }
