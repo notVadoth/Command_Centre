@@ -4833,6 +4833,531 @@
    "url": "https://taarifa.rw/2026/11/21/frn-rebels-clash-with-wazalendo/",
    "date": "2026-11-21T06:43:00+00:00",
    "seen": "2026-11-21T18:12:37.529815+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "Palestinian",
+   "iso": "PSE",
+   "province": "West Bank",
+   "province_id": "83478781B28849486138516",
+   "outlet": "The Guardian",
+   "host": "theguardian.com",
+   "partisan": false,
+   "title": "Netanyahu rival condemns ‘Jewish terrorism’ after settler attacks on Palestinian villages",
+   "sentence": "Dozens of militant Israeli settlers raided communities on Saturday night, setting fire to vehicles and several homes Arson attacks by militant Israeli settlers on Palestinian villages in the occupied West Bank have caused a political row in Israel, drawing condemnation from Gadi Eisenkot, the opposi",
+   "url": "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank",
+   "date": "2026-11-22T15:22:38+00:00",
+   "seen": "2026-11-22T18:39:21.514695+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "West Bank",
+   "iso": "PSE",
+   "province": "West Bank",
+   "province_id": "83478781B28849486138516",
+   "outlet": "France 24",
+   "host": "france24.com",
+   "partisan": false,
+   "title": "West Bank attacks: Opposition leader Eisenkot decries \"Jewish terrorism\"",
+   "sentence": "Israeli authorities have opened an investigation after Palestinian vehicles and properties were set on fire in three villages in the occupied West Bank.",
+   "url": "https://www.france24.com/en/west-bank-attacks-opposition-leader-eisenkot-decries-jewish-terrorism",
+   "date": "2026-11-22T16:25:09+00:00",
+   "seen": "2026-11-22T18:39:21.514695+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "West Bank",
+   "iso": "PSE",
+   "province": "West Bank",
+   "province_id": "83478781B28849486138516",
+   "outlet": "France 24",
+   "host": "france24.com",
+   "partisan": false,
+   "title": "Israel investigates West Bank fires",
+   "sentence": "Israeli authorities have opened an investigation after Palestinian vehicles and properties were vandalised and set on fire in four villages in the occupied West Bank, in attacks local activists say were carried out by Israeli settlers.",
+   "url": "https://www.france24.com/en/israel-investigates-west-bank-fires",
+   "date": "2026-11-22T13:47:04+00:00",
+   "seen": "2026-11-22T18:39:21.514695+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Dnipropetrovsk Oblast",
+   "iso": "UKR",
+   "province": "Dnipropetrovsk Oblast",
+   "province_id": "14850775B41808765507575",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "Emergency power outages in effect in five Ukrainian oblasts",
+   "sentence": "Following a fresh Russian attack on energy infrastructure in Dnipropetrovsk Oblast on 22 November, Ukrenergo has implemented emergency power outages across five oblasts while crews repair damaged the transmission network in Odesa.",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/22/8064085/",
+   "date": "2026-11-22T17:30:00+00:00",
+   "seen": "2026-11-22T18:39:21.514695+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Odesa",
+   "iso": "UKR",
+   "province": "Odessa Oblast",
+   "province_id": "14850775B53240635394722",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "Emergency power outages in effect in five Ukrainian oblasts",
+   "sentence": "Following a fresh Russian attack on energy infrastructure in Dnipropetrovsk Oblast on 22 November, Ukrenergo has implemented emergency power outages across five oblasts while crews repair damaged the transmission network in Odesa.",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/22/8064085/",
+   "date": "2026-11-22T17:30:00+00:00",
+   "seen": "2026-11-22T18:39:21.514695+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Kaliningrad Oblast",
+   "iso": "RUS",
+   "province": "Kaliningrad",
+   "province_id": "28173009B40138449315491",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "Poland flags Russian disinformation over alleged Ukrainian attack in Kaliningrad Oblast",
+   "sentence": "Poland flags Russian disinformation over alleged Ukrainian attack in Kaliningrad Oblast.",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/22/8064083/",
+   "date": "2026-11-22T17:02:00+00:00",
+   "seen": "2026-11-22T18:39:21.514695+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Dymer",
+   "iso": "UKR",
+   "province": "Kyiv Oblast",
+   "province_id": "14850775B37539954297462",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "Two bodies recovered from under rubble of apartment block in Kyiv Oblast",
+   "sentence": "Rescue workers have recovered two bodies of people killed in the Russian attack on a five-storey apartment block in Dymer.",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/22/8064040/",
+   "date": "2026-11-22T12:28:00+00:00",
+   "seen": "2026-11-22T18:39:21.514695+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Ukraine"
+   ],
+   "place": "Chernivtsi",
+   "iso": "UKR",
+   "province": "Chernivtsi Oblast",
+   "province_id": "14850775B35593196550103",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "Chernivtsi soldier and Plast scout leader Ihor Hanhala dies from frontline wounds – photo",
+   "sentence": "Ihor Hanhala, a 34-year-old soldier from Chernivtsi and mentor with the Ukrainian scouting organisation Plast, has died from wounds sustained on the front line.",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/22/8064050/",
+   "date": "2026-11-22T12:25:00+00:00",
+   "seen": "2026-11-22T18:39:21.514695+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Odesa",
+   "iso": "UKR",
+   "province": "Odessa Oblast",
+   "province_id": "14850775B53240635394722",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "Schools in Odesa switch to remote learning due to power supply problems caused by Russian attacks",
+   "sentence": "Schools in Odesa switch to remote learning due to power supply problems caused by Russian attacks.",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/22/8064027/",
+   "date": "2026-11-22T09:52:00+00:00",
+   "seen": "2026-11-22T18:39:21.514695+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Ukraine"
+   ],
+   "place": "Belgorod Region",
+   "iso": "RUS",
+   "province": "Belgorod Oblast",
+   "province_id": "28173009B21416061393121",
+   "outlet": "TASS",
+   "host": "tass.com",
+   "partisan": true,
+   "title": "Five civilians, including child, wounded in Ukraine’s attacks on Belgorod Region",
+   "sentence": "Five civilians, including child, wounded in Ukraine’s attacks on Belgorod Region.",
+   "url": "https://tass.com/defense/2223057",
+   "date": "2026-11-22T16:25:17+00:00",
+   "seen": "2026-11-22T18:39:21.514695+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "West Bank",
+   "iso": "PSE",
+   "province": "West Bank",
+   "province_id": "83478781B28849486138516",
+   "outlet": "South China Morning Post",
+   "host": "scmp.com",
+   "partisan": false,
+   "title": "Israel investigates West Bank fires blamed on Israeli settlers",
+   "sentence": "Israeli authorities said on Sunday that they opened an investigation after Palestinian cars and properties were torched in four occupied West Bank villages, in attacks a local activist said were carried out by Israeli settlers.",
+   "url": "https://www.scmp.com/news/world/middle-east/article/3375395/israel-investigates-west-bank-fires-blamed-israeli-settlers",
+   "date": "2026-11-22T16:25:23+00:00",
+   "seen": "2026-11-22T18:39:21.514695+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "West Bank",
+   "iso": "PSE",
+   "province": "West Bank",
+   "province_id": "83478781B28849486138516",
+   "outlet": "Al Jazeera",
+   "host": "aljazeera.com",
+   "partisan": false,
+   "title": "Israeli settlers attack multiple Palestinian villages as pogroms surge",
+   "sentence": "Israeli settlers attacked several Palestinian towns and villages in the occupied West Bank on Sunday.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss",
+   "date": "2026-11-22T16:50:48+00:00",
+   "seen": "2026-11-22T18:39:21.514695+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "Ramallah",
+   "iso": "PSE",
+   "province": "West Bank",
+   "province_id": "83478781B28849486138516",
+   "outlet": "Middle East Eye",
+   "host": "middleeasteye.net",
+   "partisan": false,
+   "title": "From arson to land seizures: Settlers tighten grip on Palestinian villages near Ramallah",
+   "sentence": "In a series of coordinated attacks across several villages near the city of Ramallah in the central occupied West Bank, Israeli settlers torched Palestinian vehicles between Saturday evening and Sunday morning.",
+   "url": "https://www.middleeasteye.net/news/arson-land-seizures-settlers-tighten-grip-palestinian-villages-near-ramallah",
+   "date": "2026-11-22T17:02:35+00:00",
+   "seen": "2026-11-22T18:39:21.514695+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "West Bank",
+   "iso": "PSE",
+   "province": "West Bank",
+   "province_id": "83478781B28849486138516",
+   "outlet": "Middle East Eye",
+   "host": "middleeasteye.net",
+   "partisan": false,
+   "title": "'Jewish terrorism in every sense': Eisenkot blames Smotrich and Ben Gvir for settler attacks",
+   "sentence": "Israeli politician Gadi Eisenkot has condemned a series of arson attacks by settlers in the occupied West Bank as \"Jewish terrorism\", accusing far-right ministers Bezalel Smotrich and Itamar Ben Gvir of fuelling violence against Palestinians.",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/jewish-terrorism-every-sense-eisenkot-blames-smotrich-and-ben-gvir",
+   "date": "2026-11-22T12:45:01+00:00",
+   "seen": "2026-11-22T18:39:21.514695+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "West Bank",
+   "iso": "PSE",
+   "province": "West Bank",
+   "province_id": "83478781B28849486138516",
+   "outlet": "Middle East Eye",
+   "host": "middleeasteye.net",
+   "partisan": false,
+   "title": "'Jewish terrorism in every sense': Eisenkot blames Smotrich and Ben Gvir for settler attacks",
+   "sentence": "Israeli politician Gadi Eisenkot has condemned a series of arson attacks by settlers in the occupied West Bank as \"Jewish terrorism\", accusing far-right ministers Bezalel Smotrich and Itamar Ben Gvir of fuelling violence against Palestinians.",
+   "url": "https://www.middleeasteye.net/news/jewish-terrorism-every-sense-eisenkot-blames-smotrich-and-ben-gvir-settler-attacks",
+   "date": "2026-11-22T12:36:53+00:00",
+   "seen": "2026-11-22T18:39:21.514695+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "Ramallah",
+   "iso": "PSE",
+   "province": "West Bank",
+   "province_id": "83478781B28849486138516",
+   "outlet": "Middle East Eye",
+   "host": "middleeasteye.net",
+   "partisan": false,
+   "title": "Israeli settlers torch vehicles in West Bank, paint 'racist' graffiti on homes",
+   "sentence": "Israeli settlers set fire to 12 Palestinian-owned vehicles and spray-painted racist graffiti during attacks on three villages in Ramallah and al-Bireh in the occupied West Bank, Palestinian media reported.",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-torch-vehicles-west-bank-paint-racist-graffiti-homes",
+   "date": "2026-11-22T07:47:53+00:00",
+   "seen": "2026-11-22T18:39:21.514695+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "West Bank",
+   "iso": "PSE",
+   "province": "West Bank",
+   "province_id": "83478781B28849486138516",
+   "outlet": "Africanews",
+   "host": "africanews.com",
+   "partisan": false,
+   "title": "West Bank: Four Palestinian villages targeted in suspected settler attacks",
+   "sentence": "Burnt-out cars, damaged trucks and anti-Arab graffiti were discovered in four Palestinian villages in the Israeli-occupied West Bank on Sunday 22 November 2026, following overnight attacks blamed by local activists on Israeli settlers.",
+   "url": "http://www.africanews.com/2026/11/22/west-bank-four-palestinian-villages-targeted-in-suspected-settler-attacks/",
+   "date": "2026-11-22T15:52:41+00:00",
+   "seen": "2026-11-22T18:39:21.514695+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Lviv",
+   "iso": "UKR",
+   "province": "Lviv Oblast",
+   "province_id": "14850775B26941409899318",
+   "outlet": "Africanews",
+   "host": "africanews.com",
+   "partisan": false,
+   "title": "Ukraine: Dashcam captures massive explosion on Lviv street",
+   "sentence": "A dashcam captured the moment a Russian projectile struck a building directly ahead of a car in Lviv, forcing the driver to reverse.",
+   "url": "http://www.africanews.com/2026/11/22/ukraine-dashcam-captures-massive-explosion-on-lviv-street/",
+   "date": "2026-11-21T23:05:55+00:00",
+   "seen": "2026-11-22T18:39:21.514695+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Ukraine"
+   ],
+   "place": "Chernivtsi",
+   "iso": "UKR",
+   "province": "Chernivtsi Oblast",
+   "province_id": "14850775B35593196550103",
+   "outlet": "Yahoo",
+   "host": "yahoo.com",
+   "partisan": false,
+   "title": "Defender from Chernivtsi and scout Ihor Hanhala dies from frontline wounds",
+   "sentence": "Ihor Hanhala, a 34-year-old soldier from Chernivtsi and mentor with the Ukrainian scouting organisation Plast, has died from wounds sustained on the front line.",
+   "url": "https://www.yahoo.com/news/world/articles/defender-chernivtsi-scout-ihor-hanhala-122500565.html",
+   "date": "2026-11-22T04:25:00+00:00",
+   "seen": "2026-11-22T18:39:21.514695+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Kharkov",
+   "iso": "UKR",
+   "province": "Kharkiv Oblast",
+   "province_id": "14850775B15913324833724",
+   "outlet": "Voennoe Delo",
+   "host": "voennoedelo.com",
+   "partisan": false,
+   "title": "Russian Forces Capture Sosnovy Bor in Kharkov Region, Defense Ministry Says",
+   "sentence": "Russian forces claim control of Sosnovy Bor in the Kharkov region after heavy fighting, securing nearby woodland and opening a possible route toward Bugayevka.",
+   "url": "https://voennoedelo.com/en/posts/id22533-russia-claims-capture-of-sosnovy-bor-in-kharkov-region",
+   "date": "2026-11-22T10:02:00+00:00",
+   "seen": "2026-11-22T18:39:21.514695+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Bugayevka",
+   "iso": "RUS",
+   "province": "Voronezh Oblast",
+   "province_id": "28173009B2687808218031",
+   "outlet": "Voennoe Delo",
+   "host": "voennoedelo.com",
+   "partisan": false,
+   "title": "Russian Forces Capture Sosnovy Bor in Kharkov Region, Defense Ministry Says",
+   "sentence": "Russian forces claim control of Sosnovy Bor in the Kharkov region after heavy fighting, securing nearby woodland and opening a possible route toward Bugayevka.",
+   "url": "https://voennoedelo.com/en/posts/id22533-russia-claims-capture-of-sosnovy-bor-in-kharkov-region",
+   "date": "2026-11-22T10:02:00+00:00",
+   "seen": "2026-11-22T18:39:21.514695+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Novomarkove",
+   "iso": "UKR",
+   "province": "Donetsk Oblast",
+   "province_id": "14850775B15615817748403",
+   "outlet": "The New Voice of Ukraine on MSN",
+   "host": "msn.com",
+   "partisan": false,
+   "title": "Russian forces advance near Novomarkove and in Mykolaivka, Donetsk Oblast — DeepState",
+   "sentence": "Russian forces advance near Novomarkove and in Mykolaivka, Donetsk Oblast",
+   "url": "https://www.msn.com/en-us/news/other/russian-forces-advance-near-novomarkove-and-in-mykolaivka-donetsk-oblast-deepstate/ar-AA2hXUc7",
+   "date": "2026-11-22T01:12:00+00:00",
+   "seen": "2026-11-22T18:39:21.514695+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "Palestinian",
+   "iso": "PSE",
+   "province": "West Bank",
+   "province_id": "83478781B28849486138516",
+   "outlet": "UPI on MSN",
+   "host": "msn.com",
+   "partisan": false,
+   "title": "Opposition leader Gadi Eisenkot calls West Bank arson attacks 'Jewish terrorism'",
+   "sentence": "Israeli opposition leader Gadi Eisenkot on Sunday condemned overnight arson attacks on Palestinian villages in the West Bank.",
+   "url": "https://www.msn.com/en-us/news/other/opposition-leader-gadi-eisenkot-calls-west-bank-arson-attacks-jewish-terrorism/ar-AA2hYyj4",
+   "date": "2026-11-22T08:55:26+00:00",
+   "seen": "2026-11-22T18:39:21.514695+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Ukraine"
+   ],
+   "place": "Sumy",
+   "iso": "UKR",
+   "province": "Sumy Oblast",
+   "province_id": "14850775B14512392274127",
+   "outlet": "uawire.org",
+   "host": "uawire.org",
+   "partisan": false,
+   "title": "Pro-Russian channels report Russian retreat toward border amid Ukrainian counteroffensive near Sumy",
+   "sentence": "Fighting has been reported near the Ukrainian city of Sumy.",
+   "url": "https://uawire.org/pro-russian-channels-report-russian-retreat-toward-border-amid-ukrainian-counteroffensive-near-sumy",
+   "date": "2026-11-22T00:47:00+00:00",
+   "seen": "2026-11-22T18:39:21.514695+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Lahij",
+   "iso": "YEM",
+   "province": "Lahij Governorate",
+   "province_id": "18629408B46389326189415",
+   "outlet": "Asharq Alawsat (English) on MSN",
+   "host": "msn.com",
+   "partisan": false,
+   "title": "Battles in Lahij and Taiz as Airstrikes Target Houthi Capabilities",
+   "sentence": "Battles in Lahij and Taiz as Airstrikes Target Houthi Capabilities.",
+   "url": "https://www.msn.com/en-ae/news/other/battles-in-lahij-and-taiz-as-airstrikes-target-houthi-capabilities/ar-AA2hXiFJ",
+   "date": "2026-11-21T22:02:59+00:00",
+   "seen": "2026-11-22T18:39:21.514695+00:00"
+  },
+  {
+   "war": "sudan",
+   "sides": [
+    "RSF"
+   ],
+   "place": "Abu Zabad",
+   "iso": "SDN",
+   "province": "West Kordofan",
+   "province_id": "86620642B26042209819562",
+   "outlet": "africa.dailynewsegypt",
+   "host": "africa.dailynewsegypt.com",
+   "partisan": false,
+   "title": "Sudan’s West Kordofan fighting displaces thousands around Abu Zabad",
+   "sentence": "West Kordofan fighting has driven 3,670 people from Abu Zabad since 14 November, the IOM said, as a relief group accused the RSF militia of killing villagers.",
+   "url": "https://africa.dailynewsegypt.com/west-kordofan-abu-zabad-fighting/",
+   "date": "2026-11-21T15:17:00+00:00",
+   "seen": "2026-11-22T18:39:21.514695+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "West Bank",
+   "iso": "PSE",
+   "province": "West Bank",
+   "province_id": "83478781B28849486138516",
+   "outlet": "Asharq Al-Awsat",
+   "host": "english.aawsat.com",
+   "partisan": false,
+   "title": "Israeli Opposition Leader Condemns Suspected Settler Attacks as ‘Terrorism’",
+   "sentence": "Israeli opposition leader Gadi Eisenkot condemned arson attacks that Israeli settlers are suspected of carrying out in the occupied West Bank as “Jewish terrorism.” The Israeli police said they were ...",
+   "url": "https://english.aawsat.com/arab-world/5344209-israeli-opposition-leader-condemns-suspected-settler-attacks-%E2%80%98terrorism%E2%80%99",
+   "date": "2026-11-22T01:31:00+00:00",
+   "seen": "2026-11-22T18:39:21.514695+00:00"
+  },
+  {
+   "war": "sudan",
+   "sides": [
+    "SAF",
+    "RSF"
+   ],
+   "place": "Damazin",
+   "iso": "SDN",
+   "province": "Blue Nile",
+   "province_id": "86620642B86272532082738",
+   "outlet": "International Business Times AU",
+   "host": "ibtimes.com.au",
+   "partisan": false,
+   "title": "RSF-Led Alliance Says It Downed Drone Over Blue Nile And Is Advancing On Damazin In Sudan",
+   "sentence": "The RSF-led Tasis alliance claims it shot down a Turkish-made Bayraktar drone and captured positions near Damazin, while accusing Sudan's army of civilian attacks in Blue Nile and Nyala.",
+   "url": "https://www.ibtimes.com.au/tasis-claims-bayraktar-drone-shot-down-blue-nile-1879126",
+   "date": "2026-11-22T07:04:00+00:00",
+   "seen": "2026-11-22T18:39:21.514695+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis",
+    "Government"
+   ],
+   "place": "Taiz",
+   "iso": "YEM",
+   "province": "Ta'izz Governorate",
+   "province_id": "18629408B66245584752084",
+   "outlet": "Yemen Online",
+   "host": "yemenonline.info",
+   "partisan": false,
+   "title": "Yemeni Army Repels Houthi Assault West of Taiz Amid Escalating Clashes...",
+   "sentence": "Yemeni government forces, backed by the Popular Resistance, repelled a Houthi attack on military positions west of Taiz, as fighting intensified across several battlefronts in t ...",
+   "url": "https://yemenonline.info/special-reports/14578",
+   "date": "2026-11-22T06:24:00+00:00",
+   "seen": "2026-11-22T18:39:21.514695+00:00"
   }
  ],
  "truce": [
@@ -4996,20 +5521,6 @@
     }
    ],
    "last": "2026-11-17"
-  },
-  {
-   "iso": "USA",
-   "outlets": [
-    "Al Jazeera"
-   ],
-   "examples": [
-    {
-     "outlet": "Al Jazeera",
-     "title": "Jerusalem Daily: Israeli forces occupy Palestinian-American’s home",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/jerusalem-daily-israeli-forces-occupy-palestinian-americans-home?traffic_source=rss"
-    }
-   ],
-   "last": "2026-11-14"
   }
  ]
 }
