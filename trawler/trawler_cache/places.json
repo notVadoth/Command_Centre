@@ -3003,5 +3003,27 @@
    "lon": 29.25
   }
  ],
- "Taiz Amid Escalating|YEM": []
+ "Taiz Amid Escalating|YEM": [],
+ "Libya|RUS,UKR": [
+  {
+   "qid": "Q4260906",
+   "iso": "RUS",
+   "lat": 57.68052,
+   "lon": 33.111722
+  }
+ ],
+ "Donetsk|MMR": [],
+ "Mahdi Tounsi|PSE": [],
+ "Jerusalem’s Hebrew University|PSE": [],
+ "Mahdi Tounsi|LBN": [],
+ "Jerusalem’s Hebrew University|LBN": [],
+ "Martyrs|PSE": [],
+ "Martyrs|LBN": [],
+ "Israel’s Yashar Party|PSE": [],
+ "Israel’s Yashar Party|LBN": [],
+ "Russia’s Rostov Region|RUS,UKR": [],
+ "Tajikistan|RUS,UKR": [],
+ "China's Shenzhen|RUS,UKR": [],
+ "Benghazi|RUS,UKR": [],
+ "Black|RUS,UKR": []
 }

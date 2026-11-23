@@ -5358,6 +5358,430 @@
    "url": "https://yemenonline.info/special-reports/14578",
    "date": "2026-11-22T06:24:00+00:00",
    "seen": "2026-11-22T18:39:21.514695+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Libya",
+   "iso": "RUS",
+   "province": "Novgorod Oblast",
+   "province_id": "28173009B16533507618293",
+   "outlet": "BBC News",
+   "host": "bbc.co.uk",
+   "partisan": false,
+   "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+   "sentence": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
+   "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T15:41:23+00:00",
+   "seen": "2026-11-23T22:55:15.274853+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Donetsk",
+   "iso": "UKR",
+   "province": "Donetsk Oblast",
+   "province_id": "14850775B15615817748403",
+   "outlet": "The Guardian",
+   "host": "theguardian.com",
+   "partisan": false,
+   "title": "Leaked data shows more than 1,000 Russian military suicides during Ukraine war",
+   "sentence": "Exclusive: Figures from cache of 11m death certificates reveal suicides account for about a regiment of Russia’s war dead Russia’s war dead: the hidden toll of the Ukraine conflict In late October 2024, Alexei Bolgov, a sergeant guarding a military headquarters in the occupied Donetsk region, told h",
+   "url": "https://www.theguardian.com/world/2026/nov/23/leaked-data-shows-more-than-1000-russian-military-suicides-during-ukraine-war",
+   "date": "2026-11-23T16:00:51+00:00",
+   "seen": "2026-11-23T22:55:15.274853+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Libya",
+   "iso": "RUS",
+   "province": "Novgorod Oblast",
+   "province_id": "28173009B16533507618293",
+   "outlet": "France 24",
+   "host": "france24.com",
+   "partisan": false,
+   "title": "Ukraine claims strikes on Russian ships off Libyan coast",
+   "sentence": "Ukraine claimed responsibility on Monday for attacks on two Russian vessels off the coast of Libya the previous day.",
+   "url": "https://www.france24.com/en/video/20261123-ukraine-claims-strikes-on-russian-ships-off-libyan-coast",
+   "date": "2026-11-23T14:36:26+00:00",
+   "seen": "2026-11-23T22:55:15.274853+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Libya",
+   "iso": "RUS",
+   "province": "Novgorod Oblast",
+   "province_id": "28173009B16533507618293",
+   "outlet": "France 24",
+   "host": "france24.com",
+   "partisan": false,
+   "title": "Ukraine sending the message that 'we can attack you where we want'",
+   "sentence": "Ukraine carried out an attack on a Russian warship moored at a port in Libya, President Volodymyr Zelensky said Monday, claiming that maritime drones sank the navy vessel in a surprise assault the previous day.",
+   "url": "https://www.france24.com/en/video/20261123-ukraine-sending-the-message-that-we-can-attack-you-where-we-want",
+   "date": "2026-11-23T14:04:23+00:00",
+   "seen": "2026-11-23T22:55:15.274853+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Libya",
+   "iso": "RUS",
+   "province": "Novgorod Oblast",
+   "province_id": "28173009B16533507618293",
+   "outlet": "NPR",
+   "host": "npr.org",
+   "partisan": false,
+   "title": "Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya",
+   "sentence": "Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya.",
+   "url": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya",
+   "date": "2026-11-23T10:16:33+00:00",
+   "seen": "2026-11-23T22:55:15.274853+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Libya",
+   "iso": "RUS",
+   "province": "Novgorod Oblast",
+   "province_id": "28173009B16533507618293",
+   "outlet": "CBC News",
+   "host": "cbc.ca",
+   "partisan": false,
+   "title": "Zelenskyy confirms Ukraine was behind attack on Russian warship off Libya",
+   "sentence": "Ukraine carried out an attack on a Russian warship moored at a naval base in Libya, President Volodymyr Zelenskyy said Monday, claiming that sea drones sank the vessel in a surprise assault the previous day.",
+   "url": "https://www.cbc.ca/news/world/ukraine-attack-russian-warship-libya-merkury-9.7432215?cmp=rss",
+   "date": "2026-11-23T09:47:02+00:00",
+   "seen": "2026-11-23T22:55:15.274853+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Dymer",
+   "iso": "UKR",
+   "province": "Kyiv Oblast",
+   "province_id": "14850775B37539954297462",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "\"A little miracle\": three cats rescued at site of Russian strike in Dymer, one found completely buried – photo",
+   "sentence": "Rescue workers found a cat under the rubble of a building destroyed in a Russian attack in Dymer, Kyiv Oblast.",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/23/8064241/",
+   "date": "2026-11-23T14:55:00+00:00",
+   "seen": "2026-11-23T22:55:15.274853+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "Gaza",
+   "iso": "PSE",
+   "province": "Gaza",
+   "province_id": "83478781B7121896376882",
+   "outlet": "RT",
+   "host": "rt-english.com",
+   "partisan": false,
+   "title": "Gaza faces decades of toxic fallout from Israeli offensive – report",
+   "sentence": "Israel’s offensive left signs of possible contamination across more than 99% of Gaza, according to a report by Oxfam Read Full Article at RT.com",
+   "url": "https://rt-english.com/news/649252-gaza-toxic-fallout-report/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+   "date": "2026-11-23T12:46:27+00:00",
+   "seen": "2026-11-23T22:55:15.274853+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "West Bank",
+   "iso": "PSE",
+   "province": "West Bank",
+   "province_id": "83478781B28849486138516",
+   "outlet": "RT",
+   "host": "rt-english.com",
+   "partisan": false,
+   "title": "Eisenkot brands settler attacks ‘Jewish terrorism’",
+   "sentence": "Gadi Eisenkot, the leader of Israel’s Yashar Party, called Sunday’s settler attacks on Palestinians in the West Bank “Jewish terrorism” Read Full Article at RT.com",
+   "url": "https://rt-english.com/news/649227-eisenkot-jewish-terrorism-west-bank/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+   "date": "2026-11-22T22:02:27+00:00",
+   "seen": "2026-11-23T22:55:15.274853+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "West Bank",
+   "iso": "PSE",
+   "province": "West Bank",
+   "province_id": "83478781B28849486138516",
+   "outlet": "Al Jazeera",
+   "host": "aljazeera.com",
+   "partisan": false,
+   "title": "Israeli soldiers assault Palestinian after raiding his home",
+   "sentence": "Israeli forces assault a Palestinian man during a raid on his home in the occupied West Bank.",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israeli-soldiers-assault-palestinian-after-raiding-his-home?traffic_source=rss",
+   "date": "2026-11-23T15:40:15+00:00",
+   "seen": "2026-11-23T22:55:15.274853+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Yemeni",
+   "iso": "YEM",
+   "province": "Hadhramaut",
+   "province_id": "18629408B49078263925584",
+   "outlet": "The Hindu",
+   "host": "thehindu.com",
+   "partisan": false,
+   "title": "17 killed in Saudi attack on Yemeni city: Houthis",
+   "sentence": "17 killed in Saudi attack on Yemeni city: Houthis.",
+   "url": "https://www.thehindu.com/news/international/17-killed-in-saudi-attack-on-yemeni-city-houthis/article71735986.ece",
+   "date": "2026-11-23T17:24:11+00:00",
+   "seen": "2026-11-23T22:55:15.274853+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Libya",
+   "iso": "RUS",
+   "province": "Novgorod Oblast",
+   "province_id": "28173009B16533507618293",
+   "outlet": "The Hindu",
+   "host": "thehindu.com",
+   "partisan": false,
+   "title": "Zelenskyy hails Ukraine's attack on a Russian warship in Libya",
+   "sentence": "Zelenskyy hails Ukraine's attack on a Russian warship in Libya.",
+   "url": "https://www.thehindu.com/news/international/zelenskyy-hails-ukraines-attack-on-a-russian-warship-in-libya/article71735901.ece",
+   "date": "2026-11-23T16:57:47+00:00",
+   "seen": "2026-11-23T22:55:15.274853+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "West Bank",
+   "iso": "PSE",
+   "province": "West Bank",
+   "province_id": "83478781B28849486138516",
+   "outlet": "The Hindu",
+   "host": "thehindu.com",
+   "partisan": false,
+   "title": "Israel’s Eisenkot condemns arson attacks by Jewish settlers in West Bank",
+   "sentence": "Israel’s Eisenkot condemns arson attacks by Jewish settlers in West Bank.",
+   "url": "https://www.thehindu.com/news/international/israels-eisenkot-condemns-arson-attacks-by-jewish-settlers-in-west-bank/article71732544.ece",
+   "date": "2026-11-22T22:02:28+00:00",
+   "seen": "2026-11-23T22:55:15.274853+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Libya",
+   "iso": "RUS",
+   "province": "Novgorod Oblast",
+   "province_id": "28173009B16533507618293",
+   "outlet": "Africanews",
+   "host": "africanews.com",
+   "partisan": false,
+   "title": "Tensions in Libya and COP31 climate challenges [Africanews Today]",
+   "sentence": "Tensions are rising in Libya following an attack on two vessels off the coast of Benghazi, including a Russian ship.",
+   "url": "http://www.africanews.com/2026/11/23/tensions-in-libya-and-cop31-climate-challenges-africanews-today/",
+   "date": "2026-11-23T19:48:24+00:00",
+   "seen": "2026-11-23T22:55:15.274853+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Libya",
+   "iso": "RUS",
+   "province": "Novgorod Oblast",
+   "province_id": "28173009B16533507618293",
+   "outlet": "The Washington Post on MSN",
+   "host": "msn.com",
+   "partisan": false,
+   "title": "Ukraine says it sank Russian warship off coast of Libya, far from front line",
+   "sentence": "Ukraine says it sank Russian warship off coast of Libya, far from front line.",
+   "url": "https://www.msn.com/en-us/news/other/ukraine-says-it-sank-russian-warship-off-coast-of-libya-far-from-front-line/ar-AA2i2tgu",
+   "date": "2026-11-23T09:30:38+00:00",
+   "seen": "2026-11-23T22:55:15.274853+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Sumy",
+   "iso": "UKR",
+   "province": "Sumy Oblast",
+   "province_id": "14850775B14512392274127",
+   "outlet": "Voennoe Delo",
+   "host": "voennoedelo.com",
+   "partisan": false,
+   "title": "Ukraine Battlefield Update for November 23: Fighting Across Six Frontline Sectors",
+   "sentence": "Russian battlefield reports for November 23 describe fighting near Sumy, Kharkov, Kupyansk, Dobropolye, Gulyaypole and Zaporozhye, including counterattacks.",
+   "url": "https://voennoedelo.com/en/posts/id22558-ukraine-frontline-update-russian-reports-for-november-23",
+   "date": "2026-11-22T23:01:00+00:00",
+   "seen": "2026-11-23T22:55:15.274853+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Libya",
+   "iso": "RUS",
+   "province": "Novgorod Oblast",
+   "province_id": "28173009B16533507618293",
+   "outlet": "Los Angeles Times on MSN",
+   "host": "msn.com",
+   "partisan": false,
+   "title": "Zelensky hails Ukraine's attack on a Russian warship docked at a naval base in Libya",
+   "sentence": "Zelensky hails Ukraine's attack on a Russian warship docked at a naval base in Libya.",
+   "url": "https://www.msn.com/en-us/news/other/zelensky-hails-ukraines-attack-on-a-russian-warship-docked-at-a-naval-base-in-libya/ar-AA2i3CbP",
+   "date": "2026-11-23T07:00:07+00:00",
+   "seen": "2026-11-23T22:55:15.274853+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Libya",
+   "iso": "RUS",
+   "province": "Novgorod Oblast",
+   "province_id": "28173009B16533507618293",
+   "outlet": "Bastille Post",
+   "host": "bastillepost.com",
+   "partisan": false,
+   "title": "Ukrainian drones hit a Russian warship at a naval base in Libya, Zelenskyy says",
+   "sentence": "Ukraine carried out an attack on a Russian warship moored at a port in Libya, President Volodymyr Zelenskyy said Monday, claiming that sea drones sank the navy vessel in a surprise assault the ...",
+   "url": "https://www.bastillepost.com/global/article/6389260-ukrainian-drones-hit-a-russian-warship-at-a-naval-base-in-libya-zelenskyy-says",
+   "date": "2026-11-23T10:18:00+00:00",
+   "seen": "2026-11-23T22:55:15.274853+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Ukraine"
+   ],
+   "place": "Kharkiv",
+   "iso": "UKR",
+   "province": "Kharkiv Oblast",
+   "province_id": "14850775B15913324833724",
+   "outlet": "Around Prague",
+   "host": "aroundprague.cz",
+   "partisan": false,
+   "title": "Ukraine claims it liberated 200 sq km of land near Kharkiv",
+   "sentence": "Ukraine claims it liberated 200 sq km of land near Kharkiv.",
+   "url": "https://aroundprague.cz/en/news/war-in-ukraine/ukraine-claims-it-has-liberated-200-sq-km-in-northern-kharkiv-region",
+   "date": "2026-11-23T04:06:00+00:00",
+   "seen": "2026-11-23T22:55:15.274853+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Ukraine"
+   ],
+   "place": "Huliaipole",
+   "iso": "UKR",
+   "province": "Zaporizhia Oblast",
+   "province_id": "14850775B92888097715572",
+   "outlet": "Interfax-Ukraine",
+   "host": "en.interfax.com.ua",
+   "partisan": false,
+   "title": "Fierce fighting continues for Verkhnia Tersa in Huliaipole sector – 7th Air Assault Corps",
+   "sentence": "Verkhnia Tersa-Vozdvyzhivka sector in Huliaipole direction is currently one of the most active; fighting continues for the town of Verkhnia Tersa in Zaporizhia region, while Ukrainian forces have ...",
+   "url": "https://en.interfax.com.ua/news/general/1241166.html",
+   "date": "2026-11-23T11:23:00+00:00",
+   "seen": "2026-11-23T22:55:15.274853+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Hodeida",
+   "iso": "YEM",
+   "province": "Al Hudaydah Governorate",
+   "province_id": "18629408B71394624267216",
+   "outlet": "Moneycontrol",
+   "host": "moneycontrol.com",
+   "partisan": false,
+   "title": "Houthis say Saudi-led strikes on Yemen's Hodeida telecoms sites kill 17",
+   "sentence": "Yemen's Houthis said a Saudi-led airstrike on a telecommunications facility in Hodeida killed 10 people and injured more than 20, as fighting intensifies between the group and forces backing Yemen's ...",
+   "url": "https://www.moneycontrol.com/world/houthis-say-saudi-led-strikes-on-yemen-s-hodeida-telecoms-sites-kill-17-article-14087492.html",
+   "date": "2026-11-23T08:04:00+00:00",
+   "seen": "2026-11-23T22:55:15.274853+00:00"
+  },
+  {
+   "war": "sudan",
+   "sides": [
+    "RSF"
+   ],
+   "place": "Blue Nile",
+   "iso": "SDN",
+   "province": "Blue Nile",
+   "province_id": "86620642B86272532082738",
+   "outlet": "Sudan Tribune on MSN",
+   "host": "msn.com",
+   "partisan": false,
+   "title": "Sudan condemns RSF execution of captured soldiers in Blue Nile",
+   "sentence": "Sudan condemns RSF execution of captured soldiers in Blue Nile.",
+   "url": "https://www.msn.com/en-xl/news/other/sudan-condemns-rsf-execution-of-captured-soldiers-in-blue-nile/ar-AA2i37P3",
+   "date": "2026-11-23T05:03:59+00:00",
+   "seen": "2026-11-23T22:55:15.274853+00:00"
+  },
+  {
+   "war": "sudan",
+   "sides": [
+    "RSF"
+   ],
+   "place": "Sudan",
+   "iso": "SDN",
+   "province": "North Kordofan",
+   "province_id": "86620642B75144405979625",
+   "outlet": "Sudan News Agency (SUNA) on MSN",
+   "host": "msn.com",
+   "partisan": false,
+   "title": "Sudanese government condemns execution of captured armed forces personnel by militia",
+   "sentence": "The Government of Sudan issued a statement on Sunday condemning the execution of captured members of the Armed Forces by the terrorist Rapid Support Forces (RSF) militia, describing ...",
+   "url": "https://www.msn.com/en-xl/africa/top-stories/sudanese-government-condemns-execution-of-captured-armed-forces-personnel-by-militia/ar-AA2i1U7y",
+   "date": "2026-11-22T17:04:12+00:00",
+   "seen": "2026-11-23T22:55:15.274853+00:00"
   }
  ],
  "truce": [
@@ -5490,6 +5914,16 @@
    "sentence": "Renewed hostilities across the Middle East fed fears that simmering clashes could escalate into full-blown regional conflicts once again.",
    "url": "https://www.yahoo.com/news/world/articles/heightened-hostilities-middle-east-reignite-133256936.html",
    "date": "2026-11-19T05:32:00+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "kind": "end",
+   "outlet": "ReliefWeb",
+   "partisan": false,
+   "title": "Rwanda Population Movement 2025 - DREF Final Report MDRRW024",
+   "sentence": "On 7 December 2025, renewed fighting in eastern Democratic Republic of the Congo, particularly in South Kivu Province, triggered a significant movement of people towards Rwanda.",
+   "url": "https://reliefweb.int/report/rwanda/rwanda-population-movement-2025-dref-final-report-mdrrw024",
+   "date": "2026-11-23T14:20:16+00:00"
   }
  ],
  "withdrawals": [],

@@ -1,6 +1,6 @@
 // written by trawler.py — loaded automatically by commandcenter-map.html
 window.TRAWLER_GROUPINGS = {
- "generated": "2026-11-22T18:38:41.711122+00:00",
+ "generated": "2026-11-23T22:54:39.231529+00:00",
  "extractor": "rules",
  "verification": {
   "wikidata": true,
@@ -13,7 +13,7 @@ window.TRAWLER_GROUPINGS = {
    "conflict": "Wikidata contradicts the claim — review"
   }
  },
- "articles_in_store": 2424,
+ "articles_in_store": 2544,
  "blocs": {
   "EU": {
    "name": "European Union",
@@ -58,142 +58,8 @@ window.TRAWLER_GROUPINGS = {
     "qid": "Q458",
     "label": null
    },
-   "baseline_audit": {
-    "in_wikidata_not_baseline": [],
-    "in_baseline_not_wikidata": [
-     "NLD"
-    ]
-   },
+   "baseline_audit": null,
    "changes": [
-    {
-     "country": "GBR",
-     "action": "left",
-     "status": "confirmed",
-     "wikidata": "agrees",
-     "independent_outlets": 2,
-     "evidence": [
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Home Office sued after stripping almost 1,500 EU citizens of right to live in UK",
-       "url": "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled",
-       "date": "2026-11-07T09:15:35+00:00",
-       "sentence": "Campaign group the3million lodges court papers after EU citizens told pre-settled status was an ‘error’\nThe Home Office is being sued for alleged breach of the Brexit withdrawal agreement after stripping almost 1,500 EU citizens of their full rights to live in the UK.",
-       "hedged": false,
-       "syndicated_copy": false
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Home Office sued after stripping almost 1,500 EU citizens of right to live in UK",
-       "url": "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled",
-       "date": "2026-11-07T09:15:35+00:00",
-       "sentence": "Campaign group the3million lodges court papers after EU citizens told pre-settled status was an ‘error’\nThe Home Office is being sued for alleged breach of the Brexit withdrawal agreement after stripping almost 1,500 EU citizens of their full rights to live in the UK.",
-       "hedged": false,
-       "syndicated_copy": true
-      },
-      {
-       "source": "BBC World",
-       "domain": "bbc.co.uk",
-       "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-       "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
-       "date": "2026-11-07T15:19:35+00:00",
-       "sentence": "The prime minister has said rejoining the bloc's internal market was among options he could pursue as part of a reshaping of ties since the UK's exit from the EU nearly six years ago.",
-       "hedged": true,
-       "syndicated_copy": false
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Britain willing to discuss paying into EU to join electricity market, says minister",
-       "url": "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer",
-       "date": "2026-11-10T17:52:07+00:00",
-       "sentence": "Clearly it’s something that on the EU side there’s real interest, so we are engaging in that discussion but I can’t comment in detail on the negotiations.”\nFalconer was firmly positive about the UK’s return next year to the Erasmus+ student exchange scheme, which the UK left under Boris Johnson’s Brexit deal in 2020, and will be open not just to universities but also to schools and colleges.",
-       "hedged": false,
-       "syndicated_copy": false
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Andy Burnham says UK has ‘lost more than we gained’ through Brexit",
-       "url": "https://www.theguardian.com/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit",
-       "date": "2026-11-14T15:34:54+00:00",
-       "sentence": "PM accuses Tories of burning ‘all our bridges’ and says deal he is pursuing with EU will ‘get food prices down’\nAndy Burnham has said the UK has “lost more than we gained” since leaving the EU, the prime minister’s latest in a string of comments criticising Brexit.",
-       "hedged": false,
-       "syndicated_copy": false
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Andy Burnham says UK has ‘lost more than we gained’ through Brexit",
-       "url": "https://www.theguardian.com/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit",
-       "date": "2026-11-14T15:34:54+00:00",
-       "sentence": "PM accuses Tories of burning ‘all our bridges’ and says deal he is pursuing with EU will ‘get food prices down’\nAndy Burnham has said the UK has “lost more than we gained” since leaving the EU, the prime minister’s latest in a string of comments criticising Brexit.",
-       "hedged": false,
-       "syndicated_copy": true
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Monday briefing: The many stages of the UK-EU relationship – and what’s next",
-       "url": "https://www.theguardian.com/world/2026/nov/16/monday-briefing-the-many-stages-of-the-uk-eu-relationship-and-whats-next",
-       "date": "2026-11-16T06:46:27+00:00",
-       "sentence": "While the guy you really want to hear from right now – David Cameron, the prime minister who lost the 2016 Brexit referendum – has insisted the UK’s problems have nothing to do with its exit from the EU.",
-       "hedged": false,
-       "syndicated_copy": false
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Andy Burnham to say Brexit ‘has not worked’ and he will sign new deal with EU",
-       "url": "https://www.theguardian.com/politics/2026/nov/16/andy-burnham-brexit-has-not-worked-sign-new-deal-with-eu",
-       "date": "2026-11-16T07:00:38+00:00",
-       "sentence": "It is the latest in a string of comments by the prime minister criticising Brexit, after he told the Welsh Labour conference on Saturday that the UK has “lost more than we gained” through leaving the EU.",
-       "hedged": false,
-       "syndicated_copy": false
-      },
-      {
-       "source": "Al Jazeera",
-       "domain": "aljazeera.com",
-       "title": "As Burnham heads to Brussels, are new Brexit wars about to begin?",
-       "url": "https://www.aljazeera.com/news/2026/11/19/as-burnham-heads-to-brussels-are-new-brexit-wars-about-to-begin?traffic_source=rss",
-       "date": "2026-11-19T15:24:51+00:00",
-       "sentence": "In September, 55 percent of respondents told YouGov that leaving the EU was a wrong turn for the UK.",
-       "hedged": false,
-       "syndicated_copy": false
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answered readers questions",
-       "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
-       "date": "2026-11-19T18:02:33+00:00",
-       "sentence": "I don’t think Brexit had an impact on the rise of far-right parties in the EU countries – other than to discourage some of them, which had been toying with the idea of backing withdrawal from the EU, to give up on the idea because it ended so badly for the UK.",
-       "hedged": false,
-       "syndicated_copy": false
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answered readers questions",
-       "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
-       "date": "2026-11-19T18:02:33+00:00",
-       "sentence": "I don’t think Brexit had an impact on the rise of far-right parties in the EU countries – other than to discourage some of them, which had been toying with the idea of backing withdrawal from the EU, to give up on the idea because it ended so badly for the UK.",
-       "hedged": false,
-       "syndicated_copy": true
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
-       "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
-       "date": "2026-11-22T16:12:54+00:00",
-       "sentence": "In her BBC interview, May, who comments sparingly on live political subjects despite being an active Tory peer, did not even try to argue that Brexit had been a success, instead saying it was impossible to know, given events such as Covid and Russia’s invasion of Ukraine, and then adding: “I don’t think Britain’s state today is about whether or not we left the European Union.”\nMany voters are much",
-       "hedged": true,
-       "syndicated_copy": false
-      }
-     ]
-    },
     {
      "country": "GBR",
      "action": "applied",
@@ -330,6 +196,135 @@ window.TRAWLER_GROUPINGS = {
        "sentence": "And it’s why we need the UK-EU food trade deal announced today.”\nTo celebrate the EU-UK reset deal Andy Burnham and his cabinet are invited to lunch with the European Commission and European Council.",
        "hedged": false,
        "syndicated_copy": true
+      }
+     ]
+    },
+    {
+     "country": "GBR",
+     "action": "left",
+     "status": "corroborated",
+     "wikidata": "unknown",
+     "independent_outlets": 2,
+     "evidence": [
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Home Office sued after stripping almost 1,500 EU citizens of right to live in UK",
+       "url": "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled",
+       "date": "2026-11-07T09:15:35+00:00",
+       "sentence": "Campaign group the3million lodges court papers after EU citizens told pre-settled status was an ‘error’\nThe Home Office is being sued for alleged breach of the Brexit withdrawal agreement after stripping almost 1,500 EU citizens of their full rights to live in the UK.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Home Office sued after stripping almost 1,500 EU citizens of right to live in UK",
+       "url": "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled",
+       "date": "2026-11-07T09:15:35+00:00",
+       "sentence": "Campaign group the3million lodges court papers after EU citizens told pre-settled status was an ‘error’\nThe Home Office is being sued for alleged breach of the Brexit withdrawal agreement after stripping almost 1,500 EU citizens of their full rights to live in the UK.",
+       "hedged": false,
+       "syndicated_copy": true
+      },
+      {
+       "source": "BBC World",
+       "domain": "bbc.co.uk",
+       "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+       "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+       "date": "2026-11-07T15:19:35+00:00",
+       "sentence": "The prime minister has said rejoining the bloc's internal market was among options he could pursue as part of a reshaping of ties since the UK's exit from the EU nearly six years ago.",
+       "hedged": true,
+       "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Britain willing to discuss paying into EU to join electricity market, says minister",
+       "url": "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer",
+       "date": "2026-11-10T17:52:07+00:00",
+       "sentence": "Clearly it’s something that on the EU side there’s real interest, so we are engaging in that discussion but I can’t comment in detail on the negotiations.”\nFalconer was firmly positive about the UK’s return next year to the Erasmus+ student exchange scheme, which the UK left under Boris Johnson’s Brexit deal in 2020, and will be open not just to universities but also to schools and colleges.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Andy Burnham says UK has ‘lost more than we gained’ through Brexit",
+       "url": "https://www.theguardian.com/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit",
+       "date": "2026-11-14T15:34:54+00:00",
+       "sentence": "PM accuses Tories of burning ‘all our bridges’ and says deal he is pursuing with EU will ‘get food prices down’\nAndy Burnham has said the UK has “lost more than we gained” since leaving the EU, the prime minister’s latest in a string of comments criticising Brexit.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Andy Burnham says UK has ‘lost more than we gained’ through Brexit",
+       "url": "https://www.theguardian.com/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit",
+       "date": "2026-11-14T15:34:54+00:00",
+       "sentence": "PM accuses Tories of burning ‘all our bridges’ and says deal he is pursuing with EU will ‘get food prices down’\nAndy Burnham has said the UK has “lost more than we gained” since leaving the EU, the prime minister’s latest in a string of comments criticising Brexit.",
+       "hedged": false,
+       "syndicated_copy": true
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Monday briefing: The many stages of the UK-EU relationship – and what’s next",
+       "url": "https://www.theguardian.com/world/2026/nov/16/monday-briefing-the-many-stages-of-the-uk-eu-relationship-and-whats-next",
+       "date": "2026-11-16T06:46:27+00:00",
+       "sentence": "While the guy you really want to hear from right now – David Cameron, the prime minister who lost the 2016 Brexit referendum – has insisted the UK’s problems have nothing to do with its exit from the EU.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Andy Burnham to say Brexit ‘has not worked’ and he will sign new deal with EU",
+       "url": "https://www.theguardian.com/politics/2026/nov/16/andy-burnham-brexit-has-not-worked-sign-new-deal-with-eu",
+       "date": "2026-11-16T07:00:38+00:00",
+       "sentence": "It is the latest in a string of comments by the prime minister criticising Brexit, after he told the Welsh Labour conference on Saturday that the UK has “lost more than we gained” through leaving the EU.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "Al Jazeera",
+       "domain": "aljazeera.com",
+       "title": "As Burnham heads to Brussels, are new Brexit wars about to begin?",
+       "url": "https://www.aljazeera.com/news/2026/11/19/as-burnham-heads-to-brussels-are-new-brexit-wars-about-to-begin?traffic_source=rss",
+       "date": "2026-11-19T15:24:51+00:00",
+       "sentence": "In September, 55 percent of respondents told YouGov that leaving the EU was a wrong turn for the UK.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answered readers questions",
+       "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
+       "date": "2026-11-19T18:02:33+00:00",
+       "sentence": "I don’t think Brexit had an impact on the rise of far-right parties in the EU countries – other than to discourage some of them, which had been toying with the idea of backing withdrawal from the EU, to give up on the idea because it ended so badly for the UK.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answered readers questions",
+       "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
+       "date": "2026-11-19T18:02:33+00:00",
+       "sentence": "I don’t think Brexit had an impact on the rise of far-right parties in the EU countries – other than to discourage some of them, which had been toying with the idea of backing withdrawal from the EU, to give up on the idea because it ended so badly for the UK.",
+       "hedged": false,
+       "syndicated_copy": true
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
+       "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
+       "date": "2026-11-22T16:12:54+00:00",
+       "sentence": "In her BBC interview, May, who comments sparingly on live political subjects despite being an active Tory peer, did not even try to argue that Brexit had been a success, instead saying it was impossible to know, given events such as Covid and Russia’s invasion of Ukraine, and then adding: “I don’t think Britain’s state today is about whether or not we left the European Union.”\nMany voters are much",
+       "hedged": true,
+       "syndicated_copy": false
       }
      ]
     },
@@ -632,6 +627,191 @@ window.TRAWLER_GROUPINGS = {
      ]
     },
     {
+     "country": "GBR",
+     "action": "joined",
+     "status": "single-source",
+     "wikidata": "unknown",
+     "independent_outlets": 1,
+     "evidence": [
+      {
+       "source": "Al Jazeera",
+       "domain": "aljazeera.com",
+       "title": "As Burnham heads to Brussels, are new Brexit wars about to begin?",
+       "url": "https://www.aljazeera.com/news/2026/11/19/as-burnham-heads-to-brussels-are-new-brexit-wars-about-to-begin?traffic_source=rss",
+       "date": "2026-11-19T15:24:51+00:00",
+       "sentence": "In the most popular scenario, 58 percent said they would vote to rejoin if the UK stayed out of the euro, joined the border-free Schengen Zone, and kept its previous rebate from the EU budget.",
+       "hedged": true,
+       "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Burnham says it would be ‘unthinkable’ for the UK to rejoin the EU without a referendum – as it happened",
+       "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
+       "date": "2026-11-23T18:31:17+00:00",
+       "sentence": "The prime minister’s remarks were the clearest commitment yet to not joining the EU without another vote\nAndy Burnham has criticised former prime ministers for being “stuck in the past” amid warnings over re-opening the Brexit debate, with informal talks now set to take place with Brussels about how the UK could forge even closer ties with the EU.",
+       "hedged": true,
+       "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Burnham says it would be ‘unthinkable’ for the UK to rejoin the EU without a referendum – as it happened",
+       "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
+       "date": "2026-11-23T18:31:17+00:00",
+       "sentence": "The prime minister’s remarks were the clearest commitment yet to not joining the EU without another vote\nAndy Burnham has criticised former prime ministers for being “stuck in the past” amid warnings over re-opening the Brexit debate, with informal talks now set to take place with Brussels about how the UK could forge even closer ties with the EU.",
+       "hedged": true,
+       "syndicated_copy": true
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Burnham says it would be ‘unthinkable’ to rejoin EU without referendum",
+       "url": "https://www.theguardian.com/politics/2026/nov/23/andy-burnham-brexit-deal-eu",
+       "date": "2026-11-23T19:26:01+00:00",
+       "sentence": "There is expected to be further discussions on the UK joining the EU’s still-to-be-finalised “Made in Europe” scheme, which protects against cheap Chinese imports, as well as the bloc’s electricity market, with other talks on touring artists and illicit migration.",
+       "hedged": false,
+       "syndicated_copy": false
+      }
+     ]
+    },
+    {
+     "country": "RUS",
+     "action": "left",
+     "status": "single-source",
+     "wikidata": "unknown",
+     "independent_outlets": 1,
+     "evidence": [
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
+       "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
+       "date": "2026-11-22T16:12:54+00:00",
+       "sentence": "In her BBC interview, May, who comments sparingly on live political subjects despite being an active Tory peer, did not even try to argue that Brexit had been a success, instead saying it was impossible to know, given events such as Covid and Russia’s invasion of Ukraine, and then adding: “I don’t think Britain’s state today is about whether or not we left the European Union.”\nMany voters are much",
+       "hedged": true,
+       "syndicated_copy": false
+      },
+      {
+       "source": "Al Jazeera",
+       "domain": "aljazeera.com",
+       "title": "Russia warns Ukraine of ‘dangerous trend’ after Libya and Baltic attacks",
+       "url": "https://www.aljazeera.com/news/2026/11/23/russia-warns-ukraine-of-dangerous-trend-after-libya-and-baltic-attacks?traffic_source=rss",
+       "date": "2026-11-23T16:23:33+00:00",
+       "sentence": "Lithuania restricted the transit of goods, including construction materials, from Russia to the exclave in line with European Union sanctions in 2022, leaving Kaliningrad heavily dependent on sea-borne supplies.",
+       "hedged": false,
+       "syndicated_copy": false
+      }
+     ]
+    },
+    {
+     "country": "LTU",
+     "action": "left",
+     "status": "single-source",
+     "wikidata": "unknown",
+     "independent_outlets": 1,
+     "evidence": [
+      {
+       "source": "Al Jazeera",
+       "domain": "aljazeera.com",
+       "title": "Russia warns Ukraine of ‘dangerous trend’ after Libya and Baltic attacks",
+       "url": "https://www.aljazeera.com/news/2026/11/23/russia-warns-ukraine-of-dangerous-trend-after-libya-and-baltic-attacks?traffic_source=rss",
+       "date": "2026-11-23T16:23:33+00:00",
+       "sentence": "Lithuania restricted the transit of goods, including construction materials, from Russia to the exclave in line with European Union sanctions in 2022, leaving Kaliningrad heavily dependent on sea-borne supplies.",
+       "hedged": false,
+       "syndicated_copy": false
+      }
+     ]
+    },
+    {
+     "country": "MKD",
+     "action": "applied",
+     "status": "single-source",
+     "wikidata": "unknown",
+     "independent_outlets": 1,
+     "evidence": [
+      {
+       "source": "DW World",
+       "domain": "dw.com",
+       "title": "North Macedonia remains stalled on its EU path after 21 years as a candidate",
+       "url": "https://www.dw.com/en/north-macedonia-remains-stalled-on-its-eu-path-after-21-years-as-a-candidate/a-80020841?maca=en-rss-en-world-4025-rdf",
+       "date": "2026-11-23T13:46:00+00:00",
+       "sentence": "North Macedonia remains stalled on its EU path after 21 years as a candidate.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "DW World",
+       "domain": "dw.com",
+       "title": "North Macedonia remains stalled on its EU path after 21 years as a candidate",
+       "url": "https://www.dw.com/en/north-macedonia-remains-stalled-on-its-eu-path-after-21-years-as-a-candidate/a-80020841?maca=en-rss-en-world-4025-rdf",
+       "date": "2026-11-23T13:46:00+00:00",
+       "sentence": "But North Macedonia, an EU candidate since 2005, remains stalled on the road to accession.",
+       "hedged": false,
+       "syndicated_copy": false
+      }
+     ]
+    },
+    {
+     "country": "MKD",
+     "action": "joined",
+     "status": "single-source",
+     "wikidata": "unknown",
+     "independent_outlets": 1,
+     "evidence": [
+      {
+       "source": "DW World",
+       "domain": "dw.com",
+       "title": "North Macedonia remains stalled on its EU path after 21 years as a candidate",
+       "url": "https://www.dw.com/en/north-macedonia-remains-stalled-on-its-eu-path-after-21-years-as-a-candidate/a-80020841?maca=en-rss-en-world-4025-rdf",
+       "date": "2026-11-23T13:46:00+00:00",
+       "sentence": "North Macedonia formally opened accession talks with the EU in July 2022 but has yet to open the first of the EU's six negotiating clusters, the groups of policy areas through which candidates align their laws and institutions with EU standards.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "DW World",
+       "domain": "dw.com",
+       "title": "North Macedonia remains stalled on its EU path after 21 years as a candidate",
+       "url": "https://www.dw.com/en/north-macedonia-remains-stalled-on-its-eu-path-after-21-years-as-a-candidate/a-80020841?maca=en-rss-en-world-4025-rdf",
+       "date": "2026-11-23T13:46:00+00:00",
+       "sentence": "North Macedonia formally opened accession talks with the EU in July 2022 but has yet to open the first of the EU's six negotiating clusters, the groups of policy areas through which candidates align their laws and institutions with EU standards.",
+       "hedged": false,
+       "syndicated_copy": true
+      },
+      {
+       "source": "DW World",
+       "domain": "dw.com",
+       "title": "North Macedonia remains stalled on its EU path after 21 years as a candidate",
+       "url": "https://www.dw.com/en/north-macedonia-remains-stalled-on-its-eu-path-after-21-years-as-a-candidate/a-80020841?maca=en-rss-en-world-4025-rdf",
+       "date": "2026-11-23T13:46:00+00:00",
+       "sentence": "North Macedonia formally opened accession talks with the EU in July 2022 but has yet to open the first of the EU's six negotiating clusters, the groups of policy areas through which candidates align their laws and institutions with EU standards.",
+       "hedged": false,
+       "syndicated_copy": true
+      },
+      {
+       "source": "DW World",
+       "domain": "dw.com",
+       "title": "North Macedonia remains stalled on its EU path after 21 years as a candidate",
+       "url": "https://www.dw.com/en/north-macedonia-remains-stalled-on-its-eu-path-after-21-years-as-a-candidate/a-80020841?maca=en-rss-en-world-4025-rdf",
+       "date": "2026-11-23T13:46:00+00:00",
+       "sentence": "However, she added, \"the handbrake on its accession negotiations is still on.\"\nKos said that to release this handbrake and open the first cluster, North Macedonia must adopt the constitutional amendment agreed with the EU in 2022.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "DW World",
+       "domain": "dw.com",
+       "title": "North Macedonia remains stalled on its EU path after 21 years as a candidate",
+       "url": "https://www.dw.com/en/north-macedonia-remains-stalled-on-its-eu-path-after-21-years-as-a-candidate/a-80020841?maca=en-rss-en-world-4025-rdf",
+       "date": "2026-11-23T13:46:00+00:00",
+       "sentence": "For years, a dispute with Greece over the country's name blocked North Macedonia's progress along the EU accession path.",
+       "hedged": false,
+       "syndicated_copy": false
+      }
+     ]
+    },
+    {
      "country": "MNE",
      "action": "joined",
      "status": "speculative",
@@ -655,6 +835,16 @@ window.TRAWLER_GROUPINGS = {
        "url": "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news",
        "date": "2026-11-04T16:09:19+00:00",
        "sentence": "“This is testament to Montenegro’s sustained efforts to advance on the ⁠European path and implement the ​reforms ​needed to turn ​EU membership into reality,” ​it ‌said, adding ​that “it considers ​that accession negotiations could realistically be closed by the end of 2026”.",
+       "hedged": true,
+       "syndicated_copy": false
+      },
+      {
+       "source": "DW World",
+       "domain": "dw.com",
+       "title": "North Macedonia remains stalled on its EU path after 21 years as a candidate",
+       "url": "https://www.dw.com/en/north-macedonia-remains-stalled-on-its-eu-path-after-21-years-as-a-candidate/a-80020841?maca=en-rss-en-world-4025-rdf",
+       "date": "2026-11-23T13:46:00+00:00",
+       "sentence": "The European Union's enlargement drive has regained momentum: Montenegro could become the bloc's 28th member in 2028, while Albania is rapidly advancing through accession talks and could complete accession negotiations by the end of 2027 if it maintains its current pace of reforms.",
        "hedged": true,
        "syndicated_copy": false
       }
@@ -737,44 +927,6 @@ window.TRAWLER_GROUPINGS = {
      ]
     },
     {
-     "country": "GBR",
-     "action": "joined",
-     "status": "speculative",
-     "wikidata": "unknown",
-     "independent_outlets": 0,
-     "evidence": [
-      {
-       "source": "Al Jazeera",
-       "domain": "aljazeera.com",
-       "title": "As Burnham heads to Brussels, are new Brexit wars about to begin?",
-       "url": "https://www.aljazeera.com/news/2026/11/19/as-burnham-heads-to-brussels-are-new-brexit-wars-about-to-begin?traffic_source=rss",
-       "date": "2026-11-19T15:24:51+00:00",
-       "sentence": "In the most popular scenario, 58 percent said they would vote to rejoin if the UK stayed out of the euro, joined the border-free Schengen Zone, and kept its previous rebate from the EU budget.",
-       "hedged": true,
-       "syndicated_copy": false
-      }
-     ]
-    },
-    {
-     "country": "RUS",
-     "action": "left",
-     "status": "speculative",
-     "wikidata": "unknown",
-     "independent_outlets": 0,
-     "evidence": [
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
-       "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
-       "date": "2026-11-22T16:12:54+00:00",
-       "sentence": "In her BBC interview, May, who comments sparingly on live political subjects despite being an active Tory peer, did not even try to argue that Brexit had been a success, instead saying it was impossible to know, given events such as Covid and Russia’s invasion of Ukraine, and then adding: “I don’t think Britain’s state today is about whether or not we left the European Union.”\nMany voters are much",
-       "hedged": true,
-       "syndicated_copy": false
-      }
-     ]
-    },
-    {
      "country": "UKR",
      "action": "left",
      "status": "speculative",
@@ -788,6 +940,25 @@ window.TRAWLER_GROUPINGS = {
        "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
        "date": "2026-11-22T16:12:54+00:00",
        "sentence": "In her BBC interview, May, who comments sparingly on live political subjects despite being an active Tory peer, did not even try to argue that Brexit had been a success, instead saying it was impossible to know, given events such as Covid and Russia’s invasion of Ukraine, and then adding: “I don’t think Britain’s state today is about whether or not we left the European Union.”\nMany voters are much",
+       "hedged": true,
+       "syndicated_copy": false
+      }
+     ]
+    },
+    {
+     "country": "ALB",
+     "action": "joined",
+     "status": "speculative",
+     "wikidata": "unknown",
+     "independent_outlets": 0,
+     "evidence": [
+      {
+       "source": "DW World",
+       "domain": "dw.com",
+       "title": "North Macedonia remains stalled on its EU path after 21 years as a candidate",
+       "url": "https://www.dw.com/en/north-macedonia-remains-stalled-on-its-eu-path-after-21-years-as-a-candidate/a-80020841?maca=en-rss-en-world-4025-rdf",
+       "date": "2026-11-23T13:46:00+00:00",
+       "sentence": "The European Union's enlargement drive has regained momentum: Montenegro could become the bloc's 28th member in 2028, while Albania is rapidly advancing through accession talks and could complete accession negotiations by the end of 2027 if it maintains its current pace of reforms.",
        "hedged": true,
        "syndicated_copy": false
       }
@@ -1010,6 +1181,16 @@ window.TRAWLER_GROUPINGS = {
        "sentence": "The issue of Ukraine joining NATO, ruled out by Washington since 2025, resurfaced in recent days during fresh talks to end the war nearly five years after Russia's invasion.",
        "hedged": false,
        "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "EU sanctions package intended to ‘keep pressure’ on Russia and ‘strike harder’ at its ability to fund Ukraine war – as it happened",
+       "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
+       "date": "2026-11-23T16:42:56+00:00",
+       "sentence": "These guarantees should be similar to Article Five guarantees, so the security guarantees are quite close to Nato accession, and I cannot imagine a future for Ukraine without such security guarantees that it urgently needs,” he said.",
+       "hedged": false,
+       "syndicated_copy": false
       }
      ]
     },
@@ -1018,7 +1199,7 @@ window.TRAWLER_GROUPINGS = {
      "action": "applied",
      "status": "corroborated",
      "wikidata": "unknown",
-     "independent_outlets": 2,
+     "independent_outlets": 3,
      "evidence": [
       {
        "source": "France 24",
@@ -1049,6 +1230,16 @@ window.TRAWLER_GROUPINGS = {
        "sentence": "He also demands that Ukraine abandon its bid to join NATO, accept strict limits on its military and drop restrictions on the Russian language and the Moscow-affiliated Orthodox Church in Ukraine.",
        "hedged": false,
        "syndicated_copy": true
+      },
+      {
+       "source": "NPR World",
+       "domain": "npr.org",
+       "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
+       "url": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
+       "date": "2026-11-23T12:42:03+00:00",
+       "sentence": "The incident highlights the stakes for European countries in Russia's war on Ukraine, prompting nations along NATO's eastern border to seek enhanced air defense support.",
+       "hedged": false,
+       "syndicated_copy": false
       }
      ]
     },
@@ -1136,7 +1327,7 @@ window.TRAWLER_GROUPINGS = {
      "action": "applied",
      "status": "corroborated",
      "wikidata": "unknown",
-     "independent_outlets": 2,
+     "independent_outlets": 3,
      "evidence": [
       {
        "source": "The Guardian World",
@@ -1195,6 +1386,16 @@ window.TRAWLER_GROUPINGS = {
        "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
        "date": "2026-11-14T15:15:57+00:00",
        "sentence": "Kyiv has long sought membership of the military alliance, but this has previously been opposed by the US and others while Russia has said another Nato member on its border is unacceptable.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "NPR World",
+       "domain": "npr.org",
+       "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
+       "url": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
+       "date": "2026-11-23T12:42:03+00:00",
+       "sentence": "The incident highlights the stakes for European countries in Russia's war on Ukraine, prompting nations along NATO's eastern border to seek enhanced air defense support.",
        "hedged": false,
        "syndicated_copy": false
       }
@@ -2386,6 +2587,54 @@ window.TRAWLER_GROUPINGS = {
    ]
   },
   {
+   "name": "When the Congo River Alliance",
+   "status": "single-source",
+   "wikidata": null,
+   "color": "#668d79",
+   "members": [
+    {
+     "country": "COD",
+     "status": "single-source",
+     "wikidata": "unknown",
+     "action": "joined",
+     "independent_outlets": 1,
+     "hedged_only": false,
+     "evidence": [
+      {
+       "source": "BBC World",
+       "domain": "bbc.co.uk",
+       "title": "Kenya and DR Congo agree to restore ties after tensions over conflict",
+       "url": "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro?at_medium=RSS&at_campaign=rss",
+       "date": "2026-11-23T08:53:01+00:00",
+       "sentence": "When the Congo River Alliance (AFC), a political-military alliance including the M23, was launched in Nairobi in 2023, DR Congo responded by recalling its ambassador to Kenya.",
+       "hedged": false,
+       "syndicated_copy": false
+      }
+     ]
+    },
+    {
+     "country": "KEN",
+     "status": "single-source",
+     "wikidata": "unknown",
+     "action": "joined",
+     "independent_outlets": 1,
+     "hedged_only": false,
+     "evidence": [
+      {
+       "source": "BBC World",
+       "domain": "bbc.co.uk",
+       "title": "Kenya and DR Congo agree to restore ties after tensions over conflict",
+       "url": "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro?at_medium=RSS&at_campaign=rss",
+       "date": "2026-11-23T08:53:01+00:00",
+       "sentence": "When the Congo River Alliance (AFC), a political-military alliance including the M23, was launched in Nairobi in 2023, DR Congo responded by recalling its ambassador to Kenya.",
+       "hedged": false,
+       "syndicated_copy": false
+      }
+     ]
+    }
+   ]
+  },
+  {
    "name": "the Mecca Agreement",
    "status": "single-source",
    "wikidata": null,
@@ -2592,6 +2841,136 @@ window.TRAWLER_GROUPINGS = {
      "sentence": "And it’s why we need the UK-EU food trade deal announced today.”\nTo celebrate the EU-UK reset deal Andy Burnham and his cabinet are invited to lunch with the European Commission and European Council.",
      "hedged": false,
      "syndicated_copy": true
+    }
+   ]
+  },
+  {
+   "group": "European Union",
+   "country": "GBR",
+   "action": "left",
+   "status": "corroborated",
+   "wikidata": "unknown",
+   "independent_outlets": 2,
+   "evidence": [
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "Home Office sued after stripping almost 1,500 EU citizens of right to live in UK",
+     "url": "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled",
+     "date": "2026-11-07T09:15:35+00:00",
+     "sentence": "Campaign group the3million lodges court papers after EU citizens told pre-settled status was an ‘error’\nThe Home Office is being sued for alleged breach of the Brexit withdrawal agreement after stripping almost 1,500 EU citizens of their full rights to live in the UK.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "Home Office sued after stripping almost 1,500 EU citizens of right to live in UK",
+     "url": "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled",
+     "date": "2026-11-07T09:15:35+00:00",
+     "sentence": "Campaign group the3million lodges court papers after EU citizens told pre-settled status was an ‘error’\nThe Home Office is being sued for alleged breach of the Brexit withdrawal agreement after stripping almost 1,500 EU citizens of their full rights to live in the UK.",
+     "hedged": false,
+     "syndicated_copy": true
+    },
+    {
+     "source": "BBC World",
+     "domain": "bbc.co.uk",
+     "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-07T15:19:35+00:00",
+     "sentence": "The prime minister has said rejoining the bloc's internal market was among options he could pursue as part of a reshaping of ties since the UK's exit from the EU nearly six years ago.",
+     "hedged": true,
+     "syndicated_copy": false
+    },
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "Britain willing to discuss paying into EU to join electricity market, says minister",
+     "url": "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer",
+     "date": "2026-11-10T17:52:07+00:00",
+     "sentence": "Clearly it’s something that on the EU side there’s real interest, so we are engaging in that discussion but I can’t comment in detail on the negotiations.”\nFalconer was firmly positive about the UK’s return next year to the Erasmus+ student exchange scheme, which the UK left under Boris Johnson’s Brexit deal in 2020, and will be open not just to universities but also to schools and colleges.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "Andy Burnham says UK has ‘lost more than we gained’ through Brexit",
+     "url": "https://www.theguardian.com/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit",
+     "date": "2026-11-14T15:34:54+00:00",
+     "sentence": "PM accuses Tories of burning ‘all our bridges’ and says deal he is pursuing with EU will ‘get food prices down’\nAndy Burnham has said the UK has “lost more than we gained” since leaving the EU, the prime minister’s latest in a string of comments criticising Brexit.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "Andy Burnham says UK has ‘lost more than we gained’ through Brexit",
+     "url": "https://www.theguardian.com/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit",
+     "date": "2026-11-14T15:34:54+00:00",
+     "sentence": "PM accuses Tories of burning ‘all our bridges’ and says deal he is pursuing with EU will ‘get food prices down’\nAndy Burnham has said the UK has “lost more than we gained” since leaving the EU, the prime minister’s latest in a string of comments criticising Brexit.",
+     "hedged": false,
+     "syndicated_copy": true
+    },
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "Monday briefing: The many stages of the UK-EU relationship – and what’s next",
+     "url": "https://www.theguardian.com/world/2026/nov/16/monday-briefing-the-many-stages-of-the-uk-eu-relationship-and-whats-next",
+     "date": "2026-11-16T06:46:27+00:00",
+     "sentence": "While the guy you really want to hear from right now – David Cameron, the prime minister who lost the 2016 Brexit referendum – has insisted the UK’s problems have nothing to do with its exit from the EU.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "Andy Burnham to say Brexit ‘has not worked’ and he will sign new deal with EU",
+     "url": "https://www.theguardian.com/politics/2026/nov/16/andy-burnham-brexit-has-not-worked-sign-new-deal-with-eu",
+     "date": "2026-11-16T07:00:38+00:00",
+     "sentence": "It is the latest in a string of comments by the prime minister criticising Brexit, after he told the Welsh Labour conference on Saturday that the UK has “lost more than we gained” through leaving the EU.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "Al Jazeera",
+     "domain": "aljazeera.com",
+     "title": "As Burnham heads to Brussels, are new Brexit wars about to begin?",
+     "url": "https://www.aljazeera.com/news/2026/11/19/as-burnham-heads-to-brussels-are-new-brexit-wars-about-to-begin?traffic_source=rss",
+     "date": "2026-11-19T15:24:51+00:00",
+     "sentence": "In September, 55 percent of respondents told YouGov that leaving the EU was a wrong turn for the UK.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answered readers questions",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
+     "date": "2026-11-19T18:02:33+00:00",
+     "sentence": "I don’t think Brexit had an impact on the rise of far-right parties in the EU countries – other than to discourage some of them, which had been toying with the idea of backing withdrawal from the EU, to give up on the idea because it ended so badly for the UK.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answered readers questions",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
+     "date": "2026-11-19T18:02:33+00:00",
+     "sentence": "I don’t think Brexit had an impact on the rise of far-right parties in the EU countries – other than to discourage some of them, which had been toying with the idea of backing withdrawal from the EU, to give up on the idea because it ended so badly for the UK.",
+     "hedged": false,
+     "syndicated_copy": true
+    },
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
+     "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
+     "date": "2026-11-22T16:12:54+00:00",
+     "sentence": "In her BBC interview, May, who comments sparingly on live political subjects despite being an active Tory peer, did not even try to argue that Brexit had been a success, instead saying it was impossible to know, given events such as Covid and Russia’s invasion of Ukraine, and then adding: “I don’t think Britain’s state today is about whether or not we left the European Union.”\nMany voters are much",
+     "hedged": true,
+     "syndicated_copy": false
     }
    ]
   },
@@ -2886,6 +3265,196 @@ window.TRAWLER_GROUPINGS = {
    ]
   },
   {
+   "group": "European Union",
+   "country": "GBR",
+   "action": "joined",
+   "status": "single-source",
+   "wikidata": "unknown",
+   "independent_outlets": 1,
+   "evidence": [
+    {
+     "source": "Al Jazeera",
+     "domain": "aljazeera.com",
+     "title": "As Burnham heads to Brussels, are new Brexit wars about to begin?",
+     "url": "https://www.aljazeera.com/news/2026/11/19/as-burnham-heads-to-brussels-are-new-brexit-wars-about-to-begin?traffic_source=rss",
+     "date": "2026-11-19T15:24:51+00:00",
+     "sentence": "In the most popular scenario, 58 percent said they would vote to rejoin if the UK stayed out of the euro, joined the border-free Schengen Zone, and kept its previous rebate from the EU budget.",
+     "hedged": true,
+     "syndicated_copy": false
+    },
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "Burnham says it would be ‘unthinkable’ for the UK to rejoin the EU without a referendum – as it happened",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
+     "date": "2026-11-23T18:31:17+00:00",
+     "sentence": "The prime minister’s remarks were the clearest commitment yet to not joining the EU without another vote\nAndy Burnham has criticised former prime ministers for being “stuck in the past” amid warnings over re-opening the Brexit debate, with informal talks now set to take place with Brussels about how the UK could forge even closer ties with the EU.",
+     "hedged": true,
+     "syndicated_copy": false
+    },
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "Burnham says it would be ‘unthinkable’ for the UK to rejoin the EU without a referendum – as it happened",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
+     "date": "2026-11-23T18:31:17+00:00",
+     "sentence": "The prime minister’s remarks were the clearest commitment yet to not joining the EU without another vote\nAndy Burnham has criticised former prime ministers for being “stuck in the past” amid warnings over re-opening the Brexit debate, with informal talks now set to take place with Brussels about how the UK could forge even closer ties with the EU.",
+     "hedged": true,
+     "syndicated_copy": true
+    },
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "Burnham says it would be ‘unthinkable’ to rejoin EU without referendum",
+     "url": "https://www.theguardian.com/politics/2026/nov/23/andy-burnham-brexit-deal-eu",
+     "date": "2026-11-23T19:26:01+00:00",
+     "sentence": "There is expected to be further discussions on the UK joining the EU’s still-to-be-finalised “Made in Europe” scheme, which protects against cheap Chinese imports, as well as the bloc’s electricity market, with other talks on touring artists and illicit migration.",
+     "hedged": false,
+     "syndicated_copy": false
+    }
+   ]
+  },
+  {
+   "group": "European Union",
+   "country": "RUS",
+   "action": "left",
+   "status": "single-source",
+   "wikidata": "unknown",
+   "independent_outlets": 1,
+   "evidence": [
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
+     "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
+     "date": "2026-11-22T16:12:54+00:00",
+     "sentence": "In her BBC interview, May, who comments sparingly on live political subjects despite being an active Tory peer, did not even try to argue that Brexit had been a success, instead saying it was impossible to know, given events such as Covid and Russia’s invasion of Ukraine, and then adding: “I don’t think Britain’s state today is about whether or not we left the European Union.”\nMany voters are much",
+     "hedged": true,
+     "syndicated_copy": false
+    },
+    {
+     "source": "Al Jazeera",
+     "domain": "aljazeera.com",
+     "title": "Russia warns Ukraine of ‘dangerous trend’ after Libya and Baltic attacks",
+     "url": "https://www.aljazeera.com/news/2026/11/23/russia-warns-ukraine-of-dangerous-trend-after-libya-and-baltic-attacks?traffic_source=rss",
+     "date": "2026-11-23T16:23:33+00:00",
+     "sentence": "Lithuania restricted the transit of goods, including construction materials, from Russia to the exclave in line with European Union sanctions in 2022, leaving Kaliningrad heavily dependent on sea-borne supplies.",
+     "hedged": false,
+     "syndicated_copy": false
+    }
+   ]
+  },
+  {
+   "group": "European Union",
+   "country": "LTU",
+   "action": "left",
+   "status": "single-source",
+   "wikidata": "unknown",
+   "independent_outlets": 1,
+   "evidence": [
+    {
+     "source": "Al Jazeera",
+     "domain": "aljazeera.com",
+     "title": "Russia warns Ukraine of ‘dangerous trend’ after Libya and Baltic attacks",
+     "url": "https://www.aljazeera.com/news/2026/11/23/russia-warns-ukraine-of-dangerous-trend-after-libya-and-baltic-attacks?traffic_source=rss",
+     "date": "2026-11-23T16:23:33+00:00",
+     "sentence": "Lithuania restricted the transit of goods, including construction materials, from Russia to the exclave in line with European Union sanctions in 2022, leaving Kaliningrad heavily dependent on sea-borne supplies.",
+     "hedged": false,
+     "syndicated_copy": false
+    }
+   ]
+  },
+  {
+   "group": "European Union",
+   "country": "MKD",
+   "action": "applied",
+   "status": "single-source",
+   "wikidata": "unknown",
+   "independent_outlets": 1,
+   "evidence": [
+    {
+     "source": "DW World",
+     "domain": "dw.com",
+     "title": "North Macedonia remains stalled on its EU path after 21 years as a candidate",
+     "url": "https://www.dw.com/en/north-macedonia-remains-stalled-on-its-eu-path-after-21-years-as-a-candidate/a-80020841?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-11-23T13:46:00+00:00",
+     "sentence": "North Macedonia remains stalled on its EU path after 21 years as a candidate.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "DW World",
+     "domain": "dw.com",
+     "title": "North Macedonia remains stalled on its EU path after 21 years as a candidate",
+     "url": "https://www.dw.com/en/north-macedonia-remains-stalled-on-its-eu-path-after-21-years-as-a-candidate/a-80020841?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-11-23T13:46:00+00:00",
+     "sentence": "But North Macedonia, an EU candidate since 2005, remains stalled on the road to accession.",
+     "hedged": false,
+     "syndicated_copy": false
+    }
+   ]
+  },
+  {
+   "group": "European Union",
+   "country": "MKD",
+   "action": "joined",
+   "status": "single-source",
+   "wikidata": "unknown",
+   "independent_outlets": 1,
+   "evidence": [
+    {
+     "source": "DW World",
+     "domain": "dw.com",
+     "title": "North Macedonia remains stalled on its EU path after 21 years as a candidate",
+     "url": "https://www.dw.com/en/north-macedonia-remains-stalled-on-its-eu-path-after-21-years-as-a-candidate/a-80020841?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-11-23T13:46:00+00:00",
+     "sentence": "North Macedonia formally opened accession talks with the EU in July 2022 but has yet to open the first of the EU's six negotiating clusters, the groups of policy areas through which candidates align their laws and institutions with EU standards.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "DW World",
+     "domain": "dw.com",
+     "title": "North Macedonia remains stalled on its EU path after 21 years as a candidate",
+     "url": "https://www.dw.com/en/north-macedonia-remains-stalled-on-its-eu-path-after-21-years-as-a-candidate/a-80020841?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-11-23T13:46:00+00:00",
+     "sentence": "North Macedonia formally opened accession talks with the EU in July 2022 but has yet to open the first of the EU's six negotiating clusters, the groups of policy areas through which candidates align their laws and institutions with EU standards.",
+     "hedged": false,
+     "syndicated_copy": true
+    },
+    {
+     "source": "DW World",
+     "domain": "dw.com",
+     "title": "North Macedonia remains stalled on its EU path after 21 years as a candidate",
+     "url": "https://www.dw.com/en/north-macedonia-remains-stalled-on-its-eu-path-after-21-years-as-a-candidate/a-80020841?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-11-23T13:46:00+00:00",
+     "sentence": "North Macedonia formally opened accession talks with the EU in July 2022 but has yet to open the first of the EU's six negotiating clusters, the groups of policy areas through which candidates align their laws and institutions with EU standards.",
+     "hedged": false,
+     "syndicated_copy": true
+    },
+    {
+     "source": "DW World",
+     "domain": "dw.com",
+     "title": "North Macedonia remains stalled on its EU path after 21 years as a candidate",
+     "url": "https://www.dw.com/en/north-macedonia-remains-stalled-on-its-eu-path-after-21-years-as-a-candidate/a-80020841?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-11-23T13:46:00+00:00",
+     "sentence": "However, she added, \"the handbrake on its accession negotiations is still on.\"\nKos said that to release this handbrake and open the first cluster, North Macedonia must adopt the constitutional amendment agreed with the EU in 2022.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "DW World",
+     "domain": "dw.com",
+     "title": "North Macedonia remains stalled on its EU path after 21 years as a candidate",
+     "url": "https://www.dw.com/en/north-macedonia-remains-stalled-on-its-eu-path-after-21-years-as-a-candidate/a-80020841?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-11-23T13:46:00+00:00",
+     "sentence": "For years, a dispute with Greece over the country's name blocked North Macedonia's progress along the EU accession path.",
+     "hedged": false,
+     "syndicated_copy": false
+    }
+   ]
+  },
+  {
    "group": "NATO",
    "country": "UKR",
    "action": "joined",
@@ -3052,6 +3621,16 @@ window.TRAWLER_GROUPINGS = {
      "sentence": "The issue of Ukraine joining NATO, ruled out by Washington since 2025, resurfaced in recent days during fresh talks to end the war nearly five years after Russia's invasion.",
      "hedged": false,
      "syndicated_copy": false
+    },
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "EU sanctions package intended to ‘keep pressure’ on Russia and ‘strike harder’ at its ability to fund Ukraine war – as it happened",
+     "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
+     "date": "2026-11-23T16:42:56+00:00",
+     "sentence": "These guarantees should be similar to Article Five guarantees, so the security guarantees are quite close to Nato accession, and I cannot imagine a future for Ukraine without such security guarantees that it urgently needs,” he said.",
+     "hedged": false,
+     "syndicated_copy": false
     }
    ]
   },
@@ -3091,7 +3670,7 @@ window.TRAWLER_GROUPINGS = {
    "action": "applied",
    "status": "corroborated",
    "wikidata": "unknown",
-   "independent_outlets": 2,
+   "independent_outlets": 3,
    "evidence": [
     {
      "source": "France 24",
@@ -3122,6 +3701,16 @@ window.TRAWLER_GROUPINGS = {
      "sentence": "He also demands that Ukraine abandon its bid to join NATO, accept strict limits on its military and drop restrictions on the Russian language and the Moscow-affiliated Orthodox Church in Ukraine.",
      "hedged": false,
      "syndicated_copy": true
+    },
+    {
+     "source": "NPR World",
+     "domain": "npr.org",
+     "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
+     "url": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
+     "date": "2026-11-23T12:42:03+00:00",
+     "sentence": "The incident highlights the stakes for European countries in Russia's war on Ukraine, prompting nations along NATO's eastern border to seek enhanced air defense support.",
+     "hedged": false,
+     "syndicated_copy": false
     }
    ]
   },
@@ -3211,7 +3800,7 @@ window.TRAWLER_GROUPINGS = {
    "action": "applied",
    "status": "corroborated",
    "wikidata": "unknown",
-   "independent_outlets": 2,
+   "independent_outlets": 3,
    "evidence": [
     {
      "source": "The Guardian World",
@@ -3270,6 +3859,16 @@ window.TRAWLER_GROUPINGS = {
      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
      "date": "2026-11-14T15:15:57+00:00",
      "sentence": "Kyiv has long sought membership of the military alliance, but this has previously been opposed by the US and others while Russia has said another Nato member on its border is unacceptable.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "NPR World",
+     "domain": "npr.org",
+     "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
+     "url": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
+     "date": "2026-11-23T12:42:03+00:00",
+     "sentence": "The incident highlights the stakes for European countries in Russia's war on Ukraine, prompting nations along NATO's eastern border to seek enhanced air defense support.",
      "hedged": false,
      "syndicated_copy": false
     }
@@ -3672,6 +4271,34 @@ window.TRAWLER_GROUPINGS = {
      "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
      "date": "2026-11-19T19:24:04+00:00",
      "sentence": "Speaking to the media following a Berlin meeting of the Coalition of the Willing (a group of about 35 countries formed to offer financial and diplomatic support for Ukraine), Jared Kushner – Donald Trump’s special envoy and son-in-law – said that the US president dialed into the meeting with European allies.",
+     "hedged": false,
+     "syndicated_copy": false
+    }
+   ]
+  },
+  {
+   "group": "When the Congo River Alliance",
+   "country": "COD,KEN",
+   "action": "new grouping",
+   "status": "single-source",
+   "evidence": [
+    {
+     "source": "BBC World",
+     "domain": "bbc.co.uk",
+     "title": "Kenya and DR Congo agree to restore ties after tensions over conflict",
+     "url": "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-23T08:53:01+00:00",
+     "sentence": "When the Congo River Alliance (AFC), a political-military alliance including the M23, was launched in Nairobi in 2023, DR Congo responded by recalling its ambassador to Kenya.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "BBC World",
+     "domain": "bbc.co.uk",
+     "title": "Kenya and DR Congo agree to restore ties after tensions over conflict",
+     "url": "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-23T08:53:01+00:00",
+     "sentence": "When the Congo River Alliance (AFC), a political-military alliance including the M23, was launched in Nairobi in 2023, DR Congo responded by recalling its ambassador to Kenya.",
      "hedged": false,
      "syndicated_copy": false
     }
