@@ -5782,6 +5782,482 @@
    "url": "https://www.msn.com/en-xl/africa/top-stories/sudanese-government-condemns-execution-of-captured-armed-forces-personnel-by-militia/ar-AA2i1U7y",
    "date": "2026-11-22T17:04:12+00:00",
    "seen": "2026-11-23T22:55:15.274853+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "Jerusalem",
+   "iso": "PSE",
+   "province": "West Bank",
+   "province_id": "83478781B28849486138516",
+   "outlet": "The Guardian",
+   "host": "theguardian.com",
+   "partisan": false,
+   "title": "Israel attempts to jail Palestinian student at Hebrew University without trial",
+   "sentence": "Mahdi Tounsi appeared to have suffered maltreatment at hearing where he was not allowed to hear prosecution case against him Palestinian student Mahdi Tounsi appeared in a closed-door court hearing in Jerusalem, as academics and activists warned that Israel’s attempt to jail him without trial marked",
+   "url": "https://www.theguardian.com/world/2026/nov/24/israel-jail-palestinian-student-mahdi-tounsi-hebrew-university-without-trial",
+   "date": "2026-11-24T18:02:53+00:00",
+   "seen": "2026-11-24T21:31:32.770754+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Aden",
+   "iso": "YEM",
+   "province": "‘Adan Governorate",
+   "province_id": "18629408B11945654439238",
+   "outlet": "France 24",
+   "host": "france24.com",
+   "partisan": false,
+   "title": "Yemen’s army says Houthi fighters closing in on government stronghold of Aden",
+   "sentence": "Yemen's military on Tuesday said that Houthi fighters were closing in on the internationally recognised government's stronghold of Aden from about 60km (40 miles) away and vowed to repel any assault.",
+   "url": "https://www.france24.com/en/middle-east/20261124-yemen-army-houthi-attack-aden",
+   "date": "2026-11-24T16:51:30+00:00",
+   "seen": "2026-11-24T21:31:32.770754+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Kinburn Spit",
+   "iso": "UKR",
+   "province": "Mykolaiv Oblast",
+   "province_id": "14850775B99856317748721",
+   "outlet": "Kyiv Independent",
+   "host": "kyivindependent.com",
+   "partisan": false,
+   "title": "Around 100 civilians trapped on Russian-occupied Kinburn Spit face severe food, medicine shortages, Ukrainian military says",
+   "sentence": "Around 100 civilians trapped on Russian-occupied Kinburn Spit face severe food, medicine shortages, Ukrainian military says.",
+   "url": "https://kyivindependent.com/around-100-civilians-trapped-on-russian-occupied-kinburn-spit-face-severe-food-medicine-shortages-ukrainian-military-says/",
+   "date": "2026-11-24T18:57:23+00:00",
+   "seen": "2026-11-24T21:31:32.770754+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Odesa Oblast",
+   "iso": "UKR",
+   "province": "Odessa Oblast",
+   "province_id": "14850775B53240635394722",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "Two killed and three injured, including child, in Russian attacks on Odesa Oblast – photo",
+   "sentence": "Two killed and three injured, including child, in Russian attacks on Odesa Oblast",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/24/8064502/",
+   "date": "2026-11-24T19:52:00+00:00",
+   "seen": "2026-11-24T21:31:32.770754+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Yemeni",
+   "iso": "YEM",
+   "province": "Hadhramaut",
+   "province_id": "18629408B49078263925584",
+   "outlet": "TASS",
+   "host": "tass.com",
+   "partisan": false,
+   "title": "Riyadh financial center skyscraper comes under attack",
+   "sentence": "The tower was already attacked by the Houthis from the Yemeni rebel movement Ansar Allah on November 19",
+   "url": "https://tass.com/world/2224083",
+   "date": "2026-11-24T14:22:07+00:00",
+   "seen": "2026-11-24T21:31:32.770754+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Mokha",
+   "iso": "YEM",
+   "province": "Ta'izz Governorate",
+   "province_id": "18629408B66245584752084",
+   "outlet": "Tehran Times",
+   "host": "tehrantimes.com",
+   "partisan": false,
+   "title": "Ansarallah unveils massive Mokha depots packed with Saudi and Balkan munitions",
+   "sentence": "Footage released on November 22 by Yemen’s Ansarallah shows warehouses and metal containers packed with munitions and gear seized from Saudi-affiliated mobilization camps in Mokha during Operation Al-Ba’s wa Al-Tankil.",
+   "url": "https://www.tehrantimes.com/news/532507/Ansarallah-unveils-massive-Mokha-depots-packed-with-Saudi-and",
+   "date": "2026-11-24T16:51:12+00:00",
+   "seen": "2026-11-24T21:31:32.770754+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Zaporizhzhia",
+   "iso": "UKR",
+   "province": "Zaporizhia Oblast",
+   "province_id": "14850775B92888097715572",
+   "outlet": "The Hindu",
+   "host": "thehindu.com",
+   "partisan": false,
+   "title": "A Russian strike on Ukraine kills two, wounds 48 as Kyiv explains its attack in Libya",
+   "sentence": "A Russian nighttime attack on Zaporizhzhia in southern Ukraine has killed two civilians and wounded 48 others including four children",
+   "url": "https://www.thehindu.com/news/international/russian-attack-kills-two-people-wounds-22-in-ukraines-zaporizhzhia-official-says/article71737237.ece",
+   "date": "2026-11-24T17:14:46+00:00",
+   "seen": "2026-11-24T21:31:32.770754+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Kupyansk",
+   "iso": "UKR",
+   "province": "Kharkiv Oblast",
+   "province_id": "14850775B15913324833724",
+   "outlet": "Voennoe Delo",
+   "host": "voennoedelo.com",
+   "partisan": false,
+   "title": "Ukraine Frontline Report, November 24: Russian Advances and Heavy Fighting Across Seven Sectors",
+   "sentence": "Russian battlefield reports for November 24 describe advances near Kupyansk and Dobropolye, Ukrainian counterattacks near Sumy and heavy fighting in Zaporozhye.",
+   "url": "https://voennoedelo.com/en/posts/id22601-ukraine-frontline-update-russian-advances-on-november-24",
+   "date": "2026-11-24T02:01:00+00:00",
+   "seen": "2026-11-24T21:31:32.770754+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Sumy",
+   "iso": "UKR",
+   "province": "Sumy Oblast",
+   "province_id": "14850775B14512392274127",
+   "outlet": "Voennoe Delo",
+   "host": "voennoedelo.com",
+   "partisan": false,
+   "title": "Ukraine Frontline Report, November 24: Russian Advances and Heavy Fighting Across Seven Sectors",
+   "sentence": "Russian battlefield reports for November 24 describe advances near Kupyansk and Dobropolye, Ukrainian counterattacks near Sumy and heavy fighting in Zaporozhye.",
+   "url": "https://voennoedelo.com/en/posts/id22601-ukraine-frontline-update-russian-advances-on-november-24",
+   "date": "2026-11-24T02:01:00+00:00",
+   "seen": "2026-11-24T21:31:32.770754+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Zaporozhye",
+   "iso": "UKR",
+   "province": "Zaporizhia Oblast",
+   "province_id": "14850775B92888097715572",
+   "outlet": "Voennoe Delo",
+   "host": "voennoedelo.com",
+   "partisan": false,
+   "title": "Ukraine Frontline Report, November 24: Russian Advances and Heavy Fighting Across Seven Sectors",
+   "sentence": "Russian battlefield reports for November 24 describe advances near Kupyansk and Dobropolye, Ukrainian counterattacks near Sumy and heavy fighting in Zaporozhye.",
+   "url": "https://voennoedelo.com/en/posts/id22601-ukraine-frontline-update-russian-advances-on-november-24",
+   "date": "2026-11-24T02:01:00+00:00",
+   "seen": "2026-11-24T21:31:32.770754+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Luhansk",
+   "iso": "UKR",
+   "province": "Luhansk Oblast",
+   "province_id": "14850775B31033086218351",
+   "outlet": "Gwara Media",
+   "host": "gwaramedia.com",
+   "partisan": false,
+   "title": "Kharkiv court sentences man from Russian-occupied Luhansk region to 15 years in prison for fighting against Ukraine",
+   "sentence": "Kharkiv court sentences man from Russian-occupied Luhansk region to 15 years in prison for fighting against Ukraine.",
+   "url": "https://gwaramedia.com/en/kharkiv-court-sentences-man-from-russian-occupied-luhansk-region-to-15-years-in-prison-for-fighting-against-ukraine/",
+   "date": "2026-11-24T09:24:00+00:00",
+   "seen": "2026-11-24T21:31:32.770754+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Kharkiv",
+   "iso": "UKR",
+   "province": "Kharkiv Oblast",
+   "province_id": "14850775B15913324833724",
+   "outlet": "Gwara Media",
+   "host": "gwaramedia.com",
+   "partisan": false,
+   "title": "Kharkiv court sentences man from Russian-occupied Luhansk region to 15 years in prison for fighting against Ukraine",
+   "sentence": "A court in Kharkiv region sentenced a 31-year-old man from the Russian-occupied Luhansk region to 15 years in prison for high treason after he joined the Russian army for financial gain and fought ...",
+   "url": "https://gwaramedia.com/en/kharkiv-court-sentences-man-from-russian-occupied-luhansk-region-to-15-years-in-prison-for-fighting-against-ukraine/",
+   "date": "2026-11-24T09:24:00+00:00",
+   "seen": "2026-11-24T21:31:32.770754+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Donetsk Oblast",
+   "iso": "UKR",
+   "province": "Donetsk Oblast",
+   "province_id": "14850775B15615817748403",
+   "outlet": "Nasha Niva",
+   "host": "nashaniva.com",
+   "partisan": false,
+   "title": "Ukrainians pushed back Russians at the junction of Dnipropetrovsk, Donetsk, and Zaporizhzhia Oblasts",
+   "sentence": "In 2025, Russian forces advanced in the south of Donetsk Oblast and reached the borders of Dnipropetrovsk and Zaporizhzhia Oblasts.",
+   "url": "https://nashaniva.com/en/409988",
+   "date": "2026-11-24T06:21:00+00:00",
+   "seen": "2026-11-24T21:31:32.770754+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Dnipropetrovsk",
+   "iso": "UKR",
+   "province": "Dnipropetrovsk Oblast",
+   "province_id": "14850775B41808765507575",
+   "outlet": "Nasha Niva",
+   "host": "nashaniva.com",
+   "partisan": false,
+   "title": "Ukrainians pushed back Russians at the junction of Dnipropetrovsk, Donetsk, and Zaporizhzhia Oblasts",
+   "sentence": "In 2025, Russian forces advanced in the south of Donetsk Oblast and reached the borders of Dnipropetrovsk and Zaporizhzhia Oblasts.",
+   "url": "https://nashaniva.com/en/409988",
+   "date": "2026-11-24T06:21:00+00:00",
+   "seen": "2026-11-24T21:31:32.770754+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Aden",
+   "iso": "YEM",
+   "province": "‘Adan Governorate",
+   "province_id": "18629408B11945654439238",
+   "outlet": "L'Orient Today",
+   "host": "today.lorientlejour.com",
+   "partisan": false,
+   "title": "Yemen armed forces says Houthis around 60km from Aden, 'ready to attack': spokesman",
+   "sentence": "Yemen armed forces says Houthis around 60km from Aden, 'ready to attack': spokesman.",
+   "url": "https://today.lorientlejour.com/article/1555489/yemen-armed-forces-says-houthis-around-60km-from-aden-ready-to-attack-spokesman.html",
+   "date": "2026-11-23T23:31:00+00:00",
+   "seen": "2026-11-24T21:31:32.770754+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Aden",
+   "iso": "YEM",
+   "province": "‘Adan Governorate",
+   "province_id": "18629408B11945654439238",
+   "outlet": "The Economic Times",
+   "host": "economictimes.indiatimes.com",
+   "partisan": false,
+   "title": "Houthis advance to within 60 km of Yemen's Aden, military says city will not fall",
+   "sentence": "Yemen's Iran-aligned Houthis have advanced to within 60 kilometers of Aden, prompting concerns for the city.",
+   "url": "https://economictimes.indiatimes.com/news/defence/houthis-advance-to-within-60-km-of-yemens-aden-military-says-city-will-not-fall/articleshow/136139751.cms",
+   "date": "2026-11-24T10:02:00+00:00",
+   "seen": "2026-11-24T21:31:32.770754+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Aden",
+   "iso": "YEM",
+   "province": "‘Adan Governorate",
+   "province_id": "18629408B11945654439238",
+   "outlet": "WISH-TV",
+   "host": "wishtv.com",
+   "partisan": false,
+   "title": "Houthis advance toward Aden as conflict widens across Middle East",
+   "sentence": "Houthis advance toward Aden as conflict widens across Middle East.",
+   "url": "https://www.wishtv.com/news/international/houthis-advance-toward-aden-as-conflict-widens-across-middle-east/",
+   "date": "2026-11-24T09:33:00+00:00",
+   "seen": "2026-11-24T21:31:32.770754+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Aden",
+   "iso": "YEM",
+   "province": "‘Adan Governorate",
+   "province_id": "18629408B11945654439238",
+   "outlet": "Midland Daily News on MSN",
+   "host": "msn.com",
+   "partisan": false,
+   "title": "Houthi rebels close in on the city of Aden as Yemeni forces dig in behind a fortified line",
+   "sentence": "Iran-backed Houthi rebels have advanced close to Yemen's government seat in the port city of Aden.",
+   "url": "https://www.msn.com/en-us/news/other/houthi-rebels-close-in-on-the-city-of-aden-as-yemeni-forces-dig-in-behind-a-fortified-line/ar-AA2i7m7O",
+   "date": "2026-11-24T13:00:39+00:00",
+   "seen": "2026-11-24T21:31:32.770754+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Aden",
+   "iso": "YEM",
+   "province": "‘Adan Governorate",
+   "province_id": "18629408B11945654439238",
+   "outlet": "Laredo Morning Times on MSN",
+   "host": "msn.com",
+   "partisan": false,
+   "title": "Houthi rebels close in on Aden as Yemeni forces dig in behind a fortified line",
+   "sentence": "Iran-backed Houthi rebels have advanced close to Yemen's government seat in the port city of Aden.",
+   "url": "https://www.msn.com/en-us/news/other/houthi-rebels-close-in-on-aden-as-yemeni-forces-dig-in-behind-a-fortified-line/ar-AA2i79Fc",
+   "date": "2026-11-24T13:00:39+00:00",
+   "seen": "2026-11-24T21:31:32.770754+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Yemen",
+   "iso": "YEM",
+   "province": "‘Adan Governorate",
+   "province_id": "18629408B11945654439238",
+   "outlet": "ABC News",
+   "host": "abcnews.com",
+   "partisan": false,
+   "title": "Houthi rebels close in on Aden as Yemeni forces dig in behind a fortified line",
+   "sentence": "Iran-backed Houthi rebels have advanced to within about 60 kilometers (about 40 miles) of the seat of Yemen’s internationally recognized government in the southern city of Aden, but the forces ...",
+   "url": "https://abcnews.com/International/wireStory/houthi-rebels-close-aden-yemeni-forces-dig-fortified-138404636",
+   "date": "2026-11-23T21:34:00+00:00",
+   "seen": "2026-11-24T21:31:32.770754+00:00"
+  },
+  {
+   "war": "sudan",
+   "sides": [
+    "SAF"
+   ],
+   "place": "Sudan",
+   "iso": "SDN",
+   "province": "North Kordofan",
+   "province_id": "86620642B75144405979625",
+   "outlet": "AllAfrica on MSN",
+   "host": "msn.com",
+   "partisan": false,
+   "title": "Analysis - Sudan's ongoing war of defections and resources",
+   "sentence": "The ongoing conflict in Sudan has entered a transformative phase defined by two parallel strategies: the Sudanese Armed Forces' weaponisation of high-profile defections and a fierce battle for control ...",
+   "url": "https://www.msn.com/en-xl/news/other/analysis-sudan-s-ongoing-war-of-defections-and-resources/ar-AA2i5xrW",
+   "date": "2026-11-23T21:36:06+00:00",
+   "seen": "2026-11-24T21:31:32.770754+00:00"
+  },
+  {
+   "war": "sudan",
+   "sides": [
+    "SAF",
+    "RSF"
+   ],
+   "place": "Blue Nile",
+   "iso": "SDN",
+   "province": "Blue Nile",
+   "province_id": "86620642B86272532082738",
+   "outlet": "AllAfrica on MSN",
+   "host": "msn.com",
+   "partisan": false,
+   "title": "RSF accused of executing Sudanese army prisoners in Blue Nile",
+   "sentence": "The Sudanese government has accused the Rapid Support Forces (RSF) of executing captured Sudanese Armed Forces personnel in the Blue Nile region, describing the killings as a flagrant violation of ...",
+   "url": "https://www.msn.com/en-xl/news/other/rsf-accused-of-executing-sudanese-army-prisoners-in-blue-nile/ar-AA2i5LXv",
+   "date": "2026-11-23T21:08:05+00:00",
+   "seen": "2026-11-24T21:31:32.770754+00:00"
+  },
+  {
+   "war": "sudan",
+   "sides": [
+    "SAF"
+   ],
+   "place": "Suda",
+   "iso": "SDN",
+   "province": "North Kordofan",
+   "province_id": "86620642B75144405979625",
+   "outlet": "sudanspost",
+   "host": "sudanspost.com",
+   "partisan": false,
+   "title": "Rebel coalition claims capture of Suda military camp in Sudan’s Blue Nile",
+   "sentence": "A rebel coalition has claimed control of the Suda area and a Sudanese army camp in Blue Nile State, southeastern Sudan, as fighting between its forces and government troops continues.",
+   "url": "https://www.sudanspost.com/rebel-coalition-claims-capture-of-suda-military-camp-in-sudans-blue-nile/",
+   "date": "2026-11-24T08:03:00+00:00",
+   "seen": "2026-11-24T21:31:32.770754+00:00"
+  },
+  {
+   "war": "sudan",
+   "sides": [
+    "SAF"
+   ],
+   "place": "Blue Nile State",
+   "iso": "SDN",
+   "province": "Blue Nile",
+   "province_id": "86620642B86272532082738",
+   "outlet": "sudanspost",
+   "host": "sudanspost.com",
+   "partisan": false,
+   "title": "Rebel coalition claims capture of Suda military camp in Sudan’s Blue Nile",
+   "sentence": "A rebel coalition has claimed control of the Suda area and a Sudanese army camp in Blue Nile State, southeastern Sudan, as fighting between its forces and government troops continues.",
+   "url": "https://www.sudanspost.com/rebel-coalition-claims-capture-of-suda-military-camp-in-sudans-blue-nile/",
+   "date": "2026-11-24T08:03:00+00:00",
+   "seen": "2026-11-24T21:31:32.770754+00:00"
+  },
+  {
+   "war": "myanmar",
+   "sides": [
+    "Military",
+    "Resistance"
+   ],
+   "place": "Mandalay",
+   "iso": "MMR",
+   "province": "Mandalay",
+   "province_id": "20573499B45980987355836",
+   "outlet": "The Irrawaddy",
+   "host": "irrawaddy.com",
+   "partisan": false,
+   "title": "Myanmar Regime Battles Resistance on Irrawaddy’s Northern Banks",
+   "sentence": "Kachin rebels and their allies have seized three regime posts on the Mandalay–Shan border wile the military is fighting the resistance in Sagaing Region’s Kantbalu.",
+   "url": "https://www.irrawaddy.com/news/burma/myanmar-regime-battles-resistance-on-irrawaddys-northern-banks.html",
+   "date": "2026-11-23T23:58:00+00:00",
+   "seen": "2026-11-24T21:31:32.770754+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "Gaza",
+   "iso": "PSE",
+   "province": "Gaza",
+   "province_id": "83478781B7121896376882",
+   "outlet": "Antiwar.com",
+   "host": "news.antiwar.com",
+   "partisan": false,
+   "title": "Israeli Attacks in Gaza Kill Seven Palestinians, Including Head of Internal Security Service",
+   "sentence": "Israeli attacks in Gaza on Tuesday killed at least seven people, including a senior security official, as the Israeli military continues its constant violations of the US-backed ceasefire deal.",
+   "url": "https://news.antiwar.com/2026/11/24/israeli-attacks-in-gaza-kill-seven-palestinians-including-head-of-internal-security-service/",
+   "date": "2026-11-24T12:19:00+00:00",
+   "seen": "2026-11-24T21:31:32.770754+00:00"
   }
  ],
  "truce": [

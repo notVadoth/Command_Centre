@@ -3025,5 +3025,211 @@
  "Tajikistan|RUS,UKR": [],
  "China's Shenzhen|RUS,UKR": [],
  "Benghazi|RUS,UKR": [],
- "Black|RUS,UKR": []
+ "Black|RUS,UKR": [],
+ "Mali|RUS,UKR": [],
+ "Africa When|RUS,UKR": [],
+ "Kidal|RUS,UKR": [],
+ "Mali|MMR": [],
+ "Africa When|MMR": [],
+ "Kidal|MMR": [],
+ "Ulleungdo Residents|RUS,UKR": [],
+ "Ulleungdo Residents|MMR": [],
+ "Jerusalem|PSE": [
+  {
+   "qid": "Q1218",
+   "iso": "PSE",
+   "lat": 31.776679,
+   "lon": 35.234156
+  }
+ ],
+ "Jerusalem|LBN": [],
+ "Russian-occupied Kinburn Spit|RUS,UKR": [],
+ "Kinburn Spit|RUS,UKR": [
+  {
+   "qid": "Q65315",
+   "iso": "UKR",
+   "lat": 46.55861111,
+   "lon": 31.52777778
+  }
+ ],
+ "Russian-occupied Kinburn Spit|MMR": [],
+ "Kinburn Spit|MMR": [],
+ "Naftogaz|RUS,UKR": [],
+ "Dutch|RUS,UKR": [],
+ "Libyan|RUS,UKR": [],
+ "Staff|RUS,UKR": [],
+ "Japan|RUS,UKR": [],
+ "Staff|MMR": [],
+ "Japan|MMR": [],
+ "Pyongyang|RUS,UKR": [],
+ "Russia-occupied|RUS,UKR": [],
+ "South Korea|RUS,UKR": [],
+ "Saudi-affiliated|YEM": [],
+ "Mokha|YEM": [
+  {
+   "qid": "Q339258",
+   "iso": "YEM",
+   "lat": 13.31666667,
+   "lon": 43.25
+  }
+ ],
+ "Iran|RUS,UKR": [],
+ "West Asia|YEM": [],
+ "Premium Times Nigeria|RUS,UKR": [],
+ "Sergeyevka|RUS,UKR": [
+  {
+   "qid": "Q15242047",
+   "iso": "RUS",
+   "lat": 44.338055555556,
+   "lon": 131.66138888889
+  },
+  {
+   "qid": "Q1058393",
+   "iso": "RUS",
+   "lat": 54.582777777778,
+   "lon": 54.6375
+  },
+  {
+   "qid": "Q4416910",
+   "iso": "RUS",
+   "lat": 53.778055555556,
+   "lon": 55.034166666667
+  },
+  {
+   "qid": "Q4416906",
+   "iso": "RUS",
+   "lat": 43.343055555556,
+   "lon": 133.35416666667
+  },
+  {
+   "qid": "Q4416908",
+   "iso": "RUS",
+   "lat": 53.068333333333,
+   "lon": 56.486111111111
+  },
+  {
+   "qid": "Q1058201",
+   "iso": "RUS",
+   "lat": 55.138055555556,
+   "lon": 56.165555555556
+  },
+  {
+   "qid": "Q27575071",
+   "iso": "RUS",
+   "lat": 56.38139,
+   "lon": 86.35778
+  },
+  {
+   "qid": "Q25610624",
+   "iso": "RUS",
+   "lat": 51.168357,
+   "lon": 38.273244
+  },
+  {
+   "qid": "Q25508324",
+   "iso": "RUS",
+   "lat": 52.650314,
+   "lon": 79.308975
+  },
+  {
+   "qid": "Q4286366",
+   "iso": "RUS",
+   "lat": 44.45083333,
+   "lon": 146.5677778
+  },
+  {
+   "qid": "Q4416926",
+   "iso": "RUS",
+   "lat": 53.851388888889,
+   "lon": 31.846944444444
+  },
+  {
+   "qid": "Q4416929",
+   "iso": "RUS",
+   "lat": 43.5299,
+   "lon": 133.5344
+  }
+ ],
+ "Sergeyevka|MMR": [],
+ "Russian-occupied Luhansk|RUS,UKR": [],
+ "Kharkiv|SDN": [],
+ "Russian-occupied Luhansk|SDN": [],
+ "Luhansk|SDN": [],
+ "Kara-Dag Brigade|RUS,UKR": [],
+ "Dobropil|RUS,UKR": [
+  {
+   "qid": "Q2995150",
+   "iso": "UKR",
+   "lat": 48.4833,
+   "lon": 37.0117
+  },
+  {
+   "qid": "Q2415973",
+   "iso": "UKR",
+   "lat": 48.470277777778,
+   "lon": 37.082222222222
+  },
+  {
+   "qid": "Q108433022",
+   "iso": "UKR",
+   "lat": 48.45,
+   "lon": 37.083333333333336
+  },
+  {
+   "qid": "Q4163755",
+   "iso": "UKR",
+   "lat": 48.423888888889,
+   "lon": 37.050833333333
+  },
+  {
+   "qid": "Q4163752",
+   "iso": "UKR",
+   "lat": 47.782488990539,
+   "lon": 36.195160457333
+  },
+  {
+   "qid": "Q4163754",
+   "iso": "UKR",
+   "lat": 46.235555555556,
+   "lon": 32.580277777778
+  },
+  {
+   "qid": "Q4163751",
+   "iso": "UKR",
+   "lat": 49.961388888889,
+   "lon": 35.7175
+  },
+  {
+   "qid": "Q4163750",
+   "iso": "UKR",
+   "lat": 51.416666666667,
+   "lon": 32.616666666667
+  }
+ ],
+ "Yemen's Aden|MMR": [],
+ "Skyscraper|YEM": [],
+ "Saudi Capital Wounds|YEM": [],
+ "Blue|SDN": [],
+ "Suda|YEM": [],
+ "Blue Nile State|YEM": [],
+ "Suda|SDN": [
+  {
+   "qid": "Q1049",
+   "iso": "SDN",
+   "lat": 15,
+   "lon": 32
+  }
+ ],
+ "Sagaing Region’s Kantbalu|MMR": [],
+ "Congolese|MMR": [],
+ "Nation|MMR": [],
+ "Ituri|YEM": [],
+ "Iga-Barri|YEM": [],
+ "US-backed|MMR": [],
+ "Gaza Kill Seven|PSE": [],
+ "Internal Security Service|PSE": [],
+ "US-backed|PSE": [],
+ "Gaza Kill Seven|LBN": [],
+ "Internal Security Service|LBN": [],
+ "US-backed|LBN": []
 }

@@ -1,6 +1,6 @@
 // written by trawler.py — loaded automatically by commandcenter-map.html
 window.TRAWLER_GROUPINGS = {
- "generated": "2026-11-23T22:54:39.231529+00:00",
+ "generated": "2026-11-24T21:30:39.109715+00:00",
  "extractor": "rules",
  "verification": {
   "wikidata": true,
@@ -13,7 +13,7 @@ window.TRAWLER_GROUPINGS = {
    "conflict": "Wikidata contradicts the claim — review"
   }
  },
- "articles_in_store": 2544,
+ "articles_in_store": 2676,
  "blocs": {
   "EU": {
    "name": "European Union",
@@ -58,8 +58,221 @@ window.TRAWLER_GROUPINGS = {
     "qid": "Q458",
     "label": null
    },
-   "baseline_audit": null,
+   "baseline_audit": {
+    "in_wikidata_not_baseline": [],
+    "in_baseline_not_wikidata": [
+     "NLD"
+    ]
+   },
    "changes": [
+    {
+     "country": "GBR",
+     "action": "left",
+     "status": "confirmed",
+     "wikidata": "agrees",
+     "independent_outlets": 3,
+     "evidence": [
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Home Office sued after stripping almost 1,500 EU citizens of right to live in UK",
+       "url": "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled",
+       "date": "2026-11-07T09:15:35+00:00",
+       "sentence": "Campaign group the3million lodges court papers after EU citizens told pre-settled status was an ‘error’\nThe Home Office is being sued for alleged breach of the Brexit withdrawal agreement after stripping almost 1,500 EU citizens of their full rights to live in the UK.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Home Office sued after stripping almost 1,500 EU citizens of right to live in UK",
+       "url": "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled",
+       "date": "2026-11-07T09:15:35+00:00",
+       "sentence": "Campaign group the3million lodges court papers after EU citizens told pre-settled status was an ‘error’\nThe Home Office is being sued for alleged breach of the Brexit withdrawal agreement after stripping almost 1,500 EU citizens of their full rights to live in the UK.",
+       "hedged": false,
+       "syndicated_copy": true
+      },
+      {
+       "source": "BBC World",
+       "domain": "bbc.co.uk",
+       "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+       "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+       "date": "2026-11-07T15:19:35+00:00",
+       "sentence": "The prime minister has said rejoining the bloc's internal market was among options he could pursue as part of a reshaping of ties since the UK's exit from the EU nearly six years ago.",
+       "hedged": true,
+       "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Britain willing to discuss paying into EU to join electricity market, says minister",
+       "url": "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer",
+       "date": "2026-11-10T17:52:07+00:00",
+       "sentence": "Clearly it’s something that on the EU side there’s real interest, so we are engaging in that discussion but I can’t comment in detail on the negotiations.”\nFalconer was firmly positive about the UK’s return next year to the Erasmus+ student exchange scheme, which the UK left under Boris Johnson’s Brexit deal in 2020, and will be open not just to universities but also to schools and colleges.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Andy Burnham says UK has ‘lost more than we gained’ through Brexit",
+       "url": "https://www.theguardian.com/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit",
+       "date": "2026-11-14T15:34:54+00:00",
+       "sentence": "PM accuses Tories of burning ‘all our bridges’ and says deal he is pursuing with EU will ‘get food prices down’\nAndy Burnham has said the UK has “lost more than we gained” since leaving the EU, the prime minister’s latest in a string of comments criticising Brexit.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Andy Burnham says UK has ‘lost more than we gained’ through Brexit",
+       "url": "https://www.theguardian.com/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit",
+       "date": "2026-11-14T15:34:54+00:00",
+       "sentence": "PM accuses Tories of burning ‘all our bridges’ and says deal he is pursuing with EU will ‘get food prices down’\nAndy Burnham has said the UK has “lost more than we gained” since leaving the EU, the prime minister’s latest in a string of comments criticising Brexit.",
+       "hedged": false,
+       "syndicated_copy": true
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Monday briefing: The many stages of the UK-EU relationship – and what’s next",
+       "url": "https://www.theguardian.com/world/2026/nov/16/monday-briefing-the-many-stages-of-the-uk-eu-relationship-and-whats-next",
+       "date": "2026-11-16T06:46:27+00:00",
+       "sentence": "While the guy you really want to hear from right now – David Cameron, the prime minister who lost the 2016 Brexit referendum – has insisted the UK’s problems have nothing to do with its exit from the EU.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Andy Burnham to say Brexit ‘has not worked’ and he will sign new deal with EU",
+       "url": "https://www.theguardian.com/politics/2026/nov/16/andy-burnham-brexit-has-not-worked-sign-new-deal-with-eu",
+       "date": "2026-11-16T07:00:38+00:00",
+       "sentence": "It is the latest in a string of comments by the prime minister criticising Brexit, after he told the Welsh Labour conference on Saturday that the UK has “lost more than we gained” through leaving the EU.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "Al Jazeera",
+       "domain": "aljazeera.com",
+       "title": "As Burnham heads to Brussels, are new Brexit wars about to begin?",
+       "url": "https://www.aljazeera.com/news/2026/11/19/as-burnham-heads-to-brussels-are-new-brexit-wars-about-to-begin?traffic_source=rss",
+       "date": "2026-11-19T15:24:51+00:00",
+       "sentence": "In September, 55 percent of respondents told YouGov that leaving the EU was a wrong turn for the UK.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answered readers questions",
+       "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
+       "date": "2026-11-19T18:02:33+00:00",
+       "sentence": "I don’t think Brexit had an impact on the rise of far-right parties in the EU countries – other than to discourage some of them, which had been toying with the idea of backing withdrawal from the EU, to give up on the idea because it ended so badly for the UK.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answered readers questions",
+       "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
+       "date": "2026-11-19T18:02:33+00:00",
+       "sentence": "I don’t think Brexit had an impact on the rise of far-right parties in the EU countries – other than to discourage some of them, which had been toying with the idea of backing withdrawal from the EU, to give up on the idea because it ended so badly for the UK.",
+       "hedged": false,
+       "syndicated_copy": true
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
+       "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
+       "date": "2026-11-22T16:12:54+00:00",
+       "sentence": "In her BBC interview, May, who comments sparingly on live political subjects despite being an active Tory peer, did not even try to argue that Brexit had been a success, instead saying it was impossible to know, given events such as Covid and Russia’s invasion of Ukraine, and then adding: “I don’t think Britain’s state today is about whether or not we left the European Union.”\nMany voters are much",
+       "hedged": true,
+       "syndicated_copy": false
+      },
+      {
+       "source": "CBC World",
+       "domain": "cbc.ca",
+       "title": "'Brexit means Brexit' no more? Why the U.K. now wants closer ties with the EU",
+       "url": "https://www.cbc.ca/news/world/brexit-breturn-andy-burnham-uk-eu-ties-9.7433260?cmp=rss",
+       "date": "2026-11-24T09:00:00+00:00",
+       "sentence": "It was relentlessly repeated by former British prime minister Theresa May — herself a remainer — as she sought to convince her own governing Conservatives that she wouldn’t allow any backsliding on the decision while negotiating the terms of Britain’s exit from the EU.",
+       "hedged": true,
+       "syndicated_copy": false
+      },
+      {
+       "source": "CBC World",
+       "domain": "cbc.ca",
+       "title": "'Brexit means Brexit' no more? Why the U.K. now wants closer ties with the EU",
+       "url": "https://www.cbc.ca/news/world/brexit-breturn-andy-burnham-uk-eu-ties-9.7433260?cmp=rss",
+       "date": "2026-11-24T09:00:00+00:00",
+       "sentence": "Since leaving the EU, the U.K.'s GDP per capita is now six to eight per cent lower than it would have been had the country remained, by one estimate.",
+       "hedged": true,
+       "syndicated_copy": false
+      },
+      {
+       "source": "CBC World",
+       "domain": "cbc.ca",
+       "title": "'Brexit means Brexit' no more? Why the U.K. now wants closer ties with the EU",
+       "url": "https://www.cbc.ca/news/world/brexit-breturn-andy-burnham-uk-eu-ties-9.7433260?cmp=rss",
+       "date": "2026-11-24T09:00:00+00:00",
+       "sentence": "Reset talks spark debate over Britain rejoining the EU\nAnd Theresa May, of \"Brexit means Brexit\" fame, told the BBC that she was \"aghast\" at the talk of rejoining, saying Burnham needed to \"move on.\" \nMay was eventually felled by divisions within her Conservative Party over how \"hard\" Britain’s exit from the EU should be and replaced by Boris Johnson, who recently told the Daily Telegraph that Bri",
+       "hedged": true,
+       "syndicated_copy": false
+      },
+      {
+       "source": "CBC World",
+       "domain": "cbc.ca",
+       "title": "'Brexit means Brexit' no more? Why the U.K. now wants closer ties with the EU",
+       "url": "https://www.cbc.ca/news/world/brexit-breturn-andy-burnham-uk-eu-ties-9.7433260?cmp=rss",
+       "date": "2026-11-24T09:00:00+00:00",
+       "sentence": "Reset talks spark debate over Britain rejoining the EU\nAnd Theresa May, of \"Brexit means Brexit\" fame, told the BBC that she was \"aghast\" at the talk of rejoining, saying Burnham needed to \"move on.\" \nMay was eventually felled by divisions within her Conservative Party over how \"hard\" Britain’s exit from the EU should be and replaced by Boris Johnson, who recently told the Daily Telegraph that Bri",
+       "hedged": true,
+       "syndicated_copy": true
+      },
+      {
+       "source": "CBC World",
+       "domain": "cbc.ca",
+       "title": "'Brexit means Brexit' no more? Why the U.K. now wants closer ties with the EU",
+       "url": "https://www.cbc.ca/news/world/brexit-breturn-andy-burnham-uk-eu-ties-9.7433260?cmp=rss",
+       "date": "2026-11-24T09:00:00+00:00",
+       "sentence": "Mitchell/Getty Images)\nEconomist Patrick Minford, who campaigned for Brexit, argues Britain’s sluggish economy isn’t suffering from leaving the EU, but from bad management.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "CBC World",
+       "domain": "cbc.ca",
+       "title": "'Brexit means Brexit' no more? Why the U.K. now wants closer ties with the EU",
+       "url": "https://www.cbc.ca/news/world/brexit-breturn-andy-burnham-uk-eu-ties-9.7433260?cmp=rss",
+       "date": "2026-11-24T09:00:00+00:00",
+       "sentence": "I do feel that we lost something in the U.K. when we left the EU.\"\nKenneth Robbie, another resident, says he decided how to vote on his way to the polls during the last referendum, eventually casting his ballot to remain.",
+       "hedged": false,
+       "syndicated_copy": false
+      }
+     ]
+    },
+    {
+     "country": "LTU",
+     "action": "left",
+     "status": "conflict",
+     "wikidata": "disagrees",
+     "independent_outlets": 1,
+     "evidence": [
+      {
+       "source": "Al Jazeera",
+       "domain": "aljazeera.com",
+       "title": "Russia warns Ukraine of ‘dangerous trend’ after Libya and Baltic attacks",
+       "url": "https://www.aljazeera.com/news/2026/11/23/russia-warns-ukraine-of-dangerous-trend-after-libya-and-baltic-attacks?traffic_source=rss",
+       "date": "2026-11-23T16:23:33+00:00",
+       "sentence": "Lithuania restricted the transit of goods, including construction materials, from Russia to the exclave in line with European Union sanctions in 2022, leaving Kaliningrad heavily dependent on sea-borne supplies.",
+       "hedged": false,
+       "syndicated_copy": false
+      }
+     ]
+    },
     {
      "country": "GBR",
      "action": "applied",
@@ -200,140 +413,11 @@ window.TRAWLER_GROUPINGS = {
      ]
     },
     {
-     "country": "GBR",
-     "action": "left",
-     "status": "corroborated",
-     "wikidata": "unknown",
-     "independent_outlets": 2,
-     "evidence": [
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Home Office sued after stripping almost 1,500 EU citizens of right to live in UK",
-       "url": "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled",
-       "date": "2026-11-07T09:15:35+00:00",
-       "sentence": "Campaign group the3million lodges court papers after EU citizens told pre-settled status was an ‘error’\nThe Home Office is being sued for alleged breach of the Brexit withdrawal agreement after stripping almost 1,500 EU citizens of their full rights to live in the UK.",
-       "hedged": false,
-       "syndicated_copy": false
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Home Office sued after stripping almost 1,500 EU citizens of right to live in UK",
-       "url": "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled",
-       "date": "2026-11-07T09:15:35+00:00",
-       "sentence": "Campaign group the3million lodges court papers after EU citizens told pre-settled status was an ‘error’\nThe Home Office is being sued for alleged breach of the Brexit withdrawal agreement after stripping almost 1,500 EU citizens of their full rights to live in the UK.",
-       "hedged": false,
-       "syndicated_copy": true
-      },
-      {
-       "source": "BBC World",
-       "domain": "bbc.co.uk",
-       "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-       "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
-       "date": "2026-11-07T15:19:35+00:00",
-       "sentence": "The prime minister has said rejoining the bloc's internal market was among options he could pursue as part of a reshaping of ties since the UK's exit from the EU nearly six years ago.",
-       "hedged": true,
-       "syndicated_copy": false
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Britain willing to discuss paying into EU to join electricity market, says minister",
-       "url": "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer",
-       "date": "2026-11-10T17:52:07+00:00",
-       "sentence": "Clearly it’s something that on the EU side there’s real interest, so we are engaging in that discussion but I can’t comment in detail on the negotiations.”\nFalconer was firmly positive about the UK’s return next year to the Erasmus+ student exchange scheme, which the UK left under Boris Johnson’s Brexit deal in 2020, and will be open not just to universities but also to schools and colleges.",
-       "hedged": false,
-       "syndicated_copy": false
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Andy Burnham says UK has ‘lost more than we gained’ through Brexit",
-       "url": "https://www.theguardian.com/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit",
-       "date": "2026-11-14T15:34:54+00:00",
-       "sentence": "PM accuses Tories of burning ‘all our bridges’ and says deal he is pursuing with EU will ‘get food prices down’\nAndy Burnham has said the UK has “lost more than we gained” since leaving the EU, the prime minister’s latest in a string of comments criticising Brexit.",
-       "hedged": false,
-       "syndicated_copy": false
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Andy Burnham says UK has ‘lost more than we gained’ through Brexit",
-       "url": "https://www.theguardian.com/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit",
-       "date": "2026-11-14T15:34:54+00:00",
-       "sentence": "PM accuses Tories of burning ‘all our bridges’ and says deal he is pursuing with EU will ‘get food prices down’\nAndy Burnham has said the UK has “lost more than we gained” since leaving the EU, the prime minister’s latest in a string of comments criticising Brexit.",
-       "hedged": false,
-       "syndicated_copy": true
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Monday briefing: The many stages of the UK-EU relationship – and what’s next",
-       "url": "https://www.theguardian.com/world/2026/nov/16/monday-briefing-the-many-stages-of-the-uk-eu-relationship-and-whats-next",
-       "date": "2026-11-16T06:46:27+00:00",
-       "sentence": "While the guy you really want to hear from right now – David Cameron, the prime minister who lost the 2016 Brexit referendum – has insisted the UK’s problems have nothing to do with its exit from the EU.",
-       "hedged": false,
-       "syndicated_copy": false
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Andy Burnham to say Brexit ‘has not worked’ and he will sign new deal with EU",
-       "url": "https://www.theguardian.com/politics/2026/nov/16/andy-burnham-brexit-has-not-worked-sign-new-deal-with-eu",
-       "date": "2026-11-16T07:00:38+00:00",
-       "sentence": "It is the latest in a string of comments by the prime minister criticising Brexit, after he told the Welsh Labour conference on Saturday that the UK has “lost more than we gained” through leaving the EU.",
-       "hedged": false,
-       "syndicated_copy": false
-      },
-      {
-       "source": "Al Jazeera",
-       "domain": "aljazeera.com",
-       "title": "As Burnham heads to Brussels, are new Brexit wars about to begin?",
-       "url": "https://www.aljazeera.com/news/2026/11/19/as-burnham-heads-to-brussels-are-new-brexit-wars-about-to-begin?traffic_source=rss",
-       "date": "2026-11-19T15:24:51+00:00",
-       "sentence": "In September, 55 percent of respondents told YouGov that leaving the EU was a wrong turn for the UK.",
-       "hedged": false,
-       "syndicated_copy": false
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answered readers questions",
-       "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
-       "date": "2026-11-19T18:02:33+00:00",
-       "sentence": "I don’t think Brexit had an impact on the rise of far-right parties in the EU countries – other than to discourage some of them, which had been toying with the idea of backing withdrawal from the EU, to give up on the idea because it ended so badly for the UK.",
-       "hedged": false,
-       "syndicated_copy": false
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answered readers questions",
-       "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
-       "date": "2026-11-19T18:02:33+00:00",
-       "sentence": "I don’t think Brexit had an impact on the rise of far-right parties in the EU countries – other than to discourage some of them, which had been toying with the idea of backing withdrawal from the EU, to give up on the idea because it ended so badly for the UK.",
-       "hedged": false,
-       "syndicated_copy": true
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
-       "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
-       "date": "2026-11-22T16:12:54+00:00",
-       "sentence": "In her BBC interview, May, who comments sparingly on live political subjects despite being an active Tory peer, did not even try to argue that Brexit had been a success, instead saying it was impossible to know, given events such as Covid and Russia’s invasion of Ukraine, and then adding: “I don’t think Britain’s state today is about whether or not we left the European Union.”\nMany voters are much",
-       "hedged": true,
-       "syndicated_copy": false
-      }
-     ]
-    },
-    {
      "country": "RUS",
      "action": "applied",
      "status": "corroborated",
      "wikidata": "unknown",
-     "independent_outlets": 2,
+     "independent_outlets": 3,
      "evidence": [
       {
        "source": "France 24",
@@ -354,6 +438,26 @@ window.TRAWLER_GROUPINGS = {
        "sentence": "He said Ukraine and Europe were not yet ready to make compromises to resolve the conflict in Ukraine - but he said Russia had invited EU representatives to Moscow to better understand Europe's position.",
        "hedged": false,
        "syndicated_copy": false
+      },
+      {
+       "source": "DW World",
+       "domain": "dw.com",
+       "title": "EU enlargement: Why do some EU member states use their vetoes to block the accession of certain candidate countries?",
+       "url": "https://www.dw.com/en/eu-enlargement-why-do-some-eu-member-states-use-their-vetoes-to-block-the-accession-of-certain-candidate-countries/a-80034401?maca=en-rss-en-world-4025-rdf",
+       "date": "2026-11-24T14:49:00+00:00",
+       "sentence": "After Russia's full-scale invasion of Ukraine, the EU in June 2022 granted Ukraine and the Republic of Moldova EU candidate status through an accelerated procedure as a gesture of solidarity.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "DW World",
+       "domain": "dw.com",
+       "title": "EU enlargement: Why do some EU member states use their vetoes to block the accession of certain candidate countries?",
+       "url": "https://www.dw.com/en/eu-enlargement-why-do-some-eu-member-states-use-their-vetoes-to-block-the-accession-of-certain-candidate-countries/a-80034401?maca=en-rss-en-world-4025-rdf",
+       "date": "2026-11-24T14:49:00+00:00",
+       "sentence": "After Russia's full-scale invasion of Ukraine, the EU in June 2022 granted Ukraine and the Republic of Moldova EU candidate status through an accelerated procedure as a gesture of solidarity.",
+       "hedged": false,
+       "syndicated_copy": true
       }
      ]
     },
@@ -362,7 +466,7 @@ window.TRAWLER_GROUPINGS = {
      "action": "applied",
      "status": "corroborated",
      "wikidata": "unknown",
-     "independent_outlets": 2,
+     "independent_outlets": 3,
      "evidence": [
       {
        "source": "The Guardian World",
@@ -403,6 +507,65 @@ window.TRAWLER_GROUPINGS = {
        "sentence": "He said Ukraine and Europe were not yet ready to make compromises to resolve the conflict in Ukraine - but he said Russia had invited EU representatives to Moscow to better understand Europe's position.",
        "hedged": false,
        "syndicated_copy": false
+      },
+      {
+       "source": "DW World",
+       "domain": "dw.com",
+       "title": "EU enlargement: Why do some EU member states use their vetoes to block the accession of certain candidate countries?",
+       "url": "https://www.dw.com/en/eu-enlargement-why-do-some-eu-member-states-use-their-vetoes-to-block-the-accession-of-certain-candidate-countries/a-80034401?maca=en-rss-en-world-4025-rdf",
+       "date": "2026-11-24T14:49:00+00:00",
+       "sentence": "After Russia's full-scale invasion of Ukraine, the EU in June 2022 granted Ukraine and the Republic of Moldova EU candidate status through an accelerated procedure as a gesture of solidarity.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "DW World",
+       "domain": "dw.com",
+       "title": "EU enlargement: Why do some EU member states use their vetoes to block the accession of certain candidate countries?",
+       "url": "https://www.dw.com/en/eu-enlargement-why-do-some-eu-member-states-use-their-vetoes-to-block-the-accession-of-certain-candidate-countries/a-80034401?maca=en-rss-en-world-4025-rdf",
+       "date": "2026-11-24T14:49:00+00:00",
+       "sentence": "After Russia's full-scale invasion of Ukraine, the EU in June 2022 granted Ukraine and the Republic of Moldova EU candidate status through an accelerated procedure as a gesture of solidarity.",
+       "hedged": false,
+       "syndicated_copy": true
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Italy expresses concern to Ukraine over Libya ship attacks – as it happened",
+       "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
+       "date": "2026-11-24T16:24:49+00:00",
+       "sentence": "But the visit comes just days after Hungary dropped its opposition to opening of the remaining “clusters” in Ukraine’s talks on accession to the EU, as reported by Euronews, with Magyar seeking a more constructive relationship with Ukraine.",
+       "hedged": false,
+       "syndicated_copy": false
+      }
+     ]
+    },
+    {
+     "country": "UKR",
+     "action": "joined",
+     "status": "single-source",
+     "wikidata": "unknown",
+     "independent_outlets": 1,
+     "evidence": [
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Zelenskyy says 40 now confirmed dead after ‘insane’ Russian attack on school – as it happened",
+       "url": "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news",
+       "date": "2026-11-04T16:09:19+00:00",
+       "sentence": "“I also know that in both chambers – and within both parties – there are staunch supporters of Ukraine who clearly recognise that this Russian war of aggression threatens not only security and freedom in Europe but also in the United States.”\nThe European Union could ⁠conclude accession negotiations with Montenegro by the end ⁠of this ⁠year ​and could sign an accession treaty with ⁠the country as ",
+       "hedged": true,
+       "syndicated_copy": false
+      },
+      {
+       "source": "DW World",
+       "domain": "dw.com",
+       "title": "EU enlargement: Why do some EU member states use their vetoes to block the accession of certain candidate countries?",
+       "url": "https://www.dw.com/en/eu-enlargement-why-do-some-eu-member-states-use-their-vetoes-to-block-the-accession-of-certain-candidate-countries/a-80034401?maca=en-rss-en-world-4025-rdf",
+       "date": "2026-11-24T14:49:00+00:00",
+       "sentence": "Many EU member states have reservations about Ukraine joining the bloc quickly.",
+       "hedged": false,
+       "syndicated_copy": false
       }
      ]
     },
@@ -420,6 +583,35 @@ window.TRAWLER_GROUPINGS = {
        "url": "https://www.theguardian.com/world/2026/nov/04/serbia-officers-protesters",
        "date": "2026-11-04T20:42:14+00:00",
        "sentence": "Anti-corruption protests swept ⁠across Serbia, ​a candidate for European Union membership, in 2025 and 2026 after 16 people died when a concrete canopy ⁠on a renovated railway station in the city of Novi Sad collapsed on 1 November 2024.",
+       "hedged": false,
+       "syndicated_copy": false
+      }
+     ]
+    },
+    {
+     "country": "SRB",
+     "action": "joined",
+     "status": "single-source",
+     "wikidata": "unknown",
+     "independent_outlets": 1,
+     "evidence": [
+      {
+       "source": "Al Jazeera",
+       "domain": "aljazeera.com",
+       "title": "Serbian officers arrested for using ‘excessive force’ against protesters",
+       "url": "https://www.aljazeera.com/news/2026/11/5/serbian-officers-arrested-for-using-excessive-force-against-protesters?traffic_source=rss",
+       "date": "2026-11-05T10:34:42+00:00",
+       "sentence": "Hopes that Belgrade would join the European Union have increased since October’s elections as the bloc offered to hold further accession talks if Serbia’s new government strengthens democracy.",
+       "hedged": true,
+       "syndicated_copy": false
+      },
+      {
+       "source": "DW World",
+       "domain": "dw.com",
+       "title": "EU enlargement: Why do some EU member states use their vetoes to block the accession of certain candidate countries?",
+       "url": "https://www.dw.com/en/eu-enlargement-why-do-some-eu-member-states-use-their-vetoes-to-block-the-accession-of-certain-candidate-countries/a-80034401?maca=en-rss-en-world-4025-rdf",
+       "date": "2026-11-24T14:49:00+00:00",
+       "sentence": "Although Serbia has been negotiating EU accession since 2014, little progress has been made.",
        "hedged": false,
        "syndicated_copy": false
       }
@@ -705,25 +897,6 @@ window.TRAWLER_GROUPINGS = {
      ]
     },
     {
-     "country": "LTU",
-     "action": "left",
-     "status": "single-source",
-     "wikidata": "unknown",
-     "independent_outlets": 1,
-     "evidence": [
-      {
-       "source": "Al Jazeera",
-       "domain": "aljazeera.com",
-       "title": "Russia warns Ukraine of ‘dangerous trend’ after Libya and Baltic attacks",
-       "url": "https://www.aljazeera.com/news/2026/11/23/russia-warns-ukraine-of-dangerous-trend-after-libya-and-baltic-attacks?traffic_source=rss",
-       "date": "2026-11-23T16:23:33+00:00",
-       "sentence": "Lithuania restricted the transit of goods, including construction materials, from Russia to the exclave in line with European Union sanctions in 2022, leaving Kaliningrad heavily dependent on sea-borne supplies.",
-       "hedged": false,
-       "syndicated_copy": false
-      }
-     ]
-    },
-    {
      "country": "MKD",
      "action": "applied",
      "status": "single-source",
@@ -749,6 +922,26 @@ window.TRAWLER_GROUPINGS = {
        "sentence": "But North Macedonia, an EU candidate since 2005, remains stalled on the road to accession.",
        "hedged": false,
        "syndicated_copy": false
+      },
+      {
+       "source": "DW World",
+       "domain": "dw.com",
+       "title": "EU enlargement: Why do some EU member states use their vetoes to block the accession of certain candidate countries?",
+       "url": "https://www.dw.com/en/eu-enlargement-why-do-some-eu-member-states-use-their-vetoes-to-block-the-accession-of-certain-candidate-countries/a-80034401?maca=en-rss-en-world-4025-rdf",
+       "date": "2026-11-24T14:49:00+00:00",
+       "sentence": "No EU candidate country has suffered as much or as long from veto politics as North Macedonia: It was granted EU candidate status in 2005 but only began accession negotiations in July 2022.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "DW World",
+       "domain": "dw.com",
+       "title": "EU enlargement: Why do some EU member states use their vetoes to block the accession of certain candidate countries?",
+       "url": "https://www.dw.com/en/eu-enlargement-why-do-some-eu-member-states-use-their-vetoes-to-block-the-accession-of-certain-candidate-countries/a-80034401?maca=en-rss-en-world-4025-rdf",
+       "date": "2026-11-24T14:49:00+00:00",
+       "sentence": "No EU candidate country has suffered as much or as long from veto politics as North Macedonia: It was granted EU candidate status in 2005 but only began accession negotiations in July 2022.",
+       "hedged": false,
+       "syndicated_copy": true
       }
      ]
     },
@@ -813,6 +1006,83 @@ window.TRAWLER_GROUPINGS = {
     },
     {
      "country": "MNE",
+     "action": "applied",
+     "status": "single-source",
+     "wikidata": "unknown",
+     "independent_outlets": 1,
+     "evidence": [
+      {
+       "source": "DW World",
+       "domain": "dw.com",
+       "title": "EU enlargement: Why do some EU member states use their vetoes to block the accession of certain candidate countries?",
+       "url": "https://www.dw.com/en/eu-enlargement-why-do-some-eu-member-states-use-their-vetoes-to-block-the-accession-of-certain-candidate-countries/a-80034401?maca=en-rss-en-world-4025-rdf",
+       "date": "2026-11-24T14:49:00+00:00",
+       "sentence": "Montenegro is the most advanced EU candidate country, with a potential accession date of 2028.",
+       "hedged": false,
+       "syndicated_copy": false
+      }
+     ]
+    },
+    {
+     "country": "MDA",
+     "action": "applied",
+     "status": "single-source",
+     "wikidata": "unknown",
+     "independent_outlets": 1,
+     "evidence": [
+      {
+       "source": "DW World",
+       "domain": "dw.com",
+       "title": "EU enlargement: Why do some EU member states use their vetoes to block the accession of certain candidate countries?",
+       "url": "https://www.dw.com/en/eu-enlargement-why-do-some-eu-member-states-use-their-vetoes-to-block-the-accession-of-certain-candidate-countries/a-80034401?maca=en-rss-en-world-4025-rdf",
+       "date": "2026-11-24T14:49:00+00:00",
+       "sentence": "After Russia's full-scale invasion of Ukraine, the EU in June 2022 granted Ukraine and the Republic of Moldova EU candidate status through an accelerated procedure as a gesture of solidarity.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "DW World",
+       "domain": "dw.com",
+       "title": "EU enlargement: Why do some EU member states use their vetoes to block the accession of certain candidate countries?",
+       "url": "https://www.dw.com/en/eu-enlargement-why-do-some-eu-member-states-use-their-vetoes-to-block-the-accession-of-certain-candidate-countries/a-80034401?maca=en-rss-en-world-4025-rdf",
+       "date": "2026-11-24T14:49:00+00:00",
+       "sentence": "After Russia's full-scale invasion of Ukraine, the EU in June 2022 granted Ukraine and the Republic of Moldova EU candidate status through an accelerated procedure as a gesture of solidarity.",
+       "hedged": false,
+       "syndicated_copy": true
+      }
+     ]
+    },
+    {
+     "country": "ALB",
+     "action": "applied",
+     "status": "single-source",
+     "wikidata": "unknown",
+     "independent_outlets": 1,
+     "evidence": [
+      {
+       "source": "DW World",
+       "domain": "dw.com",
+       "title": "EU enlargement: Why do some EU member states use their vetoes to block the accession of certain candidate countries?",
+       "url": "https://www.dw.com/en/eu-enlargement-why-do-some-eu-member-states-use-their-vetoes-to-block-the-accession-of-certain-candidate-countries/a-80034401?maca=en-rss-en-world-4025-rdf",
+       "date": "2026-11-24T14:49:00+00:00",
+       "sentence": "The EU opened accession negotiations with Albania, which has been an EU candidate since 2014, in July 2022.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "DW World",
+       "domain": "dw.com",
+       "title": "EU enlargement: Why do some EU member states use their vetoes to block the accession of certain candidate countries?",
+       "url": "https://www.dw.com/en/eu-enlargement-why-do-some-eu-member-states-use-their-vetoes-to-block-the-accession-of-certain-candidate-countries/a-80034401?maca=en-rss-en-world-4025-rdf",
+       "date": "2026-11-24T14:49:00+00:00",
+       "sentence": "The EU opened accession negotiations with Albania, which has been an EU candidate since 2014, in July 2022.",
+       "hedged": false,
+       "syndicated_copy": true
+      }
+     ]
+    },
+    {
+     "country": "MNE",
      "action": "joined",
      "status": "speculative",
      "wikidata": "unknown",
@@ -847,23 +1117,24 @@ window.TRAWLER_GROUPINGS = {
        "sentence": "The European Union's enlargement drive has regained momentum: Montenegro could become the bloc's 28th member in 2028, while Albania is rapidly advancing through accession talks and could complete accession negotiations by the end of 2027 if it maintains its current pace of reforms.",
        "hedged": true,
        "syndicated_copy": false
-      }
-     ]
-    },
-    {
-     "country": "UKR",
-     "action": "joined",
-     "status": "speculative",
-     "wikidata": "unknown",
-     "independent_outlets": 0,
-     "evidence": [
+      },
       {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Zelenskyy says 40 now confirmed dead after ‘insane’ Russian attack on school – as it happened",
-       "url": "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news",
-       "date": "2026-11-04T16:09:19+00:00",
-       "sentence": "“I also know that in both chambers – and within both parties – there are staunch supporters of Ukraine who clearly recognise that this Russian war of aggression threatens not only security and freedom in Europe but also in the United States.”\nThe European Union could ⁠conclude accession negotiations with Montenegro by the end ⁠of this ⁠year ​and could sign an accession treaty with ⁠the country as ",
+       "source": "DW World",
+       "domain": "dw.com",
+       "title": "EU enlargement: Why do some EU member states use their vetoes to block the accession of certain candidate countries?",
+       "url": "https://www.dw.com/en/eu-enlargement-why-do-some-eu-member-states-use-their-vetoes-to-block-the-accession-of-certain-candidate-countries/a-80034401?maca=en-rss-en-world-4025-rdf",
+       "date": "2026-11-24T14:49:00+00:00",
+       "sentence": "If everything goes according to plan, another might soon be on the cards: Montenegro, with a population of just 620,000, could complete accession negotiations in the coming months and join the EU in early 2028.",
+       "hedged": true,
+       "syndicated_copy": false
+      },
+      {
+       "source": "DW World",
+       "domain": "dw.com",
+       "title": "EU enlargement: Why do some EU member states use their vetoes to block the accession of certain candidate countries?",
+       "url": "https://www.dw.com/en/eu-enlargement-why-do-some-eu-member-states-use-their-vetoes-to-block-the-accession-of-certain-candidate-countries/a-80034401?maca=en-rss-en-world-4025-rdf",
+       "date": "2026-11-24T14:49:00+00:00",
+       "sentence": "But no sooner had EU Enlargement Commissioner Marta Kos made this announcement in October than news emerged that Croatia might veto Montenegro's accession unless the country meets a series of Croatian demands.",
        "hedged": true,
        "syndicated_copy": false
       }
@@ -883,25 +1154,6 @@ window.TRAWLER_GROUPINGS = {
        "url": "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news",
        "date": "2026-11-04T16:09:19+00:00",
        "sentence": "“I also know that in both chambers – and within both parties – there are staunch supporters of Ukraine who clearly recognise that this Russian war of aggression threatens not only security and freedom in Europe but also in the United States.”\nThe European Union could ⁠conclude accession negotiations with Montenegro by the end ⁠of this ⁠year ​and could sign an accession treaty with ⁠the country as ",
-       "hedged": true,
-       "syndicated_copy": false
-      }
-     ]
-    },
-    {
-     "country": "SRB",
-     "action": "joined",
-     "status": "speculative",
-     "wikidata": "unknown",
-     "independent_outlets": 0,
-     "evidence": [
-      {
-       "source": "Al Jazeera",
-       "domain": "aljazeera.com",
-       "title": "Serbian officers arrested for using ‘excessive force’ against protesters",
-       "url": "https://www.aljazeera.com/news/2026/11/5/serbian-officers-arrested-for-using-excessive-force-against-protesters?traffic_source=rss",
-       "date": "2026-11-05T10:34:42+00:00",
-       "sentence": "Hopes that Belgrade would join the European Union have increased since October’s elections as the bloc offered to hold further accession talks if Serbia’s new government strengthens democracy.",
        "hedged": true,
        "syndicated_copy": false
       }
@@ -1199,7 +1451,7 @@ window.TRAWLER_GROUPINGS = {
      "action": "applied",
      "status": "corroborated",
      "wikidata": "unknown",
-     "independent_outlets": 3,
+     "independent_outlets": 4,
      "evidence": [
       {
        "source": "France 24",
@@ -1238,6 +1490,16 @@ window.TRAWLER_GROUPINGS = {
        "url": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
        "date": "2026-11-23T12:42:03+00:00",
        "sentence": "The incident highlights the stakes for European countries in Russia's war on Ukraine, prompting nations along NATO's eastern border to seek enhanced air defense support.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "DW World",
+       "domain": "dw.com",
+       "title": "Ukraine's bid for NATO membership and more air defense remains controversial",
+       "url": "https://www.dw.com/en/ukraine-s-bid-for-nato-membership-and-more-air-defense-remains-controversial/a-80029852?maca=en-rss-en-world-4025-rdf",
+       "date": "2026-11-24T16:18:00+00:00",
+       "sentence": "Ukraine's bid for NATO membership and more air defense remains controversial.",
        "hedged": false,
        "syndicated_copy": false
       }
@@ -2477,6 +2739,78 @@ window.TRAWLER_GROUPINGS = {
    ]
   },
   {
+   "name": "Mine Ban Treaty",
+   "status": "single-source",
+   "wikidata": {
+    "qid": "Q570224",
+    "label": "Ottawa Treaty",
+    "description": "treaty aimed at eliminating anti-personnel landmines around the world"
+   },
+   "color": "#a49c0a",
+   "members": [
+    {
+     "country": "LBN",
+     "status": "single-source",
+     "wikidata": "unknown",
+     "action": "joined",
+     "independent_outlets": 1,
+     "hedged_only": false,
+     "evidence": [
+      {
+       "source": "Al Jazeera",
+       "domain": "aljazeera.com",
+       "title": "Global landmine casualties hit a five-year high, driven by Myanmar, Syria",
+       "url": "https://www.aljazeera.com/news/2026/11/24/global-landmine-casualties-hit-a-five-year-high-driven-by-myanmar-syria?traffic_source=rss",
+       "date": "2026-11-24T18:47:05+00:00",
+       "sentence": "Lebanon, the Marshall Islands and Tonga all joined the Mine Ban Treaty during the reporting period, and 162 countries are now bound by it.",
+       "hedged": false,
+       "syndicated_copy": false
+      }
+     ]
+    },
+    {
+     "country": "MHL",
+     "status": "single-source",
+     "wikidata": "unknown",
+     "action": "joined",
+     "independent_outlets": 1,
+     "hedged_only": false,
+     "evidence": [
+      {
+       "source": "Al Jazeera",
+       "domain": "aljazeera.com",
+       "title": "Global landmine casualties hit a five-year high, driven by Myanmar, Syria",
+       "url": "https://www.aljazeera.com/news/2026/11/24/global-landmine-casualties-hit-a-five-year-high-driven-by-myanmar-syria?traffic_source=rss",
+       "date": "2026-11-24T18:47:05+00:00",
+       "sentence": "Lebanon, the Marshall Islands and Tonga all joined the Mine Ban Treaty during the reporting period, and 162 countries are now bound by it.",
+       "hedged": false,
+       "syndicated_copy": false
+      }
+     ]
+    },
+    {
+     "country": "TON",
+     "status": "single-source",
+     "wikidata": "unknown",
+     "action": "joined",
+     "independent_outlets": 1,
+     "hedged_only": false,
+     "evidence": [
+      {
+       "source": "Al Jazeera",
+       "domain": "aljazeera.com",
+       "title": "Global landmine casualties hit a five-year high, driven by Myanmar, Syria",
+       "url": "https://www.aljazeera.com/news/2026/11/24/global-landmine-casualties-hit-a-five-year-high-driven-by-myanmar-syria?traffic_source=rss",
+       "date": "2026-11-24T18:47:05+00:00",
+       "sentence": "Lebanon, the Marshall Islands and Tonga all joined the Mine Ban Treaty during the reporting period, and 162 countries are now bound by it.",
+       "hedged": false,
+       "syndicated_copy": false
+      }
+     ]
+    }
+   ]
+  },
+  {
    "name": "Coalition",
    "status": "single-source",
    "wikidata": {
@@ -2521,6 +2855,58 @@ window.TRAWLER_GROUPINGS = {
        "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
        "date": "2026-11-19T19:24:04+00:00",
        "sentence": "Speaking to the media following a Berlin meeting of the Coalition of the Willing (a group of about 35 countries formed to offer financial and diplomatic support for Ukraine), Jared Kushner – Donald Trump’s special envoy and son-in-law – said that the US president dialed into the meeting with European allies.",
+       "hedged": false,
+       "syndicated_copy": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Government of National Accord",
+   "status": "single-source",
+   "wikidata": {
+    "qid": "Q22120970",
+    "label": "Government of National Accord",
+    "description": "provisional government"
+   },
+   "color": "#f33e19",
+   "members": [
+    {
+     "country": "LBY",
+     "status": "single-source",
+     "wikidata": "unknown",
+     "action": "joined",
+     "independent_outlets": 1,
+     "hedged_only": false,
+     "evidence": [
+      {
+       "source": "Al Jazeera",
+       "domain": "aljazeera.com",
+       "title": "Libya’s Haftar visits Turkiye days after Ukraine hits Russian warship",
+       "url": "https://www.aljazeera.com/news/2026/11/24/libyas-haftar-visits-turkiye-days-after-ukraine-hits-russian-warship?traffic_source=rss",
+       "date": "2026-11-24T20:35:03+00:00",
+       "sentence": "As Haftar pushes for the president role, approving the 2019 memorandum of understanding signed between Turkiye and Libya’s UN-recognised former Government of National Accord (GNA) on the delimitation of maritime boundaries between the two countries in the Mediterranean Sea was an effort to secure Ankara’s backing for the council chairmanship position, Harchaoui said.",
+       "hedged": false,
+       "syndicated_copy": false
+      }
+     ]
+    },
+    {
+     "country": "TUR",
+     "status": "single-source",
+     "wikidata": "unknown",
+     "action": "joined",
+     "independent_outlets": 1,
+     "hedged_only": false,
+     "evidence": [
+      {
+       "source": "Al Jazeera",
+       "domain": "aljazeera.com",
+       "title": "Libya’s Haftar visits Turkiye days after Ukraine hits Russian warship",
+       "url": "https://www.aljazeera.com/news/2026/11/24/libyas-haftar-visits-turkiye-days-after-ukraine-hits-russian-warship?traffic_source=rss",
+       "date": "2026-11-24T20:35:03+00:00",
+       "sentence": "As Haftar pushes for the president role, approving the 2019 memorandum of understanding signed between Turkiye and Libya’s UN-recognised former Government of National Accord (GNA) on the delimitation of maritime boundaries between the two countries in the Mediterranean Sea was an effort to secure Ankara’s backing for the council chairmanship position, Harchaoui said.",
        "hedged": false,
        "syndicated_copy": false
       }
@@ -2686,6 +3072,36 @@ window.TRAWLER_GROUPINGS = {
  "review": [
   {
    "group": "European Union",
+   "country": "UKR",
+   "action": "joined",
+   "status": "single-source",
+   "wikidata": "unknown",
+   "independent_outlets": 1,
+   "evidence": [
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "Zelenskyy says 40 now confirmed dead after ‘insane’ Russian attack on school – as it happened",
+     "url": "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news",
+     "date": "2026-11-04T16:09:19+00:00",
+     "sentence": "“I also know that in both chambers – and within both parties – there are staunch supporters of Ukraine who clearly recognise that this Russian war of aggression threatens not only security and freedom in Europe but also in the United States.”\nThe European Union could ⁠conclude accession negotiations with Montenegro by the end ⁠of this ⁠year ​and could sign an accession treaty with ⁠the country as ",
+     "hedged": true,
+     "syndicated_copy": false
+    },
+    {
+     "source": "DW World",
+     "domain": "dw.com",
+     "title": "EU enlargement: Why do some EU member states use their vetoes to block the accession of certain candidate countries?",
+     "url": "https://www.dw.com/en/eu-enlargement-why-do-some-eu-member-states-use-their-vetoes-to-block-the-accession-of-certain-candidate-countries/a-80034401?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-11-24T14:49:00+00:00",
+     "sentence": "Many EU member states have reservations about Ukraine joining the bloc quickly.",
+     "hedged": false,
+     "syndicated_copy": false
+    }
+   ]
+  },
+  {
+   "group": "European Union",
    "country": "SRB",
    "action": "applied",
    "status": "single-source",
@@ -2699,6 +3115,36 @@ window.TRAWLER_GROUPINGS = {
      "url": "https://www.theguardian.com/world/2026/nov/04/serbia-officers-protesters",
      "date": "2026-11-04T20:42:14+00:00",
      "sentence": "Anti-corruption protests swept ⁠across Serbia, ​a candidate for European Union membership, in 2025 and 2026 after 16 people died when a concrete canopy ⁠on a renovated railway station in the city of Novi Sad collapsed on 1 November 2024.",
+     "hedged": false,
+     "syndicated_copy": false
+    }
+   ]
+  },
+  {
+   "group": "European Union",
+   "country": "SRB",
+   "action": "joined",
+   "status": "single-source",
+   "wikidata": "unknown",
+   "independent_outlets": 1,
+   "evidence": [
+    {
+     "source": "Al Jazeera",
+     "domain": "aljazeera.com",
+     "title": "Serbian officers arrested for using ‘excessive force’ against protesters",
+     "url": "https://www.aljazeera.com/news/2026/11/5/serbian-officers-arrested-for-using-excessive-force-against-protesters?traffic_source=rss",
+     "date": "2026-11-05T10:34:42+00:00",
+     "sentence": "Hopes that Belgrade would join the European Union have increased since October’s elections as the bloc offered to hold further accession talks if Serbia’s new government strengthens democracy.",
+     "hedged": true,
+     "syndicated_copy": false
+    },
+    {
+     "source": "DW World",
+     "domain": "dw.com",
+     "title": "EU enlargement: Why do some EU member states use their vetoes to block the accession of certain candidate countries?",
+     "url": "https://www.dw.com/en/eu-enlargement-why-do-some-eu-member-states-use-their-vetoes-to-block-the-accession-of-certain-candidate-countries/a-80034401?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-11-24T14:49:00+00:00",
+     "sentence": "Although Serbia has been negotiating EU accession since 2014, little progress has been made.",
      "hedged": false,
      "syndicated_copy": false
     }
@@ -2846,136 +3292,6 @@ window.TRAWLER_GROUPINGS = {
   },
   {
    "group": "European Union",
-   "country": "GBR",
-   "action": "left",
-   "status": "corroborated",
-   "wikidata": "unknown",
-   "independent_outlets": 2,
-   "evidence": [
-    {
-     "source": "The Guardian World",
-     "domain": "theguardian.com",
-     "title": "Home Office sued after stripping almost 1,500 EU citizens of right to live in UK",
-     "url": "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled",
-     "date": "2026-11-07T09:15:35+00:00",
-     "sentence": "Campaign group the3million lodges court papers after EU citizens told pre-settled status was an ‘error’\nThe Home Office is being sued for alleged breach of the Brexit withdrawal agreement after stripping almost 1,500 EU citizens of their full rights to live in the UK.",
-     "hedged": false,
-     "syndicated_copy": false
-    },
-    {
-     "source": "The Guardian World",
-     "domain": "theguardian.com",
-     "title": "Home Office sued after stripping almost 1,500 EU citizens of right to live in UK",
-     "url": "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled",
-     "date": "2026-11-07T09:15:35+00:00",
-     "sentence": "Campaign group the3million lodges court papers after EU citizens told pre-settled status was an ‘error’\nThe Home Office is being sued for alleged breach of the Brexit withdrawal agreement after stripping almost 1,500 EU citizens of their full rights to live in the UK.",
-     "hedged": false,
-     "syndicated_copy": true
-    },
-    {
-     "source": "BBC World",
-     "domain": "bbc.co.uk",
-     "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-     "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
-     "date": "2026-11-07T15:19:35+00:00",
-     "sentence": "The prime minister has said rejoining the bloc's internal market was among options he could pursue as part of a reshaping of ties since the UK's exit from the EU nearly six years ago.",
-     "hedged": true,
-     "syndicated_copy": false
-    },
-    {
-     "source": "The Guardian World",
-     "domain": "theguardian.com",
-     "title": "Britain willing to discuss paying into EU to join electricity market, says minister",
-     "url": "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer",
-     "date": "2026-11-10T17:52:07+00:00",
-     "sentence": "Clearly it’s something that on the EU side there’s real interest, so we are engaging in that discussion but I can’t comment in detail on the negotiations.”\nFalconer was firmly positive about the UK’s return next year to the Erasmus+ student exchange scheme, which the UK left under Boris Johnson’s Brexit deal in 2020, and will be open not just to universities but also to schools and colleges.",
-     "hedged": false,
-     "syndicated_copy": false
-    },
-    {
-     "source": "The Guardian World",
-     "domain": "theguardian.com",
-     "title": "Andy Burnham says UK has ‘lost more than we gained’ through Brexit",
-     "url": "https://www.theguardian.com/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit",
-     "date": "2026-11-14T15:34:54+00:00",
-     "sentence": "PM accuses Tories of burning ‘all our bridges’ and says deal he is pursuing with EU will ‘get food prices down’\nAndy Burnham has said the UK has “lost more than we gained” since leaving the EU, the prime minister’s latest in a string of comments criticising Brexit.",
-     "hedged": false,
-     "syndicated_copy": false
-    },
-    {
-     "source": "The Guardian World",
-     "domain": "theguardian.com",
-     "title": "Andy Burnham says UK has ‘lost more than we gained’ through Brexit",
-     "url": "https://www.theguardian.com/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit",
-     "date": "2026-11-14T15:34:54+00:00",
-     "sentence": "PM accuses Tories of burning ‘all our bridges’ and says deal he is pursuing with EU will ‘get food prices down’\nAndy Burnham has said the UK has “lost more than we gained” since leaving the EU, the prime minister’s latest in a string of comments criticising Brexit.",
-     "hedged": false,
-     "syndicated_copy": true
-    },
-    {
-     "source": "The Guardian World",
-     "domain": "theguardian.com",
-     "title": "Monday briefing: The many stages of the UK-EU relationship – and what’s next",
-     "url": "https://www.theguardian.com/world/2026/nov/16/monday-briefing-the-many-stages-of-the-uk-eu-relationship-and-whats-next",
-     "date": "2026-11-16T06:46:27+00:00",
-     "sentence": "While the guy you really want to hear from right now – David Cameron, the prime minister who lost the 2016 Brexit referendum – has insisted the UK’s problems have nothing to do with its exit from the EU.",
-     "hedged": false,
-     "syndicated_copy": false
-    },
-    {
-     "source": "The Guardian World",
-     "domain": "theguardian.com",
-     "title": "Andy Burnham to say Brexit ‘has not worked’ and he will sign new deal with EU",
-     "url": "https://www.theguardian.com/politics/2026/nov/16/andy-burnham-brexit-has-not-worked-sign-new-deal-with-eu",
-     "date": "2026-11-16T07:00:38+00:00",
-     "sentence": "It is the latest in a string of comments by the prime minister criticising Brexit, after he told the Welsh Labour conference on Saturday that the UK has “lost more than we gained” through leaving the EU.",
-     "hedged": false,
-     "syndicated_copy": false
-    },
-    {
-     "source": "Al Jazeera",
-     "domain": "aljazeera.com",
-     "title": "As Burnham heads to Brussels, are new Brexit wars about to begin?",
-     "url": "https://www.aljazeera.com/news/2026/11/19/as-burnham-heads-to-brussels-are-new-brexit-wars-about-to-begin?traffic_source=rss",
-     "date": "2026-11-19T15:24:51+00:00",
-     "sentence": "In September, 55 percent of respondents told YouGov that leaving the EU was a wrong turn for the UK.",
-     "hedged": false,
-     "syndicated_copy": false
-    },
-    {
-     "source": "The Guardian World",
-     "domain": "theguardian.com",
-     "title": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answered readers questions",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
-     "date": "2026-11-19T18:02:33+00:00",
-     "sentence": "I don’t think Brexit had an impact on the rise of far-right parties in the EU countries – other than to discourage some of them, which had been toying with the idea of backing withdrawal from the EU, to give up on the idea because it ended so badly for the UK.",
-     "hedged": false,
-     "syndicated_copy": false
-    },
-    {
-     "source": "The Guardian World",
-     "domain": "theguardian.com",
-     "title": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answered readers questions",
-     "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
-     "date": "2026-11-19T18:02:33+00:00",
-     "sentence": "I don’t think Brexit had an impact on the rise of far-right parties in the EU countries – other than to discourage some of them, which had been toying with the idea of backing withdrawal from the EU, to give up on the idea because it ended so badly for the UK.",
-     "hedged": false,
-     "syndicated_copy": true
-    },
-    {
-     "source": "The Guardian World",
-     "domain": "theguardian.com",
-     "title": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
-     "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
-     "date": "2026-11-22T16:12:54+00:00",
-     "sentence": "In her BBC interview, May, who comments sparingly on live political subjects despite being an active Tory peer, did not even try to argue that Brexit had been a success, instead saying it was impossible to know, given events such as Covid and Russia’s invasion of Ukraine, and then adding: “I don’t think Britain’s state today is about whether or not we left the European Union.”\nMany voters are much",
-     "hedged": true,
-     "syndicated_copy": false
-    }
-   ]
-  },
-  {
-   "group": "European Union",
    "country": "CAN",
    "action": "joined",
    "status": "single-source",
@@ -3000,7 +3316,7 @@ window.TRAWLER_GROUPINGS = {
    "action": "applied",
    "status": "corroborated",
    "wikidata": "unknown",
-   "independent_outlets": 2,
+   "independent_outlets": 3,
    "evidence": [
     {
      "source": "France 24",
@@ -3021,6 +3337,26 @@ window.TRAWLER_GROUPINGS = {
      "sentence": "He said Ukraine and Europe were not yet ready to make compromises to resolve the conflict in Ukraine - but he said Russia had invited EU representatives to Moscow to better understand Europe's position.",
      "hedged": false,
      "syndicated_copy": false
+    },
+    {
+     "source": "DW World",
+     "domain": "dw.com",
+     "title": "EU enlargement: Why do some EU member states use their vetoes to block the accession of certain candidate countries?",
+     "url": "https://www.dw.com/en/eu-enlargement-why-do-some-eu-member-states-use-their-vetoes-to-block-the-accession-of-certain-candidate-countries/a-80034401?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-11-24T14:49:00+00:00",
+     "sentence": "After Russia's full-scale invasion of Ukraine, the EU in June 2022 granted Ukraine and the Republic of Moldova EU candidate status through an accelerated procedure as a gesture of solidarity.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "DW World",
+     "domain": "dw.com",
+     "title": "EU enlargement: Why do some EU member states use their vetoes to block the accession of certain candidate countries?",
+     "url": "https://www.dw.com/en/eu-enlargement-why-do-some-eu-member-states-use-their-vetoes-to-block-the-accession-of-certain-candidate-countries/a-80034401?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-11-24T14:49:00+00:00",
+     "sentence": "After Russia's full-scale invasion of Ukraine, the EU in June 2022 granted Ukraine and the Republic of Moldova EU candidate status through an accelerated procedure as a gesture of solidarity.",
+     "hedged": false,
+     "syndicated_copy": true
     }
    ]
   },
@@ -3050,7 +3386,7 @@ window.TRAWLER_GROUPINGS = {
    "action": "applied",
    "status": "corroborated",
    "wikidata": "unknown",
-   "independent_outlets": 2,
+   "independent_outlets": 3,
    "evidence": [
     {
      "source": "The Guardian World",
@@ -3089,6 +3425,36 @@ window.TRAWLER_GROUPINGS = {
      "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
      "date": "2026-11-19T17:38:22+00:00",
      "sentence": "He said Ukraine and Europe were not yet ready to make compromises to resolve the conflict in Ukraine - but he said Russia had invited EU representatives to Moscow to better understand Europe's position.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "DW World",
+     "domain": "dw.com",
+     "title": "EU enlargement: Why do some EU member states use their vetoes to block the accession of certain candidate countries?",
+     "url": "https://www.dw.com/en/eu-enlargement-why-do-some-eu-member-states-use-their-vetoes-to-block-the-accession-of-certain-candidate-countries/a-80034401?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-11-24T14:49:00+00:00",
+     "sentence": "After Russia's full-scale invasion of Ukraine, the EU in June 2022 granted Ukraine and the Republic of Moldova EU candidate status through an accelerated procedure as a gesture of solidarity.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "DW World",
+     "domain": "dw.com",
+     "title": "EU enlargement: Why do some EU member states use their vetoes to block the accession of certain candidate countries?",
+     "url": "https://www.dw.com/en/eu-enlargement-why-do-some-eu-member-states-use-their-vetoes-to-block-the-accession-of-certain-candidate-countries/a-80034401?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-11-24T14:49:00+00:00",
+     "sentence": "After Russia's full-scale invasion of Ukraine, the EU in June 2022 granted Ukraine and the Republic of Moldova EU candidate status through an accelerated procedure as a gesture of solidarity.",
+     "hedged": false,
+     "syndicated_copy": true
+    },
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "Italy expresses concern to Ukraine over Libya ship attacks – as it happened",
+     "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
+     "date": "2026-11-24T16:24:49+00:00",
+     "sentence": "But the visit comes just days after Hungary dropped its opposition to opening of the remaining “clusters” in Ukraine’s talks on accession to the EU, as reported by Euronews, with Magyar seeking a more constructive relationship with Ukraine.",
      "hedged": false,
      "syndicated_copy": false
     }
@@ -3348,8 +3714,8 @@ window.TRAWLER_GROUPINGS = {
    "group": "European Union",
    "country": "LTU",
    "action": "left",
-   "status": "single-source",
-   "wikidata": "unknown",
+   "status": "conflict",
+   "wikidata": "disagrees",
    "independent_outlets": 1,
    "evidence": [
     {
@@ -3391,6 +3757,26 @@ window.TRAWLER_GROUPINGS = {
      "sentence": "But North Macedonia, an EU candidate since 2005, remains stalled on the road to accession.",
      "hedged": false,
      "syndicated_copy": false
+    },
+    {
+     "source": "DW World",
+     "domain": "dw.com",
+     "title": "EU enlargement: Why do some EU member states use their vetoes to block the accession of certain candidate countries?",
+     "url": "https://www.dw.com/en/eu-enlargement-why-do-some-eu-member-states-use-their-vetoes-to-block-the-accession-of-certain-candidate-countries/a-80034401?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-11-24T14:49:00+00:00",
+     "sentence": "No EU candidate country has suffered as much or as long from veto politics as North Macedonia: It was granted EU candidate status in 2005 but only began accession negotiations in July 2022.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "DW World",
+     "domain": "dw.com",
+     "title": "EU enlargement: Why do some EU member states use their vetoes to block the accession of certain candidate countries?",
+     "url": "https://www.dw.com/en/eu-enlargement-why-do-some-eu-member-states-use-their-vetoes-to-block-the-accession-of-certain-candidate-countries/a-80034401?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-11-24T14:49:00+00:00",
+     "sentence": "No EU candidate country has suffered as much or as long from veto politics as North Macedonia: It was granted EU candidate status in 2005 but only began accession negotiations in July 2022.",
+     "hedged": false,
+     "syndicated_copy": true
     }
    ]
   },
@@ -3451,6 +3837,86 @@ window.TRAWLER_GROUPINGS = {
      "sentence": "For years, a dispute with Greece over the country's name blocked North Macedonia's progress along the EU accession path.",
      "hedged": false,
      "syndicated_copy": false
+    }
+   ]
+  },
+  {
+   "group": "European Union",
+   "country": "MNE",
+   "action": "applied",
+   "status": "single-source",
+   "wikidata": "unknown",
+   "independent_outlets": 1,
+   "evidence": [
+    {
+     "source": "DW World",
+     "domain": "dw.com",
+     "title": "EU enlargement: Why do some EU member states use their vetoes to block the accession of certain candidate countries?",
+     "url": "https://www.dw.com/en/eu-enlargement-why-do-some-eu-member-states-use-their-vetoes-to-block-the-accession-of-certain-candidate-countries/a-80034401?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-11-24T14:49:00+00:00",
+     "sentence": "Montenegro is the most advanced EU candidate country, with a potential accession date of 2028.",
+     "hedged": false,
+     "syndicated_copy": false
+    }
+   ]
+  },
+  {
+   "group": "European Union",
+   "country": "MDA",
+   "action": "applied",
+   "status": "single-source",
+   "wikidata": "unknown",
+   "independent_outlets": 1,
+   "evidence": [
+    {
+     "source": "DW World",
+     "domain": "dw.com",
+     "title": "EU enlargement: Why do some EU member states use their vetoes to block the accession of certain candidate countries?",
+     "url": "https://www.dw.com/en/eu-enlargement-why-do-some-eu-member-states-use-their-vetoes-to-block-the-accession-of-certain-candidate-countries/a-80034401?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-11-24T14:49:00+00:00",
+     "sentence": "After Russia's full-scale invasion of Ukraine, the EU in June 2022 granted Ukraine and the Republic of Moldova EU candidate status through an accelerated procedure as a gesture of solidarity.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "DW World",
+     "domain": "dw.com",
+     "title": "EU enlargement: Why do some EU member states use their vetoes to block the accession of certain candidate countries?",
+     "url": "https://www.dw.com/en/eu-enlargement-why-do-some-eu-member-states-use-their-vetoes-to-block-the-accession-of-certain-candidate-countries/a-80034401?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-11-24T14:49:00+00:00",
+     "sentence": "After Russia's full-scale invasion of Ukraine, the EU in June 2022 granted Ukraine and the Republic of Moldova EU candidate status through an accelerated procedure as a gesture of solidarity.",
+     "hedged": false,
+     "syndicated_copy": true
+    }
+   ]
+  },
+  {
+   "group": "European Union",
+   "country": "ALB",
+   "action": "applied",
+   "status": "single-source",
+   "wikidata": "unknown",
+   "independent_outlets": 1,
+   "evidence": [
+    {
+     "source": "DW World",
+     "domain": "dw.com",
+     "title": "EU enlargement: Why do some EU member states use their vetoes to block the accession of certain candidate countries?",
+     "url": "https://www.dw.com/en/eu-enlargement-why-do-some-eu-member-states-use-their-vetoes-to-block-the-accession-of-certain-candidate-countries/a-80034401?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-11-24T14:49:00+00:00",
+     "sentence": "The EU opened accession negotiations with Albania, which has been an EU candidate since 2014, in July 2022.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "DW World",
+     "domain": "dw.com",
+     "title": "EU enlargement: Why do some EU member states use their vetoes to block the accession of certain candidate countries?",
+     "url": "https://www.dw.com/en/eu-enlargement-why-do-some-eu-member-states-use-their-vetoes-to-block-the-accession-of-certain-candidate-countries/a-80034401?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-11-24T14:49:00+00:00",
+     "sentence": "The EU opened accession negotiations with Albania, which has been an EU candidate since 2014, in July 2022.",
+     "hedged": false,
+     "syndicated_copy": true
     }
    ]
   },
@@ -3670,7 +4136,7 @@ window.TRAWLER_GROUPINGS = {
    "action": "applied",
    "status": "corroborated",
    "wikidata": "unknown",
-   "independent_outlets": 3,
+   "independent_outlets": 4,
    "evidence": [
     {
      "source": "France 24",
@@ -3709,6 +4175,16 @@ window.TRAWLER_GROUPINGS = {
      "url": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
      "date": "2026-11-23T12:42:03+00:00",
      "sentence": "The incident highlights the stakes for European countries in Russia's war on Ukraine, prompting nations along NATO's eastern border to seek enhanced air defense support.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "DW World",
+     "domain": "dw.com",
+     "title": "Ukraine's bid for NATO membership and more air defense remains controversial",
+     "url": "https://www.dw.com/en/ukraine-s-bid-for-nato-membership-and-more-air-defense-remains-controversial/a-80029852?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-11-24T16:18:00+00:00",
+     "sentence": "Ukraine's bid for NATO membership and more air defense remains controversial.",
      "hedged": false,
      "syndicated_copy": false
     }
@@ -4299,6 +4775,72 @@ window.TRAWLER_GROUPINGS = {
      "url": "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro?at_medium=RSS&at_campaign=rss",
      "date": "2026-11-23T08:53:01+00:00",
      "sentence": "When the Congo River Alliance (AFC), a political-military alliance including the M23, was launched in Nairobi in 2023, DR Congo responded by recalling its ambassador to Kenya.",
+     "hedged": false,
+     "syndicated_copy": false
+    }
+   ]
+  },
+  {
+   "group": "Government of National Accord",
+   "country": "TUR,LBY",
+   "action": "new grouping",
+   "status": "single-source",
+   "evidence": [
+    {
+     "source": "Al Jazeera",
+     "domain": "aljazeera.com",
+     "title": "Libya’s Haftar visits Turkiye days after Ukraine hits Russian warship",
+     "url": "https://www.aljazeera.com/news/2026/11/24/libyas-haftar-visits-turkiye-days-after-ukraine-hits-russian-warship?traffic_source=rss",
+     "date": "2026-11-24T20:35:03+00:00",
+     "sentence": "As Haftar pushes for the president role, approving the 2019 memorandum of understanding signed between Turkiye and Libya’s UN-recognised former Government of National Accord (GNA) on the delimitation of maritime boundaries between the two countries in the Mediterranean Sea was an effort to secure Ankara’s backing for the council chairmanship position, Harchaoui said.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "Al Jazeera",
+     "domain": "aljazeera.com",
+     "title": "Libya’s Haftar visits Turkiye days after Ukraine hits Russian warship",
+     "url": "https://www.aljazeera.com/news/2026/11/24/libyas-haftar-visits-turkiye-days-after-ukraine-hits-russian-warship?traffic_source=rss",
+     "date": "2026-11-24T20:35:03+00:00",
+     "sentence": "As Haftar pushes for the president role, approving the 2019 memorandum of understanding signed between Turkiye and Libya’s UN-recognised former Government of National Accord (GNA) on the delimitation of maritime boundaries between the two countries in the Mediterranean Sea was an effort to secure Ankara’s backing for the council chairmanship position, Harchaoui said.",
+     "hedged": false,
+     "syndicated_copy": false
+    }
+   ]
+  },
+  {
+   "group": "Mine Ban Treaty",
+   "country": "LBN,MHL,TON",
+   "action": "new grouping",
+   "status": "single-source",
+   "evidence": [
+    {
+     "source": "Al Jazeera",
+     "domain": "aljazeera.com",
+     "title": "Global landmine casualties hit a five-year high, driven by Myanmar, Syria",
+     "url": "https://www.aljazeera.com/news/2026/11/24/global-landmine-casualties-hit-a-five-year-high-driven-by-myanmar-syria?traffic_source=rss",
+     "date": "2026-11-24T18:47:05+00:00",
+     "sentence": "Lebanon, the Marshall Islands and Tonga all joined the Mine Ban Treaty during the reporting period, and 162 countries are now bound by it.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "Al Jazeera",
+     "domain": "aljazeera.com",
+     "title": "Global landmine casualties hit a five-year high, driven by Myanmar, Syria",
+     "url": "https://www.aljazeera.com/news/2026/11/24/global-landmine-casualties-hit-a-five-year-high-driven-by-myanmar-syria?traffic_source=rss",
+     "date": "2026-11-24T18:47:05+00:00",
+     "sentence": "Lebanon, the Marshall Islands and Tonga all joined the Mine Ban Treaty during the reporting period, and 162 countries are now bound by it.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "Al Jazeera",
+     "domain": "aljazeera.com",
+     "title": "Global landmine casualties hit a five-year high, driven by Myanmar, Syria",
+     "url": "https://www.aljazeera.com/news/2026/11/24/global-landmine-casualties-hit-a-five-year-high-driven-by-myanmar-syria?traffic_source=rss",
+     "date": "2026-11-24T18:47:05+00:00",
+     "sentence": "Lebanon, the Marshall Islands and Tonga all joined the Mine Ban Treaty during the reporting period, and 162 countries are now bound by it.",
      "hedged": false,
      "syndicated_copy": false
     }
