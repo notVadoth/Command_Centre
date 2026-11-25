@@ -3231,5 +3231,109 @@
  "US-backed|PSE": [],
  "Gaza Kill Seven|LBN": [],
  "Internal Security Service|LBN": [],
- "US-backed|LBN": []
+ "US-backed|LBN": [],
+ "Bab el-Mandeb Stra|YEM": [
+  {
+   "qid": "Q83318",
+   "iso": "YEM",
+   "lat": 12.583333333333,
+   "lon": 43.333333333333
+  }
+ ],
+ "Baltic|RUS,UKR": [
+  {
+   "qid": "Q545",
+   "iso": "RUS",
+   "lat": 58,
+   "lon": 20
+  }
+ ],
+ "Vovchanski Khutory|RUS,UKR": [
+  {
+   "qid": "Q4124209",
+   "iso": "UKR",
+   "lat": 50.301111111111,
+   "lon": 37.032777777778
+  }
+ ],
+ "Jizan|YEM": [],
+ "North Korean|RUS,UKR": [],
+ "India|MMR": [],
+ "Goa|MMR": [],
+ "Rai-Oleksandrivka|RUS,UKR": [
+  {
+   "qid": "Q4388880",
+   "iso": "UKR",
+   "lat": 48.808888888889,
+   "lon": 37.856666666667
+  },
+  {
+   "qid": "Q4388884",
+   "iso": "UKR",
+   "lat": 48.789722222222,
+   "lon": 38.4125
+  }
+ ],
+ "Sicheslav|RUS,UKR": [
+  {
+   "qid": "Q48256",
+   "iso": "UKR",
+   "lat": 48.4675,
+   "lon": 35.04
+  },
+  {
+   "qid": "Q170672",
+   "iso": "UKR",
+   "lat": 48.39,
+   "lon": 34.71
+  },
+  {
+   "qid": "Q4163209",
+   "iso": "UKR",
+   "lat": 48.47266667,
+   "lon": 35.04252778
+  },
+  {
+   "qid": "Q12092247",
+   "iso": "UKR",
+   "lat": 50.440333333333,
+   "lon": 30.483916666667
+  }
+ ],
+ "Borova|RUS,UKR": [
+  {
+   "qid": "Q2010649",
+   "iso": "UKR",
+   "lat": 49.38461111111111,
+   "lon": 37.63305555555556
+  },
+  {
+   "qid": "Q780732",
+   "iso": "UKR",
+   "lat": 50.173333333333,
+   "lon": 30.103888888889
+  },
+  {
+   "qid": "Q2632410",
+   "iso": "UKR",
+   "lat": 49.35304283,
+   "lon": 37.684775
+  },
+  {
+   "qid": "Q4094215",
+   "iso": "UKR",
+   "lat": 49.497725,
+   "lon": 38.523903
+  },
+  {
+   "qid": "Q4094209",
+   "iso": "UKR",
+   "lat": 49.796111111111,
+   "lon": 36.306666666667
+  }
+ ],
+ "Hodeida|MMR": [],
+ "Yemeni|MMR": [],
+ "Aden|SDN": [],
+ "Nusrat al-Islam|BFA,MLI,NER": []
 }

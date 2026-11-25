@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T21:30:39.109715+00:00",
+ "generated": "2026-11-25T20:37:37.061967+00:00",
  "extractor": "rules",
  "verification": {
   "wikidata": true,
@@ -12,7 +12,7 @@
    "conflict": "Wikidata contradicts the claim — review"
   }
  },
- "articles_in_store": 2676,
+ "articles_in_store": 2815,
  "blocs": {
   "EU": {
    "name": "European Union",
@@ -267,6 +267,25 @@
        "url": "https://www.aljazeera.com/news/2026/11/23/russia-warns-ukraine-of-dangerous-trend-after-libya-and-baltic-attacks?traffic_source=rss",
        "date": "2026-11-23T16:23:33+00:00",
        "sentence": "Lithuania restricted the transit of goods, including construction materials, from Russia to the exclave in line with European Union sanctions in 2022, leaving Kaliningrad heavily dependent on sea-borne supplies.",
+       "hedged": false,
+       "syndicated_copy": false
+      }
+     ]
+    },
+    {
+     "country": "IRL",
+     "action": "left",
+     "status": "conflict",
+     "wikidata": "disagrees",
+     "independent_outlets": 1,
+     "evidence": [
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Brussels on split-screen: where it flexes – and where it bends",
+       "url": "https://www.theguardian.com/world/2026/nov/25/this-is-europe-brussels-eu-uk-summit",
+       "date": "2026-11-25T15:39:54+00:00",
+       "sentence": "Second, the EU’s climate commissioner, Wopke Hoekstra, and Ireland’s Darragh O’Brien, representing the bloc’s rotating council presidency, worked in tandem, leaving little room for wedges between the Brussels bureaucrats and national capitals.",
        "hedged": false,
        "syndicated_copy": false
       }
@@ -563,6 +582,26 @@
        "url": "https://www.dw.com/en/eu-enlargement-why-do-some-eu-member-states-use-their-vetoes-to-block-the-accession-of-certain-candidate-countries/a-80034401?maca=en-rss-en-world-4025-rdf",
        "date": "2026-11-24T14:49:00+00:00",
        "sentence": "Many EU member states have reservations about Ukraine joining the bloc quickly.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "DW World",
+       "domain": "dw.com",
+       "title": "Peter Magyar meets Volodymyr Zelenskyy: Hungary and Ukraine make a fresh start after the icy relations of the Viktor Orban era",
+       "url": "https://www.dw.com/en/peter-magyar-meets-volodymyr-zelenskyy-hungary-and-ukraine-make-a-fresh-start-after-the-icy-relations-of-the-viktor-orban-era/a-80054175?maca=en-rss-en-world-4025-rdf",
+       "date": "2026-11-25T18:52:00+00:00",
+       "sentence": "He pressed for greater minority rights and for a time blocked the opening of negotiating chapters in Ukraine's EU accession talks.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "DW World",
+       "domain": "dw.com",
+       "title": "Peter Magyar meets Volodymyr Zelenskyy: Hungary and Ukraine make a fresh start after the icy relations of the Viktor Orban era",
+       "url": "https://www.dw.com/en/peter-magyar-meets-volodymyr-zelenskyy-hungary-and-ukraine-make-a-fresh-start-after-the-icy-relations-of-the-viktor-orban-era/a-80054175?maca=en-rss-en-world-4025-rdf",
+       "date": "2026-11-25T18:52:00+00:00",
+       "sentence": "Hungary subsequently dropped its obstruction of the opening of negotiating clusters for Ukraine's EU accession.",
        "hedged": false,
        "syndicated_copy": false
       }
@@ -1214,6 +1253,25 @@
        "syndicated_copy": false
       }
      ]
+    },
+    {
+     "country": "RWA",
+     "action": "applied",
+     "status": "speculative",
+     "wikidata": "unknown",
+     "independent_outlets": 0,
+     "evidence": [
+      {
+       "source": "CBC World",
+       "domain": "cbc.ca",
+       "title": "Kilmar Ábrego García, who faced U.S. deportation efforts and 'vindictive prosecution,' arrives in Spain",
+       "url": "https://www.cbc.ca/news/world/us-spain-abrego-garcia-9.7435157?cmp=rss",
+       "date": "2026-11-25T12:56:42+00:00",
+       "sentence": "Supreme Court set to hear 3 major Trump agenda immigration cases\n5 European countries want to start deporting migrants to Rwanda, despite concerns from human rights groups\nThe Department of Homeland Security in a post on X said that \"Spain’s radical ​open-border policies have made the once-great country a breeding ground for illegal migrants.\" As other European Union countries have sought to come ",
+       "hedged": true,
+       "syndicated_copy": false
+      }
+     ]
     }
    ]
   },
@@ -1264,8 +1322,102 @@
     "qid": "Q7184",
     "label": null
    },
-   "baseline_audit": null,
+   "baseline_audit": {
+    "in_wikidata_not_baseline": [],
+    "in_baseline_not_wikidata": [
+     "DNK",
+     "NLD"
+    ]
+   },
    "changes": [
+    {
+     "country": "FRA",
+     "action": "left",
+     "status": "conflict",
+     "wikidata": "disagrees",
+     "independent_outlets": 1,
+     "evidence": [
+      {
+       "source": "France 24",
+       "domain": "france24.com",
+       "title": "🔴 Watch live: 'We must change everything,' French far-left presidential candidate Mélenchon says",
+       "url": "https://www.france24.com/en/france/20261107-french-presidential-hopeful-m%C3%A9lenchon-launches-campaign-by-vowing-lower-retirement-age",
+       "date": "2026-11-07T14:44:24+00:00",
+       "sentence": "On ​foreign policy, Mélenchon's programme reiterates his long-standing criticism of NATO and calls for France's gradual withdrawal from the military alliance, starting with an exit from its integrated military command.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "France 24",
+       "domain": "france24.com",
+       "title": "🔴 Watch live: 'We must change everything,' French far-left presidential candidate Mélenchon says",
+       "url": "https://www.france24.com/en/france/20261107-french-presidential-hopeful-m%C3%A9lenchon-launches-campaign-by-vowing-lower-retirement-age",
+       "date": "2026-11-07T14:44:24+00:00",
+       "sentence": "France previously withdrew from NATO's integrated military command in 1966 under president Charles de Gaulle, a decision later reversed under right-wing president Nicolas Sarkozy in 2009.",
+       "hedged": false,
+       "syndicated_copy": false
+      }
+     ]
+    },
+    {
+     "country": "USA",
+     "action": "left",
+     "status": "conflict",
+     "wikidata": "disagrees",
+     "independent_outlets": 2,
+     "evidence": [
+      {
+       "source": "DW World",
+       "domain": "dw.com",
+       "title": "Ukraine: Zelenskyy says security deal could go to referendum",
+       "url": "https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-world-4025-rdf",
+       "date": "2026-11-14T11:40:00+00:00",
+       "sentence": "Ukrainian President Volodymyr Zelenskyy said US peace envoys asked whether Kyiv would withdraw from its eastern region of ‌Donbas ⁠in exchange ⁠for joining NATO, according to remarks to the media published on Saturday.",
+       "hedged": true,
+       "syndicated_copy": false
+      },
+      {
+       "source": "Al Jazeera",
+       "domain": "aljazeera.com",
+       "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
+       "url": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
+       "date": "2026-11-14T11:43:06+00:00",
+       "sentence": "Meanwhile, in Friday’s comments to reporters that were under embargo until Saturday, Ukrainian President Volodymyr Zelenskyy said United States negotiators had asked during this week’s Abu Dhabi talks whether Ukraine would withdraw its troops from its eastern region of Donbas in exchange for joining NATO, the transatlantic military alliance.",
+       "hedged": true,
+       "syndicated_copy": false
+      },
+      {
+       "source": "BBC World",
+       "domain": "bbc.co.uk",
+       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+       "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+       "date": "2026-11-14T15:15:57+00:00",
+       "sentence": "US negotiators have touted the idea of Ukraine withdrawing its remaining forces from the eastern Donbas region in exchange for Nato membership, Volodymyr Zelensky has said.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "CBC World",
+       "domain": "cbc.ca",
+       "title": "European security plan floated by U.S. would benefit Putin, Zelenskyy says",
+       "url": "https://www.cbc.ca/news/world/european-security-zelenskyy-putin-9.7422273?cmp=rss",
+       "date": "2026-11-14T19:06:09+00:00",
+       "sentence": "Zelenskyy said the U.S. had asked for the first time whether Ukraine would withdraw from parts of the Donbas region in eastern Ukraine that Russia does not control if Kyiv were admitted to NATO.",
+       "hedged": true,
+       "syndicated_copy": false
+      },
+      {
+       "source": "Al Jazeera",
+       "domain": "aljazeera.com",
+       "title": "Starshield restrictions help Russia’s energy attacks on Ukraine: Zelenskyy",
+       "url": "https://www.aljazeera.com/news/2026/11/15/starshield-restrictions-help-russias-energy-attacks-on-ukraine-zelenskyy?traffic_source=rss",
+       "date": "2026-11-15T13:37:08+00:00",
+       "sentence": "Zelenskyy said the US floated the idea of Ukraine withdrawing its remaining forces from the eastern Donbas region in exchange for NATO membership.",
+       "hedged": false,
+       "syndicated_copy": false
+      }
+     ]
+    },
     {
      "country": "UKR",
      "action": "joined",
@@ -1748,94 +1900,6 @@
        "sentence": "The draft agreement with NATO also proposed that Russia and NATO members that had already joined the alliance as of May 27, 1997, refrain from deploying additional troops or weapons on the territory of other European countries beyond the levels stationed there on that date.",
        "hedged": true,
        "syndicated_copy": true
-      }
-     ]
-    },
-    {
-     "country": "USA",
-     "action": "left",
-     "status": "corroborated",
-     "wikidata": "unknown",
-     "independent_outlets": 2,
-     "evidence": [
-      {
-       "source": "DW World",
-       "domain": "dw.com",
-       "title": "Ukraine: Zelenskyy says security deal could go to referendum",
-       "url": "https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-world-4025-rdf",
-       "date": "2026-11-14T11:40:00+00:00",
-       "sentence": "Ukrainian President Volodymyr Zelenskyy said US peace envoys asked whether Kyiv would withdraw from its eastern region of ‌Donbas ⁠in exchange ⁠for joining NATO, according to remarks to the media published on Saturday.",
-       "hedged": true,
-       "syndicated_copy": false
-      },
-      {
-       "source": "Al Jazeera",
-       "domain": "aljazeera.com",
-       "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
-       "url": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
-       "date": "2026-11-14T11:43:06+00:00",
-       "sentence": "Meanwhile, in Friday’s comments to reporters that were under embargo until Saturday, Ukrainian President Volodymyr Zelenskyy said United States negotiators had asked during this week’s Abu Dhabi talks whether Ukraine would withdraw its troops from its eastern region of Donbas in exchange for joining NATO, the transatlantic military alliance.",
-       "hedged": true,
-       "syndicated_copy": false
-      },
-      {
-       "source": "BBC World",
-       "domain": "bbc.co.uk",
-       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-       "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-       "date": "2026-11-14T15:15:57+00:00",
-       "sentence": "US negotiators have touted the idea of Ukraine withdrawing its remaining forces from the eastern Donbas region in exchange for Nato membership, Volodymyr Zelensky has said.",
-       "hedged": false,
-       "syndicated_copy": false
-      },
-      {
-       "source": "CBC World",
-       "domain": "cbc.ca",
-       "title": "European security plan floated by U.S. would benefit Putin, Zelenskyy says",
-       "url": "https://www.cbc.ca/news/world/european-security-zelenskyy-putin-9.7422273?cmp=rss",
-       "date": "2026-11-14T19:06:09+00:00",
-       "sentence": "Zelenskyy said the U.S. had asked for the first time whether Ukraine would withdraw from parts of the Donbas region in eastern Ukraine that Russia does not control if Kyiv were admitted to NATO.",
-       "hedged": true,
-       "syndicated_copy": false
-      },
-      {
-       "source": "Al Jazeera",
-       "domain": "aljazeera.com",
-       "title": "Starshield restrictions help Russia’s energy attacks on Ukraine: Zelenskyy",
-       "url": "https://www.aljazeera.com/news/2026/11/15/starshield-restrictions-help-russias-energy-attacks-on-ukraine-zelenskyy?traffic_source=rss",
-       "date": "2026-11-15T13:37:08+00:00",
-       "sentence": "Zelenskyy said the US floated the idea of Ukraine withdrawing its remaining forces from the eastern Donbas region in exchange for NATO membership.",
-       "hedged": false,
-       "syndicated_copy": false
-      }
-     ]
-    },
-    {
-     "country": "FRA",
-     "action": "left",
-     "status": "single-source",
-     "wikidata": "unknown",
-     "independent_outlets": 1,
-     "evidence": [
-      {
-       "source": "France 24",
-       "domain": "france24.com",
-       "title": "🔴 Watch live: 'We must change everything,' French far-left presidential candidate Mélenchon says",
-       "url": "https://www.france24.com/en/france/20261107-french-presidential-hopeful-m%C3%A9lenchon-launches-campaign-by-vowing-lower-retirement-age",
-       "date": "2026-11-07T14:44:24+00:00",
-       "sentence": "On ​foreign policy, Mélenchon's programme reiterates his long-standing criticism of NATO and calls for France's gradual withdrawal from the military alliance, starting with an exit from its integrated military command.",
-       "hedged": false,
-       "syndicated_copy": false
-      },
-      {
-       "source": "France 24",
-       "domain": "france24.com",
-       "title": "🔴 Watch live: 'We must change everything,' French far-left presidential candidate Mélenchon says",
-       "url": "https://www.france24.com/en/france/20261107-french-presidential-hopeful-m%C3%A9lenchon-launches-campaign-by-vowing-lower-retirement-age",
-       "date": "2026-11-07T14:44:24+00:00",
-       "sentence": "France previously withdrew from NATO's integrated military command in 1966 under president Charles de Gaulle, a decision later reversed under right-wing president Nicolas Sarkozy in 2009.",
-       "hedged": false,
-       "syndicated_copy": false
       }
      ]
     },
@@ -3096,6 +3160,26 @@
      "sentence": "Many EU member states have reservations about Ukraine joining the bloc quickly.",
      "hedged": false,
      "syndicated_copy": false
+    },
+    {
+     "source": "DW World",
+     "domain": "dw.com",
+     "title": "Peter Magyar meets Volodymyr Zelenskyy: Hungary and Ukraine make a fresh start after the icy relations of the Viktor Orban era",
+     "url": "https://www.dw.com/en/peter-magyar-meets-volodymyr-zelenskyy-hungary-and-ukraine-make-a-fresh-start-after-the-icy-relations-of-the-viktor-orban-era/a-80054175?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-11-25T18:52:00+00:00",
+     "sentence": "He pressed for greater minority rights and for a time blocked the opening of negotiating chapters in Ukraine's EU accession talks.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "DW World",
+     "domain": "dw.com",
+     "title": "Peter Magyar meets Volodymyr Zelenskyy: Hungary and Ukraine make a fresh start after the icy relations of the Viktor Orban era",
+     "url": "https://www.dw.com/en/peter-magyar-meets-volodymyr-zelenskyy-hungary-and-ukraine-make-a-fresh-start-after-the-icy-relations-of-the-viktor-orban-era/a-80054175?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-11-25T18:52:00+00:00",
+     "sentence": "Hungary subsequently dropped its obstruction of the opening of negotiating clusters for Ukraine's EU accession.",
+     "hedged": false,
+     "syndicated_copy": false
     }
    ]
   },
@@ -3920,6 +4004,26 @@
    ]
   },
   {
+   "group": "European Union",
+   "country": "IRL",
+   "action": "left",
+   "status": "conflict",
+   "wikidata": "disagrees",
+   "independent_outlets": 1,
+   "evidence": [
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "Brussels on split-screen: where it flexes – and where it bends",
+     "url": "https://www.theguardian.com/world/2026/nov/25/this-is-europe-brussels-eu-uk-summit",
+     "date": "2026-11-25T15:39:54+00:00",
+     "sentence": "Second, the EU’s climate commissioner, Wopke Hoekstra, and Ireland’s Darragh O’Brien, representing the bloc’s rotating council presidency, worked in tandem, leaving little room for wedges between the Brussels bureaucrats and national capitals.",
+     "hedged": false,
+     "syndicated_copy": false
+    }
+   ]
+  },
+  {
    "group": "NATO",
    "country": "UKR",
    "action": "joined",
@@ -4103,8 +4207,8 @@
    "group": "NATO",
    "country": "FRA",
    "action": "left",
-   "status": "single-source",
-   "wikidata": "unknown",
+   "status": "conflict",
+   "wikidata": "disagrees",
    "independent_outlets": 1,
    "evidence": [
     {
@@ -4463,8 +4567,8 @@
    "group": "NATO",
    "country": "USA",
    "action": "left",
-   "status": "corroborated",
-   "wikidata": "unknown",
+   "status": "conflict",
+   "wikidata": "disagrees",
    "independent_outlets": 2,
    "evidence": [
     {

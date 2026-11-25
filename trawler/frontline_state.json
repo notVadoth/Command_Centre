@@ -6258,6 +6258,439 @@
    "url": "https://news.antiwar.com/2026/11/24/israeli-attacks-in-gaza-kill-seven-palestinians-including-head-of-internal-security-service/",
    "date": "2026-11-24T12:19:00+00:00",
    "seen": "2026-11-24T21:31:32.770754+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Aden",
+   "iso": "YEM",
+   "province": "‘Adan Governorate",
+   "province_id": "18629408B11945654439238",
+   "outlet": "The Guardian",
+   "host": "theguardian.com",
+   "partisan": false,
+   "title": "‘They don’t believe in freedom’: Yemenis plan their escape as Houthis advance on Aden",
+   "sentence": "‘They don’t believe in freedom’: Yemenis plan their escape as Houthis advance on Aden.",
+   "url": "https://www.theguardian.com/world/2026/nov/25/yemen-houthis-advance-aden",
+   "date": "2026-11-25T05:00:06+00:00",
+   "seen": "2026-11-25T20:38:32.372450+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Yemen",
+   "iso": "YEM",
+   "province": "‘Adan Governorate",
+   "province_id": "18629408B11945654439238",
+   "outlet": "France 24",
+   "host": "france24.com",
+   "partisan": false,
+   "title": "Houthi rebels close in on Aden, Yemeni forces dig in behind fortified line",
+   "sentence": "Iran-backed Houthi rebels have advanced to within about 60 kilometers of the seat of Yemen’s internationally recognized government in the southern city of Aden, but the forces fighting them have set up a fortified line to defend the city, a military official said Tuesday.",
+   "url": "https://www.france24.com/en/video/20261125-houthi-rebels-close-in-on-aden-yemeni-forces-dig-in-behind-fortified-line",
+   "date": "2026-11-25T14:52:06+00:00",
+   "seen": "2026-11-25T20:38:32.372450+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Libya",
+   "iso": "RUS",
+   "province": "Novgorod Oblast",
+   "province_id": "28173009B16533507618293",
+   "outlet": "Kyiv Independent",
+   "host": "kyivindependent.com",
+   "partisan": false,
+   "title": "From Crimea to Kaliningrad — Do Ukraine's latest strikes signal a broader campaign?",
+   "sentence": "In less than a week, Ukraine has destroyed a section of Russia's Crimean Bridge and sunk one of its newest warships off the coast of Libya, amid a series of reported attacks stretching from the Baltic to the Black and Mediterranean seas.",
+   "url": "https://kyivindependent.com/from-crimea-to-kaliningrad-do-ukraines-latest-strikes-signal-a-broader-campaign-2/",
+   "date": "2026-11-25T14:11:43+00:00",
+   "seen": "2026-11-25T20:38:32.372450+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Chernihiv Oblast",
+   "iso": "UKR",
+   "province": "Chernihiv Oblast",
+   "province_id": "14850775B55286662261645",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "Sawmill catches fire in Chernihiv Oblast after Russian attack, three men injured",
+   "sentence": "Sawmill catches fire in Chernihiv Oblast after Russian attack, three men injured.",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/25/8064646/",
+   "date": "2026-11-25T15:50:00+00:00",
+   "seen": "2026-11-25T20:38:32.372450+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Dnipropetrovsk Oblast",
+   "iso": "UKR",
+   "province": "Dnipropetrovsk Oblast",
+   "province_id": "14850775B41808765507575",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "Russians attack energy infrastructure in Dnipropetrovsk Oblast again",
+   "sentence": "Russians attack energy infrastructure in Dnipropetrovsk Oblast again.",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/25/8064645/",
+   "date": "2026-11-25T15:31:00+00:00",
+   "seen": "2026-11-25T20:38:32.372450+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Ukraine"
+   ],
+   "place": "Vovchanski Khutory",
+   "iso": "UKR",
+   "province": "Kharkiv Oblast",
+   "province_id": "14850775B15913324833724",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "Ukrainian border guards repel Russian mechanised assault in northern Kharkiv Oblast – video",
+   "sentence": "Ukrainian border guards have repelled a mechanised assault near Vovchanski Khutory, destroying a PTS-2 amphibious transporter, two infantry fighting vehicles and two quad bikes.",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/25/8064639/",
+   "date": "2026-11-25T15:26:00+00:00",
+   "seen": "2026-11-25T20:38:32.372450+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Zaporizhzhia",
+   "iso": "UKR",
+   "province": "Zaporizhia Oblast",
+   "province_id": "14850775B92888097715572",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "Six injured, including child, in Russian attack on Zaporizhzhia – photos",
+   "sentence": "Six injured, including child, in Russian attack on Zaporizhzhia",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/25/8064631/",
+   "date": "2026-11-25T14:44:00+00:00",
+   "seen": "2026-11-25T20:38:32.372450+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Ukraine"
+   ],
+   "place": "Belgorod Region",
+   "iso": "RUS",
+   "province": "Belgorod Oblast",
+   "province_id": "28173009B21416061393121",
+   "outlet": "TASS",
+   "host": "tass.com",
+   "partisan": true,
+   "title": "Ukrainian attacks on Belgorod Region kill one civilian, wound nine — authorities",
+   "sentence": "Ukrainian attacks on Belgorod Region kill one civilian, wound nine",
+   "url": "https://tass.com/emergencies/2224719",
+   "date": "2026-11-25T14:04:40+00:00",
+   "seen": "2026-11-25T20:38:32.372450+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Kupyansk",
+   "iso": "UKR",
+   "province": "Kharkiv Oblast",
+   "province_id": "14850775B15913324833724",
+   "outlet": "Voennoe Delo",
+   "host": "voennoedelo.com",
+   "partisan": false,
+   "title": "Ukraine Frontline Report for November 25: Russian Advances and Fighting Across Key Sectors",
+   "sentence": "Russian forces claim advances near Kupyansk, Krasny Liman and Sergeyevka, with clashes continuing across seven sectors.",
+   "url": "https://voennoedelo.com/en/posts/id22650-ukraine-frontline-update-russian-advances-november-25",
+   "date": "2026-11-25T01:56:00+00:00",
+   "seen": "2026-11-25T20:38:32.372450+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Rai-Oleksandrivka",
+   "iso": "UKR",
+   "province": "Donetsk Oblast",
+   "province_id": "14850775B15615817748403",
+   "outlet": "Interfax-Ukraine",
+   "host": "en.interfax.com.ua",
+   "partisan": false,
+   "title": "Russian forces advance near Rai-Oleksandrivka in Kramatorsk district, capture 1 sq km over past day – DeepState",
+   "sentence": "Russian forces advance near Rai-Oleksandrivka in Kramatorsk district, capture 1 sq km over past day",
+   "url": "https://en.interfax.com.ua/news/general/1241997.html",
+   "date": "2026-11-25T02:16:00+00:00",
+   "seen": "2026-11-25T20:38:32.372450+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Ukraine"
+   ],
+   "place": "Libya",
+   "iso": "RUS",
+   "province": "Novgorod Oblast",
+   "province_id": "28173009B16533507618293",
+   "outlet": "Asharq Alawsat (English) on MSN",
+   "host": "msn.com",
+   "partisan": false,
+   "title": "French Foreign Minister Defends Ukraine Attacks in Libya",
+   "sentence": "French Foreign Minister Defends Ukraine Attacks in Libya.",
+   "url": "https://www.msn.com/en-ae/news/other/french-foreign-minister-defends-ukraine-attacks-in-libya/ar-AA2ic4xV",
+   "date": "2026-11-25T02:02:54+00:00",
+   "seen": "2026-11-25T20:38:32.372450+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Ukraine"
+   ],
+   "place": "Vovchanski Khutory",
+   "iso": "UKR",
+   "province": "Kharkiv Oblast",
+   "province_id": "14850775B15913324833724",
+   "outlet": "Ukrainska Pravda on MSN",
+   "host": "msn.com",
+   "partisan": false,
+   "title": "Ukrainian border guards repel Russian mechanised assault in northern Kharkiv Oblast – video",
+   "sentence": "Ukrainian border guards have repelled a mechanised assault near Vovchanski Khutory, destroying a PTS-2 amphibious transporter, two infantry fighting vehicles and two quad bikes.",
+   "url": "https://www.msn.com/en-us/news/other/ukrainian-border-guards-repel-russian-mechanised-assault-in-northern-kharkiv-oblast-video/ar-AA2idQZl",
+   "date": "2026-11-25T07:26:00+00:00",
+   "seen": "2026-11-25T20:38:32.372450+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Ukraine"
+   ],
+   "place": "Borova",
+   "iso": "UKR",
+   "province": "Kharkiv Oblast",
+   "province_id": "14850775B15913324833724",
+   "outlet": "Gwara Media",
+   "host": "gwaramedia.com",
+   "partisan": false,
+   "title": "Ukrainian forces reportedly recapture more than 39 square miles on Borova axis",
+   "sentence": "Over the past month, Ukrainian forces have reportedly recaptured more than 100 square kilometers (39 square miles) on the Borova axis, in the southeastern Kharkiv oblast ...",
+   "url": "https://gwaramedia.com/en/ukrainian-forces-reportedly-recapture-more-than-39-square-miles-on-borova-axis/",
+   "date": "2026-11-25T09:05:00+00:00",
+   "seen": "2026-11-25T20:38:32.372450+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Aden",
+   "iso": "YEM",
+   "province": "‘Adan Governorate",
+   "province_id": "18629408B11945654439238",
+   "outlet": "Business Standard",
+   "host": "business-standard.com",
+   "partisan": false,
+   "title": "Houthis close in on Aden as Yemeni forces dig in behind fortified line",
+   "sentence": "The Houthis' advance toward Aden has come after forces allied with the government withdrew from areas on the Bab el-Mandeb Strait, allowing the Houthis to consolidate their grip on territory ...",
+   "url": "https://www.business-standard.com/world-news/houthis-close-in-on-aden-as-yemeni-forces-dig-in-behind-fortified-line-126112500003_1.html",
+   "date": "2026-11-24T18:22:00+00:00",
+   "seen": "2026-11-25T20:38:32.372450+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Hodeidah",
+   "iso": "YEM",
+   "province": "Al Hudaydah Governorate",
+   "province_id": "18629408B71394624267216",
+   "outlet": "The New Arab",
+   "host": "newarab.com",
+   "partisan": false,
+   "title": "Saudi-led coalition strikes Yemen's Hodeidah as Houthis threaten Saudi ports",
+   "sentence": "The coalition fighting the Houthis in Yemen has launched new strikes on the Red Sea port of Hodeidah, hours after fresh attacks in the Saudi capital.",
+   "url": "https://www.newarab.com/news/saudi-led-coalition-strikes-hodeidah-houthis-threaten-ports",
+   "date": "2026-11-25T01:49:00+00:00",
+   "seen": "2026-11-25T20:38:32.372450+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Hodeida",
+   "iso": "YEM",
+   "province": "Al Hudaydah Governorate",
+   "province_id": "18629408B71394624267216",
+   "outlet": "NDTV",
+   "host": "ndtv.com",
+   "partisan": false,
+   "title": "Houthis Say They Attacked Two Saudi Ports In Retaliatory Strikes",
+   "sentence": "The attacks came after the Saudi-led military coalition fighting the Houthis said it had struck Yemen's Red Sea port city of Hodeida, drawing threats of retaliation from the Yemeni fighters.",
+   "url": "https://www.ndtv.com/world-news/houthis-say-they-attacked-two-saudi-ports-jeddah-and-jazan-in-retaliatory-strikes-12377687",
+   "date": "2026-11-25T11:44:00+00:00",
+   "seen": "2026-11-25T20:38:32.372450+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Yemeni",
+   "iso": "YEM",
+   "province": "Hadhramaut",
+   "province_id": "18629408B49078263925584",
+   "outlet": "NDTV",
+   "host": "ndtv.com",
+   "partisan": false,
+   "title": "Houthis Say They Attacked Two Saudi Ports In Retaliatory Strikes",
+   "sentence": "The attacks came after the Saudi-led military coalition fighting the Houthis said it had struck Yemen's Red Sea port city of Hodeida, drawing threats of retaliation from the Yemeni fighters.",
+   "url": "https://www.ndtv.com/world-news/houthis-say-they-attacked-two-saudi-ports-jeddah-and-jazan-in-retaliatory-strikes-12377687",
+   "date": "2026-11-25T11:44:00+00:00",
+   "seen": "2026-11-25T20:38:32.372450+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Aden",
+   "iso": "YEM",
+   "province": "‘Adan Governorate",
+   "province_id": "18629408B11945654439238",
+   "outlet": "News Nation on MSN",
+   "host": "msn.com",
+   "partisan": false,
+   "title": "Houthis advance toward Aden; Saudis vow response for Riyadh attack",
+   "sentence": "Houthis advance toward Aden; Saudis vow response for Riyadh attack.",
+   "url": "https://www.msn.com/en-us/news/other/houthis-advance-toward-aden-saudis-vow-response-for-riyadh-attack/ar-AA2i9Dvo",
+   "date": "2026-11-24T13:59:39+00:00",
+   "seen": "2026-11-25T20:38:32.372450+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Aden",
+   "iso": "YEM",
+   "province": "‘Adan Governorate",
+   "province_id": "18629408B11945654439238",
+   "outlet": "Eurasia Review",
+   "host": "eurasiareview.com",
+   "partisan": false,
+   "title": "Yemen’s Army Vows Aden ‘Will Hold,’ As It Pushes Toward Sanaa And Urges World To Act Against Houthis",
+   "sentence": "Yemen’s armed forces said they have halted the Houthi advance short of Aden and made gains in Al-Jawf and Marib, reporting 697 operations in recent hours that killed or wounded 97 fighters and more ...",
+   "url": "https://www.eurasiareview.com/25112026-yemens-army-vows-aden-will-hold-as-it-pushes-toward-sanaa-and-urges-world-to-act-against-houthis/",
+   "date": "2026-11-24T17:22:00+00:00",
+   "seen": "2026-11-25T20:38:32.372450+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Al-Jawf",
+   "iso": "YEM",
+   "province": "Al Jawf Governorate",
+   "province_id": "18629408B7407331306690",
+   "outlet": "Eurasia Review",
+   "host": "eurasiareview.com",
+   "partisan": false,
+   "title": "Yemen’s Army Vows Aden ‘Will Hold,’ As It Pushes Toward Sanaa And Urges World To Act Against Houthis",
+   "sentence": "Yemen’s armed forces said they have halted the Houthi advance short of Aden and made gains in Al-Jawf and Marib, reporting 697 operations in recent hours that killed or wounded 97 fighters and more ...",
+   "url": "https://www.eurasiareview.com/25112026-yemens-army-vows-aden-will-hold-as-it-pushes-toward-sanaa-and-urges-world-to-act-against-houthis/",
+   "date": "2026-11-24T17:22:00+00:00",
+   "seen": "2026-11-25T20:38:32.372450+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Aden",
+   "iso": "YEM",
+   "province": "‘Adan Governorate",
+   "province_id": "18629408B11945654439238",
+   "outlet": "Daily Sabah",
+   "host": "dailysabah.com",
+   "partisan": false,
+   "title": "Houthi rebels advance toward Aden, threaten Saudi Red Sea ports",
+   "sentence": "Houthi rebels advance toward Aden, threaten Saudi Red Sea ports.",
+   "url": "https://www.dailysabah.com/world/mid-east/houthi-rebels-advance-toward-aden-threaten-saudi-red-sea-ports",
+   "date": "2026-11-25T04:20:00+00:00",
+   "seen": "2026-11-25T20:38:32.372450+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Yemen",
+   "iso": "YEM",
+   "province": "‘Adan Governorate",
+   "province_id": "18629408B11945654439238",
+   "outlet": "Arkansas Democrat-Gazette",
+   "host": "arkansasonline.com",
+   "partisan": false,
+   "title": "Houthi rebels close in on Aden",
+   "sentence": "Iran-backed Houthi rebels have advanced to within about 40 miles of the seat of Yemen's internationally recognized government in the southern city of Aden, but the forces fighting them have set up a ...",
+   "url": "https://www.arkansasonline.com/news/2026/nov/25/houthi-rebels-close-in-on-aden/",
+   "date": "2026-11-25T02:00:00+00:00",
+   "seen": "2026-11-25T20:38:32.372450+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Aden",
+   "iso": "YEM",
+   "province": "‘Adan Governorate",
+   "province_id": "18629408B11945654439238",
+   "outlet": "National Herald",
+   "host": "nationalheraldindia.com",
+   "partisan": false,
+   "title": "Two Indians among 11 injured in Houthi attack on Riyadh tower",
+   "sentence": "India’s embassy assures support to the injured and their families, as Yemen’s army says Houthi forces advance to within 60 km of Aden ...",
+   "url": "https://www.nationalheraldindia.com/international/two-indians-among-11-injured-in-houthi-attack-on-riyadh-tower",
+   "date": "2026-11-25T02:20:00+00:00",
+   "seen": "2026-11-25T20:38:32.372450+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "Gaza Strip",
+   "iso": "PSE",
+   "province": "Gaza",
+   "province_id": "83478781B7121896376882",
+   "outlet": "Amnesty International",
+   "host": "amnesty.org",
+   "partisan": false,
+   "title": "Israel/OPT: Women and girls bear the crushing toll of Israel’s ongoing genocide in Gaza",
+   "sentence": "Israel has relentlessly inflicted repeated and cumulative harms on women and girls in the occupied Gaza Strip since October 2023 as an integral part of its ongoing genocide against Palestinians, said ...",
+   "url": "https://www.amnesty.org/en/latest/news/2026/11/women-and-girls-bear-the-crushing-toll-of-israels-ongoing-genocide-in-gaza/",
+   "date": "2026-11-24T15:59:00+00:00",
+   "seen": "2026-11-25T20:38:32.372450+00:00"
   }
  ],
  "truce": [
@@ -6403,34 +6836,5 @@
   }
  ],
  "withdrawals": [],
- "candidates": [
-  {
-   "iso": "ISR",
-   "outlets": [
-    "Al Jazeera",
-    "Anadolu Agency",
-    "Dawn",
-    "Middle East Eye",
-    "RT"
-   ],
-   "examples": [
-    {
-     "outlet": "RT",
-     "title": "Israel arrests AFP journalist",
-     "url": "https://rt-english.com/news/648878-israel-arrests-afp-journalist-over/?utm_source=rss&utm_medium=rss&utm_campaign=RSS"
-    },
-    {
-     "outlet": "RT",
-     "title": "Israel arrests AFP journalist",
-     "url": "https://rt-english.com/news/648878-israel-arrests-afp-journalist-over/?utm_source=rss&utm_medium=rss&utm_campaign=RSS"
-    },
-    {
-     "outlet": "Al Jazeera",
-     "title": "Jerusalem Daily: Israeli forces occupy Palestinian-American’s home",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/jerusalem-daily-israeli-forces-occupy-palestinian-americans-home?traffic_source=rss"
-    }
-   ],
-   "last": "2026-11-17"
-  }
- ]
+ "candidates": []
 }
