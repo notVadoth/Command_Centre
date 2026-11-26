@@ -1,6 +1,6 @@
 // written by news.py — loaded automatically by commandcenter-map.html
 window.CC_STORIES = {
- "generated": "2026-11-25T20:38:15.570370+00:00",
+ "generated": "2026-11-26T20:31:55.023688+00:00",
  "focus": [
   "IND",
   "CHN",
@@ -29,393 +29,255 @@ window.CC_STORIES = {
   "ARG"
  ],
  "diplomacy": [
-  "d93784b3d1",
-  "55a82cae82",
-  "6655713639",
-  "53bb65f15a",
-  "0dc77b6294",
-  "58edbc6d78",
-  "240be81670",
-  "ef47270895"
+  "34ecedf13e",
+  "6c6e2b6276",
+  "d8e0912493",
+  "a8b682d684",
+  "35fcd8d302"
  ],
  "by_country": {
+  "RUS": [
+   "609797cfda",
+   "66649489d7",
+   "549b7aa4e5",
+   "a54e8a5e9a"
+  ],
+  "IRN": [
+   "f59ec6974d",
+   "9c1454195f",
+   "f1d147c0e5",
+   "1d3bda588c"
+  ],
   "USA": [
-   "25e0b737eb",
-   "faa895b828",
-   "b382d62e67",
-   "7dbc465151"
+   "66649489d7",
+   "4856b80082",
+   "f20591da13",
+   "549b7aa4e5"
+  ],
+  "EGY": [
+   "88b8be38fc",
+   "6bea022519"
+  ],
+  "FRA": [
+   "b158ddd83f",
+   "8253b34a07",
+   "d278f649d2",
+   "0af82d621d"
   ],
   "CHN": [
-   "faa895b828",
-   "e8c9089f72",
-   "6b0992ca45",
-   "c7f72a6ef0"
+   "f20591da13",
+   "27d0f525dd",
+   "3290ea976e",
+   "b67e15e7a6"
+  ],
+  "COD": [
+   "1ce320731c",
+   "ac8c749c46"
+  ],
+  "JPN": [
+   "9a38e3655c",
+   "c85ec76d1c",
+   "3290ea976e",
+   "2ce7247b83"
+  ],
+  "THA": [
+   "184ed2e926",
+   "f990c346c4"
+  ],
+  "TUR": [
+   "e3d462ba94",
+   "dd7d55fee4",
+   "f7da4284dd",
+   "e91b993d31"
+  ],
+  "DEU": [
+   "a141c3e0fa",
+   "61d55b527f",
+   "529d01ff44",
+   "db350ee930"
   ],
   "PAK": [
    "e8c9089f72",
-   "024dfda6b2",
-   "453de7449e",
-   "965cf013c4"
-  ],
-  "RUS": [
-   "b382d62e67",
-   "ffa7248633",
-   "9c36131a40",
-   "024dfda6b2"
-  ],
-  "IRN": [
-   "2ad3b6fa20",
-   "8a1a69f5f7",
-   "c7f72a6ef0",
-   "f2a5159ace"
-  ],
-  "BGD": [
-   "6b0992ca45",
-   "2bd03995b6",
-   "965cf013c4",
-   "ea3b60e056"
-  ],
-  "FRA": [
-   "4d6050ec81",
-   "4929b6290d",
-   "5b4886940e",
-   "e27091bbf5"
+   "6c8e3db07d",
+   "b65ad18167",
+   "ef1f7c8fa2"
   ],
   "IND": [
-   "a829fd4dd1",
-   "2bd03995b6",
-   "5586ff8c06",
-   "88f56546ca"
+   "6c8e3db07d",
+   "953dab5abe",
+   "87452a6f09",
+   "c00b18ff3f"
   ],
-  "PHL": [
-   "f6feaf7d89"
-  ],
-  "EGY": [
-   "39f6ca4ca5"
-  ],
-  "MEX": [
-   "941e745e6d",
-   "b9822b17b5",
-   "809ff44f89",
-   "82b58e9664"
-  ],
-  "NGA": [
-   "25bebad9ce",
-   "5b107c56e2",
-   "044d366302",
-   "1707b9a7c5"
-  ],
-  "BEL": [
-   "f4d89a9ba1"
-  ],
-  "DEU": [
-   "64a5b65b05",
-   "b5dab68619",
-   "db350ee930",
-   "e27091bbf5"
-  ],
-  "JPN": [
-   "56f966b1de",
-   "721c750c2f",
-   "5e8567db5f",
-   "d67780aed7"
-  ],
-  "IDN": [
-   "aaac63a07e",
-   "5fe1c4ac52",
-   "95b0d5ee7f"
-  ],
-  "AUS": [
-   "a131d7bddc",
-   "c5c4622c9b",
-   "5086d228cf",
-   "e560f03c7a"
-  ],
-  "THA": [
-   "c1a0b09f31",
-   "f990c346c4"
-  ],
-  "COD": [
-   "2d07335bee",
-   "358523ed6c",
-   "256da723ad",
-   "9b17a6426b"
-  ],
-  "CAN": [
-   "f990c346c4",
-   "3c63b1fe34"
-  ],
-  "BRA": [
-   "89eb16b80c",
-   "415eb9b320",
-   "1d8369adb3",
-   "0a27744c28"
-  ],
-  "TUR": [
-   "9d2f7d2b39",
-   "f490334985",
-   "36b4838f9c",
-   "9c19f1f553"
+  "BGD": [
+   "2f257753fe",
+   "28d8f5a25d",
+   "6d9a550e65"
   ],
   "VNM": [
-   "9d2f7d2b39",
-   "754904087a",
-   "3c92b08b0a"
+   "24ca9d167f",
+   "89f2443fac",
+   "9d2f7d2b39"
+  ],
+  "NGA": [
+   "0942b58c93",
+   "cbded41a38",
+   "4e64c2b087",
+   "d94afccfeb"
+  ],
+  "MEX": [
+   "e989c48d26",
+   "51ba2a7b16",
+   "7b32ebb838"
+  ],
+  "AUS": [
+   "117726bfa8",
+   "c6adc15959",
+   "bba5005586",
+   "e18f96852d"
+  ],
+  "IDN": [
+   "7d28197f80",
+   "44fd79eff3"
+  ],
+  "BRA": [
+   "d7787f9642",
+   "0f72c78275"
+  ],
+  "CAN": [
+   "fe688b66b1",
+   "240be81670",
+   "f990c346c4"
   ],
   "ARG": [
-   "415eb9b320",
-   "ae7181caed",
-   "63cd30f88f",
-   "bdcc31ada9"
-  ],
-  "ETH": [
-   "b440739c83",
-   "2b9860286d"
+   "0f72c78275",
+   "ae7181caed"
   ]
  },
  "other": [
-  "16f448a026",
-  "51474f06b5",
-  "a2acf5847e",
-  "370d605f27",
-  "236900ff58",
-  "1e7cac03fa",
-  "7bcd8eb0f1",
-  "84514833d9",
-  "8f82992849",
-  "fc402692a0",
-  "c173ce113a",
-  "5905b06476"
+  "aeadbb081a",
+  "04c64e8034",
+  "eb134465ed",
+  "703fb12760",
+  "25e0b737eb",
+  "f12611ab34",
+  "10aa483313",
+  "c7b387d809",
+  "9fc728089f",
+  "dbdce4c4dd",
+  "52202cccb4",
+  "ef4e7886f5"
  ],
  "stories": {
-  "965cf013c4": {
+  "0942b58c93": {
    "bodies": [],
-   "id": "965cf013c4",
-   "headline": "Bangladesh ties of 'great importance' to Pakistan, President and PM tell visiting parliament speaker",
+   "id": "0942b58c93",
+   "headline": "Ex-Minister Agunloye set to file no-case submission as EFCC closes case",
    "countries": [
-    "PAK",
-    "BGD"
+    "NGA"
    ],
-   "score": 4.98,
+   "score": 5.0,
    "outlets": 1,
    "camps": 1,
-   "updated": "2026-11-25T20:24:57+00:00",
+   "updated": "2026-11-26T20:28:40+00:00",
    "sources": [
     {
-     "outlet": "Dawn",
-     "camp": "pakistan",
-     "camp_label": "Pakistani",
-     "ownership": "Pakistani private",
-     "title": "Bangladesh ties of 'great importance' to Pakistan, President and PM tell visiting parliament speaker",
-     "url": "https://www.dawn.com/news/2047036/bangladesh-ties-of-great-importance-to-pakistan-president-and-pm-tell-visiting-parliament-speaker",
-     "date": "2026-11-25T20:24:57+00:00"
+     "outlet": "Premium Times",
+     "camp": "africa",
+     "camp_label": "African",
+     "ownership": "Nigerian private",
+     "title": "Ex-Minister Agunloye set to file no-case submission as EFCC closes case",
+     "url": "https://www.premiumtimesng.com/news/top-news/928248-ex-minister-agunloye-set-to-file-no-case-submission-as-efcc-closes-case.html",
+     "date": "2026-11-26T20:28:40+00:00"
     }
    ],
    "missing": []
   },
-  "c5c4622c9b": {
-   "bodies": [],
-   "id": "c5c4622c9b",
-   "headline": "Australian politics live: federal Liberal senator Leah Blyth defects to One Nation",
+  "34ecedf13e": {
+   "bodies": [
+    "EU"
+   ],
+   "id": "34ecedf13e",
+   "headline": "EU leaders wrestle over Ukraine aid as potential Le Pen victory sparks fear",
    "countries": [
-    "AUS",
+    "UKR",
+    "HUN",
     "USA"
-   ],
-   "score": 4.98,
-   "outlets": 1,
-   "camps": 1,
-   "updated": "2026-11-25T20:24:38+00:00",
-   "sources": [
-    {
-     "outlet": "The Guardian",
-     "camp": "western",
-     "camp_label": "Western",
-     "ownership": "UK private (trust-owned)",
-     "title": "Australian politics live: federal Liberal senator Leah Blyth defects to One Nation",
-     "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
-     "date": "2026-11-25T20:24:38+00:00"
-    }
-   ],
-   "missing": []
-  },
-  "51474f06b5": {
-   "bodies": [],
-   "id": "51474f06b5",
-   "headline": "All hostages rescued after Colombian security forces storm supermarket, police says",
-   "countries": [
-    "COL"
    ],
    "score": 23.98,
    "outlets": 6,
    "camps": 4,
-   "updated": "2026-11-25T20:20:23+00:00",
+   "updated": "2026-11-26T20:18:30+00:00",
    "sources": [
+    {
+     "outlet": "Ukrainska Pravda",
+     "camp": "ukraine",
+     "camp_label": "Ukrainian",
+     "ownership": "Ukrainian private",
+     "title": "EU summit: decision on Ukraine postponed until December, €45bn loan and new mechanism discussed",
+     "url": "https://www.pravda.com.ua/eng/news/2026/11/26/8064867/",
+     "date": "2026-11-26T18:44:00+00:00"
+    },
     {
      "outlet": "The Guardian",
      "camp": "western",
      "camp_label": "Western",
      "ownership": "UK private (trust-owned)",
-     "title": "All hostages rescued after Colombian security forces storm supermarket, police says",
-     "url": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket",
-     "date": "2026-11-25T20:20:23+00:00"
+     "title": "EU leaders wrestle over Ukraine aid as potential Le Pen victory sparks fear",
+     "url": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks",
+     "date": "2026-11-26T17:51:17+00:00"
     },
     {
-     "outlet": "Al Jazeera",
-     "camp": "arab",
-     "camp_label": "Arab / Gulf",
-     "ownership": "Qatari state-funded",
-     "title": "Colombian forces rescue all hostages after supermarket siege",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/colombian-forces-rescue-all-hostages-after-supermarket-siege?traffic_source=rss",
-     "date": "2026-11-25T16:44:22+00:00"
-    },
-    {
-     "outlet": "Anadolu Agency",
-     "camp": "turkey-state",
-     "camp_label": "Turkish state",
-     "ownership": "Turkish state agency",
-     "title": "Colombia car bomb attack injures 23 in Villavicencio, damages cathedral",
-     "url": "https://www.aa.com.tr/en/world/colombia-car-bomb-attack-injures-23-in-villavicencio-damages-cathedral/4136274",
-     "date": "2026-11-24T17:38:51+00:00"
+     "outlet": "TASS",
+     "camp": "russia-state",
+     "camp_label": "Russian state",
+     "ownership": "Russian state agency",
+     "title": "EU leaders fail to adopt union’s seven-year budget — diplomatic source",
+     "url": "https://tass.com/world/2225567",
+     "date": "2026-11-26T20:18:30+00:00"
     }
    ],
-   "missing": [
-    {
-     "camp": "latam",
-     "label": "Latin American",
-     "search": [
-      {
-       "outlet": "MercoPress",
-       "url": "https://duckduckgo.com/?q=site%3Amercopress.com%20hostage%20supermarket%20colombian%20colombia%20all"
-      }
-     ]
-    }
-   ]
+   "missing": []
   },
-  "2d07335bee": {
+  "c85ec76d1c": {
    "bodies": [],
-   "id": "2d07335bee",
-   "headline": "DR Congo: République démocratique du Congo : Epidémie d’Ebola et facteurs contextuels - provinces de Ituri, Nord-Kivu, Sud-Kivu, Tshopo, Haut-Uele, Bas-Uele, Nord-Ubangi et Sud-Ubangi - 20 Novembre 2026",
+   "id": "c85ec76d1c",
+   "headline": "Putin signs decree approving Russia’s Arctic development strategy through 2035",
    "countries": [
-    "COD",
-    "COG"
+    "RUS",
+    "JPN",
+    "CHN"
    ],
-   "score": 4.97,
-   "outlets": 1,
-   "camps": 1,
-   "updated": "2026-11-25T20:14:03+00:00",
-   "sources": [
-    {
-     "outlet": "ReliefWeb",
-     "camp": "multilateral",
-     "camp_label": "UN / multilateral",
-     "ownership": "UN OCHA",
-     "title": "DR Congo: République démocratique du Congo : Epidémie d’Ebola et facteurs contextuels - provinces de Ituri, Nord-Kivu, Sud-Kivu, Tshopo, Haut-Uele, Bas-Uele, Nord-Ubangi et Sud-Ubangi - 20 Novembre 2026",
-     "url": "https://reliefweb.int/report/democratic-republic-congo/republique-democratique-du-congo-epidemie-debola-et-facteurs-contextuels-provinces-de-ituri-nord-kivu-sud-kivu-tshopo-haut-uele-bas-uele-nord-ubangi-et-sud-ubangi-20-novembre-2026",
-     "date": "2026-11-25T20:14:03+00:00"
-    }
-   ],
-   "missing": [
-    {
-     "camp": "africa",
-     "label": "African",
-     "search": [
-      {
-       "outlet": "Africanews",
-       "url": "https://duckduckgo.com/?q=site%3Aafricanews.com%20congo%20publique%20mocratique%20epid%20mie"
-      },
-      {
-       "outlet": "Premium Times",
-       "url": "https://duckduckgo.com/?q=site%3Apremiumtimesng.com%20congo%20publique%20mocratique%20epid%20mie"
-      }
-     ]
-    }
-   ]
-  },
-  "b5dab68619": {
-   "bodies": [],
-   "id": "b5dab68619",
-   "headline": "Ukrainian military plane returns to closed airfield after visiting three European states",
-   "countries": [
-    "UKR",
-    "DEU",
-    "LBY"
-   ],
-   "score": 4.96,
-   "outlets": 1,
-   "camps": 1,
-   "updated": "2026-11-25T20:10:51+00:00",
+   "score": 14.98,
+   "outlets": 3,
+   "camps": 3,
+   "updated": "2026-11-26T20:16:23+00:00",
    "sources": [
     {
      "outlet": "TASS",
      "camp": "russia-state",
      "camp_label": "Russian state",
      "ownership": "Russian state agency",
-     "title": "Ukrainian military plane returns to closed airfield after visiting three European states",
-     "url": "https://tass.com/world/2224941",
-     "date": "2026-11-25T20:10:51+00:00"
-    }
-   ],
-   "missing": [
-    {
-     "camp": "ukraine",
-     "label": "Ukrainian",
-     "search": [
-      {
-       "outlet": "Kyiv Independent",
-       "url": "https://duckduckgo.com/?q=site%3Akyivindependent.com%20ukrainian%20military%20plane%20return%20closed"
-      },
-      {
-       "outlet": "Ukrainska Pravda",
-       "url": "https://duckduckgo.com/?q=site%3Apravda.com.ua%20ukrainian%20military%20plane%20return%20closed"
-      }
-     ]
+     "title": "Arctic’s share of Russia’s total gross regional product to reach 8.4% by 2035 — strategy",
+     "url": "https://tass.com/politics/2225547",
+     "date": "2026-11-26T19:01:28+00:00"
     },
     {
-     "camp": "western",
-     "label": "Western",
-     "search": [
-      {
-       "outlet": "BBC News",
-       "url": "https://duckduckgo.com/?q=site%3Abbc.com%20ukrainian%20military%20plane%20return%20closed"
-      },
-      {
-       "outlet": "The Guardian",
-       "url": "https://duckduckgo.com/?q=site%3Atheguardian.com%20ukrainian%20military%20plane%20return%20closed"
-      }
-     ]
-    }
-   ]
-  },
-  "f6feaf7d89": {
-   "bodies": [],
-   "id": "f6feaf7d89",
-   "headline": "Judge orders transfer of Thomas Markle to face formal charges in California",
-   "countries": [
-    "USA",
-    "PHL"
-   ],
-   "score": 13.96,
-   "outlets": 4,
-   "camps": 2,
-   "updated": "2026-11-25T20:06:57+00:00",
-   "sources": [
-    {
-     "outlet": "The Guardian",
-     "camp": "western",
-     "camp_label": "Western",
-     "ownership": "UK private (trust-owned)",
-     "title": "Judge orders transfer of Thomas Markle to face formal charges in California",
-     "url": "https://www.theguardian.com/uk-news/2026/nov/25/thomas-markle-transfer-charges-california",
-     "date": "2026-11-25T20:06:57+00:00"
+     "outlet": "Anadolu Agency",
+     "camp": "turkey-state",
+     "camp_label": "Turkish state",
+     "ownership": "Turkish state agency",
+     "title": "Putin signs decree approving Russia’s Arctic development strategy through 2035",
+     "url": "https://www.aa.com.tr/en/world/putin-signs-decree-approving-russia-s-arctic-development-strategy-through-2035/4139765",
+     "date": "2026-11-26T20:16:23+00:00"
     },
     {
-     "outlet": "The Hindu",
-     "camp": "india",
-     "camp_label": "Indian",
-     "ownership": "Indian private",
-     "title": "Thomas Markle charged in U.S. on second count of possessing child sexual abuse material",
-     "url": "https://www.thehindu.com/news/international/thomas-markle-charged-in-us-on-second-count-of-possessing-child-sexual-abuse-material/article71740964.ece",
-     "date": "2026-11-25T03:03:03+00:00"
+     "outlet": "Meduza",
+     "camp": "russia-independent",
+     "camp_label": "Russian independent (exile)",
+     "ownership": "Russian independent, in exile",
+     "title": "Putin to hold call-in show and press conference on December 10",
+     "url": "https://meduza.io/en/news/2026/11/26/putin-to-hold-call-in-show-and-press-conference-on-december-10",
+     "date": "2026-11-26T09:14:58+00:00"
     }
    ],
    "missing": [
@@ -425,15 +287,3011 @@ window.CC_STORIES = {
      "search": [
       {
        "outlet": "South China Morning Post",
-       "url": "https://duckduckgo.com/?q=site%3Ascmp.com%20markle%20possessing%20child%20abuse%20thoma"
+       "url": "https://duckduckgo.com/?q=site%3Ascmp.com%20putin%20russia%20strategy%20arctic%20development"
       },
       {
        "outlet": "Japan Times",
-       "url": "https://duckduckgo.com/?q=site%3Ajapantimes.co.jp%20markle%20possessing%20child%20abuse%20thoma"
+       "url": "https://duckduckgo.com/?q=site%3Ajapantimes.co.jp%20putin%20russia%20strategy%20arctic%20development"
       }
      ]
     }
    ]
+  },
+  "aeadbb081a": {
+   "bodies": [],
+   "id": "aeadbb081a",
+   "headline": "Net migration to UK falls to lowest level since 1997 excluding pandemic",
+   "countries": [
+    "GBR"
+   ],
+   "score": 14.96,
+   "outlets": 3,
+   "camps": 3,
+   "updated": "2026-11-26T20:01:47+00:00",
+   "sources": [
+    {
+     "outlet": "The Guardian",
+     "camp": "western",
+     "camp_label": "Western",
+     "ownership": "UK private (trust-owned)",
+     "title": "Net migration to UK falls to lowest level since 1997 excluding pandemic",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/26/net-migration-to-uk-falls-to-lowest-level-since-1997-excluding-pandemic",
+     "date": "2026-11-26T20:01:47+00:00"
+    },
+    {
+     "outlet": "The Hindu",
+     "camp": "india",
+     "camp_label": "Indian",
+     "ownership": "Indian private",
+     "title": "U.K. net migration falls to lowest since 1997; Indians largest foreign group entering and leaving the country",
+     "url": "https://www.thehindu.com/news/international/uk-net-migration-falls-to-lowest-since-1997-indians-largest-foreign-group-entering-and-leaving-the-country/article71746576.ece",
+     "date": "2026-11-26T16:18:30+00:00"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "camp": "asia-pacific",
+     "camp_label": "Asia-Pacific",
+     "ownership": "Hong Kong private (Alibaba)",
+     "title": "UK net migration falls to 77,000, lowest annual level in nearly 30 years",
+     "url": "https://www.scmp.com/news/world/europe/article/3375952/uk-net-migration-falls-77000-lowest-annual-level-nearly-30-years",
+     "date": "2026-11-26T13:19:28+00:00"
+    }
+   ],
+   "missing": []
+  },
+  "f59ec6974d": {
+   "bodies": [],
+   "id": "f59ec6974d",
+   "headline": "Iranian political analyst suggests Ukraine attacked Kuwait in false flag operation",
+   "countries": [
+    "IRN",
+    "KWT",
+    "ITA"
+   ],
+   "score": 31.94,
+   "outlets": 7,
+   "camps": 6,
+   "updated": "2026-11-26T19:51:59+00:00",
+   "sources": [
+    {
+     "outlet": "Tehran Times",
+     "camp": "iran-state",
+     "camp_label": "Iranian state",
+     "ownership": "Iranian state-aligned",
+     "title": "Pezeshkian Says Iran’s National Identity Cannot Be Erased",
+     "url": "https://www.tehrantimes.com/news/532545/Pezeshkian-Says-Iran-s-National-Identity-Cannot-Be-Erased",
+     "date": "2026-11-25T14:31:23+00:00"
+    },
+    {
+     "outlet": "Al Jazeera",
+     "camp": "arab",
+     "camp_label": "Arab / Gulf",
+     "ownership": "Qatari state-funded",
+     "title": "Two Italians killed by ‘drone strike debris’ in Kuwait",
+     "url": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait?traffic_source=rss",
+     "date": "2026-11-26T16:32:31+00:00"
+    },
+    {
+     "outlet": "TASS",
+     "camp": "russia-state",
+     "camp_label": "Russian state",
+     "ownership": "Russian state agency",
+     "title": "Iranian political analyst suggests Ukraine attacked Kuwait in false flag operation",
+     "url": "https://tass.com/world/2225551",
+     "date": "2026-11-26T19:51:59+00:00"
+    }
+   ],
+   "missing": []
+  },
+  "f1d147c0e5": {
+   "bodies": [],
+   "id": "f1d147c0e5",
+   "headline": "Iranian journalist, Oscar-nominated screenwriter Mehdi Mahmoudian arrested in Tehran",
+   "countries": [
+    "IRN"
+   ],
+   "score": 4.94,
+   "outlets": 1,
+   "camps": 1,
+   "updated": "2026-11-26T19:49:00+00:00",
+   "sources": [
+    {
+     "outlet": "CBC News",
+     "camp": "western",
+     "camp_label": "Western",
+     "ownership": "Canadian public broadcaster",
+     "title": "Iranian journalist, Oscar-nominated screenwriter Mehdi Mahmoudian arrested in Tehran",
+     "url": "https://www.cbc.ca/news/world/mehdi-mahmoudian-arrest-tehran-9.7437303?cmp=rss",
+     "date": "2026-11-26T19:49:00+00:00"
+    }
+   ],
+   "missing": [
+    {
+     "camp": "iran-state",
+     "label": "Iranian state",
+     "search": [
+      {
+       "outlet": "Tehran Times",
+       "url": "https://duckduckgo.com/?q=site%3Atehrantimes.com%20iranian%20journalist%20oscar-nominated%20screenwriter%20mehdi"
+      }
+     ]
+    }
+   ]
+  },
+  "4856b80082": {
+   "bodies": [],
+   "id": "4856b80082",
+   "headline": "Israel threatens to displace one million Palestinians in Gaza unless Hamas disarms",
+   "countries": [
+    "PSE",
+    "ISR",
+    "USA"
+   ],
+   "score": 25.9,
+   "outlets": 7,
+   "camps": 4,
+   "updated": "2026-11-26T19:19:12+00:00",
+   "sources": [
+    {
+     "outlet": "Al Jazeera",
+     "camp": "arab",
+     "camp_label": "Arab / Gulf",
+     "ownership": "Qatari state-funded",
+     "title": "Why are winter rains forcing Palestinians in Gaza to flee again?",
+     "url": "https://www.aljazeera.com/news/2026/11/26/why-are-winter-rains-forcing-palestinians-in-gaza-to-flee-again?traffic_source=rss",
+     "date": "2026-11-26T19:19:12+00:00"
+    },
+    {
+     "outlet": "France 24",
+     "camp": "western",
+     "camp_label": "Western",
+     "ownership": "French public broadcaster",
+     "title": "Israel threatens to displace one million Palestinians in Gaza unless Hamas disarms",
+     "url": "https://www.france24.com/en/middle-east/20261126-israel-threatens-to-displace-one-million-palestinians-in-gaza-unless-hamas-disarms",
+     "date": "2026-11-26T12:28:31+00:00"
+    },
+    {
+     "outlet": "RT",
+     "camp": "russia-state",
+     "camp_label": "Russian state",
+     "ownership": "Russian state-funded",
+     "title": "UN tribunal reverses sacking of teacher Israel accused of Hamas ties",
+     "url": "https://rt-english.com/news/649367-un-court-reverses-sacking-palestinian-teacher/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+     "date": "2026-11-26T04:38:15+00:00"
+    }
+   ],
+   "missing": [
+    {
+     "camp": "israel",
+     "label": "Israeli",
+     "search": [
+      {
+       "outlet": "Times of Israel",
+       "url": "https://duckduckgo.com/?q=site%3Atimesofisrael.com%20hama%20palestinian%20gaza%20israel%20official"
+      }
+     ]
+    }
+   ]
+  },
+  "953dab5abe": {
+   "bodies": [],
+   "id": "953dab5abe",
+   "headline": "Oxford museum displays seized belongings of Naga freedom fighter Gaidinliu for first time",
+   "countries": [
+    "GBR",
+    "IND"
+   ],
+   "score": 4.88,
+   "outlets": 1,
+   "camps": 1,
+   "updated": "2026-11-26T19:03:47+00:00",
+   "sources": [
+    {
+     "outlet": "The Guardian",
+     "camp": "western",
+     "camp_label": "Western",
+     "ownership": "UK private (trust-owned)",
+     "title": "Oxford museum displays seized belongings of Naga freedom fighter Gaidinliu for first time",
+     "url": "https://www.theguardian.com/culture/2026/nov/26/oxford-pitt-rivers-museum-naga-gaidinliu",
+     "date": "2026-11-26T19:03:47+00:00"
+    }
+   ],
+   "missing": [
+    {
+     "camp": "india",
+     "label": "Indian",
+     "search": [
+      {
+       "outlet": "The Hindu",
+       "url": "https://duckduckgo.com/?q=site%3Athehindu.com%20oxford%20museum%20display%20seized%20belonging"
+      }
+     ]
+    }
+   ]
+  },
+  "549b7aa4e5": {
+   "bodies": [],
+   "id": "549b7aa4e5",
+   "headline": "Trump's version of joint statement with Rutte urges both Ukraine and Russia to avoid actions that could expand war",
+   "countries": [
+    "USA",
+    "RUS",
+    "UKR"
+   ],
+   "score": 19.88,
+   "outlets": 4,
+   "camps": 4,
+   "updated": "2026-11-26T19:03:35+00:00",
+   "sources": [
+    {
+     "outlet": "TASS",
+     "camp": "russia-state",
+     "camp_label": "Russian state",
+     "ownership": "Russian state agency",
+     "title": "US President Trump still hopes Ukraine conflict can be resolved soon",
+     "url": "https://tass.com/world/2225549",
+     "date": "2026-11-26T19:03:35+00:00"
+    },
+    {
+     "outlet": "Ukrainska Pravda",
+     "camp": "ukraine",
+     "camp_label": "Ukrainian",
+     "ownership": "Ukrainian private",
+     "title": "Trump's version of joint statement with Rutte urges both Ukraine and Russia to avoid actions that could expand war",
+     "url": "https://www.pravda.com.ua/eng/news/2026/11/26/8064852/",
+     "date": "2026-11-26T16:39:00+00:00"
+    },
+    {
+     "outlet": "Japan Times",
+     "camp": "asia-pacific",
+     "camp_label": "Asia-Pacific",
+     "ownership": "Japanese private",
+     "title": "Trump and NATO chief urge Russia to avoid actions that widen Ukraine war",
+     "url": "https://www.japantimes.co.jp/news/2026/11/26/world/politics/trump-nato-chief-russia-ukraine-war/",
+     "date": "2026-11-26T05:24:00+00:00"
+    }
+   ],
+   "missing": [
+    {
+     "camp": "western",
+     "label": "Western",
+     "search": [
+      {
+       "outlet": "BBC News",
+       "url": "https://duckduckgo.com/?q=site%3Abbc.com%20trump%20ukraine%20rutte%20urge%20russia"
+      },
+      {
+       "outlet": "The Guardian",
+       "url": "https://duckduckgo.com/?q=site%3Atheguardian.com%20trump%20ukraine%20rutte%20urge%20russia"
+      }
+     ]
+    }
+   ]
+  },
+  "cbded41a38": {
+   "bodies": [],
+   "id": "cbded41a38",
+   "headline": "Threatened by Wagner, this Nigerian journalist uncovered Russia’s war machine in Africa",
+   "countries": [
+    "NGA",
+    "RUS"
+   ],
+   "score": 4.88,
+   "outlets": 1,
+   "camps": 1,
+   "updated": "2026-11-26T19:03:11+00:00",
+   "sources": [
+    {
+     "outlet": "Kyiv Independent",
+     "camp": "ukraine",
+     "camp_label": "Ukrainian",
+     "ownership": "Ukrainian independent",
+     "title": "Threatened by Wagner, this Nigerian journalist uncovered Russia’s war machine in Africa",
+     "url": "https://kyivindependent.com/threatened-by-wagner-this-nigerian-journalist-uncovered-russias-war-machine-in-africa/",
+     "date": "2026-11-26T19:03:11+00:00"
+    }
+   ],
+   "missing": [
+    {
+     "camp": "africa",
+     "label": "African",
+     "search": [
+      {
+       "outlet": "Africanews",
+       "url": "https://duckduckgo.com/?q=site%3Aafricanews.com%20threatened%20wagner%20nigerian%20journalist%20uncovered"
+      },
+      {
+       "outlet": "Premium Times",
+       "url": "https://duckduckgo.com/?q=site%3Apremiumtimesng.com%20threatened%20wagner%20nigerian%20journalist%20uncovered"
+      }
+     ]
+    },
+    {
+     "camp": "russia-state",
+     "label": "Russian state",
+     "search": [
+      {
+       "outlet": "RT",
+       "url": "https://duckduckgo.com/?q=site%3Art.com%20threatened%20wagner%20nigerian%20journalist%20uncovered"
+      },
+      {
+       "outlet": "TASS",
+       "url": "https://duckduckgo.com/?q=site%3Atass.com%20threatened%20wagner%20nigerian%20journalist%20uncovered"
+      }
+     ]
+    }
+   ]
+  },
+  "609797cfda": {
+   "bodies": [],
+   "id": "609797cfda",
+   "headline": "Moscow-Pyongyang ties moving in 'very positive' direction — Russian minister",
+   "countries": [
+    "RUS",
+    "UKR",
+    "ITA"
+   ],
+   "score": 38.88,
+   "outlets": 9,
+   "camps": 7,
+   "updated": "2026-11-26T19:02:25+00:00",
+   "sources": [
+    {
+     "outlet": "TASS",
+     "camp": "russia-state",
+     "camp_label": "Russian state",
+     "ownership": "Russian state agency",
+     "title": "Moscow-Pyongyang ties moving in 'very positive' direction — Russian minister",
+     "url": "https://tass.com/politics/2225517",
+     "date": "2026-11-26T17:38:54+00:00"
+    },
+    {
+     "outlet": "Kyiv Independent",
+     "camp": "ukraine",
+     "camp_label": "Ukrainian",
+     "ownership": "Ukrainian independent",
+     "title": "Ukraine war latest: North Korea halts military aid to Russia, Ukrainian intelligence says",
+     "url": "https://kyivindependent.com/ukraine-war-latest-north-korea-halts-military-aid-to-russia-ukrainian-intelligence-says/",
+     "date": "2026-11-26T19:02:25+00:00"
+    },
+    {
+     "outlet": "Meduza",
+     "camp": "russia-independent",
+     "camp_label": "Russian independent (exile)",
+     "ownership": "Russian independent, in exile",
+     "title": "Russia has spent nearly 19 trillion rubles on weapons and ammunition it wouldn’t have needed without the war — money effectively lost to the economy, Novaya Gazeta Europe reports",
+     "url": "https://meduza.io/en/news/2026/11/26/russia-has-spent-nearly-19-trillion-rubles-on-weapons-and-ammunition-it-wouldn-t-have-needed-without-the-war-money-effectively-lost-to-the-economy-novaya-gazeta-europe-reports",
+     "date": "2026-11-26T13:15:21+00:00"
+    }
+   ],
+   "missing": []
+  },
+  "27d0f525dd": {
+   "bodies": [],
+   "id": "27d0f525dd",
+   "headline": "China reserves right to take ‘necessary measures’ after Trump’s new tariff proposals",
+   "countries": [
+    "USA",
+    "CHN",
+    "IND"
+   ],
+   "score": 19.86,
+   "outlets": 4,
+   "camps": 4,
+   "updated": "2026-11-26T18:53:15+00:00",
+   "sources": [
+    {
+     "outlet": "The Guardian",
+     "camp": "western",
+     "camp_label": "Western",
+     "ownership": "UK private (trust-owned)",
+     "title": "China reserves right to take ‘necessary measures’ after Trump’s new tariff proposals",
+     "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+     "date": "2026-11-26T12:00:22+00:00"
+    },
+    {
+     "outlet": "The Hindu",
+     "camp": "india",
+     "camp_label": "Indian",
+     "ownership": "Indian private",
+     "title": "Trump’s tariff plan explained: Which countries could be hit and why?",
+     "url": "https://www.thehindu.com/videos/trumps-tariff-plan-explained-which-countries-could-be-hit-and-why/article71743829.ece",
+     "date": "2026-11-25T17:40:18+00:00"
+    },
+    {
+     "outlet": "Al Jazeera",
+     "camp": "arab",
+     "camp_label": "Arab / Gulf",
+     "ownership": "Qatari state-funded",
+     "title": "What will Trump’s latest tariffs mean for the world?",
+     "url": "https://www.aljazeera.com/video/inside-story/2026/11/26/what-will-trumps-latest-tariffs-mean-for-the-world?traffic_source=rss",
+     "date": "2026-11-26T18:53:15+00:00"
+    }
+   ],
+   "missing": [
+    {
+     "camp": "china-state",
+     "label": "Chinese state",
+     "search": [
+      {
+       "outlet": "Global Times",
+       "url": "https://duckduckgo.com/?q=site%3Aglobaltimes.cn%20tariff%20trump%20china%20plan%20mean"
+      },
+      {
+       "outlet": "CGTN",
+       "url": "https://duckduckgo.com/?q=site%3Acgtn.com%20tariff%20trump%20china%20plan%20mean"
+      }
+     ]
+    }
+   ]
+  },
+  "dd7d55fee4": {
+   "bodies": [],
+   "id": "dd7d55fee4",
+   "headline": "S. Korea, Turkey discuss expanding cooperation in infrastructure, nuclear energy",
+   "countries": [
+    "RUS",
+    "TUR",
+    "KOR"
+   ],
+   "score": 9.84,
+   "outlets": 2,
+   "camps": 2,
+   "updated": "2026-11-26T18:36:51+00:00",
+   "sources": [
+    {
+     "outlet": "TASS",
+     "camp": "russia-state",
+     "camp_label": "Russian state",
+     "ownership": "Russian state agency",
+     "title": "Advanced metal processing, LNG production clusters to emerge in Arctic by 2054",
+     "url": "https://tass.com/politics/2225535",
+     "date": "2026-11-26T18:36:51+00:00"
+    },
+    {
+     "outlet": "Yonhap",
+     "camp": "asia-pacific",
+     "camp_label": "Asia-Pacific",
+     "ownership": "South Korean state-funded agency",
+     "title": "S. Korea, Turkey discuss expanding cooperation in infrastructure, nuclear energy",
+     "url": "https://en.yna.co.kr/view/AEN20261126003400315",
+     "date": "2026-11-26T02:10:10+00:00"
+    }
+   ],
+   "missing": [
+    {
+     "camp": "turkey-state",
+     "label": "Turkish state",
+     "search": [
+      {
+       "outlet": "Anadolu Agency",
+       "url": "https://duckduckgo.com/?q=site%3Aaa.com.tr%20production%20russian%20turkey%20korea%20advanced"
+      }
+     ]
+    }
+   ]
+  },
+  "c7b387d809": {
+   "bodies": [],
+   "id": "c7b387d809",
+   "headline": "Gaza Health Ministry issues meningitis epidemic alert",
+   "countries": [
+    "PSE",
+    "ISR"
+   ],
+   "score": 9.83,
+   "outlets": 2,
+   "camps": 2,
+   "updated": "2026-11-26T18:30:36+00:00",
+   "sources": [
+    {
+     "outlet": "Al Jazeera",
+     "camp": "arab",
+     "camp_label": "Arab / Gulf",
+     "ownership": "Qatari state-funded",
+     "title": "Kushner explains the ‘good thing’ about Gaza’s destruction",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/kushner-explains-the-good-thing-about-gazas-destruction?traffic_source=rss",
+     "date": "2026-11-26T18:30:36+00:00"
+    },
+    {
+     "outlet": "RT",
+     "camp": "russia-state",
+     "camp_label": "Russian state",
+     "ownership": "Russian state-funded",
+     "title": "Gaza Health Ministry issues meningitis epidemic alert",
+     "url": "https://rt-english.com/news/649359-gaza-meningitis-epidemic-alert/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+     "date": "2026-11-26T02:10:38+00:00"
+    }
+   ],
+   "missing": [
+    {
+     "camp": "israel",
+     "label": "Israeli",
+     "search": [
+      {
+       "outlet": "Times of Israel",
+       "url": "https://duckduckgo.com/?q=site%3Atimesofisrael.com%20gaza%20kushner%20explain%20good%20thing"
+      }
+     ]
+    }
+   ]
+  },
+  "1d3bda588c": {
+   "bodies": [],
+   "id": "1d3bda588c",
+   "headline": "Russia becomes sole supplier of petroleum coke to Iran",
+   "countries": [
+    "IRN",
+    "RUS",
+    "AUS"
+   ],
+   "score": 4.83,
+   "outlets": 1,
+   "camps": 1,
+   "updated": "2026-11-26T18:26:46+00:00",
+   "sources": [
+    {
+     "outlet": "TASS",
+     "camp": "russia-state",
+     "camp_label": "Russian state",
+     "ownership": "Russian state agency",
+     "title": "Russia becomes sole supplier of petroleum coke to Iran",
+     "url": "https://tass.com/economy/2225529",
+     "date": "2026-11-26T18:26:46+00:00"
+    }
+   ],
+   "missing": [
+    {
+     "camp": "iran-state",
+     "label": "Iranian state",
+     "search": [
+      {
+       "outlet": "Tehran Times",
+       "url": "https://duckduckgo.com/?q=site%3Atehrantimes.com%20russia%20become%20sole%20supplier%20petroleum"
+      }
+     ]
+    }
+   ]
+  },
+  "4e64c2b087": {
+   "bodies": [],
+   "id": "4e64c2b087",
+   "headline": "16 die in Plateau attacks; Mutfwang orders security measures",
+   "countries": [
+    "NGA"
+   ],
+   "score": 4.82,
+   "outlets": 1,
+   "camps": 1,
+   "updated": "2026-11-26T18:25:49+00:00",
+   "sources": [
+    {
+     "outlet": "Premium Times",
+     "camp": "africa",
+     "camp_label": "African",
+     "ownership": "Nigerian private",
+     "title": "16 die in Plateau attacks; Mutfwang orders security measures",
+     "url": "https://www.premiumtimesng.com/news/top-news/928234-16-die-in-plateau-attacks-mutfwang-orders-security-measures.html",
+     "date": "2026-11-26T18:25:49+00:00"
+    }
+   ],
+   "missing": []
+  },
+  "9fc728089f": {
+   "bodies": [],
+   "id": "9fc728089f",
+   "headline": "Israeli strikes kill 16 schoolchildren so far this month, Gaza ministry says",
+   "countries": [
+    "PSE",
+    "ISR"
+   ],
+   "score": 9.79,
+   "outlets": 2,
+   "camps": 2,
+   "updated": "2026-11-26T17:59:44+00:00",
+   "sources": [
+    {
+     "outlet": "The Guardian",
+     "camp": "western",
+     "camp_label": "Western",
+     "ownership": "UK private (trust-owned)",
+     "title": "Israeli strikes kill 16 schoolchildren so far this month, Gaza ministry says",
+     "url": "https://www.theguardian.com/world/2026/nov/26/gaza-ministry-schoolchildren-killed-this-month-israel-strikes",
+     "date": "2026-11-26T17:59:44+00:00"
+    },
+    {
+     "outlet": "The Hindu",
+     "camp": "india",
+     "camp_label": "Indian",
+     "ownership": "Indian private",
+     "title": "Israel kills nine in Gaza, including Hamas-appointed deputy Education Minister, officials say",
+     "url": "https://www.thehindu.com/news/international/israel-kills-nine-in-gaza-including-hamas-appointed-deputy-education-minister-officials-say/article71747983.ece",
+     "date": "2026-11-26T17:35:25+00:00"
+    }
+   ],
+   "missing": [
+    {
+     "camp": "arab",
+     "label": "Arab / Gulf",
+     "search": [
+      {
+       "outlet": "Al Jazeera",
+       "url": "https://duckduckgo.com/?q=site%3Aaljazeera.com%20kill%20gaza%20israeli%20strike%20schoolchildren"
+      },
+      {
+       "outlet": "Middle East Eye",
+       "url": "https://duckduckgo.com/?q=site%3Amiddleeasteye.net%20kill%20gaza%20israeli%20strike%20schoolchildren"
+      }
+     ]
+    },
+    {
+     "camp": "israel",
+     "label": "Israeli",
+     "search": [
+      {
+       "outlet": "Times of Israel",
+       "url": "https://duckduckgo.com/?q=site%3Atimesofisrael.com%20kill%20gaza%20israeli%20strike%20schoolchildren"
+      }
+     ]
+    }
+   ]
+  },
+  "1ce320731c": {
+   "bodies": [],
+   "id": "1ce320731c",
+   "headline": "DR Congo: Ebola disease survivors share their stories",
+   "countries": [
+    "COG",
+    "COD"
+   ],
+   "score": 18.78,
+   "outlets": 5,
+   "camps": 3,
+   "updated": "2026-11-26T17:52:40+00:00",
+   "sources": [
+    {
+     "outlet": "Africanews",
+     "camp": "africa",
+     "camp_label": "African",
+     "ownership": "Pan-African (Euronews group)",
+     "title": "Ebola: UN says outbreak driving spike in gender-based violence in Congo",
+     "url": "http://www.africanews.com/2026/11/26/ebola-un-says-outbreak-driving-spike-in-gender-based-violence-in-congo/",
+     "date": "2026-11-26T17:52:40+00:00"
+    },
+    {
+     "outlet": "ReliefWeb",
+     "camp": "multilateral",
+     "camp_label": "UN / multilateral",
+     "ownership": "UN OCHA",
+     "title": "DR Congo: Ebola disease survivors share their stories",
+     "url": "https://reliefweb.int/report/democratic-republic-congo/ebola-disease-survivors-share-their-stories",
+     "date": "2026-11-26T14:20:09+00:00"
+    },
+    {
+     "outlet": "France 24",
+     "camp": "western",
+     "camp_label": "Western",
+     "ownership": "French public broadcaster",
+     "title": "ACROSS AFRICA: Tunisian Photographer's Family Focus",
+     "url": "https://www.france24.com/en/across-africa-tunisian-photographer-s-family-focus-1",
+     "date": "2026-11-26T16:19:12+00:00"
+    }
+   ],
+   "missing": []
+  },
+  "b158ddd83f": {
+   "bodies": [],
+   "id": "b158ddd83f",
+   "headline": "Spain’s Pablo Hernández de Cos wins race to be next ECB president",
+   "countries": [
+    "ESP",
+    "FRA"
+   ],
+   "score": 21.78,
+   "outlets": 5,
+   "camps": 4,
+   "updated": "2026-11-26T17:50:54+00:00",
+   "sources": [
+    {
+     "outlet": "The Guardian",
+     "camp": "western",
+     "camp_label": "Western",
+     "ownership": "UK private (trust-owned)",
+     "title": "Spain’s Pablo Hernández de Cos wins race to be next ECB president",
+     "url": "https://www.theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president",
+     "date": "2026-11-26T17:50:54+00:00"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "camp": "asia-pacific",
+     "camp_label": "Asia-Pacific",
+     "ownership": "Hong Kong private (Alibaba)",
+     "title": "Spain’s Pablo Hernandez de Cos to succeed Lagarde as European Central Bank chief",
+     "url": "https://www.scmp.com/news/world/europe/article/3375963/spains-pablo-hernandez-de-cos-succeed-lagarde-european-central-bank-chief",
+     "date": "2026-11-26T17:26:17+00:00"
+    },
+    {
+     "outlet": "Al Jazeera",
+     "camp": "arab",
+     "camp_label": "Arab / Gulf",
+     "ownership": "Qatari state-funded",
+     "title": "Spanish economist to become new European Central Bank chief",
+     "url": "https://www.aljazeera.com/news/2026/11/26/spanish-economist-to-become-new-european-central-bank-chief?traffic_source=rss",
+     "date": "2026-11-26T16:20:54+00:00"
+    }
+   ],
+   "missing": []
+  },
+  "2ce7247b83": {
+   "bodies": [],
+   "id": "2ce7247b83",
+   "headline": "Marlboro maker Altria considering takeover bid for Imperial Brands",
+   "countries": [
+    "GBR",
+    "USA",
+    "JPN"
+   ],
+   "score": 9.77,
+   "outlets": 2,
+   "camps": 2,
+   "updated": "2026-11-26T17:44:56+00:00",
+   "sources": [
+    {
+     "outlet": "The Guardian",
+     "camp": "western",
+     "camp_label": "Western",
+     "ownership": "UK private (trust-owned)",
+     "title": "Marlboro maker Altria considering takeover bid for Imperial Brands",
+     "url": "https://www.theguardian.com/business/2026/nov/26/marlboro-maker-altria-considering-takeover-bid-for-imperial-brands",
+     "date": "2026-11-26T17:44:56+00:00"
+    },
+    {
+     "outlet": "Japan Times",
+     "camp": "asia-pacific",
+     "camp_label": "Asia-Pacific",
+     "ownership": "Japanese private",
+     "title": "Japan Tobacco studies deal for Imperial Brands",
+     "url": "https://www.japantimes.co.jp/business/2026/11/26/companies/japan-tobacco-considers-imperial-acquisition/",
+     "date": "2026-11-26T12:46:00+00:00"
+    }
+   ],
+   "missing": []
+  },
+  "a54e8a5e9a": {
+   "bodies": [],
+   "id": "a54e8a5e9a",
+   "headline": "Ukraine says it struck two oil refineries in Russia's Samara region",
+   "countries": [
+    "UKR",
+    "RUS"
+   ],
+   "score": 16.77,
+   "outlets": 4,
+   "camps": 3,
+   "updated": "2026-11-26T17:44:04+00:00",
+   "sources": [
+    {
+     "outlet": "Ukrainska Pravda",
+     "camp": "ukraine",
+     "camp_label": "Ukrainian",
+     "ownership": "Ukrainian private",
+     "title": "Ukrainian aircraft destroy Russian staging point in centre of Huliaipole – video",
+     "url": "https://www.pravda.com.ua/eng/news/2026/11/26/8064829/",
+     "date": "2026-11-26T15:00:00+00:00"
+    },
+    {
+     "outlet": "TASS",
+     "camp": "russia-state",
+     "camp_label": "Russian state",
+     "ownership": "Russian state agency",
+     "title": "Air defenses intercept 34 Ukrainian drones over Russian regions",
+     "url": "https://tass.com/politics/2225519",
+     "date": "2026-11-26T17:44:04+00:00"
+    },
+    {
+     "outlet": "The Hindu",
+     "camp": "india",
+     "camp_label": "Indian",
+     "ownership": "Indian private",
+     "title": "Ukraine says it struck two oil refineries in Russia's Samara region",
+     "url": "https://www.thehindu.com/news/international/ukraine-says-it-struck-two-oil-refineries-in-russias-samara-region/article71743934.ece",
+     "date": "2026-11-25T18:09:47+00:00"
+    }
+   ],
+   "missing": []
+  },
+  "04c64e8034": {
+   "bodies": [],
+   "id": "04c64e8034",
+   "headline": "Yemen's Houthi-held capital hit after group targets Riyadh",
+   "countries": [
+    "YEM",
+    "SAU"
+   ],
+   "score": 14.76,
+   "outlets": 3,
+   "camps": 3,
+   "updated": "2026-11-26T17:39:34+00:00",
+   "sources": [
+    {
+     "outlet": "The Hindu",
+     "camp": "india",
+     "camp_label": "Indian",
+     "ownership": "Indian private",
+     "title": "Yemen's Houthi-held capital hit after group targets Riyadh",
+     "url": "https://www.thehindu.com/news/international/yemens-houthi-held-capital-hit-after-group-targets-riyadh/article71748008.ece",
+     "date": "2026-11-26T17:39:34+00:00"
+    },
+    {
+     "outlet": "TASS",
+     "camp": "russia-state",
+     "camp_label": "Russian state",
+     "ownership": "Russian state agency",
+     "title": "Houthis attack oil refinery in Saudi city of Jizan — coalition",
+     "url": "https://tass.com/world/2225459",
+     "date": "2026-11-26T15:42:48+00:00"
+    },
+    {
+     "outlet": "CGTN",
+     "camp": "china-state",
+     "camp_label": "Chinese state",
+     "ownership": "Chinese state broadcaster",
+     "title": "Yemen's Houthis say they attacked Saudi oil refinery and Riyadh",
+     "url": "https://news.cgtn.com/news/2026-11-25/Yemen-s-Houthis-say-they-attacked-Saudi-oil-refinery-and-Riyadh-1Smmoze7gE8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+     "date": "2026-11-25T09:10:05+00:00"
+    }
+   ],
+   "missing": [
+    {
+     "camp": "arab",
+     "label": "Arab / Gulf",
+     "search": [
+      {
+       "outlet": "Al Jazeera",
+       "url": "https://duckduckgo.com/?q=site%3Aaljazeera.com%20yemen%20riyadh%20houthi%20oil%20refinery"
+      },
+      {
+       "outlet": "Middle East Eye",
+       "url": "https://duckduckgo.com/?q=site%3Amiddleeasteye.net%20yemen%20riyadh%20houthi%20oil%20refinery"
+      }
+     ]
+    },
+    {
+     "camp": "arab",
+     "label": "Arab / Gulf",
+     "search": [
+      {
+       "outlet": "Al Jazeera",
+       "url": "https://duckduckgo.com/?q=site%3Aaljazeera.com%20yemen%20riyadh%20houthi%20oil%20refinery"
+      },
+      {
+       "outlet": "Middle East Eye",
+       "url": "https://duckduckgo.com/?q=site%3Amiddleeasteye.net%20yemen%20riyadh%20houthi%20oil%20refinery"
+      }
+     ]
+    }
+   ]
+  },
+  "f20591da13": {
+   "bodies": [],
+   "id": "f20591da13",
+   "headline": "Nvidia scandal has put Singapore in U.S. sights. What's at stake for the city-state",
+   "countries": [
+    "USA",
+    "CHN",
+    "SGP"
+   ],
+   "score": 20.74,
+   "outlets": 6,
+   "camps": 3,
+   "updated": "2026-11-26T17:26:12+00:00",
+   "sources": [
+    {
+     "outlet": "CBC News",
+     "camp": "western",
+     "camp_label": "Western",
+     "ownership": "Canadian public broadcaster",
+     "title": "Nvidia scandal has put Singapore in U.S. sights. What's at stake for the city-state",
+     "url": "https://www.cbc.ca/news/world/nvidia-singapore-9.7436761?cmp=rss",
+     "date": "2026-11-26T09:40:48+00:00"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "camp": "asia-pacific",
+     "camp_label": "Asia-Pacific",
+     "ownership": "Hong Kong private (Alibaba)",
+     "title": "Why US-China rivalry narrows Southeast Asia’s trade and foreign policy options",
+     "url": "https://www.scmp.com/week-asia/politics/article/3375897/why-us-china-rivalry-narrows-southeast-asias-trade-and-foreign-policy-options",
+     "date": "2026-11-26T09:00:12+00:00"
+    },
+    {
+     "outlet": "The Hindu",
+     "camp": "india",
+     "camp_label": "Indian",
+     "ownership": "Indian private",
+     "title": "Nvidia stops shipping AI servers to four Southeast Asian nations",
+     "url": "https://www.thehindu.com/news/international/nvidia-stops-shipping-ai-servers-to-four-southeast-asian-nations/article71747898.ece",
+     "date": "2026-11-26T17:26:12+00:00"
+    }
+   ],
+   "missing": [
+    {
+     "camp": "china-state",
+     "label": "Chinese state",
+     "search": [
+      {
+       "outlet": "Global Times",
+       "url": "https://duckduckgo.com/?q=site%3Aglobaltimes.cn%20southeast%20asia%20huang%20nvidia%20singapore"
+      },
+      {
+       "outlet": "CGTN",
+       "url": "https://duckduckgo.com/?q=site%3Acgtn.com%20southeast%20asia%20huang%20nvidia%20singapore"
+      }
+     ]
+    }
+   ]
+  },
+  "8253b34a07": {
+   "bodies": [],
+   "id": "8253b34a07",
+   "headline": "French woman on trial for IS group propaganda tells court she’s ‘ashamed’",
+   "countries": [
+    "FRA",
+    "IRQ",
+    "JOR"
+   ],
+   "score": 16.73,
+   "outlets": 4,
+   "camps": 3,
+   "updated": "2026-11-26T17:18:24+00:00",
+   "sources": [
+    {
+     "outlet": "France 24",
+     "camp": "western",
+     "camp_label": "Western",
+     "ownership": "French public broadcaster",
+     "title": "French woman on trial for IS group propaganda tells court she’s ‘ashamed’",
+     "url": "https://www.france24.com/en/france/20261126-french-woman-trial-is-group-propaganda-tells-court-she-ashamed",
+     "date": "2026-11-26T14:48:32+00:00"
+    },
+    {
+     "outlet": "Al Jazeera",
+     "camp": "arab",
+     "camp_label": "Arab / Gulf",
+     "ownership": "Qatari state-funded",
+     "title": "French actor Gerard Depardieu to stand trial for alleged 2018 rape",
+     "url": "https://www.aljazeera.com/news/2026/11/26/paris-court-orders-gerard-depardieu-to-stand-trial-for-rape-sexual-assault?traffic_source=rss",
+     "date": "2026-11-26T17:18:24+00:00"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "camp": "asia-pacific",
+     "camp_label": "Asia-Pacific",
+     "ownership": "Hong Kong private (Alibaba)",
+     "title": "French actor Gerard Depardieu to stand trial for rape after Paris court rejects appeal",
+     "url": "https://www.scmp.com/news/world/europe/article/3375961/french-actor-gerard-depardieu-stand-trial-rape-after-paris-court-rejects-appeal",
+     "date": "2026-11-26T14:45:59+00:00"
+    }
+   ],
+   "missing": []
+  },
+  "ef1f7c8fa2": {
+   "bodies": [],
+   "id": "ef1f7c8fa2",
+   "headline": "Achakzai's proposal of national govt only solution to political, constitutional crisis: TTAP",
+   "countries": [
+    "PAK"
+   ],
+   "score": 4.73,
+   "outlets": 1,
+   "camps": 1,
+   "updated": "2026-11-26T17:18:15+00:00",
+   "sources": [
+    {
+     "outlet": "Dawn",
+     "camp": "pakistan",
+     "camp_label": "Pakistani",
+     "ownership": "Pakistani private",
+     "title": "Achakzai's proposal of national govt only solution to political, constitutional crisis: TTAP",
+     "url": "https://www.dawn.com/news/2047240/achakzais-proposal-of-national-govt-only-solution-to-political-constitutional-crisis-ttap",
+     "date": "2026-11-26T17:18:15+00:00"
+    }
+   ],
+   "missing": []
+  },
+  "eb134465ed": {
+   "bodies": [],
+   "id": "eb134465ed",
+   "headline": "Myanmar refuses to comply with parts of ICJ genocide ruling",
+   "countries": [
+    "MMR"
+   ],
+   "score": 14.72,
+   "outlets": 3,
+   "camps": 3,
+   "updated": "2026-11-26T17:12:15+00:00",
+   "sources": [
+    {
+     "outlet": "The Hindu",
+     "camp": "india",
+     "camp_label": "Indian",
+     "ownership": "Indian private",
+     "title": "Myanmar says it will not fully comply with ICJ genocide orders",
+     "url": "https://www.thehindu.com/news/international/myanmar-says-it-will-not-fully-comply-with-icj-genocide-orders/article71747952.ece",
+     "date": "2026-11-26T17:12:15+00:00"
+    },
+    {
+     "outlet": "BBC News",
+     "camp": "western",
+     "camp_label": "Western",
+     "ownership": "UK public broadcaster",
+     "title": "Myanmar refuses to comply with parts of ICJ genocide ruling",
+     "url": "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-26T10:25:51+00:00"
+    },
+    {
+     "outlet": "Japan Times",
+     "camp": "asia-pacific",
+     "camp_label": "Asia-Pacific",
+     "ownership": "Japanese private",
+     "title": "Myanmar won’t comply with ‘inappropriate’ parts of genocide ruling, leader says",
+     "url": "https://www.japantimes.co.jp/news/2026/11/26/asia-pacific/politics/myanmar-comply-genocide-ruling/",
+     "date": "2026-11-26T05:47:00+00:00"
+    }
+   ],
+   "missing": []
+  },
+  "6c6e2b6276": {
+   "bodies": [
+    "EU"
+   ],
+   "id": "6c6e2b6276",
+   "headline": "UK bill to implement EU deal will allow ministers to enact closer ties in future",
+   "countries": [
+    "GBR"
+   ],
+   "score": 11.71,
+   "outlets": 3,
+   "camps": 2,
+   "updated": "2026-11-26T17:00:52+00:00",
+   "sources": [
+    {
+     "outlet": "The Guardian",
+     "camp": "western",
+     "camp_label": "Western",
+     "ownership": "UK private (trust-owned)",
+     "title": "UK bill to implement EU deal will allow ministers to enact closer ties in future",
+     "url": "https://www.theguardian.com/politics/2026/nov/26/uk-bill-to-implement-eu-deal-closer-future-ties",
+     "date": "2026-11-26T17:00:52+00:00"
+    },
+    {
+     "outlet": "Anadolu Agency",
+     "camp": "turkey-state",
+     "camp_label": "Turkish state",
+     "ownership": "Turkish state agency",
+     "title": "UK-EU deal includes 10-year termination clause: Report",
+     "url": "https://www.aa.com.tr/en/world/uk-eu-deal-includes-10-year-termination-clause-report/4138695",
+     "date": "2026-11-26T12:03:05+00:00"
+    }
+   ],
+   "missing": []
+  },
+  "d8e0912493": {
+   "bodies": [
+    "NATO"
+   ],
+   "id": "d8e0912493",
+   "headline": "Russian deputy says neutrality would ensure Ukraine's security, not joining NATO",
+   "countries": [
+    "UKR",
+    "RUS"
+   ],
+   "score": 9.71,
+   "outlets": 2,
+   "camps": 2,
+   "updated": "2026-11-26T17:00:52+00:00",
+   "sources": [
+    {
+     "outlet": "TASS",
+     "camp": "russia-state",
+     "camp_label": "Russian state",
+     "ownership": "Russian state agency",
+     "title": "Russian deputy says neutrality would ensure Ukraine's security, not joining NATO",
+     "url": "https://tass.com/politics/2225313",
+     "date": "2026-11-26T13:05:01+00:00"
+    },
+    {
+     "outlet": "Meduza",
+     "camp": "russia-independent",
+     "camp_label": "Russian independent (exile)",
+     "ownership": "Russian independent, in exile",
+     "title": "Russia opposes granting Ukraine security guarantees modeled on NATO’s Article 5, RBC-Ukraine reports",
+     "url": "https://meduza.io/en/news/2026/11/26/russia-opposes-granting-ukraine-security-guarantees-modeled-on-nato-s-article-5-rbc-ukraine-reports",
+     "date": "2026-11-26T17:00:52+00:00"
+    }
+   ],
+   "missing": [
+    {
+     "camp": "ukraine",
+     "label": "Ukrainian",
+     "search": [
+      {
+       "outlet": "Kyiv Independent",
+       "url": "https://duckduckgo.com/?q=site%3Akyivindependent.com%20ukraine%20security%20nato%20russia%20oppose"
+      },
+      {
+       "outlet": "Ukrainska Pravda",
+       "url": "https://duckduckgo.com/?q=site%3Apravda.com.ua%20ukraine%20security%20nato%20russia%20oppose"
+      }
+     ]
+    }
+   ]
+  },
+  "3290ea976e": {
+   "bodies": [],
+   "id": "3290ea976e",
+   "headline": "China's Defence Ministry urges Japan to stop 'stirring up' South China Sea disputes",
+   "countries": [
+    "CHN",
+    "JPN",
+    "PHL"
+   ],
+   "score": 14.7,
+   "outlets": 3,
+   "camps": 3,
+   "updated": "2026-11-26T16:56:27+00:00",
+   "sources": [
+    {
+     "outlet": "CGTN",
+     "camp": "china-state",
+     "camp_label": "Chinese state",
+     "ownership": "Chinese state broadcaster",
+     "title": "China urges Japan to destroy abandoned chemical weapons",
+     "url": "https://news.cgtn.com/news/2026-11-26/China-urges-Japan-to-destroy-abandoned-chemical-weapons-1SnqFQ4FRmw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+     "date": "2026-11-26T01:21:06+00:00"
+    },
+    {
+     "outlet": "The Hindu",
+     "camp": "india",
+     "camp_label": "Indian",
+     "ownership": "Indian private",
+     "title": "China's Defence Ministry urges Japan to stop 'stirring up' South China Sea disputes",
+     "url": "https://www.thehindu.com/news/international/chinas-defence-ministry-urges-japan-to-stop-stirring-up-south-china-sea-disputes/article71747672.ece",
+     "date": "2026-11-26T16:56:27+00:00"
+    },
+    {
+     "outlet": "TASS",
+     "camp": "russia-state",
+     "camp_label": "Russian state",
+     "ownership": "Russian state agency",
+     "title": "China to resolutely counter violations, provocations in South China Sea — Defense Ministry",
+     "url": "https://tass.com/world/2225357",
+     "date": "2026-11-26T13:39:21+00:00"
+    }
+   ],
+   "missing": [
+    {
+     "camp": "asia-pacific",
+     "label": "Asia-Pacific",
+     "search": [
+      {
+       "outlet": "South China Morning Post",
+       "url": "https://duckduckgo.com/?q=site%3Ascmp.com%20china%20ministry%20urge%20japan%20south"
+      },
+      {
+       "outlet": "Japan Times",
+       "url": "https://duckduckgo.com/?q=site%3Ajapantimes.co.jp%20china%20ministry%20urge%20japan%20south"
+      }
+     ]
+    }
+   ]
+  },
+  "703fb12760": {
+   "bodies": [],
+   "id": "703fb12760",
+   "headline": "Will Spain's far right replace Europe's left-wing stalwart?",
+   "countries": [
+    "ESP"
+   ],
+   "score": 14.69,
+   "outlets": 3,
+   "camps": 3,
+   "updated": "2026-11-26T16:51:54+00:00",
+   "sources": [
+    {
+     "outlet": "France 24",
+     "camp": "western",
+     "camp_label": "Western",
+     "ownership": "French public broadcaster",
+     "title": "Will Spain's far right replace Europe's left-wing stalwart?",
+     "url": "https://www.france24.com/en/video/20261126-will-spain-s-far-right-replace-europe-s-left-wing-stalwart",
+     "date": "2026-11-26T16:51:54+00:00"
+    },
+    {
+     "outlet": "Al Jazeera",
+     "camp": "arab",
+     "camp_label": "Arab / Gulf",
+     "ownership": "Qatari state-funded",
+     "title": "Andalusia offers a glimpse into Spain’s future as far right gains ground",
+     "url": "https://www.aljazeera.com/news/2026/11/26/andalusia-offers-a-glimpse-of-spains-future-as-the-far-right-gains-ground?traffic_source=rss",
+     "date": "2026-11-26T15:11:30+00:00"
+    },
+    {
+     "outlet": "RT",
+     "camp": "russia-state",
+     "camp_label": "Russian state",
+     "ownership": "Russian state-funded",
+     "title": "Spain heads to the polls: What’s at stake?",
+     "url": "https://rt-english.com/news/649349-spain-polls-immigration-housing/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+     "date": "2026-11-25T22:19:02+00:00"
+    }
+   ],
+   "missing": []
+  },
+  "d94afccfeb": {
+   "bodies": [
+    "COP"
+   ],
+   "id": "d94afccfeb",
+   "headline": "Climate negotiations: If COP31 cannot, what will?, By Samuel Stephen Wakdok",
+   "countries": [
+    "NGA"
+   ],
+   "score": 4.67,
+   "outlets": 1,
+   "camps": 1,
+   "updated": "2026-11-26T16:37:23+00:00",
+   "sources": [
+    {
+     "outlet": "Premium Times",
+     "camp": "africa",
+     "camp_label": "African",
+     "ownership": "Nigerian private",
+     "title": "Climate negotiations: If COP31 cannot, what will?, By Samuel Stephen Wakdok",
+     "url": "https://www.premiumtimesng.com/opinion/928205-climate-negotiations-if-cop31-cannot-what-will-by-samuel-stephen-wakdok.html",
+     "date": "2026-11-26T16:37:23+00:00"
+    }
+   ],
+   "missing": []
+  },
+  "184ed2e926": {
+   "bodies": [],
+   "id": "184ed2e926",
+   "headline": "Nine injured, three critically, after Bangkok oil refinery explosion",
+   "countries": [
+    "THA"
+   ],
+   "score": 14.65,
+   "outlets": 3,
+   "camps": 3,
+   "updated": "2026-11-26T16:21:19+00:00",
+   "sources": [
+    {
+     "outlet": "BBC News",
+     "camp": "western",
+     "camp_label": "Western",
+     "ownership": "UK public broadcaster",
+     "title": "Nine injured, three critically, after Bangkok oil refinery explosion",
+     "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-26T16:21:19+00:00"
+    },
+    {
+     "outlet": "Japan Times",
+     "camp": "asia-pacific",
+     "camp_label": "Asia-Pacific",
+     "ownership": "Japanese private",
+     "title": "Nine hurt in huge explosion at Bangkok oil facility",
+     "url": "https://www.japantimes.co.jp/news/2026/11/26/asia-pacific/bangkok-oil-facility-explosion/",
+     "date": "2026-11-26T11:53:00+00:00"
+    },
+    {
+     "outlet": "The Hindu",
+     "camp": "india",
+     "camp_label": "Indian",
+     "ownership": "Indian private",
+     "title": "Massive fire at Bangkok oil refinery leaves several injured, Bangchak Corp shuts all units",
+     "url": "https://www.thehindu.com/news/international/bangkok-oil-refinery-fire-blast-bangchak-injured-casualties-nov-26-2026/article71745999.ece",
+     "date": "2026-11-26T10:19:37+00:00"
+    }
+   ],
+   "missing": []
+  },
+  "9a38e3655c": {
+   "bodies": [],
+   "id": "9a38e3655c",
+   "headline": "‘Trapped in grief’: wife of Japanese journalist detained by Russia pleads for his release",
+   "countries": [
+    "RUS",
+    "JPN"
+   ],
+   "score": 16.65,
+   "outlets": 4,
+   "camps": 3,
+   "updated": "2026-11-26T16:16:42+00:00",
+   "sources": [
+    {
+     "outlet": "Meduza",
+     "camp": "russia-independent",
+     "camp_label": "Russian independent (exile)",
+     "ownership": "Russian independent, in exile",
+     "title": "‘Please return this precious papa to his little daughter’: Wife of Japanese journalist jailed in Russia on espionage charges pleads for his release",
+     "url": "https://meduza.io/en/feature/2026/11/26/please-return-this-precious-papa-to-his-little-daughter-wife-of-japanese-journalist-jailed-in-russia-on-espionage-charges-pleads-for-his-release",
+     "date": "2026-11-26T16:16:42+00:00"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "camp": "asia-pacific",
+     "camp_label": "Asia-Pacific",
+     "ownership": "Hong Kong private (Alibaba)",
+     "title": "Wife of detained Japanese reporter Yuki Imai pleads for his release from Russia",
+     "url": "https://www.scmp.com/news/asia/east-asia/article/3375882/wife-detained-japanese-reporter-yuki-imai-pleads-his-release-russia",
+     "date": "2026-11-26T06:43:16+00:00"
+    },
+    {
+     "outlet": "The Guardian",
+     "camp": "western",
+     "camp_label": "Western",
+     "ownership": "UK private (trust-owned)",
+     "title": "‘Trapped in grief’: wife of Japanese journalist detained by Russia pleads for his release",
+     "url": "https://www.theguardian.com/world/2026/nov/26/japanese-journalist-yuki-imai-detained-in-russia-wife-pleads-his-release",
+     "date": "2026-11-26T05:16:17+00:00"
+    }
+   ],
+   "missing": [
+    {
+     "camp": "russia-state",
+     "label": "Russian state",
+     "search": [
+      {
+       "outlet": "RT",
+       "url": "https://duckduckgo.com/?q=site%3Art.com%20russia%20plead%20japanese%20journalist%20release"
+      },
+      {
+       "outlet": "TASS",
+       "url": "https://duckduckgo.com/?q=site%3Atass.com%20russia%20plead%20japanese%20journalist%20release"
+      }
+     ]
+    }
+   ]
+  },
+  "61d55b527f": {
+   "bodies": [],
+   "id": "61d55b527f",
+   "headline": "Europeans begin to grasp danger of military confrontation with Russia — envoy to OSCE",
+   "countries": [
+    "RUS",
+    "DEU"
+   ],
+   "score": 4.63,
+   "outlets": 1,
+   "camps": 1,
+   "updated": "2026-11-26T16:04:51+00:00",
+   "sources": [
+    {
+     "outlet": "TASS",
+     "camp": "russia-state",
+     "camp_label": "Russian state",
+     "ownership": "Russian state agency",
+     "title": "Europeans begin to grasp danger of military confrontation with Russia — envoy to OSCE",
+     "url": "https://tass.com/politics/2225471",
+     "date": "2026-11-26T16:04:51+00:00"
+    }
+   ],
+   "missing": [
+    {
+     "camp": "western",
+     "label": "Western",
+     "search": [
+      {
+       "outlet": "BBC News",
+       "url": "https://duckduckgo.com/?q=site%3Abbc.com%20european%20begin%20grasp%20danger%20military"
+      },
+      {
+       "outlet": "The Guardian",
+       "url": "https://duckduckgo.com/?q=site%3Atheguardian.com%20european%20begin%20grasp%20danger%20military"
+      }
+     ]
+    }
+   ]
+  },
+  "d278f649d2": {
+   "bodies": [],
+   "id": "d278f649d2",
+   "headline": "France's political mainstream risks presidential vote debacle with no clear candidate",
+   "countries": [
+    "FRA"
+   ],
+   "score": 9.62,
+   "outlets": 2,
+   "camps": 2,
+   "updated": "2026-11-26T15:57:49+00:00",
+   "sources": [
+    {
+     "outlet": "BBC News",
+     "camp": "western",
+     "camp_label": "Western",
+     "ownership": "UK public broadcaster",
+     "title": "France's political mainstream risks presidential vote debacle with no clear candidate",
+     "url": "https://www.bbc.co.uk/news/articles/cq772vedgepro?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-26T00:23:27+00:00"
+    },
+    {
+     "outlet": "Al Jazeera",
+     "camp": "arab",
+     "camp_label": "Arab / Gulf",
+     "ownership": "Qatari state-funded",
+     "title": "Why is France roiling?",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/why-is-france-roiling?traffic_source=rss",
+     "date": "2026-11-26T15:57:49+00:00"
+    }
+   ],
+   "missing": []
+  },
+  "f12611ab34": {
+   "bodies": [],
+   "id": "f12611ab34",
+   "headline": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+   "countries": [
+    "ESP"
+   ],
+   "score": 11.62,
+   "outlets": 3,
+   "camps": 2,
+   "updated": "2026-11-26T15:56:39+00:00",
+   "sources": [
+    {
+     "outlet": "BBC News",
+     "camp": "western",
+     "camp_label": "Western",
+     "ownership": "UK public broadcaster",
+     "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+     "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-26T15:17:18+00:00"
+    },
+    {
+     "outlet": "Al Jazeera",
+     "camp": "arab",
+     "camp_label": "Arab / Gulf",
+     "ownership": "Qatari state-funded",
+     "title": "Diesel tanker capsizes near Ibiza, killing crew member",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/aje-onl-nf_loaded-diesel-tanker-capsizes-off-ibiza-killing-one-261126?traffic_source=rss",
+     "date": "2026-11-26T15:56:39+00:00"
+    }
+   ],
+   "missing": []
+  },
+  "6bea022519": {
+   "bodies": [],
+   "id": "6bea022519",
+   "headline": "Qatari, Egyptian leaders discuss Gaza ‘ceasefire’ and regional security",
+   "countries": [
+    "EGY",
+    "QAT",
+    "PSE"
+   ],
+   "score": 4.6,
+   "outlets": 1,
+   "camps": 1,
+   "updated": "2026-11-26T15:45:59+00:00",
+   "sources": [
+    {
+     "outlet": "Al Jazeera",
+     "camp": "arab",
+     "camp_label": "Arab / Gulf",
+     "ownership": "Qatari state-funded",
+     "title": "Qatari, Egyptian leaders discuss Gaza ‘ceasefire’ and regional security",
+     "url": "https://www.aljazeera.com/news/2026/11/26/qatari-egyptian-leaders-discuss-gaza-ceasefire-and-regional-security?traffic_source=rss",
+     "date": "2026-11-26T15:45:59+00:00"
+    }
+   ],
+   "missing": []
+  },
+  "87452a6f09": {
+   "bodies": [],
+   "id": "87452a6f09",
+   "headline": "Experts say new U.S. tariffs do not pose substantial threat, India should not rush into trade deal",
+   "countries": [
+    "USA",
+    "IND"
+   ],
+   "score": 4.6,
+   "outlets": 1,
+   "camps": 1,
+   "updated": "2026-11-26T15:43:21+00:00",
+   "sources": [
+    {
+     "outlet": "The Hindu",
+     "camp": "india",
+     "camp_label": "Indian",
+     "ownership": "Indian private",
+     "title": "Experts say new U.S. tariffs do not pose substantial threat, India should not rush into trade deal",
+     "url": "https://www.thehindu.com/business/Economy/experts-say-new-us-tariffs-do-not-pose-substantial-threat-india-should-not-rush-into-trade-deal/article71746007.ece",
+     "date": "2026-11-26T15:43:21+00:00"
+    }
+   ],
+   "missing": [
+    {
+     "camp": "western",
+     "label": "Western",
+     "search": [
+      {
+       "outlet": "BBC News",
+       "url": "https://duckduckgo.com/?q=site%3Abbc.com%20tariff%20india%20expert%20pose%20substantial"
+      },
+      {
+       "outlet": "The Guardian",
+       "url": "https://duckduckgo.com/?q=site%3Atheguardian.com%20tariff%20india%20expert%20pose%20substantial"
+      }
+     ]
+    }
+   ]
+  },
+  "66649489d7": {
+   "bodies": [],
+   "id": "66649489d7",
+   "headline": "Trump says he asked Putin to stop military aggression in Europe",
+   "countries": [
+    "RUS",
+    "USA",
+    "UKR"
+   ],
+   "score": 31.6,
+   "outlets": 7,
+   "camps": 6,
+   "updated": "2026-11-26T15:43:00+00:00",
+   "sources": [
+    {
+     "outlet": "RT",
+     "camp": "russia-state",
+     "camp_label": "Russian state",
+     "ownership": "Russian state-funded",
+     "title": "Putin ‘a grand-master of politics’ – Kushner",
+     "url": "https://rt-english.com/news/649384-kushner-putin-dmitriev-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+     "date": "2026-11-26T14:05:39+00:00"
+    },
+    {
+     "outlet": "Ukrainska Pravda",
+     "camp": "ukraine",
+     "camp_label": "Ukrainian",
+     "ownership": "Ukrainian private",
+     "title": "Trump says he asked Putin to stop military aggression in Europe",
+     "url": "https://www.pravda.com.ua/eng/news/2026/11/26/8064838/",
+     "date": "2026-11-26T15:43:00+00:00"
+    },
+    {
+     "outlet": "Meduza",
+     "camp": "russia-independent",
+     "camp_label": "Russian independent (exile)",
+     "ownership": "Russian independent, in exile",
+     "title": "Jared Kushner says Putin has shown ‘restraint’ in Ukraine and promised not to use nuclear weapons",
+     "url": "https://meduza.io/en/feature/2026/11/26/jared-kushner-says-putin-has-shown-restraint-in-ukraine-and-promised-not-to-use-nuclear-weapons",
+     "date": "2026-11-26T15:37:52+00:00"
+    }
+   ],
+   "missing": [
+    {
+     "camp": "western",
+     "label": "Western",
+     "search": [
+      {
+       "outlet": "BBC News",
+       "url": "https://duckduckgo.com/?q=site%3Abbc.com%20putin%20trump%20kushner%20europe%20ukraine"
+      },
+      {
+       "outlet": "The Guardian",
+       "url": "https://duckduckgo.com/?q=site%3Atheguardian.com%20putin%20trump%20kushner%20europe%20ukraine"
+      }
+     ]
+    }
+   ]
+  },
+  "c00b18ff3f": {
+   "bodies": [],
+   "id": "c00b18ff3f",
+   "headline": "Politician hosts 400,000 guests at daughter’s wedding in India’s poorest state",
+   "countries": [
+    "IND"
+   ],
+   "score": 4.6,
+   "outlets": 1,
+   "camps": 1,
+   "updated": "2026-11-26T15:41:42+00:00",
+   "sources": [
+    {
+     "outlet": "The Guardian",
+     "camp": "western",
+     "camp_label": "Western",
+     "ownership": "UK private (trust-owned)",
+     "title": "Politician hosts 400,000 guests at daughter’s wedding in India’s poorest state",
+     "url": "https://www.theguardian.com/world/2026/nov/26/india-anant-singh-hosts-400000-guests-wedding-guests-daughter",
+     "date": "2026-11-26T15:41:42+00:00"
+    }
+   ],
+   "missing": [
+    {
+     "camp": "india",
+     "label": "Indian",
+     "search": [
+      {
+       "outlet": "The Hindu",
+       "url": "https://duckduckgo.com/?q=site%3Athehindu.com%20politician%20host%20guest%20daughter%20wedding"
+      }
+     ]
+    }
+   ]
+  },
+  "e3d462ba94": {
+   "bodies": [],
+   "id": "e3d462ba94",
+   "headline": "Türkiye, Saudi Arabia sign defense cooperation MoU",
+   "countries": [
+    "SAU",
+    "YEM",
+    "TUR"
+   ],
+   "score": 14.59,
+   "outlets": 3,
+   "camps": 3,
+   "updated": "2026-11-26T15:35:24+00:00",
+   "sources": [
+    {
+     "outlet": "Anadolu Agency",
+     "camp": "turkey-state",
+     "camp_label": "Turkish state",
+     "ownership": "Turkish state agency",
+     "title": "Türkiye, Saudi Arabia sign defense cooperation MoU",
+     "url": "https://www.aa.com.tr/en/world/turkiye-saudi-arabia-sign-defense-cooperation-mou/4139323",
+     "date": "2026-11-26T15:35:24+00:00"
+    },
+    {
+     "outlet": "Dawn",
+     "camp": "pakistan",
+     "camp_label": "Pakistani",
+     "ownership": "Pakistani private",
+     "title": "Makkah pact nations to discuss conflict between Saudi Arabia and Yemen's Houthis in Islamabad meeting, Asif says",
+     "url": "https://www.dawn.com/news/2047228/makkah-pact-nations-to-discuss-conflict-between-saudi-arabia-and-yemens-houthis-in-islamabad-meeting-asif-says",
+     "date": "2026-11-26T14:13:51+00:00"
+    },
+    {
+     "outlet": "Africanews",
+     "camp": "africa",
+     "camp_label": "African",
+     "ownership": "Pan-African (Euronews group)",
+     "title": "Forward7-ARSO Cooperation Agreement Delivers 45+ Standards to Support the Future of Clean Cooking in Africa",
+     "url": "http://www.africanews.com/2026/11/26/forward7-arso-cooperation-agreement-delivers-45-standards-to-support-the-future-of-clean-c/",
+     "date": "2026-11-26T13:06:15+00:00"
+    }
+   ],
+   "missing": [
+    {
+     "camp": "arab",
+     "label": "Arab / Gulf",
+     "search": [
+      {
+       "outlet": "Al Jazeera",
+       "url": "https://duckduckgo.com/?q=site%3Aaljazeera.com%20saudi%20arabia%20cooperation%20rkiye%20sign"
+      },
+      {
+       "outlet": "Middle East Eye",
+       "url": "https://duckduckgo.com/?q=site%3Amiddleeasteye.net%20saudi%20arabia%20cooperation%20rkiye%20sign"
+      }
+     ]
+    },
+    {
+     "camp": "arab",
+     "label": "Arab / Gulf",
+     "search": [
+      {
+       "outlet": "Al Jazeera",
+       "url": "https://duckduckgo.com/?q=site%3Aaljazeera.com%20saudi%20arabia%20cooperation%20rkiye%20sign"
+      },
+      {
+       "outlet": "Middle East Eye",
+       "url": "https://duckduckgo.com/?q=site%3Amiddleeasteye.net%20saudi%20arabia%20cooperation%20rkiye%20sign"
+      }
+     ]
+    }
+   ]
+  },
+  "dbdce4c4dd": {
+   "bodies": [],
+   "id": "dbdce4c4dd",
+   "headline": "Across Africa: The Scars of South Africa's Soweto Uprising",
+   "countries": [
+    "ZAF"
+   ],
+   "score": 9.58,
+   "outlets": 2,
+   "camps": 2,
+   "updated": "2026-11-26T15:28:19+00:00",
+   "sources": [
+    {
+     "outlet": "Africanews",
+     "camp": "africa",
+     "camp_label": "African",
+     "ownership": "Pan-African (Euronews group)",
+     "title": "Pix of the Day, 26th November 2026: South Africa's Biovac bets on African vaccine production",
+     "url": "http://www.africanews.com/2026/11/26/pix-of-the-day-26th-november-2026-south-africas-biovac-bets-on-african-vaccine-production/",
+     "date": "2026-11-26T12:11:52+00:00"
+    },
+    {
+     "outlet": "France 24",
+     "camp": "western",
+     "camp_label": "Western",
+     "ownership": "French public broadcaster",
+     "title": "Across Africa: The Scars of South Africa's Soweto Uprising",
+     "url": "https://www.france24.com/en/across-africa-the-scars-of-south-africa-s-soweto-uprising-1",
+     "date": "2026-11-26T15:28:19+00:00"
+    }
+   ],
+   "missing": []
+  },
+  "89f2443fac": {
+   "bodies": [],
+   "id": "89f2443fac",
+   "headline": "Is authoritarian Vietnam ready to phase out the death penalty?",
+   "countries": [
+    "VNM"
+   ],
+   "score": 4.57,
+   "outlets": 1,
+   "camps": 1,
+   "updated": "2026-11-26T15:19:00+00:00",
+   "sources": [
+    {
+     "outlet": "DW",
+     "camp": "western",
+     "camp_label": "Western",
+     "ownership": "German public broadcaster",
+     "title": "Is authoritarian Vietnam ready to phase out the death penalty?",
+     "url": "https://www.dw.com/en/is-authoritarian-vietnam-ready-to-phase-out-the-death-penalty/a-80064271?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-11-26T15:19:00+00:00"
+    }
+   ],
+   "missing": []
+  },
+  "a8b682d684": {
+   "bodies": [
+    "BRICS"
+   ],
+   "id": "a8b682d684",
+   "headline": "Colombia halts bid to join BRICS, New Development Bank as it seeks closer US ties",
+   "countries": [
+    "COL",
+    "USA"
+   ],
+   "score": 9.55,
+   "outlets": 2,
+   "camps": 2,
+   "updated": "2026-11-26T15:05:51+00:00",
+   "sources": [
+    {
+     "outlet": "MercoPress",
+     "camp": "latam",
+     "camp_label": "Latin American",
+     "ownership": "Uruguay-based private",
+     "title": "Colombia drops its bid to join the BRICS bank in a new shift towards the United States",
+     "url": "https://en.mercopress.com/2026/11/26/colombia-drops-its-bid-to-join-the-brics-bank-in-a-new-shift-towards-the-united-states?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+     "date": "2026-11-26T04:42:00+00:00"
+    },
+    {
+     "outlet": "Anadolu Agency",
+     "camp": "turkey-state",
+     "camp_label": "Turkish state",
+     "ownership": "Turkish state agency",
+     "title": "Colombia halts bid to join BRICS, New Development Bank as it seeks closer US ties",
+     "url": "https://www.aa.com.tr/en/americas/colombia-halts-bid-to-join-brics-new-development-bank-as-it-seeks-closer-us-ties/4139231",
+     "date": "2026-11-26T15:05:51+00:00"
+    }
+   ],
+   "missing": [
+    {
+     "camp": "western",
+     "label": "Western",
+     "search": [
+      {
+       "outlet": "BBC News",
+       "url": "https://duckduckgo.com/?q=site%3Abbc.com%20colombia%20bid%20join%20bric%20bank"
+      },
+      {
+       "outlet": "The Guardian",
+       "url": "https://duckduckgo.com/?q=site%3Atheguardian.com%20colombia%20bid%20join%20bric%20bank"
+      }
+     ]
+    }
+   ]
+  },
+  "88b8be38fc": {
+   "bodies": [],
+   "id": "88b8be38fc",
+   "headline": "Egyptian authorities arrest motorist over tanker crash that killed 31",
+   "countries": [
+    "EGY"
+   ],
+   "score": 25.54,
+   "outlets": 7,
+   "camps": 4,
+   "updated": "2026-11-26T15:03:44+00:00",
+   "sources": [
+    {
+     "outlet": "BBC News",
+     "camp": "western",
+     "camp_label": "Western",
+     "ownership": "UK public broadcaster",
+     "title": "Egyptian authorities arrest motorist over tanker crash that killed 31",
+     "url": "https://www.bbc.co.uk/news/articles/c3gre90l0g45o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-26T12:16:06+00:00"
+    },
+    {
+     "outlet": "Africanews",
+     "camp": "africa",
+     "camp_label": "African",
+     "ownership": "Pan-African (Euronews group)",
+     "title": "Egypt says 31 dead in Cairo fuel truck inferno, one man arrested",
+     "url": "http://www.africanews.com/2026/11/26/egypt-says-31-dead-in-cairo-fuel-truck-inferno-one-man-arrested/",
+     "date": "2026-11-26T15:03:44+00:00"
+    },
+    {
+     "outlet": "Dawn",
+     "camp": "pakistan",
+     "camp_label": "Pakistani",
+     "ownership": "Pakistani private",
+     "title": "Egypt says 31 dead in Cairo fire after fuel truck overturns",
+     "url": "https://www.dawn.com/news/2047191/egypt-says-31-dead-in-cairo-fire-after-fuel-truck-overturns",
+     "date": "2026-11-26T07:51:10+00:00"
+    }
+   ],
+   "missing": [
+    {
+     "camp": "arab",
+     "label": "Arab / Gulf",
+     "search": [
+      {
+       "outlet": "Al Jazeera",
+       "url": "https://duckduckgo.com/?q=site%3Aaljazeera.com%20cairo%20fuel%20fire%20egypt%20dead"
+      },
+      {
+       "outlet": "Middle East Eye",
+       "url": "https://duckduckgo.com/?q=site%3Amiddleeasteye.net%20cairo%20fuel%20fire%20egypt%20dead"
+      }
+     ]
+    }
+   ]
+  },
+  "25e0b737eb": {
+   "bodies": [],
+   "id": "25e0b737eb",
+   "headline": "UN sacked Palestinian staff on back of unproven Israeli allegations, tribunal rules",
+   "countries": [
+    "PSE",
+    "ISR"
+   ],
+   "score": 14.54,
+   "outlets": 3,
+   "camps": 3,
+   "updated": "2026-11-26T15:00:47+00:00",
+   "sources": [
+    {
+     "outlet": "Al Jazeera",
+     "camp": "arab",
+     "camp_label": "Arab / Gulf",
+     "ownership": "Qatari state-funded",
+     "title": "UN ruling disputes Israeli allegations used to dismiss UNRWA Gaza staff",
+     "url": "https://www.aljazeera.com/news/2026/11/26/un-ruling-disputes-israeli-allegations-used-to-dismiss-unrwa-gaza-staff?traffic_source=rss",
+     "date": "2026-11-26T15:00:47+00:00"
+    },
+    {
+     "outlet": "Anadolu Agency",
+     "camp": "turkey-state",
+     "camp_label": "Turkish state",
+     "ownership": "Turkish state agency",
+     "title": "UN tribunal questions evidence behind dismissal of Palestinian aid workers",
+     "url": "https://www.aa.com.tr/en/world/un-tribunal-questions-evidence-behind-dismissal-of-palestinian-aid-workers/4138123",
+     "date": "2026-11-26T00:43:58+00:00"
+    },
+    {
+     "outlet": "The Guardian",
+     "camp": "western",
+     "camp_label": "Western",
+     "ownership": "UK private (trust-owned)",
+     "title": "UN sacked Palestinian staff on back of unproven Israeli allegations, tribunal rules",
+     "url": "https://www.theguardian.com/world/2026/nov/25/un-sacked-palestinian-staff-on-back-of-unproven-israel-allegations",
+     "date": "2026-11-26T00:05:50+00:00"
+    }
+   ],
+   "missing": [
+    {
+     "camp": "israel",
+     "label": "Israeli",
+     "search": [
+      {
+       "outlet": "Times of Israel",
+       "url": "https://duckduckgo.com/?q=site%3Atimesofisrael.com%20israeli%20allegation%20staff%20tribunal%20palestinian"
+      }
+     ]
+    }
+   ]
+  },
+  "e989c48d26": {
+   "bodies": [],
+   "id": "e989c48d26",
+   "headline": "Pregnant US inmate escapes in prison vehicle after medical appointment",
+   "countries": [
+    "USA",
+    "MEX"
+   ],
+   "score": 4.5,
+   "outlets": 1,
+   "camps": 1,
+   "updated": "2026-11-26T14:35:22+00:00",
+   "sources": [
+    {
+     "outlet": "BBC News",
+     "camp": "western",
+     "camp_label": "Western",
+     "ownership": "UK public broadcaster",
+     "title": "Pregnant US inmate escapes in prison vehicle after medical appointment",
+     "url": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-26T14:35:22+00:00"
+    }
+   ],
+   "missing": [
+    {
+     "camp": "latam",
+     "label": "Latin American",
+     "search": [
+      {
+       "outlet": "MercoPress",
+       "url": "https://duckduckgo.com/?q=site%3Amercopress.com%20pregnant%20inmate%20escape%20prison%20vehicle"
+      }
+     ]
+    }
+   ]
+  },
+  "0af82d621d": {
+   "bodies": [],
+   "id": "0af82d621d",
+   "headline": "Season's eatings! Celebrating Thanksgiving in France",
+   "countries": [
+    "FRA",
+    "USA",
+    "LBR"
+   ],
+   "score": 6.5,
+   "outlets": 2,
+   "camps": 1,
+   "updated": "2026-11-26T14:35:09+00:00",
+   "sources": [
+    {
+     "outlet": "France 24",
+     "camp": "western",
+     "camp_label": "Western",
+     "ownership": "French public broadcaster",
+     "title": "Season's eatings! Celebrating Thanksgiving in France",
+     "url": "https://www.france24.com/en/tv-shows/entre-nous/20261126-seasons-eatings-celebrating-thanksgiving-in-france",
+     "date": "2026-11-26T14:35:09+00:00"
+    }
+   ],
+   "missing": []
+  },
+  "9c1454195f": {
+   "bodies": [],
+   "id": "9c1454195f",
+   "headline": "Qatar’s LNG exports hit highest level since start of US-Iran conflict",
+   "countries": [
+    "IRN",
+    "USA",
+    "QAT"
+   ],
+   "score": 19.49,
+   "outlets": 4,
+   "camps": 4,
+   "updated": "2026-11-26T14:27:34+00:00",
+   "sources": [
+    {
+     "outlet": "Tehran Times",
+     "camp": "iran-state",
+     "camp_label": "Iranian state",
+     "ownership": "Iranian state-aligned",
+     "title": "Iran reports naval mine strikes on two tankers, downs US drones in Strait of Hormuz",
+     "url": "https://www.tehrantimes.com/news/532558/Iran-reports-naval-mine-strikes-on-two-tankers-downs-US-drones",
+     "date": "2026-11-25T17:18:15+00:00"
+    },
+    {
+     "outlet": "TASS",
+     "camp": "russia-state",
+     "camp_label": "Russian state",
+     "ownership": "Russian state agency",
+     "title": "Qatar’s LNG exports hit highest level since start of US-Iran conflict",
+     "url": "https://tass.com/economy/2225397",
+     "date": "2026-11-26T14:27:34+00:00"
+    },
+    {
+     "outlet": "Japan Times",
+     "camp": "asia-pacific",
+     "camp_label": "Asia-Pacific",
+     "ownership": "Japanese private",
+     "title": "Australia delays final vote on gas reservation law for LNG exporters to February",
+     "url": "https://www.japantimes.co.jp/news/2026/11/26/asia-pacific/australia-lng-exporters-curb/",
+     "date": "2026-11-26T08:49:00+00:00"
+    }
+   ],
+   "missing": [
+    {
+     "camp": "western",
+     "label": "Western",
+     "search": [
+      {
+       "outlet": "BBC News",
+       "url": "https://duckduckgo.com/?q=site%3Abbc.com%20iran%20lng%20hit%20mine%20hormuz"
+      },
+      {
+       "outlet": "The Guardian",
+       "url": "https://duckduckgo.com/?q=site%3Atheguardian.com%20iran%20lng%20hit%20mine%20hormuz"
+      }
+     ]
+    }
+   ]
+  },
+  "52202cccb4": {
+   "bodies": [],
+   "id": "52202cccb4",
+   "headline": "Guinea orders residents to clean up the capital months after deadly rubbish dump collapse",
+   "countries": [
+    "GIN"
+   ],
+   "score": 9.47,
+   "outlets": 2,
+   "camps": 2,
+   "updated": "2026-11-26T14:08:45+00:00",
+   "sources": [
+    {
+     "outlet": "Africanews",
+     "camp": "africa",
+     "camp_label": "African",
+     "ownership": "Pan-African (Euronews group)",
+     "title": "Guinea orders massive clean-up operation of dumped rubbish in Conakry",
+     "url": "http://www.africanews.com/2026/11/26/guinea-order-massive-clean-up-operation-of-dumped-rubbish-in-conakry/",
+     "date": "2026-11-26T14:08:45+00:00"
+    },
+    {
+     "outlet": "BBC News",
+     "camp": "western",
+     "camp_label": "Western",
+     "ownership": "UK public broadcaster",
+     "title": "Guinea orders residents to clean up the capital months after deadly rubbish dump collapse",
+     "url": "https://www.bbc.co.uk/news/articles/cqwy4377yxnlo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-26T07:43:48+00:00"
+    }
+   ],
+   "missing": []
+  },
+  "117726bfa8": {
+   "bodies": [],
+   "id": "117726bfa8",
+   "headline": "Donations to One Nation from two Gina Rinehart associates to be probed by electoral authorities",
+   "countries": [
+    "AUS"
+   ],
+   "score": 4.46,
+   "outlets": 1,
+   "camps": 1,
+   "updated": "2026-11-26T14:00:40+00:00",
+   "sources": [
+    {
+     "outlet": "The Guardian",
+     "camp": "western",
+     "camp_label": "Western",
+     "ownership": "UK private (trust-owned)",
+     "title": "Donations to One Nation from two Gina Rinehart associates to be probed by electoral authorities",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/27/one-nation-pauline-hanson-gina-rinehart-aec-donations-ntwnfb",
+     "date": "2026-11-26T14:00:40+00:00"
+    }
+   ],
+   "missing": []
+  },
+  "c6adc15959": {
+   "bodies": [],
+   "id": "c6adc15959",
+   "headline": "‘Disaster’ unfolding as Sydney fire ant outbreak partly blamed on ignored biosecurity recommendations",
+   "countries": [
+    "AUS"
+   ],
+   "score": 4.46,
+   "outlets": 1,
+   "camps": 1,
+   "updated": "2026-11-26T14:00:39+00:00",
+   "sources": [
+    {
+     "outlet": "The Guardian",
+     "camp": "western",
+     "camp_label": "Western",
+     "ownership": "UK private (trust-owned)",
+     "title": "‘Disaster’ unfolding as Sydney fire ant outbreak partly blamed on ignored biosecurity recommendations",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/27/sydney-fire-ants-outbreak-biosecurity-experts-ignored",
+     "date": "2026-11-26T14:00:39+00:00"
+    }
+   ],
+   "missing": []
+  },
+  "6c8e3db07d": {
+   "bodies": [],
+   "id": "6c8e3db07d",
+   "headline": "Two screenings of Pakistani TV show cancelled in India after backlash",
+   "countries": [
+    "IND",
+    "PAK"
+   ],
+   "score": 9.45,
+   "outlets": 2,
+   "camps": 2,
+   "updated": "2026-11-26T13:55:39+00:00",
+   "sources": [
+    {
+     "outlet": "South China Morning Post",
+     "camp": "asia-pacific",
+     "camp_label": "Asia-Pacific",
+     "ownership": "Hong Kong private (Alibaba)",
+     "title": "Modi questions corporate India on jobs and wages. Will business leaders do more?",
+     "url": "https://www.scmp.com/week-asia/economics/article/3375959/modi-questions-corporate-india-jobs-and-wages-will-business-leaders-do-more",
+     "date": "2026-11-26T13:55:39+00:00"
+    },
+    {
+     "outlet": "BBC News",
+     "camp": "western",
+     "camp_label": "Western",
+     "ownership": "UK public broadcaster",
+     "title": "Two screenings of Pakistani TV show cancelled in India after backlash",
+     "url": "https://www.bbc.co.uk/news/articles/cky97x7delz9o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-26T08:30:12+00:00"
+    }
+   ],
+   "missing": [
+    {
+     "camp": "india",
+     "label": "Indian",
+     "search": [
+      {
+       "outlet": "The Hindu",
+       "url": "https://duckduckgo.com/?q=site%3Athehindu.com%20india%20pakistani%20modi%20question%20corporate"
+      }
+     ]
+    },
+    {
+     "camp": "pakistan",
+     "label": "Pakistani",
+     "search": [
+      {
+       "outlet": "Dawn",
+       "url": "https://duckduckgo.com/?q=site%3Adawn.com%20india%20pakistani%20modi%20question%20corporate"
+      }
+     ]
+    }
+   ]
+  },
+  "a141c3e0fa": {
+   "bodies": [],
+   "id": "a141c3e0fa",
+   "headline": "Senior CPC official stresses security cooperation with Germany",
+   "countries": [
+    "DEU",
+    "USA",
+    "CHN"
+   ],
+   "score": 14.45,
+   "outlets": 3,
+   "camps": 3,
+   "updated": "2026-11-26T13:54:38+00:00",
+   "sources": [
+    {
+     "outlet": "CGTN",
+     "camp": "china-state",
+     "camp_label": "Chinese state",
+     "ownership": "Chinese state broadcaster",
+     "title": "Senior CPC official stresses security cooperation with Germany",
+     "url": "https://news.cgtn.com/news/2026-11-25/Senior-CPC-official-stresses-security-cooperation-with-Germany-1SmMimuer1C/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+     "date": "2026-11-25T14:44:36+00:00"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "camp": "asia-pacific",
+     "camp_label": "Asia-Pacific",
+     "ownership": "Hong Kong private (Alibaba)",
+     "title": "German woman abused by priest wins record US$600,000 from Catholic Church",
+     "url": "https://www.scmp.com/news/world/europe/article/3375958/woman-abused-priest-foster-father-wins-record-us600000-german-church",
+     "date": "2026-11-26T13:54:38+00:00"
+    },
+    {
+     "outlet": "The Hindu",
+     "camp": "india",
+     "camp_label": "Indian",
+     "ownership": "Indian private",
+     "title": "German police arrest two Iraqis over alleged Cologne synagogue bomb plot",
+     "url": "https://www.thehindu.com/news/international/german-police-arrest-two-iraqis-over-alleged-cologne-synagogue-bomb-plot/article71746212.ece",
+     "date": "2026-11-26T11:54:49+00:00"
+    }
+   ],
+   "missing": [
+    {
+     "camp": "western",
+     "label": "Western",
+     "search": [
+      {
+       "outlet": "BBC News",
+       "url": "https://duckduckgo.com/?q=site%3Abbc.com%20german%20woman%20abused%20priest%20wins"
+      },
+      {
+       "outlet": "The Guardian",
+       "url": "https://duckduckgo.com/?q=site%3Atheguardian.com%20german%20woman%20abused%20priest%20wins"
+      }
+     ]
+    },
+    {
+     "camp": "western",
+     "label": "Western",
+     "search": [
+      {
+       "outlet": "BBC News",
+       "url": "https://duckduckgo.com/?q=site%3Abbc.com%20german%20woman%20abused%20priest%20wins"
+      },
+      {
+       "outlet": "The Guardian",
+       "url": "https://duckduckgo.com/?q=site%3Atheguardian.com%20german%20woman%20abused%20priest%20wins"
+      }
+     ]
+    }
+   ]
+  },
+  "b67e15e7a6": {
+   "bodies": [],
+   "id": "b67e15e7a6",
+   "headline": "Nepal to declare 4,000 missing flood victims dead — AFP",
+   "countries": [
+    "NPL",
+    "CHN"
+   ],
+   "score": 14.44,
+   "outlets": 3,
+   "camps": 3,
+   "updated": "2026-11-26T13:48:40+00:00",
+   "sources": [
+    {
+     "outlet": "TASS",
+     "camp": "russia-state",
+     "camp_label": "Russian state",
+     "ownership": "Russian state agency",
+     "title": "Nepal to declare 4,000 missing flood victims dead — AFP",
+     "url": "https://tass.com/society/2225373",
+     "date": "2026-11-26T13:48:40+00:00"
+    },
+    {
+     "outlet": "South China Morning Post",
+     "camp": "asia-pacific",
+     "camp_label": "Asia-Pacific",
+     "ownership": "Hong Kong private (Alibaba)",
+     "title": "Nepal starts legal process to declare 4,000 dead 3 months after fatal floods",
+     "url": "https://www.scmp.com/news/asia/south-asia/article/3375910/nepal-starts-legal-process-declare-4000-dead-3-months-after-fatal-floods",
+     "date": "2026-11-26T09:06:52+00:00"
+    },
+    {
+     "outlet": "The Hindu",
+     "camp": "india",
+     "camp_label": "Indian",
+     "ownership": "Indian private",
+     "title": "Nepal flash floods: Kathmandu begins process to declare 213 missing Indians presumed dead",
+     "url": "https://www.thehindu.com/news/national/nepal-flash-floods-kathmandu-begins-process-to-declare-213-indians-missing-presumed-dead/article71745222.ece",
+     "date": "2026-11-26T05:04:14+00:00"
+    }
+   ],
+   "missing": [
+    {
+     "camp": "china-state",
+     "label": "Chinese state",
+     "search": [
+      {
+       "outlet": "Global Times",
+       "url": "https://duckduckgo.com/?q=site%3Aglobaltimes.cn%20nepal%20declare%20flood%20dead%20missing"
+      },
+      {
+       "outlet": "CGTN",
+       "url": "https://duckduckgo.com/?q=site%3Acgtn.com%20nepal%20declare%20flood%20dead%20missing"
+      }
+     ]
+    }
+   ]
+  },
+  "35fcd8d302": {
+   "bodies": [
+    "EU"
+   ],
+   "id": "35fcd8d302",
+   "headline": "EU-Indonesia trade deal opens new markets, but challenges remain",
+   "countries": [
+    "IDN",
+    "IRN"
+   ],
+   "score": 9.43,
+   "outlets": 2,
+   "camps": 2,
+   "updated": "2026-11-26T13:41:00+00:00",
+   "sources": [
+    {
+     "outlet": "Tehran Times",
+     "camp": "iran-state",
+     "camp_label": "Iranian state",
+     "ownership": "Iranian state-aligned",
+     "title": "Tehran, Jakarta agree to pursue direct flights, finalize tourism cooperation deal",
+     "url": "https://www.tehrantimes.com/news/532542/Tehran-Jakarta-agree-to-pursue-direct-flights-finalize-tourism",
+     "date": "2026-11-25T14:20:18+00:00"
+    },
+    {
+     "outlet": "DW",
+     "camp": "western",
+     "camp_label": "Western",
+     "ownership": "German public broadcaster",
+     "title": "EU-Indonesia trade deal opens new markets, but challenges remain",
+     "url": "https://www.dw.com/en/eu-indonesia-trade-deal-opens-new-markets-but-challenges-remain/a-80059568?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-11-26T13:41:00+00:00"
+    }
+   ],
+   "missing": []
+  },
+  "ac8c749c46": {
+   "bodies": [],
+   "id": "ac8c749c46",
+   "headline": "DR Congo demands answers over Ugandan general's threats",
+   "countries": [
+    "COD",
+    "UGA",
+    "COG"
+   ],
+   "score": 9.42,
+   "outlets": 2,
+   "camps": 2,
+   "updated": "2026-11-26T13:34:27+00:00",
+   "sources": [
+    {
+     "outlet": "Africanews",
+     "camp": "africa",
+     "camp_label": "African",
+     "ownership": "Pan-African (Euronews group)",
+     "title": "DRC–Uganda tensions escalate as Kinshasa summons Ugandan diplomat",
+     "url": "http://www.africanews.com/2026/11/26/drcuganda-tensions-escalate-as-kinshasa-summons-ugandan-diplomat/",
+     "date": "2026-11-26T13:34:27+00:00"
+    },
+    {
+     "outlet": "BBC News",
+     "camp": "western",
+     "camp_label": "Western",
+     "ownership": "UK public broadcaster",
+     "title": "DR Congo demands answers over Ugandan general's threats",
+     "url": "https://www.bbc.co.uk/news/articles/cwz0k90rgpm8o?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-26T07:24:39+00:00"
+    }
+   ],
+   "missing": []
+  },
+  "28d8f5a25d": {
+   "bodies": [],
+   "id": "28d8f5a25d",
+   "headline": "The Persecution Continues: Minority Communities Under Sustained Attack in Bangladesh (January - October 2026)",
+   "countries": [
+    "BGD",
+    "USA"
+   ],
+   "score": 4.42,
+   "outlets": 1,
+   "camps": 1,
+   "updated": "2026-11-26T13:33:19+00:00",
+   "sources": [
+    {
+     "outlet": "ReliefWeb",
+     "camp": "multilateral",
+     "camp_label": "UN / multilateral",
+     "ownership": "UN OCHA",
+     "title": "The Persecution Continues: Minority Communities Under Sustained Attack in Bangladesh (January - October 2026)",
+     "url": "https://reliefweb.int/report/bangladesh/persecution-continues-minority-communities-under-sustained-attack-bangladesh-january-october-2026",
+     "date": "2026-11-26T13:33:19+00:00"
+    }
+   ],
+   "missing": [
+    {
+     "camp": "western",
+     "label": "Western",
+     "search": [
+      {
+       "outlet": "BBC News",
+       "url": "https://duckduckgo.com/?q=site%3Abbc.com%20bangladesh%20persecution%20continue%20minority%20communitie"
+      },
+      {
+       "outlet": "The Guardian",
+       "url": "https://duckduckgo.com/?q=site%3Atheguardian.com%20bangladesh%20persecution%20continue%20minority%20communitie"
+      }
+     ]
+    }
+   ]
+  },
+  "e8c9089f72": {
+   "bodies": [],
+   "id": "e8c9089f72",
+   "headline": "China sends first foreign astronaut to ISS rival as it globalises space operations",
+   "countries": [
+    "CHN",
+    "PAK"
+   ],
+   "score": 14.41,
+   "outlets": 3,
+   "camps": 3,
+   "updated": "2026-11-26T13:23:52+00:00",
+   "sources": [
+    {
+     "outlet": "CGTN",
+     "camp": "china-state",
+     "camp_label": "Chinese state",
+     "ownership": "Chinese state broadcaster",
+     "title": "China hails joint spaceflight mission with Pakistan",
+     "url": "https://news.cgtn.com/news/2026-11-25/China-hails-joint-spaceflight-mission-with-Pakistan-1SmpakVYUAU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+     "date": "2026-11-25T09:53:35+00:00"
+    },
+    {
+     "outlet": "Dawn",
+     "camp": "pakistan",
+     "camp_label": "Pakistani",
+     "ownership": "Pakistani private",
+     "title": "Other realms",
+     "url": "https://www.dawn.com/news/2047093/other-realms",
+     "date": "2026-11-26T13:23:52+00:00"
+    },
+    {
+     "outlet": "The Guardian",
+     "camp": "western",
+     "camp_label": "Western",
+     "ownership": "UK private (trust-owned)",
+     "title": "China sends first foreign astronaut to ISS rival as it globalises space operations",
+     "url": "https://www.theguardian.com/science/2026/nov/25/china-sends-first-pakistani-astronaut-into-space",
+     "date": "2026-11-25T14:18:29+00:00"
+    }
+   ],
+   "missing": []
+  },
+  "bba5005586": {
+   "bodies": [],
+   "id": "bba5005586",
+   "headline": "Singapore doctor remanded over filming 874 women in Melbourne: ‘abhorrent sexual predator’",
+   "countries": [
+    "SGP",
+    "AUS"
+   ],
+   "score": 4.38,
+   "outlets": 1,
+   "camps": 1,
+   "updated": "2026-11-26T13:08:00+00:00",
+   "sources": [
+    {
+     "outlet": "South China Morning Post",
+     "camp": "asia-pacific",
+     "camp_label": "Asia-Pacific",
+     "ownership": "Hong Kong private (Alibaba)",
+     "title": "Singapore doctor remanded over filming 874 women in Melbourne: ‘abhorrent sexual predator’",
+     "url": "https://www.scmp.com/week-asia/people/article/3375950/singapore-doctor-remanded-over-filming-874-women-melbourne-abhorrent-sexual-predator",
+     "date": "2026-11-26T13:08:00+00:00"
+    }
+   ],
+   "missing": [
+    {
+     "camp": "western",
+     "label": "Western",
+     "search": [
+      {
+       "outlet": "BBC News",
+       "url": "https://duckduckgo.com/?q=site%3Abbc.com%20singapore%20doctor%20remanded%20filming%20women"
+      },
+      {
+       "outlet": "The Guardian",
+       "url": "https://duckduckgo.com/?q=site%3Atheguardian.com%20singapore%20doctor%20remanded%20filming%20women"
+      }
+     ]
+    }
+   ]
+  },
+  "f7da4284dd": {
+   "bodies": [],
+   "id": "f7da4284dd",
+   "headline": "'As humans we feel spiritually homeless': Turkish author Ece Temelkuran on belonging",
+   "countries": [
+    "TUR"
+   ],
+   "score": 4.36,
+   "outlets": 1,
+   "camps": 1,
+   "updated": "2026-11-26T12:48:46+00:00",
+   "sources": [
+    {
+     "outlet": "France 24",
+     "camp": "western",
+     "camp_label": "Western",
+     "ownership": "French public broadcaster",
+     "title": "'As humans we feel spiritually homeless': Turkish author Ece Temelkuran on belonging",
+     "url": "https://www.france24.com/en/tv-shows/perspective/20261126-as-humans-we-feel-spiritually-homeless-turkish-author-ece-temelkuran-on-belonging",
+     "date": "2026-11-26T12:48:46+00:00"
+    }
+   ],
+   "missing": [
+    {
+     "camp": "turkey-state",
+     "label": "Turkish state",
+     "search": [
+      {
+       "outlet": "Anadolu Agency",
+       "url": "https://duckduckgo.com/?q=site%3Aaa.com.tr%20human%20feel%20spiritually%20homeless%20turkish"
+      }
+     ]
+    }
+   ]
+  },
+  "24ca9d167f": {
+   "bodies": [],
+   "id": "24ca9d167f",
+   "headline": "UN experts demand Vietnam explain ‘abduction’ of activists from Cambodia",
+   "countries": [
+    "VNM",
+    "KHM"
+   ],
+   "score": 6.34,
+   "outlets": 2,
+   "camps": 1,
+   "updated": "2026-11-26T12:38:35+00:00",
+   "sources": [
+    {
+     "outlet": "South China Morning Post",
+     "camp": "asia-pacific",
+     "camp_label": "Asia-Pacific",
+     "ownership": "Hong Kong private (Alibaba)",
+     "title": "UN experts demand Vietnam explain ‘abduction’ of activists from Cambodia",
+     "url": "https://www.scmp.com/news/asia/southeast-asia/article/3375945/un-experts-demand-vietnam-explain-abduction-activists-cambodia",
+     "date": "2026-11-26T12:38:35+00:00"
+    }
+   ],
+   "missing": []
+  },
+  "10aa483313": {
+   "bodies": [],
+   "id": "10aa483313",
+   "headline": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
+   "countries": [],
+   "score": 11.34,
+   "outlets": 3,
+   "camps": 2,
+   "updated": "2026-11-26T12:33:23+00:00",
+   "sources": [
+    {
+     "outlet": "BBC News",
+     "camp": "western",
+     "camp_label": "Western",
+     "ownership": "UK public broadcaster",
+     "title": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
+     "url": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-26T12:33:23+00:00"
+    },
+    {
+     "outlet": "The Hindu",
+     "camp": "india",
+     "camp_label": "Indian",
+     "ownership": "Indian private",
+     "title": "Andy Taylor, guitarist of new wave icons Duran Duran, dies at 65",
+     "url": "https://www.thehindu.com/entertainment/music/andy-taylor-guitarist-of-new-wave-icons-duran-duran-dies-at-65/article71744266.ece",
+     "date": "2026-11-25T22:46:30+00:00"
+    }
+   ],
+   "missing": []
+  },
+  "2f257753fe": {
+   "bodies": [],
+   "id": "2f257753fe",
+   "headline": "Police use tear gas to disperse fresh Bangladesh garment worker protests",
+   "countries": [
+    "BGD"
+   ],
+   "score": 9.33,
+   "outlets": 2,
+   "camps": 2,
+   "updated": "2026-11-26T12:33:04+00:00",
+   "sources": [
+    {
+     "outlet": "Dawn",
+     "camp": "pakistan",
+     "camp_label": "Pakistani",
+     "ownership": "Pakistani private",
+     "title": "Police use tear gas to disperse fresh Bangladesh garment worker protests",
+     "url": "https://www.dawn.com/news/2047219/police-use-tear-gas-to-disperse-fresh-bangladesh-garment-worker-protests",
+     "date": "2026-11-26T12:33:04+00:00"
+    },
+    {
+     "outlet": "RT",
+     "camp": "russia-state",
+     "camp_label": "Russian state",
+     "ownership": "Russian state-funded",
+     "title": "Bangladesh garment workers clash with police in minimum wage row",
+     "url": "https://rt-english.com/news/649348-bangladesh-garment-workers-protest/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+     "date": "2026-11-25T12:50:36+00:00"
+    }
+   ],
+   "missing": []
+  },
+  "e18f96852d": {
+   "bodies": [],
+   "id": "e18f96852d",
+   "headline": "Will Solomon Islands’ Australia treaty prompt China to rethink its Pacific strategy?",
+   "countries": [
+    "CHN",
+    "SLB",
+    "AUS"
+   ],
+   "score": 4.29,
+   "outlets": 1,
+   "camps": 1,
+   "updated": "2026-11-26T12:00:11+00:00",
+   "sources": [
+    {
+     "outlet": "South China Morning Post",
+     "camp": "asia-pacific",
+     "camp_label": "Asia-Pacific",
+     "ownership": "Hong Kong private (Alibaba)",
+     "title": "Will Solomon Islands’ Australia treaty prompt China to rethink its Pacific strategy?",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3375923/will-solomon-islands-australia-treaty-prompt-china-rethink-its-pacific-strategy",
+     "date": "2026-11-26T12:00:11+00:00"
+    }
+   ],
+   "missing": [
+    {
+     "camp": "china-state",
+     "label": "Chinese state",
+     "search": [
+      {
+       "outlet": "Global Times",
+       "url": "https://duckduckgo.com/?q=site%3Aglobaltimes.cn%20solomon%20island%20australia%20treaty%20prompt"
+      },
+      {
+       "outlet": "CGTN",
+       "url": "https://duckduckgo.com/?q=site%3Acgtn.com%20solomon%20island%20australia%20treaty%20prompt"
+      }
+     ]
+    }
+   ]
+  },
+  "51ba2a7b16": {
+   "bodies": [],
+   "id": "51ba2a7b16",
+   "headline": "Nigeria seizes $220 million worth of meth, arrests 5 Mexican suspects",
+   "countries": [
+    "NGA",
+    "MEX"
+   ],
+   "score": 4.18,
+   "outlets": 1,
+   "camps": 1,
+   "updated": "2026-11-26T10:43:28+00:00",
+   "sources": [
+    {
+     "outlet": "Africanews",
+     "camp": "africa",
+     "camp_label": "African",
+     "ownership": "Pan-African (Euronews group)",
+     "title": "Nigeria seizes $220 million worth of meth, arrests 5 Mexican suspects",
+     "url": "http://www.africanews.com/2026/11/26/nigeria-seizes-220-million-worth-of-meth-arrests-5-mexican-suspects/",
+     "date": "2026-11-26T10:43:28+00:00"
+    }
+   ],
+   "missing": [
+    {
+     "camp": "latam",
+     "label": "Latin American",
+     "search": [
+      {
+       "outlet": "MercoPress",
+       "url": "https://duckduckgo.com/?q=site%3Amercopress.com%20nigeria%20seize%20million%20worth%20meth"
+      }
+     ]
+    }
+   ]
+  },
+  "7d28197f80": {
+   "bodies": [],
+   "id": "7d28197f80",
+   "headline": "Deadly factory fire in Indonesia renews lack of safety enforcement fears",
+   "countries": [
+    "IDN"
+   ],
+   "score": 4.18,
+   "outlets": 1,
+   "camps": 1,
+   "updated": "2026-11-26T10:43:07+00:00",
+   "sources": [
+    {
+     "outlet": "South China Morning Post",
+     "camp": "asia-pacific",
+     "camp_label": "Asia-Pacific",
+     "ownership": "Hong Kong private (Alibaba)",
+     "title": "Deadly factory fire in Indonesia renews lack of safety enforcement fears",
+     "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3375934/deadly-factory-fire-indonesia-renews-lack-safety-enforcement-fears",
+     "date": "2026-11-26T10:43:07+00:00"
+    }
+   ],
+   "missing": []
+  },
+  "d7787f9642": {
+   "bodies": [],
+   "id": "d7787f9642",
+   "headline": "Brazilian forensic scientist identifies missing migrants on 'ghost ships'",
+   "countries": [
+    "BRA"
+   ],
+   "score": 4.16,
+   "outlets": 1,
+   "camps": 1,
+   "updated": "2026-11-26T10:30:01+00:00",
+   "sources": [
+    {
+     "outlet": "Africanews",
+     "camp": "africa",
+     "camp_label": "African",
+     "ownership": "Pan-African (Euronews group)",
+     "title": "Brazilian forensic scientist identifies missing migrants on 'ghost ships'",
+     "url": "http://www.africanews.com/2026/11/26/brazilian-forensic-scientist-identifies-missing-migrants-on-ghost-ships/",
+     "date": "2026-11-26T10:30:01+00:00"
+    }
+   ],
+   "missing": [
+    {
+     "camp": "latam",
+     "label": "Latin American",
+     "search": [
+      {
+       "outlet": "MercoPress",
+       "url": "https://duckduckgo.com/?q=site%3Amercopress.com%20brazilian%20forensic%20scientist%20identifie%20missing"
+      }
+     ]
+    }
+   ]
+  },
+  "ef4e7886f5": {
+   "bodies": [],
+   "id": "ef4e7886f5",
+   "headline": "Sri Lankan asylum seeker killed himself after being sent by UK to Eswatini",
+   "countries": [
+    "GBR",
+    "SWZ"
+   ],
+   "score": 9.14,
+   "outlets": 2,
+   "camps": 2,
+   "updated": "2026-11-26T10:10:16+00:00",
+   "sources": [
+    {
+     "outlet": "The Guardian",
+     "camp": "western",
+     "camp_label": "Western",
+     "ownership": "UK private (trust-owned)",
+     "title": "Sri Lankan asylum seeker killed himself after being sent by UK to Eswatini",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/25/sri-lanka-asylum-seeker-convicted-sexual-assault-uk-kills-himself-eswatini",
+     "date": "2026-11-25T11:28:05+00:00"
+    },
+    {
+     "outlet": "Africanews",
+     "camp": "africa",
+     "camp_label": "African",
+     "ownership": "Pan-African (Euronews group)",
+     "title": "UK sent Sri Lankan refugee to Eswatini in secret deal, the BBC says",
+     "url": "http://www.africanews.com/2026/11/26/uk-sent-sri-lankan-refugee-to-eswatini-in-secret-deal-the-bbc-says/",
+     "date": "2026-11-26T10:10:16+00:00"
+    }
+   ],
+   "missing": []
+  },
+  "b65ad18167": {
+   "bodies": [],
+   "id": "b65ad18167",
+   "headline": "Greatest catch ever? Man on motorbike takes incredible grab",
+   "countries": [
+    "PAK"
+   ],
+   "score": 9.07,
+   "outlets": 2,
+   "camps": 2,
+   "updated": "2026-11-26T09:24:14+00:00",
+   "sources": [
+    {
+     "outlet": "The Hindu",
+     "camp": "india",
+     "camp_label": "Indian",
+     "ownership": "Indian private",
+     "title": "‘Unbelievable catch’: Pakistan motorbike passenger becomes cricket sensation",
+     "url": "https://www.thehindu.com/sport/cricket/unbelievable-catch-pakistan-motorbike-passenger-becomes-cricket-sensation/article71745859.ece",
+     "date": "2026-11-26T09:24:14+00:00"
+    },
+    {
+     "outlet": "BBC News",
+     "camp": "western",
+     "camp_label": "Western",
+     "ownership": "UK public broadcaster",
+     "title": "Greatest catch ever? Man on motorbike takes incredible grab",
+     "url": "https://www.bbc.co.uk/sport/cricket/videos/cwx2e0g93l3eo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-25T16:23:03+00:00"
+    }
+   ],
+   "missing": [
+    {
+     "camp": "pakistan",
+     "label": "Pakistani",
+     "search": [
+      {
+       "outlet": "Dawn",
+       "url": "https://duckduckgo.com/?q=site%3Adawn.com%20catch%20motorbike%20unbelievable%20pakistan%20passenger"
+      }
+     ]
+    }
+   ]
+  },
+  "fe688b66b1": {
+   "bodies": [],
+   "id": "fe688b66b1",
+   "headline": "Where big U.S. unions stand on Trump's Canada tariffs",
+   "countries": [
+    "USA",
+    "CAN"
+   ],
+   "score": 4.04,
+   "outlets": 1,
+   "camps": 1,
+   "updated": "2026-11-26T09:00:00+00:00",
+   "sources": [
+    {
+     "outlet": "CBC News",
+     "camp": "western",
+     "camp_label": "Western",
+     "ownership": "Canadian public broadcaster",
+     "title": "Where big U.S. unions stand on Trump's Canada tariffs",
+     "url": "https://www.cbc.ca/news/world/trump-tariffs-canada-unions-auto-steel-uaw-usw-afl-cio-9.7435501?cmp=rss",
+     "date": "2026-11-26T09:00:00+00:00"
+    }
+   ],
+   "missing": []
+  },
+  "e91b993d31": {
+   "bodies": [],
+   "id": "e91b993d31",
+   "headline": "Erdogan welcomes Haftar to Turkey amid push to strengthen ties with eastern Libya",
+   "countries": [
+    "TUR",
+    "LBY"
+   ],
+   "score": 4.03,
+   "outlets": 1,
+   "camps": 1,
+   "updated": "2026-11-26T08:51:51+00:00",
+   "sources": [
+    {
+     "outlet": "Africanews",
+     "camp": "africa",
+     "camp_label": "African",
+     "ownership": "Pan-African (Euronews group)",
+     "title": "Erdogan welcomes Haftar to Turkey amid push to strengthen ties with eastern Libya",
+     "url": "http://www.africanews.com/2026/11/26/erdogan-welcomes-haftar-to-ankara-amid-push-to-strengthen-ties-with-eastern-libya/",
+     "date": "2026-11-26T08:51:51+00:00"
+    }
+   ],
+   "missing": [
+    {
+     "camp": "turkey-state",
+     "label": "Turkish state",
+     "search": [
+      {
+       "outlet": "Anadolu Agency",
+       "url": "https://duckduckgo.com/?q=site%3Aaa.com.tr%20erdogan%20welcome%20haftar%20turkey%20push"
+      }
+     ]
+    }
+   ]
+  },
+  "6d9a550e65": {
+   "bodies": [],
+   "id": "6d9a550e65",
+   "headline": "Sheikh Hasina’s return gambit tests Bangladesh’s political fault lines",
+   "countries": [
+    "BGD",
+    "IND"
+   ],
+   "score": 3.96,
+   "outlets": 1,
+   "camps": 1,
+   "updated": "2026-11-26T08:00:29+00:00",
+   "sources": [
+    {
+     "outlet": "The Hindu",
+     "camp": "india",
+     "camp_label": "Indian",
+     "ownership": "Indian private",
+     "title": "Sheikh Hasina’s return gambit tests Bangladesh’s political fault lines",
+     "url": "https://www.thehindu.com/news/international/sheikh-hasinas-return-gambit-tests-bangladeshs-political-fault-lines/article71745537.ece",
+     "date": "2026-11-26T08:00:29+00:00"
+    }
+   ],
+   "missing": []
+  },
+  "44fd79eff3": {
+   "bodies": [],
+   "id": "44fd79eff3",
+   "headline": "Thirteen dead as mine disaster highlights illegal hunt for gold",
+   "countries": [
+    "IDN"
+   ],
+   "score": 3.92,
+   "outlets": 1,
+   "camps": 1,
+   "updated": "2026-11-26T07:31:24+00:00",
+   "sources": [
+    {
+     "outlet": "BBC News",
+     "camp": "western",
+     "camp_label": "Western",
+     "ownership": "UK public broadcaster",
+     "title": "Thirteen dead as mine disaster highlights illegal hunt for gold",
+     "url": "https://www.bbc.co.uk/news/articles/cmde1zr0nlyro?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-26T07:31:24+00:00"
+    }
+   ],
+   "missing": []
+  },
+  "529d01ff44": {
+   "bodies": [],
+   "id": "529d01ff44",
+   "headline": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
+   "countries": [
+    "DEU",
+    "FRA"
+   ],
+   "score": 3.71,
+   "outlets": 1,
+   "camps": 1,
+   "updated": "2026-11-26T05:00:27+00:00",
+   "sources": [
+    {
+     "outlet": "BBC News",
+     "camp": "western",
+     "camp_label": "Western",
+     "ownership": "UK public broadcaster",
+     "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
+     "url": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-26T05:00:27+00:00"
+    }
+   ],
+   "missing": []
+  },
+  "0f72c78275": {
+   "bodies": [],
+   "id": "0f72c78275",
+   "headline": "Brazil withdraws its ambassador to Argentina and will not invite Milei to Lula's inauguration",
+   "countries": [
+    "BRA",
+    "ARG",
+    "URY"
+   ],
+   "score": 3.68,
+   "outlets": 1,
+   "camps": 1,
+   "updated": "2026-11-26T04:45:00+00:00",
+   "sources": [
+    {
+     "outlet": "MercoPress",
+     "camp": "latam",
+     "camp_label": "Latin American",
+     "ownership": "Uruguay-based private",
+     "title": "Brazil withdraws its ambassador to Argentina and will not invite Milei to Lula's inauguration",
+     "url": "https://en.mercopress.com/2026/11/26/brazil-withdraws-its-ambassador-to-argentina-and-will-not-invite-milei-to-lula-s-inauguration?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
+     "date": "2026-11-26T04:45:00+00:00"
+    }
+   ],
+   "missing": []
   },
   "240be81670": {
    "bodies": [
@@ -442,11 +3300,11 @@ window.CC_STORIES = {
    "id": "240be81670",
    "headline": "NATO's No. 2 commander strikes different tone on Canada than Pentagon",
    "countries": [
-    "USA",
-    "CAN"
+    "CAN",
+    "USA"
    ],
-   "score": 6.95,
-   "outlets": 2,
+   "score": 2.96,
+   "outlets": 1,
    "camps": 1,
    "updated": "2026-11-25T19:59:43+00:00",
    "sources": [
@@ -470,7 +3328,7 @@ window.CC_STORIES = {
     "CAN",
     "THA"
    ],
-   "score": 4.94,
+   "score": 2.95,
    "outlets": 1,
    "camps": 1,
    "updated": "2026-11-25T19:57:49+00:00",
@@ -487,383 +3345,6 @@ window.CC_STORIES = {
    ],
    "missing": []
   },
-  "89eb16b80c": {
-   "bodies": [],
-   "id": "89eb16b80c",
-   "headline": "Elderly man with Alzheimer’s rescued after 11 days in Amazon jungle",
-   "countries": [
-    "BRA"
-   ],
-   "score": 4.94,
-   "outlets": 1,
-   "camps": 1,
-   "updated": "2026-11-25T19:57:08+00:00",
-   "sources": [
-    {
-     "outlet": "Al Jazeera",
-     "camp": "arab",
-     "camp_label": "Arab / Gulf",
-     "ownership": "Qatari state-funded",
-     "title": "Elderly man with Alzheimer’s rescued after 11 days in Amazon jungle",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/aje-onl-nf_man-with-alzheimers-rescued-after-11-days-in-amazon-251126?traffic_source=rss",
-     "date": "2026-11-25T19:57:08+00:00"
-    }
-   ],
-   "missing": [
-    {
-     "camp": "latam",
-     "label": "Latin American",
-     "search": [
-      {
-       "outlet": "MercoPress",
-       "url": "https://duckduckgo.com/?q=site%3Amercopress.com%20elderly%20man%20alzheimer%20rescued%20amazon"
-      }
-     ]
-    }
-   ]
-  },
-  "7dbc465151": {
-   "bodies": [],
-   "id": "7dbc465151",
-   "headline": "US Army says controlled blast of explosives in Iowa was 'huge success'",
-   "countries": [
-    "USA"
-   ],
-   "score": 25.94,
-   "outlets": 7,
-   "camps": 4,
-   "updated": "2026-11-25T19:54:52+00:00",
-   "sources": [
-    {
-     "outlet": "BBC News",
-     "camp": "western",
-     "camp_label": "Western",
-     "ownership": "UK public broadcaster",
-     "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
-     "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
-     "date": "2026-11-25T19:54:52+00:00"
-    },
-    {
-     "outlet": "Al Jazeera",
-     "camp": "arab",
-     "camp_label": "Arab / Gulf",
-     "ownership": "Qatari state-funded",
-     "title": "US Army declares Iowa lead azide detonation ‘tremendously successful’",
-     "url": "https://www.aljazeera.com/news/2026/11/25/us-army-declares-iowa-lead-azide-detonation-tremendously-successful?traffic_source=rss",
-     "date": "2026-11-25T19:41:49+00:00"
-    },
-    {
-     "outlet": "TASS",
-     "camp": "russia-state",
-     "camp_label": "Russian state",
-     "ownership": "Russian state agency",
-     "title": "US military detonates 4.5 tons of toxic substances in Iowa",
-     "url": "https://tass.com/world/2224887",
-     "date": "2026-11-25T18:08:30+00:00"
-    }
-   ],
-   "missing": []
-  },
-  "39f6ca4ca5": {
-   "bodies": [],
-   "id": "39f6ca4ca5",
-   "headline": "Massive blaze kills at least 30 in Cairo, Egypt, after fuel truck overturns",
-   "countries": [
-    "EGY"
-   ],
-   "score": 9.92,
-   "outlets": 2,
-   "camps": 2,
-   "updated": "2026-11-25T19:41:27+00:00",
-   "sources": [
-    {
-     "outlet": "Al Jazeera",
-     "camp": "arab",
-     "camp_label": "Arab / Gulf",
-     "ownership": "Qatari state-funded",
-     "title": "Dozens killed in Egypt vehicle fire",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/aje-onl-nf_dozens-killed-in-egypt-vehicle-fire-251126?traffic_source=rss",
-     "date": "2026-11-25T19:41:14+00:00"
-    },
-    {
-     "outlet": "South China Morning Post",
-     "camp": "asia-pacific",
-     "camp_label": "Asia-Pacific",
-     "ownership": "Hong Kong private (Alibaba)",
-     "title": "Massive blaze kills at least 30 in Cairo, Egypt, after fuel truck overturns",
-     "url": "https://www.scmp.com/news/world/middle-east/article/3375814/massive-blaze-kills-least-30-cairo-egypt-after-fuel-truck-overturns",
-     "date": "2026-11-25T19:41:27+00:00"
-    }
-   ],
-   "missing": []
-  },
-  "faa895b828": {
-   "bodies": [],
-   "id": "faa895b828",
-   "headline": "Vance says Jensen Huang doesn’t need pardon after Trump says ‘it’s an option’",
-   "countries": [
-    "USA",
-    "CHN"
-   ],
-   "score": 37.91,
-   "outlets": 10,
-   "camps": 6,
-   "updated": "2026-11-25T19:36:22+00:00",
-   "sources": [
-    {
-     "outlet": "The Guardian",
-     "camp": "western",
-     "camp_label": "Western",
-     "ownership": "UK private (trust-owned)",
-     "title": "Vance says Jensen Huang doesn’t need pardon after Trump says ‘it’s an option’",
-     "url": "https://www.theguardian.com/us-news/2026/nov/25/trump-open-to-pardoning-jensen-huang-nvidia",
-     "date": "2026-11-25T19:36:22+00:00"
-    },
-    {
-     "outlet": "CGTN",
-     "camp": "china-state",
-     "camp_label": "Chinese state",
-     "ownership": "Chinese state broadcaster",
-     "title": "US lawmakers question Trump’s involvement in Nvidia CEO’s return",
-     "url": "https://newsus.cgtn.com/news/2026-11-25/US-lawmakers-question-Trump-s-involvement-in-Nvidia-CEO-s-return-1SlFdrhwxlS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-     "date": "2026-11-24T22:16:42+00:00"
-    },
-    {
-     "outlet": "The Hindu",
-     "camp": "india",
-     "camp_label": "Indian",
-     "ownership": "Indian private",
-     "title": "Nvidia's Jensen Huang says he is in therapy as comeback rally fades",
-     "url": "https://www.thehindu.com/news/international/nvidias-jensen-huang-says-he-is-in-therapy-as-comeback-rally-fades/article71740890.ece",
-     "date": "2026-11-25T07:38:43+00:00"
-    }
-   ],
-   "missing": []
-  },
-  "941e745e6d": {
-   "bodies": [],
-   "id": "941e745e6d",
-   "headline": "Two children among six dead after plane crash off Mississippi coast",
-   "countries": [
-    "MEX"
-   ],
-   "score": 9.9,
-   "outlets": 2,
-   "camps": 2,
-   "updated": "2026-11-25T19:26:44+00:00",
-   "sources": [
-    {
-     "outlet": "BBC News",
-     "camp": "western",
-     "camp_label": "Western",
-     "ownership": "UK public broadcaster",
-     "title": "Two children among six dead after plane crash off Mississippi coast",
-     "url": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
-     "date": "2026-11-25T19:26:44+00:00"
-    },
-    {
-     "outlet": "The Hindu",
-     "camp": "india",
-     "camp_label": "Indian",
-     "ownership": "Indian private",
-     "title": "Crews search for six aboard a small plane that crashed into the Gulf of Mexico, Coast Guard says",
-     "url": "https://www.thehindu.com/news/international/crews-search-for-six-aboard-a-small-plane-that-crashed-into-the-gulf-of-mexico-coast-guard-says/article71741123.ece",
-     "date": "2026-11-25T05:02:16+00:00"
-    }
-   ],
-   "missing": [
-    {
-     "camp": "latam",
-     "label": "Latin American",
-     "search": [
-      {
-       "outlet": "MercoPress",
-       "url": "https://duckduckgo.com/?q=site%3Amercopress.com%20six%20plane%20coast%20children%20among"
-      }
-     ]
-    }
-   ]
-  },
-  "16f448a026": {
-   "bodies": [],
-   "id": "16f448a026",
-   "headline": "North Korea expels Swiss diplomat in sanctions row",
-   "countries": [
-    "PRK",
-    "CHE",
-    "KOR"
-   ],
-   "score": 25.89,
-   "outlets": 7,
-   "camps": 4,
-   "updated": "2026-11-25T19:19:06+00:00",
-   "sources": [
-    {
-     "outlet": "South China Morning Post",
-     "camp": "asia-pacific",
-     "camp_label": "Asia-Pacific",
-     "ownership": "Hong Kong private (Alibaba)",
-     "title": "US warns Kim Ju-ae’s luxury ski gear may breach UN sanctions on North Korea",
-     "url": "https://www.scmp.com/week-asia/people/article/3375751/us-warns-kim-ju-aes-luxury-ski-gear-may-breach-un-sanctions-north-korea",
-     "date": "2026-11-25T09:24:47+00:00"
-    },
-    {
-     "outlet": "BBC News",
-     "camp": "western",
-     "camp_label": "Western",
-     "ownership": "UK public broadcaster",
-     "title": "North Korea expels Swiss diplomat in sanctions row",
-     "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
-     "date": "2026-11-25T19:19:06+00:00"
-    },
-    {
-     "outlet": "Al Jazeera",
-     "camp": "arab",
-     "camp_label": "Arab / Gulf",
-     "ownership": "Qatari state-funded",
-     "title": "Switzerland forced to close office in North Korea over sanctions feud",
-     "url": "https://www.aljazeera.com/news/2026/11/25/switzerland-regrets-closure-of-north-korea-office-over-sanctions-feud?traffic_source=rss",
-     "date": "2026-11-25T16:58:49+00:00"
-    }
-   ],
-   "missing": []
-  },
-  "b382d62e67": {
-   "bodies": [],
-   "id": "b382d62e67",
-   "headline": "Russian air defenses down 20 Ukrainian drones in 12 hours — ministry",
-   "countries": [
-    "RUS",
-    "UKR",
-    "USA"
-   ],
-   "score": 31.89,
-   "outlets": 7,
-   "camps": 6,
-   "updated": "2026-11-25T19:16:15+00:00",
-   "sources": [
-    {
-     "outlet": "TASS",
-     "camp": "russia-state",
-     "camp_label": "Russian state",
-     "ownership": "Russian state agency",
-     "title": "Russian air defenses down 20 Ukrainian drones in 12 hours — ministry",
-     "url": "https://tass.com/politics/2224895",
-     "date": "2026-11-25T18:52:22+00:00"
-    },
-    {
-     "outlet": "Kyiv Independent",
-     "camp": "ukraine",
-     "camp_label": "Ukrainian",
-     "ownership": "Ukrainian independent",
-     "title": "Ukrainian combat laser intercepts Russian jet-powered drone for first time",
-     "url": "https://kyivindependent.com/ukrainian-combat-lasers-intercept-russian-jet-powered-drone-for-first-time/",
-     "date": "2026-11-25T17:47:01+00:00"
-    },
-    {
-     "outlet": "Meduza",
-     "camp": "russia-independent",
-     "camp_label": "Russian independent (exile)",
-     "ownership": "Russian independent, in exile",
-     "title": "Ukrainian drones strike Russia’s Samara region, killing one and setting two Rosneft oil refineries ablaze",
-     "url": "https://meduza.io/en/news/2026/11/25/ukrainian-drones-strike-russia-s-samara-region-killing-one-and-setting-two-rosneft-oil-refineries-ablaze",
-     "date": "2026-11-25T08:07:58+00:00"
-    }
-   ],
-   "missing": []
-  },
-  "2ad3b6fa20": {
-   "bodies": [],
-   "id": "2ad3b6fa20",
-   "headline": "World News in Brief: Vaccine crisis in Yemen, aid for Ukraine, another UNRWA staffer killed",
-   "countries": [
-    "YEM",
-    "SAU",
-    "IRN"
-   ],
-   "score": 24.89,
-   "outlets": 5,
-   "camps": 5,
-   "updated": "2026-11-25T19:15:52+00:00",
-   "sources": [
-    {
-     "outlet": "Al Jazeera",
-     "camp": "arab",
-     "camp_label": "Arab / Gulf",
-     "ownership": "Qatari state-funded",
-     "title": "Could renewed strikes on Hodeidah port worsen Yemen’s humanitarian crisis?",
-     "url": "https://www.aljazeera.com/news/2026/11/25/could-renewed-strikes-on-hodeidah-port-worsen-yemens-humanitarian-crisis?traffic_source=rss",
-     "date": "2026-11-25T19:15:52+00:00"
-    },
-    {
-     "outlet": "Tehran Times",
-     "camp": "iran-state",
-     "camp_label": "Iranian state",
-     "ownership": "Iranian state-aligned",
-     "title": "Yemen hits Saudi largest refinery",
-     "url": "https://www.tehrantimes.com/news/532550/Yemen-hits-Saudi-largest-refinery",
-     "date": "2026-11-25T16:07:46+00:00"
-    },
-    {
-     "outlet": "UN News",
-     "camp": "multilateral",
-     "camp_label": "UN / multilateral",
-     "ownership": "United Nations",
-     "title": "World News in Brief: Vaccine crisis in Yemen, aid for Ukraine, another UNRWA staffer killed",
-     "url": "https://news.un.org/feed/view/en/story/2026/11/1168871",
-     "date": "2026-11-24T12:00:00+00:00"
-    }
-   ],
-   "missing": []
-  },
-  "370d605f27": {
-   "bodies": [],
-   "id": "370d605f27",
-   "headline": "UK military ‘moving aircraft to hangars in case of drone attacks’",
-   "countries": [
-    "GBR"
-   ],
-   "score": 9.88,
-   "outlets": 2,
-   "camps": 2,
-   "updated": "2026-11-25T19:15:01+00:00",
-   "sources": [
-    {
-     "outlet": "Al Jazeera",
-     "camp": "arab",
-     "camp_label": "Arab / Gulf",
-     "ownership": "Qatari state-funded",
-     "title": "UK military ‘moving aircraft to hangars in case of drone attacks’",
-     "url": "https://www.aljazeera.com/news/2026/11/25/uk-military-moving-aircraft-to-hangars-in-case-of-drone-attacks?traffic_source=rss",
-     "date": "2026-11-25T19:15:01+00:00"
-    },
-    {
-     "outlet": "TASS",
-     "camp": "russia-state",
-     "camp_label": "Russian state",
-     "ownership": "Russian state agency",
-     "title": "Britain moves military aircraft into hangars due to risk of drone attacks — TV",
-     "url": "https://tass.com/world/2224733",
-     "date": "2026-11-25T14:17:59+00:00"
-    }
-   ],
-   "missing": [
-    {
-     "camp": "western",
-     "label": "Western",
-     "search": [
-      {
-       "outlet": "BBC News",
-       "url": "https://duckduckgo.com/?q=site%3Abbc.com%20military%20aircraft%20hangar%20drone%20attack"
-      },
-      {
-       "outlet": "The Guardian",
-       "url": "https://duckduckgo.com/?q=site%3Atheguardian.com%20military%20aircraft%20hangar%20drone%20attack"
-      }
-     ]
-    }
-   ]
-  },
   "9d2f7d2b39": {
    "bodies": [
     "Summit"
@@ -874,7 +3355,7 @@ window.CC_STORIES = {
     "TUR",
     "VNM"
    ],
-   "score": 4.88,
+   "score": 2.89,
    "outlets": 1,
    "camps": 1,
    "updated": "2026-11-25T19:13:30+00:00",
@@ -891,693 +3372,15 @@ window.CC_STORIES = {
    ],
    "missing": []
   },
-  "25bebad9ce": {
-   "bodies": [],
-   "id": "25bebad9ce",
-   "headline": "Nigeria’s Tinubu pledges to bring peace to rebellion-hit border region",
-   "countries": [
-    "NGA"
-   ],
-   "score": 9.87,
-   "outlets": 2,
-   "camps": 2,
-   "updated": "2026-11-25T19:03:01+00:00",
-   "sources": [
-    {
-     "outlet": "Premium Times",
-     "camp": "africa",
-     "camp_label": "African",
-     "ownership": "Nigerian private",
-     "title": "Tinubu pledges rescue of schoolchildren at Maiduguri rally",
-     "url": "https://www.premiumtimesng.com/regional/nnorth-east/928047-tinubu-pledges-rescue-of-schoolchildren-at-maiduguri-rally.html",
-     "date": "2026-11-25T19:03:01+00:00"
-    },
-    {
-     "outlet": "Al Jazeera",
-     "camp": "arab",
-     "camp_label": "Arab / Gulf",
-     "ownership": "Qatari state-funded",
-     "title": "Nigeria’s Tinubu pledges to bring peace to rebellion-hit border region",
-     "url": "https://www.aljazeera.com/news/2026/11/25/nigerias-tinubu-pledges-to-bring-peace-to-insurgency-hit-northeast-region?traffic_source=rss",
-     "date": "2026-11-25T18:14:44+00:00"
-    }
-   ],
-   "missing": []
-  },
-  "4d6050ec81": {
-   "bodies": [],
-   "id": "4d6050ec81",
-   "headline": "The ‘French Milei’? Presidential candidate David Lisnard aims to reshape France’s right wing",
-   "countries": [
-    "FRA"
-   ],
-   "score": 14.86,
-   "outlets": 3,
-   "camps": 3,
-   "updated": "2026-11-25T18:59:26+00:00",
-   "sources": [
-    {
-     "outlet": "France 24",
-     "camp": "western",
-     "camp_label": "Western",
-     "ownership": "French public broadcaster",
-     "title": "The ‘French Milei’? Presidential candidate David Lisnard aims to reshape France’s right wing",
-     "url": "https://www.france24.com/en/france/20261125-french-milei-presidential-candidate-david-lisnard-aims-reshape-france-right-wing",
-     "date": "2026-11-25T18:59:26+00:00"
-    },
-    {
-     "outlet": "Anadolu Agency",
-     "camp": "turkey-state",
-     "camp_label": "Turkish state",
-     "ownership": "Turkish state agency",
-     "title": "Probe opened into misuse of public funds at authority chaired by French presidential candidate",
-     "url": "https://www.aa.com.tr/en/europe/probe-opened-into-misuse-of-public-funds-at-authority-chaired-by-french-presidential-candidate/4136367",
-     "date": "2026-11-24T19:04:01+00:00"
-    },
-    {
-     "outlet": "Africanews",
-     "camp": "africa",
-     "camp_label": "African",
-     "ownership": "Pan-African (Euronews group)",
-     "title": "France: Chefs compete for the world egg mayonnaise championship",
-     "url": "http://www.africanews.com/2026/11/24/france-chefs-compete-for-the-world-egg-mayonnaise-championship/",
-     "date": "2026-11-24T14:12:03+00:00"
-    }
-   ],
-   "missing": []
-  },
-  "d93784b3d1": {
-   "bodies": [
-    "EU",
-    "NATO"
-   ],
-   "id": "d93784b3d1",
-   "headline": "US unveils proposed tariffs on major partners, including EU and China",
-   "countries": [
-    "USA",
-    "CHN",
-    "IND"
-   ],
-   "score": 46.86,
-   "outlets": 10,
-   "camps": 9,
-   "updated": "2026-11-25T18:59:26+00:00",
-   "sources": [
-    {
-     "outlet": "France 24",
-     "camp": "western",
-     "camp_label": "Western",
-     "ownership": "French public broadcaster",
-     "title": "US unveils proposed tariffs on major partners, including EU and China",
-     "url": "https://www.france24.com/en/video/20261125-us-unveils-proposed-tariffs-on-major-partners-including-eu-and-china",
-     "date": "2026-11-25T16:21:55+00:00"
-    },
-    {
-     "outlet": "CGTN",
-     "camp": "china-state",
-     "camp_label": "Chinese state",
-     "ownership": "Chinese state broadcaster",
-     "title": "Trade disruptions could put food aid for 7.3 million people at risk",
-     "url": "https://news.cgtn.com/news/2026-11-25/Trade-disruptions-could-put-food-aid-for-7-3-million-people-at-risk-1SlTVTPjSUw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-     "date": "2026-11-25T01:56:18+00:00"
-    },
-    {
-     "outlet": "The Hindu",
-     "camp": "india",
-     "camp_label": "Indian",
-     "ownership": "Indian private",
-     "title": "Trump’s tariff plan explained: Which countries could be hit and why?",
-     "url": "https://www.thehindu.com/videos/trumps-tariff-plan-explained-which-countries-could-be-hit-and-why/article71743829.ece",
-     "date": "2026-11-25T17:40:18+00:00"
-    }
-   ],
-   "missing": []
-  },
-  "5b107c56e2": {
-   "bodies": [],
-   "id": "5b107c56e2",
-   "headline": "Obasanjo, Jonathan, Osinbajo to attend Plateau Christmas event",
-   "countries": [
-    "NGA"
-   ],
-   "score": 4.86,
-   "outlets": 1,
-   "camps": 1,
-   "updated": "2026-11-25T18:57:21+00:00",
-   "sources": [
-    {
-     "outlet": "Premium Times",
-     "camp": "africa",
-     "camp_label": "African",
-     "ownership": "Nigerian private",
-     "title": "Obasanjo, Jonathan, Osinbajo to attend Plateau Christmas event",
-     "url": "https://www.premiumtimesng.com/regional/north-central/928042-obasanjo-jonathan-osinbajo-to-attend-plateau-christmas-event.html",
-     "date": "2026-11-25T18:57:21+00:00"
-    }
-   ],
-   "missing": []
-  },
-  "c7f72a6ef0": {
-   "bodies": [],
-   "id": "c7f72a6ef0",
-   "headline": "Why Iran's medicine supply chain is failing",
-   "countries": [
-    "IRN",
-    "CHN",
-    "ISR"
-   ],
-   "score": 14.86,
-   "outlets": 3,
-   "camps": 3,
-   "updated": "2026-11-25T18:56:42+00:00",
-   "sources": [
-    {
-     "outlet": "Tehran Times",
-     "camp": "iran-state",
-     "camp_label": "Iranian state",
-     "ownership": "Iranian state-aligned",
-     "title": "Chinese ambassador expresses confidence in expansion of practical economic co-op with Iran",
-     "url": "https://www.tehrantimes.com/news/532560/Chinese-ambassador-expresses-confidence-in-further-expansion",
-     "date": "2026-11-25T18:56:42+00:00"
-    },
-    {
-     "outlet": "TASS",
-     "camp": "russia-state",
-     "camp_label": "Russian state",
-     "ownership": "Russian state agency",
-     "title": "US-Israel war mostly damaged civilian infrastructure in Iran, ICRC says",
-     "url": "https://tass.com/world/2224809",
-     "date": "2026-11-25T15:22:10+00:00"
-    },
-    {
-     "outlet": "DW",
-     "camp": "western",
-     "camp_label": "Western",
-     "ownership": "German public broadcaster",
-     "title": "Why Iran's medicine supply chain is failing",
-     "url": "https://www.dw.com/en/why-iran-s-medicine-supply-chain-is-failing/a-80035268?maca=en-rss-en-world-4025-rdf",
-     "date": "2026-11-24T14:36:00+00:00"
-    }
-   ],
-   "missing": [
-    {
-     "camp": "china-state",
-     "label": "Chinese state",
-     "search": [
-      {
-       "outlet": "Global Times",
-       "url": "https://duckduckgo.com/?q=site%3Aglobaltimes.cn%20iran%20chinese%20ambassador%20attack%20cooperation"
-      },
-      {
-       "outlet": "CGTN",
-       "url": "https://duckduckgo.com/?q=site%3Acgtn.com%20iran%20chinese%20ambassador%20attack%20cooperation"
-      }
-     ]
-    }
-   ]
-  },
-  "55a82cae82": {
-   "bodies": [
-    "NATO"
-   ],
-   "id": "55a82cae82",
-   "headline": "Ukraine war latest: Poland plans no-fly zone near Ukraine border, asks NATO to intercept Russian missiles over Ukraine",
-   "countries": [
-    "UKR",
-    "RUS",
-    "POL"
-   ],
-   "score": 37.85,
-   "outlets": 10,
-   "camps": 6,
-   "updated": "2026-11-25T18:53:38+00:00",
-   "sources": [
-    {
-     "outlet": "Kyiv Independent",
-     "camp": "ukraine",
-     "camp_label": "Ukrainian",
-     "ownership": "Ukrainian independent",
-     "title": "Ukraine war latest: Poland plans no-fly zone near Ukraine border, asks NATO to intercept Russian missiles over Ukraine",
-     "url": "https://kyivindependent.com/ukraine-war-latest-poland-plans-no-fly-zone-near-ukraine-border-asks-nato-to-intercept-russian-missiles-over-ukraine/",
-     "date": "2026-11-25T18:53:38+00:00"
-    },
-    {
-     "outlet": "TASS",
-     "camp": "russia-state",
-     "camp_label": "Russian state",
-     "ownership": "Russian state agency",
-     "title": "Poland urges NATO to explore possibility of intercepting missiles over Ukraine — Bloomberg",
-     "url": "https://tass.com/world/2224823",
-     "date": "2026-11-25T15:44:42+00:00"
-    },
-    {
-     "outlet": "Meduza",
-     "camp": "russia-independent",
-     "camp_label": "Russian independent (exile)",
-     "ownership": "Russian independent, in exile",
-     "title": "More than 700,000 Russian soldiers have died in Ukraine — more than the U.S. lost in World War II or the number of boys born in Russia in a single year",
-     "url": "https://meduza.io/en/feature/2026/11/25/more-than-700-000-russian-soldiers-have-died-in-ukraine-more-than-the-u-s-lost-in-world-war-ii-or-the-number-of-boys-born-in-russia-in-a-single-year",
-     "date": "2026-11-25T15:41:36+00:00"
-    }
-   ],
-   "missing": []
-  },
-  "044d366302": {
-   "bodies": [],
-   "id": "044d366302",
-   "headline": "Akwa Ibom retains Nigeria’s cleanest state for 9th consecutive year",
-   "countries": [
-    "NGA"
-   ],
-   "score": 4.83,
-   "outlets": 1,
-   "camps": 1,
-   "updated": "2026-11-25T18:36:08+00:00",
-   "sources": [
-    {
-     "outlet": "Premium Times",
-     "camp": "africa",
-     "camp_label": "African",
-     "ownership": "Nigerian private",
-     "title": "Akwa Ibom retains Nigeria’s cleanest state for 9th consecutive year",
-     "url": "https://www.premiumtimesng.com/regional/south-south-regional/928039-akwa-ibom-retains-nigerias-cleanest-state-for-9th-consecutive-year.html",
-     "date": "2026-11-25T18:36:08+00:00"
-    }
-   ],
-   "missing": []
-  },
-  "1707b9a7c5": {
-   "bodies": [
-    "COP"
-   ],
-   "id": "1707b9a7c5",
-   "headline": "Beyond COP31: Turning climate investment into economic growth in Nigeria, By Amanda Archibong-Doukouré",
-   "countries": [
-    "NGA"
-   ],
-   "score": 4.83,
-   "outlets": 1,
-   "camps": 1,
-   "updated": "2026-11-25T18:35:37+00:00",
-   "sources": [
-    {
-     "outlet": "Premium Times",
-     "camp": "africa",
-     "camp_label": "African",
-     "ownership": "Nigerian private",
-     "title": "Beyond COP31: Turning climate investment into economic growth in Nigeria, By Amanda Archibong-Doukouré",
-     "url": "https://www.premiumtimesng.com/opinion/927943-beyond-cop31-turning-climate-investment-into-economic-growth-in-nigeria-by-amanda-archibong-doukoure.html",
-     "date": "2026-11-25T18:35:37+00:00"
-    }
-   ],
-   "missing": []
-  },
-  "25e0b737eb": {
-   "bodies": [],
-   "id": "25e0b737eb",
-   "headline": "UN sacked Palestinian staff on back of unproven Israeli allegations, tribunal rules",
-   "countries": [
-    "PSE",
-    "ISR",
-    "USA"
-   ],
-   "score": 38.8,
-   "outlets": 9,
-   "camps": 7,
-   "updated": "2026-11-25T18:14:27+00:00",
-   "sources": [
-    {
-     "outlet": "Al Jazeera",
-     "camp": "arab",
-     "camp_label": "Arab / Gulf",
-     "ownership": "Qatari state-funded",
-     "title": "Jerusalem Daily: Israel kills Hamas’s Gaza security chief",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/jerusalem-daily-israel-kills-hamass-gaza-security-chief?traffic_source=rss",
-     "date": "2026-11-25T16:02:22+00:00"
-    },
-    {
-     "outlet": "The Guardian",
-     "camp": "western",
-     "camp_label": "Western",
-     "ownership": "UK private (trust-owned)",
-     "title": "UN sacked Palestinian staff on back of unproven Israeli allegations, tribunal rules",
-     "url": "https://www.theguardian.com/world/2026/nov/25/un-sacked-palestinian-staff-on-back-of-unproven-israel-allegations",
-     "date": "2026-11-25T18:14:27+00:00"
-    },
-    {
-     "outlet": "RT",
-     "camp": "russia-state",
-     "camp_label": "Russian state",
-     "ownership": "Russian state-funded",
-     "title": "Israel violates ‘ceasefire’ to kill Hamas security chief",
-     "url": "https://rt-english.com/news/649343-israel-gaza-hamas-security-chief-ceasefire/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-     "date": "2026-11-25T10:45:54+00:00"
-    }
-   ],
-   "missing": [
-    {
-     "camp": "israel",
-     "label": "Israeli",
-     "search": [
-      {
-       "outlet": "Times of Israel",
-       "url": "https://duckduckgo.com/?q=site%3Atimesofisrael.com%20israeli%20strike%20kill%20gaza%20hama"
-      }
-     ]
-    }
-   ]
-  },
-  "2bd03995b6": {
-   "bodies": [],
-   "id": "2bd03995b6",
-   "headline": "Why is Sheikh Hasina’s plan to return to Bangladesh contentious?",
-   "countries": [
-    "BGD",
-    "IND"
-   ],
-   "score": 9.78,
-   "outlets": 2,
-   "camps": 2,
-   "updated": "2026-11-25T18:01:32+00:00",
-   "sources": [
-    {
-     "outlet": "The Hindu",
-     "camp": "india",
-     "camp_label": "Indian",
-     "ownership": "Indian private",
-     "title": "MEA separates Sheikh Hasina’s plans to return to Bangladesh from issue of extradition",
-     "url": "https://www.thehindu.com/news/national/mea-separates-sheikh-hasinas-plans-to-return-to-bangladesh-from-issue-of-extradition/article71743712.ece",
-     "date": "2026-11-25T18:01:32+00:00"
-    },
-    {
-     "outlet": "Japan Times",
-     "camp": "asia-pacific",
-     "camp_label": "Asia-Pacific",
-     "ownership": "Japanese private",
-     "title": "Why is Sheikh Hasina’s plan to return to Bangladesh contentious?",
-     "url": "https://www.japantimes.co.jp/news/2026/11/25/asia-pacific/politics/sheikh-hasina-return-bangladesh/",
-     "date": "2026-11-25T03:44:00+00:00"
-    }
-   ],
-   "missing": []
-  },
-  "809ff44f89": {
-   "bodies": [],
-   "id": "809ff44f89",
-   "headline": "NDLEA busts ₦303.9bn meth lab in Enugu, arrests five Mexican meth specialists",
-   "countries": [
-    "MEX",
-    "NGA"
-   ],
-   "score": 4.78,
-   "outlets": 1,
-   "camps": 1,
-   "updated": "2026-11-25T17:59:34+00:00",
-   "sources": [
-    {
-     "outlet": "Premium Times",
-     "camp": "africa",
-     "camp_label": "African",
-     "ownership": "Nigerian private",
-     "title": "NDLEA busts ₦303.9bn meth lab in Enugu, arrests five Mexican meth specialists",
-     "url": "https://www.premiumtimesng.com/news/top-news/928031-ndlea-busts-%e2%82%a6303-9bn-meth-lab-in-enugu-arrests-five-mexican-meth-specialists.html",
-     "date": "2026-11-25T17:59:34+00:00"
-    }
-   ],
-   "missing": [
-    {
-     "camp": "latam",
-     "label": "Latin American",
-     "search": [
-      {
-       "outlet": "MercoPress",
-       "url": "https://duckduckgo.com/?q=site%3Amercopress.com%20meth%20ndlea%20bust%20lab%20enugu"
-      }
-     ]
-    }
-   ]
-  },
-  "8a1a69f5f7": {
-   "bodies": [],
-   "id": "8a1a69f5f7",
-   "headline": "Iran says ships hit mines in Hormuz, warns vessels to coordinate passage",
-   "countries": [
-    "IRN",
-    "USA"
-   ],
-   "score": 19.78,
-   "outlets": 4,
-   "camps": 4,
-   "updated": "2026-11-25T17:58:32+00:00",
-   "sources": [
-    {
-     "outlet": "Tehran Times",
-     "camp": "iran-state",
-     "camp_label": "Iranian state",
-     "ownership": "Iranian state-aligned",
-     "title": "Iran reports naval mine strikes on two tankers, downs US drones in Strait of Hormuz",
-     "url": "https://www.tehrantimes.com/news/532558/Iran-reports-naval-mine-strikes-on-two-tankers-downs-US-drones",
-     "date": "2026-11-25T17:18:15+00:00"
-    },
-    {
-     "outlet": "The Hindu",
-     "camp": "india",
-     "camp_label": "Indian",
-     "ownership": "Indian private",
-     "title": "Iran says ships hit mines in Hormuz, warns vessels to coordinate passage",
-     "url": "https://www.thehindu.com/news/international/iran-says-ships-hit-mines-in-hormuz-warns-vessels-to-coordinate-passage/article71743889.ece",
-     "date": "2026-11-25T17:58:32+00:00"
-    },
-    {
-     "outlet": "Anadolu Agency",
-     "camp": "turkey-state",
-     "camp_label": "Turkish state",
-     "ownership": "Turkish state agency",
-     "title": "Iran says 'offending vessel' targeted in southern Strait of Hormuz",
-     "url": "https://www.aa.com.tr/en/middle-east/iran-says-offending-vessel-targeted-in-southern-strait-of-hormuz/4136377",
-     "date": "2026-11-24T19:11:26+00:00"
-    }
-   ],
-   "missing": [
-    {
-     "camp": "western",
-     "label": "Western",
-     "search": [
-      {
-       "outlet": "BBC News",
-       "url": "https://duckduckgo.com/?q=site%3Abbc.com%20iran%20hormuz%20strait%20mine%20vessel"
-      },
-      {
-       "outlet": "The Guardian",
-       "url": "https://duckduckgo.com/?q=site%3Atheguardian.com%20iran%20hormuz%20strait%20mine%20vessel"
-      }
-     ]
-    }
-   ]
-  },
-  "f490334985": {
-   "bodies": [],
-   "id": "f490334985",
-   "headline": "Turkey's deadly factory blast: 'Investing in safety costs more than letting people die'",
-   "countries": [
-    "TUR"
-   ],
-   "score": 4.74,
-   "outlets": 1,
-   "camps": 1,
-   "updated": "2026-11-25T17:28:33+00:00",
-   "sources": [
-    {
-     "outlet": "France 24",
-     "camp": "western",
-     "camp_label": "Western",
-     "ownership": "French public broadcaster",
-     "title": "Turkey's deadly factory blast: 'Investing in safety costs more than letting people die'",
-     "url": "https://www.france24.com/en/europe/20261125-factory-blast-turkey-izmir",
-     "date": "2026-11-25T17:28:33+00:00"
-    }
-   ],
-   "missing": [
-    {
-     "camp": "turkey-state",
-     "label": "Turkish state",
-     "search": [
-      {
-       "outlet": "Anadolu Agency",
-       "url": "https://duckduckgo.com/?q=site%3Aaa.com.tr%20turkey%20deadly%20factory%20blast%20investing"
-      }
-     ]
-    }
-   ]
-  },
-  "415eb9b320": {
-   "bodies": [],
-   "id": "415eb9b320",
-   "headline": "Brazil's falling real and pressure on the Argentine peso are \"bad news\" for Uruguay's summer",
-   "countries": [
-    "URY",
-    "BRA",
-    "ARG"
-   ],
-   "score": 4.73,
-   "outlets": 1,
-   "camps": 1,
-   "updated": "2026-11-25T17:23:00+00:00",
-   "sources": [
-    {
-     "outlet": "MercoPress",
-     "camp": "latam",
-     "camp_label": "Latin American",
-     "ownership": "Uruguay-based private",
-     "title": "Brazil's falling real and pressure on the Argentine peso are \"bad news\" for Uruguay's summer",
-     "url": "https://en.mercopress.com/2026/11/25/brazil-s-falling-real-and-pressure-on-the-argentine-peso-are-bad-news-for-uruguay-s-summer?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
-     "date": "2026-11-25T17:23:00+00:00"
-    }
-   ],
-   "missing": []
-  },
-  "453de7449e": {
-   "bodies": [],
-   "id": "453de7449e",
-   "headline": "Pakistan: Emergency teams search for survivors beneath collapsed building",
-   "countries": [
-    "PAK"
-   ],
-   "score": 9.72,
-   "outlets": 2,
-   "camps": 2,
-   "updated": "2026-11-25T17:14:19+00:00",
-   "sources": [
-    {
-     "outlet": "Dawn",
-     "camp": "pakistan",
-     "camp_label": "Pakistani",
-     "ownership": "Pakistani private",
-     "title": "At least 3 killed, 14 injured after under-construction building collapses near Karachi's Baloch Colony",
-     "url": "https://www.dawn.com/news/2046989/at-least-3-killed-14-injured-after-under-construction-building-collapses-near-karachis-baloch-colony",
-     "date": "2026-11-25T17:11:38+00:00"
-    },
-    {
-     "outlet": "Africanews",
-     "camp": "africa",
-     "camp_label": "African",
-     "ownership": "Pan-African (Euronews group)",
-     "title": "Pakistan: Emergency teams search for survivors beneath collapsed building",
-     "url": "http://www.africanews.com/2026/11/25/pakistan-emergency-teams-search-for-survivors-beneath-collapsed-building/",
-     "date": "2026-11-25T17:14:19+00:00"
-    }
-   ],
-   "missing": []
-  },
-  "024dfda6b2": {
-   "bodies": [],
-   "id": "024dfda6b2",
-   "headline": "Maldives national airline to start direct flights to Pakistan soon, meeting told",
-   "countries": [
-    "RUS",
-    "BRN",
-    "PAK"
-   ],
-   "score": 11.71,
-   "outlets": 3,
-   "camps": 2,
-   "updated": "2026-11-25T17:10:30+00:00",
-   "sources": [
-    {
-     "outlet": "TASS",
-     "camp": "russia-state",
-     "camp_label": "Russian state",
-     "ownership": "Russian state agency",
-     "title": "Russia, Brunei move to enter into strategic partnership pact: Putin's statements",
-     "url": "https://tass.com/politics/2224867",
-     "date": "2026-11-25T17:10:30+00:00"
-    },
-    {
-     "outlet": "Dawn",
-     "camp": "pakistan",
-     "camp_label": "Pakistani",
-     "ownership": "Pakistani private",
-     "title": "Maldives national airline to start direct flights to Pakistan soon, meeting told",
-     "url": "https://www.dawn.com/news/2046987/maldives-national-airline-to-start-direct-flights-to-pakistan-soon-meeting-told",
-     "date": "2026-11-25T08:59:17+00:00"
-    }
-   ],
-   "missing": []
-  },
-  "4929b6290d": {
-   "bodies": [],
-   "id": "4929b6290d",
-   "headline": "'The Suicide Shop' returns to Tehran stage for third run",
-   "countries": [
-    "IRN",
-    "FRA"
-   ],
-   "score": 4.71,
-   "outlets": 1,
-   "camps": 1,
-   "updated": "2026-11-25T17:10:04+00:00",
-   "sources": [
-    {
-     "outlet": "Tehran Times",
-     "camp": "iran-state",
-     "camp_label": "Iranian state",
-     "ownership": "Iranian state-aligned",
-     "title": "'The Suicide Shop' returns to Tehran stage for third run",
-     "url": "https://www.tehrantimes.com/news/532416/The-Suicide-Shop-returns-to-Tehran-stage-for-third-run",
-     "date": "2026-11-25T17:10:04+00:00"
-    }
-   ],
-   "missing": [
-    {
-     "camp": "western",
-     "label": "Western",
-     "search": [
-      {
-       "outlet": "BBC News",
-       "url": "https://duckduckgo.com/?q=site%3Abbc.com%20suicide%20shop%20return%20tehran%20stage"
-      },
-      {
-       "outlet": "The Guardian",
-       "url": "https://duckduckgo.com/?q=site%3Atheguardian.com%20suicide%20shop%20return%20tehran%20stage"
-      }
-     ]
-    }
-   ]
-  },
-  "5b4886940e": {
-   "bodies": [],
-   "id": "5b4886940e",
-   "headline": "Paris takes on masculinist movements",
-   "countries": [
-    "FRA"
-   ],
-   "score": 4.69,
-   "outlets": 1,
-   "camps": 1,
-   "updated": "2026-11-25T16:52:22+00:00",
-   "sources": [
-    {
-     "outlet": "France 24",
-     "camp": "western",
-     "camp_label": "Western",
-     "ownership": "French public broadcaster",
-     "title": "Paris takes on masculinist movements",
-     "url": "https://www.france24.com/en/video/20261125-paris-takes-on-masculinist-movements",
-     "date": "2026-11-25T16:52:22+00:00"
-    }
-   ],
-   "missing": []
-  },
   "db350ee930": {
    "bodies": [],
    "id": "db350ee930",
    "headline": "The Russia panic circus isn’t selling in Germany",
    "countries": [
-    "DEU",
-    "UKR",
-    "RUS"
+    "RUS",
+    "DEU"
    ],
-   "score": 4.68,
+   "score": 2.69,
    "outlets": 1,
    "camps": 1,
    "updated": "2026-11-25T16:48:50+00:00",
@@ -1599,1161 +3402,61 @@ window.CC_STORIES = {
      "search": [
       {
        "outlet": "BBC News",
-       "url": "https://duckduckgo.com/?q=site%3Abbc.com%20germany%20russia%20panic%20circu%20isn"
+       "url": "https://duckduckgo.com/?q=site%3Abbc.com%20russia%20panic%20circu%20isn%20selling"
       },
       {
        "outlet": "The Guardian",
-       "url": "https://duckduckgo.com/?q=site%3Atheguardian.com%20germany%20russia%20panic%20circu%20isn"
-      }
-     ]
-    },
-    {
-     "camp": "ukraine",
-     "label": "Ukrainian",
-     "search": [
-      {
-       "outlet": "Kyiv Independent",
-       "url": "https://duckduckgo.com/?q=site%3Akyivindependent.com%20germany%20russia%20panic%20circu%20isn"
-      },
-      {
-       "outlet": "Ukrainska Pravda",
-       "url": "https://duckduckgo.com/?q=site%3Apravda.com.ua%20germany%20russia%20panic%20circu%20isn"
+       "url": "https://duckduckgo.com/?q=site%3Atheguardian.com%20russia%20panic%20circu%20isn%20selling"
       }
      ]
     }
    ]
   },
-  "e27091bbf5": {
+  "7b32ebb838": {
    "bodies": [],
-   "id": "e27091bbf5",
-   "headline": "Gazprom reports record gas withdrawals in Germany, France due to cold weather",
+   "id": "7b32ebb838",
+   "headline": "Mexico’s strawberry growers struggle amid U.S. dumping claims",
    "countries": [
-    "DEU",
-    "FRA",
-    "RUS"
+    "MEX",
+    "USA"
    ],
-   "score": 4.67,
+   "score": 2.65,
    "outlets": 1,
    "camps": 1,
-   "updated": "2026-11-25T16:41:16+00:00",
-   "sources": [
-    {
-     "outlet": "TASS",
-     "camp": "russia-state",
-     "camp_label": "Russian state",
-     "ownership": "Russian state agency",
-     "title": "Gazprom reports record gas withdrawals in Germany, France due to cold weather",
-     "url": "https://tass.com/economy/2224857",
-     "date": "2026-11-25T16:41:16+00:00"
-    }
-   ],
-   "missing": [
-    {
-     "camp": "western",
-     "label": "Western",
-     "search": [
-      {
-       "outlet": "BBC News",
-       "url": "https://duckduckgo.com/?q=site%3Abbc.com%20gazprom%20record%20gas%20withdrawal%20germany"
-      },
-      {
-       "outlet": "The Guardian",
-       "url": "https://duckduckgo.com/?q=site%3Atheguardian.com%20gazprom%20record%20gas%20withdrawal%20germany"
-      }
-     ]
-    },
-    {
-     "camp": "western",
-     "label": "Western",
-     "search": [
-      {
-       "outlet": "BBC News",
-       "url": "https://duckduckgo.com/?q=site%3Abbc.com%20gazprom%20record%20gas%20withdrawal%20germany"
-      },
-      {
-       "outlet": "The Guardian",
-       "url": "https://duckduckgo.com/?q=site%3Atheguardian.com%20gazprom%20record%20gas%20withdrawal%20germany"
-      }
-     ]
-    }
-   ]
-  },
-  "236900ff58": {
-   "bodies": [],
-   "id": "236900ff58",
-   "headline": "Ukraine, Hungary agree to deepen energy cooperation: Zelenskyy",
-   "countries": [
-    "UKR",
-    "HUN"
-   ],
-   "score": 9.65,
-   "outlets": 2,
-   "camps": 2,
-   "updated": "2026-11-25T16:27:00+00:00",
-   "sources": [
-    {
-     "outlet": "Ukrainska Pravda",
-     "camp": "ukraine",
-     "camp_label": "Ukrainian",
-     "ownership": "Ukrainian private",
-     "title": "Ukraine and Hungary to hold first meeting of minority rights commission in early 2027",
-     "url": "https://www.pravda.com.ua/eng/news/2026/11/25/8064655/",
-     "date": "2026-11-25T16:27:00+00:00"
-    },
-    {
-     "outlet": "Anadolu Agency",
-     "camp": "turkey-state",
-     "camp_label": "Turkish state",
-     "ownership": "Turkish state agency",
-     "title": "Ukraine, Hungary agree to deepen energy cooperation: Zelenskyy",
-     "url": "https://www.aa.com.tr/en/world/ukraine-hungary-agree-to-deepen-energy-cooperation-zelenskyy/4136384",
-     "date": "2026-11-24T19:15:26+00:00"
-    }
-   ],
-   "missing": []
-  },
-  "f4d89a9ba1": {
-   "bodies": [],
-   "id": "f4d89a9ba1",
-   "headline": "Top Spanish court closes case against Catalan separatist leader",
-   "countries": [
-    "ESP",
-    "BEL"
-   ],
-   "score": 9.65,
-   "outlets": 2,
-   "camps": 2,
-   "updated": "2026-11-25T16:25:28+00:00",
-   "sources": [
-    {
-     "outlet": "France 24",
-     "camp": "western",
-     "camp_label": "Western",
-     "ownership": "French public broadcaster",
-     "title": "Top Spanish court closes case against Catalan separatist leader",
-     "url": "https://www.france24.com/en/video/20261125-top-spanish-court-closes-case-against-catalan-separatist-leader",
-     "date": "2026-11-25T16:25:28+00:00"
-    },
-    {
-     "outlet": "Yonhap",
-     "camp": "asia-pacific",
-     "camp_label": "Asia-Pacific",
-     "ownership": "South Korean state-funded agency",
-     "title": "Top court to deliver ruling on ex-first lady's bribery case next week",
-     "url": "https://en.yna.co.kr/view/AEN20261125006300315",
-     "date": "2026-11-25T06:22:46+00:00"
-    }
-   ],
-   "missing": []
-  },
-  "53bb65f15a": {
-   "bodies": [
-    "AU"
-   ],
-   "id": "53bb65f15a",
-   "headline": "DR Congo: Gavi signe un accord avec le Serum Institute of India afin de garantir un accès rapide aux vaccins contre le virus Ebola Bundibugyo",
-   "countries": [
-    "IND",
-    "COD"
-   ],
-   "score": 9.64,
-   "outlets": 2,
-   "camps": 2,
-   "updated": "2026-11-25T16:20:54+00:00",
-   "sources": [
-    {
-     "outlet": "ReliefWeb",
-     "camp": "multilateral",
-     "camp_label": "UN / multilateral",
-     "ownership": "UN OCHA",
-     "title": "DR Congo: Gavi signe un accord avec le Serum Institute of India afin de garantir un accès rapide aux vaccins contre le virus Ebola Bundibugyo",
-     "url": "https://reliefweb.int/report/democratic-republic-congo/gavi-signe-un-accord-avec-le-serum-institute-india-afin-de-garantir-un-acces-rapide-aux-vaccins-contre-le-virus-ebola-bundibugyo",
-     "date": "2026-11-25T13:03:07+00:00"
-    },
-    {
-     "outlet": "TASS",
-     "camp": "russia-state",
-     "camp_label": "Russian state",
-     "ownership": "Russian state agency",
-     "title": "African Union, WHO estimate cost of Ebola response in Africa at nearly $1.6 billion",
-     "url": "https://tass.com/society/2224841",
-     "date": "2026-11-25T16:20:54+00:00"
-    }
-   ],
-   "missing": [
-    {
-     "camp": "india",
-     "label": "Indian",
-     "search": [
-      {
-       "outlet": "The Hindu",
-       "url": "https://duckduckgo.com/?q=site%3Athehindu.com%20ebola%20african%20union%20estimate%20cost"
-      }
-     ]
-    },
-    {
-     "camp": "africa",
-     "label": "African",
-     "search": [
-      {
-       "outlet": "Africanews",
-       "url": "https://duckduckgo.com/?q=site%3Aafricanews.com%20ebola%20african%20union%20estimate%20cost"
-      },
-      {
-       "outlet": "Premium Times",
-       "url": "https://duckduckgo.com/?q=site%3Apremiumtimesng.com%20ebola%20african%20union%20estimate%20cost"
-      }
-     ]
-    }
-   ]
-  },
-  "64a5b65b05": {
-   "bodies": [],
-   "id": "64a5b65b05",
-   "headline": "‘Russia wants more than Ukraine,’ Germany’s Merz warns – as it happened",
-   "countries": [
-    "RUS",
-    "DEU",
-    "UKR"
-   ],
-   "score": 9.64,
-   "outlets": 2,
-   "camps": 2,
-   "updated": "2026-11-25T16:20:53+00:00",
-   "sources": [
-    {
-     "outlet": "TASS",
-     "camp": "russia-state",
-     "camp_label": "Russian state",
-     "ownership": "Russian state agency",
-     "title": "German MP describes Chancellor Merz as 'emperor with no clothes'",
-     "url": "https://tass.com/world/2224779",
-     "date": "2026-11-25T14:57:14+00:00"
-    },
-    {
-     "outlet": "The Guardian",
-     "camp": "western",
-     "camp_label": "Western",
-     "ownership": "UK private (trust-owned)",
-     "title": "‘Russia wants more than Ukraine,’ Germany’s Merz warns – as it happened",
-     "url": "https://www.theguardian.com/world/live/2026/nov/25/ukraine-russia-energy-strikes-mark-rutte-donald-trump-friedrich-merz-germany-latest-news-updates",
-     "date": "2026-11-25T16:20:53+00:00"
-    }
-   ],
-   "missing": []
-  },
-  "6655713639": {
-   "bodies": [
-    "EU"
-   ],
-   "id": "6655713639",
-   "headline": "Democratic Republic of the Congo, Kenya, Nigeria, Uganda | Ebola Bundibugyo virus disease outbreak and EU response - DG ECHO Daily Map | 25/11/2026",
-   "countries": [
-    "COD",
-    "COG",
-    "KEN"
-   ],
-   "score": 16.64,
-   "outlets": 4,
-   "camps": 3,
-   "updated": "2026-11-25T16:17:38+00:00",
-   "sources": [
-    {
-     "outlet": "Africanews",
-     "camp": "africa",
-     "camp_label": "African",
-     "ownership": "Pan-African (Euronews group)",
-     "title": "DR Congo halts cobalt exports again amid drop in prices",
-     "url": "http://www.africanews.com/2026/11/24/dr-congo-halts-cobalt-exports-again-amid-drop-in-prices/",
-     "date": "2026-11-24T16:32:44+00:00"
-    },
-    {
-     "outlet": "ReliefWeb",
-     "camp": "multilateral",
-     "camp_label": "UN / multilateral",
-     "ownership": "UN OCHA",
-     "title": "Democratic Republic of the Congo, Kenya, Nigeria, Uganda | Ebola Bundibugyo virus disease outbreak and EU response - DG ECHO Daily Map | 25/11/2026",
-     "url": "https://reliefweb.int/map/democratic-republic-congo/democratic-republic-congo-kenya-nigeria-uganda-ebola-bundibugyo-virus-disease-outbreak-and-eu-response-dg-echo-daily-map-25112026",
-     "date": "2026-11-25T16:17:38+00:00"
-    },
-    {
-     "outlet": "NPR",
-     "camp": "western",
-     "camp_label": "Western",
-     "ownership": "US public radio",
-     "title": "The human cost of the electric vehicle boom is at the center of a lawsuit in Congo",
-     "url": "https://www.npr.org/2026/11/24/nx-s1-6042912/drc-congo-mining-china-copper-colbalt-critical-minerals",
-     "date": "2026-11-24T10:00:00+00:00"
-    }
-   ],
-   "missing": []
-  },
-  "e8c9089f72": {
-   "bodies": [],
-   "id": "e8c9089f72",
-   "headline": "China sends first foreign astronaut to ISS rival as it globalises space operations",
-   "countries": [
-    "CHN",
-    "PAK"
-   ],
-   "score": 33.63,
-   "outlets": 8,
-   "camps": 6,
-   "updated": "2026-11-25T16:13:29+00:00",
+   "updated": "2026-11-25T16:20:33+00:00",
    "sources": [
     {
      "outlet": "CGTN",
      "camp": "china-state",
      "camp_label": "Chinese state",
      "ownership": "Chinese state broadcaster",
-     "title": "Astronauts board Shenzhou-24, take off in about 2 hours",
-     "url": "https://newsus.cgtn.com/news/2026-11-25/Astronauts-board-Shenzhou-24-take-off-in-about-2-hours-1SlEJYGuV2M/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-     "date": "2026-11-24T22:10:36+00:00"
-    },
-    {
-     "outlet": "Dawn",
-     "camp": "pakistan",
-     "camp_label": "Pakistani",
-     "ownership": "Pakistani private",
-     "title": "‘A new era begins’: Pakistan’s Zeeshan Ali becomes first foreigner to board China's Tiangong space station",
-     "url": "https://www.dawn.com/news/2046753/a-new-era-begins-pakistans-zeeshan-ali-becomes-first-foreigner-to-board-chinas-tiangong-space-station",
-     "date": "2026-11-25T16:13:29+00:00"
-    },
-    {
-     "outlet": "The Guardian",
-     "camp": "western",
-     "camp_label": "Western",
-     "ownership": "UK private (trust-owned)",
-     "title": "China sends first foreign astronaut to ISS rival as it globalises space operations",
-     "url": "https://www.theguardian.com/science/2026/nov/25/china-sends-first-pakistani-astronaut-into-space",
-     "date": "2026-11-25T14:18:29+00:00"
-    }
-   ],
-   "missing": []
-  },
-  "6b0992ca45": {
-   "bodies": [],
-   "id": "6b0992ca45",
-   "headline": "Bangladesh garment workers who supply H&M, Walmart and Gap protest lowest pay hike in 40 years",
-   "countries": [
-    "BGD",
-    "CHN"
-   ],
-   "score": 24.61,
-   "outlets": 5,
-   "camps": 5,
-   "updated": "2026-11-25T16:00:32+00:00",
-   "sources": [
-    {
-     "outlet": "CBC News",
-     "camp": "western",
-     "camp_label": "Western",
-     "ownership": "Canadian public broadcaster",
-     "title": "Bangladesh garment workers who supply H&M, Walmart and Gap protest lowest pay hike in 40 years",
-     "url": "https://www.cbc.ca/news/world/bangladesh-garment-workers-protest-9.7435339?cmp=rss",
-     "date": "2026-11-25T16:00:32+00:00"
-    },
-    {
-     "outlet": "RT",
-     "camp": "russia-state",
-     "camp_label": "Russian state",
-     "ownership": "Russian state-funded",
-     "title": "Bangladesh garment workers clash with police in minimum wage row",
-     "url": "https://rt-english.com/news/649348-bangladesh-garment-workers-protest/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-     "date": "2026-11-25T12:50:36+00:00"
-    },
-    {
-     "outlet": "South China Morning Post",
-     "camp": "asia-pacific",
-     "camp_label": "Asia-Pacific",
-     "ownership": "Hong Kong private (Alibaba)",
-     "title": "Bangladesh garment workers win 36% minimum wage rise after protests",
-     "url": "https://www.scmp.com/news/asia/south-asia/article/3375787/bangladesh-garment-workers-win-36-minimum-wage-rise-after-protests",
-     "date": "2026-11-25T12:11:56+00:00"
+     "title": "Mexico’s strawberry growers struggle amid U.S. dumping claims",
+     "url": "https://newsus.cgtn.com/news/2026-11-26/Mexico-s-strawberry-growers-struggle-amid-U-S-dumping-claims-1SmUEQyk33W/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
+     "date": "2026-11-25T16:20:33+00:00"
     }
    ],
    "missing": [
     {
-     "camp": "china-state",
-     "label": "Chinese state",
+     "camp": "latam",
+     "label": "Latin American",
      "search": [
       {
-       "outlet": "Global Times",
-       "url": "https://duckduckgo.com/?q=site%3Aglobaltimes.cn%20bangladesh%20garment%20worker%20wage%20win"
-      },
-      {
-       "outlet": "CGTN",
-       "url": "https://duckduckgo.com/?q=site%3Acgtn.com%20bangladesh%20garment%20worker%20wage%20win"
-      }
-     ]
-    }
-   ]
-  },
-  "a2acf5847e": {
-   "bodies": [],
-   "id": "a2acf5847e",
-   "headline": "Africa Cup title given back to Senegal after sports court rules against Morocco",
-   "countries": [
-    "SEN",
-    "MAR"
-   ],
-   "score": 14.6,
-   "outlets": 3,
-   "camps": 3,
-   "updated": "2026-11-25T15:51:58+00:00",
-   "sources": [
-    {
-     "outlet": "Africanews",
-     "camp": "africa",
-     "camp_label": "African",
-     "ownership": "Pan-African (Euronews group)",
-     "title": "Morocco to challenge ruling reinstating Senegal as AFCON champions",
-     "url": "http://www.africanews.com/2026/11/25/morocco-to-challenge-ruling-reinstating-senegal-as-afcon-champions/",
-     "date": "2026-11-25T06:01:39+00:00"
-    },
-    {
-     "outlet": "Al Jazeera",
-     "camp": "arab",
-     "camp_label": "Arab / Gulf",
-     "ownership": "Qatari state-funded",
-     "title": "Senegal deny Morocco’s allegations of ‘contact’ with CAS amid AFCON row",
-     "url": "https://www.aljazeera.com/sports/2026/11/25/senegal-deny-moroccos-allegations-of-contact-with-cas-amid-afcon-row?traffic_source=rss",
-     "date": "2026-11-25T15:51:58+00:00"
-    },
-    {
-     "outlet": "NPR",
-     "camp": "western",
-     "camp_label": "Western",
-     "ownership": "US public radio",
-     "title": "Africa Cup title given back to Senegal after sports court rules against Morocco",
-     "url": "https://www.npr.org/2026/11/25/nx-s1-6053783/africa-cup-senegal-morocco",
-     "date": "2026-11-25T06:43:23+00:00"
-    }
-   ],
-   "missing": []
-  },
-  "3c63b1fe34": {
-   "bodies": [],
-   "id": "3c63b1fe34",
-   "headline": "Canadian astronaut welcomes baby girl from space station",
-   "countries": [
-    "CAN"
-   ],
-   "score": 4.59,
-   "outlets": 1,
-   "camps": 1,
-   "updated": "2026-11-25T15:41:39+00:00",
-   "sources": [
-    {
-     "outlet": "BBC News",
-     "camp": "western",
-     "camp_label": "Western",
-     "ownership": "UK public broadcaster",
-     "title": "Canadian astronaut welcomes baby girl from space station",
-     "url": "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo?at_medium=RSS&at_campaign=rss",
-     "date": "2026-11-25T15:41:39+00:00"
-    }
-   ],
-   "missing": []
-  },
-  "721c750c2f": {
-   "bodies": [],
-   "id": "721c750c2f",
-   "headline": "Yamanashi prefecture should start cooperation with DPR and LPR — Japanese MP",
-   "countries": [
-    "JPN"
-   ],
-   "score": 4.59,
-   "outlets": 1,
-   "camps": 1,
-   "updated": "2026-11-25T15:40:39+00:00",
-   "sources": [
-    {
-     "outlet": "TASS",
-     "camp": "russia-state",
-     "camp_label": "Russian state",
-     "ownership": "Russian state agency",
-     "title": "Yamanashi prefecture should start cooperation with DPR and LPR — Japanese MP",
-     "url": "https://tass.com/world/2224821",
-     "date": "2026-11-25T15:40:39+00:00"
-    }
-   ],
-   "missing": [
-    {
-     "camp": "asia-pacific",
-     "label": "Asia-Pacific",
-     "search": [
-      {
-       "outlet": "South China Morning Post",
-       "url": "https://duckduckgo.com/?q=site%3Ascmp.com%20yamanashi%20prefecture%20should%20start%20cooperation"
-      },
-      {
-       "outlet": "Japan Times",
-       "url": "https://duckduckgo.com/?q=site%3Ajapantimes.co.jp%20yamanashi%20prefecture%20should%20start%20cooperation"
-      }
-     ]
-    }
-   ]
-  },
-  "36b4838f9c": {
-   "bodies": [],
-   "id": "36b4838f9c",
-   "headline": "Brussels on split-screen: where it flexes – and where it bends",
-   "countries": [
-    "TUR"
-   ],
-   "score": 4.59,
-   "outlets": 1,
-   "camps": 1,
-   "updated": "2026-11-25T15:39:54+00:00",
-   "sources": [
-    {
-     "outlet": "The Guardian",
-     "camp": "western",
-     "camp_label": "Western",
-     "ownership": "UK private (trust-owned)",
-     "title": "Brussels on split-screen: where it flexes – and where it bends",
-     "url": "https://www.theguardian.com/world/2026/nov/25/this-is-europe-brussels-eu-uk-summit",
-     "date": "2026-11-25T15:39:54+00:00"
-    }
-   ],
-   "missing": [
-    {
-     "camp": "turkey-state",
-     "label": "Turkish state",
-     "search": [
-      {
-       "outlet": "Anadolu Agency",
-       "url": "https://duckduckgo.com/?q=site%3Aaa.com.tr%20where%20brussel%20split-screen%20flexe%20bend"
-      }
-     ]
-    }
-   ]
-  },
-  "1e7cac03fa": {
-   "bodies": [],
-   "id": "1e7cac03fa",
-   "headline": "Decades of gains against AIDS could unravel as HIV funding dries up",
-   "countries": [],
-   "score": 9.58,
-   "outlets": 2,
-   "camps": 2,
-   "updated": "2026-11-25T15:34:51+00:00",
-   "sources": [
-    {
-     "outlet": "UN News",
-     "camp": "multilateral",
-     "camp_label": "UN / multilateral",
-     "ownership": "United Nations",
-     "title": "Decades of gains against AIDS could unravel as HIV funding dries up",
-     "url": "https://news.un.org/feed/view/en/story/2026/11/1168869",
-     "date": "2026-11-24T12:00:00+00:00"
-    },
-    {
-     "outlet": "Africanews",
-     "camp": "africa",
-     "camp_label": "African",
-     "ownership": "Pan-African (Euronews group)",
-     "title": "UN warns funding cuts threaten decades of gains in fight against AIDS",
-     "url": "http://www.africanews.com/2026/11/25/un-warns-funding-cuts-threaten-decades-of-gains-in-fight-against-aids/",
-     "date": "2026-11-25T15:34:51+00:00"
-    }
-   ],
-   "missing": []
-  },
-  "ffa7248633": {
-   "bodies": [],
-   "id": "ffa7248633",
-   "headline": "Kremlin declines comment on reports 700,000 Russian soldiers killed in Ukraine war",
-   "countries": [
-    "RUS",
-    "UKR",
-    "BLR"
-   ],
-   "score": 14.55,
-   "outlets": 3,
-   "camps": 3,
-   "updated": "2026-11-25T15:17:07+00:00",
-   "sources": [
-    {
-     "outlet": "TASS",
-     "camp": "russia-state",
-     "camp_label": "Russian state",
-     "ownership": "Russian state agency",
-     "title": "Impossible to ink deals on Ukraine settlement without Kiev’s official envoys — Kremlin",
-     "url": "https://tass.com/politics/2224801",
-     "date": "2026-11-25T15:17:07+00:00"
-    },
-    {
-     "outlet": "Meduza",
-     "camp": "russia-independent",
-     "camp_label": "Russian independent (exile)",
-     "ownership": "Russian independent, in exile",
-     "title": "Kremlin dismisses Meduza’s estimate of 720,000 Russian war dead, tells public to trust Defense Ministry numbers",
-     "url": "https://meduza.io/en/news/2026/11/25/kremlin-dismisses-meduza-s-estimate-of-720-000-russian-war-dead-tells-public-to-trust-defense-ministry-numbers",
-     "date": "2026-11-25T11:37:19+00:00"
-    },
-    {
-     "outlet": "France 24",
-     "camp": "western",
-     "camp_label": "Western",
-     "ownership": "French public broadcaster",
-     "title": "Kremlin declines comment on reports 700,000 Russian soldiers killed in Ukraine war",
-     "url": "https://www.france24.com/en/europe/20261125-kremlin-declines-comment-reports-700-000-russian-soldiers-killed-ukraine-war",
-     "date": "2026-11-25T15:14:07+00:00"
-    }
-   ],
-   "missing": [
-    {
-     "camp": "ukraine",
-     "label": "Ukrainian",
-     "search": [
-      {
-       "outlet": "Kyiv Independent",
-       "url": "https://duckduckgo.com/?q=site%3Akyivindependent.com%20kremlin%20zelensky%20ukraine%20russian%20war"
-      },
-      {
-       "outlet": "Ukrainska Pravda",
-       "url": "https://duckduckgo.com/?q=site%3Apravda.com.ua%20kremlin%20zelensky%20ukraine%20russian%20war"
-      }
-     ]
-    }
-   ]
-  },
-  "a829fd4dd1": {
-   "bodies": [],
-   "id": "a829fd4dd1",
-   "headline": "Indian Cockroach movement leader asks court for permission to fly to UK",
-   "countries": [
-    "IND",
-    "GBR"
-   ],
-   "score": 14.54,
-   "outlets": 3,
-   "camps": 3,
-   "updated": "2026-11-25T15:10:39+00:00",
-   "sources": [
-    {
-     "outlet": "The Guardian",
-     "camp": "western",
-     "camp_label": "Western",
-     "ownership": "UK private (trust-owned)",
-     "title": "Indian Cockroach movement leader asks court for permission to fly to UK",
-     "url": "https://www.theguardian.com/world/2026/nov/25/indian-cockroach-movement-leader-asks-court-for-permission-to-fly-to-uk",
-     "date": "2026-11-25T11:15:35+00:00"
-    },
-    {
-     "outlet": "Dawn",
-     "camp": "pakistan",
-     "camp_label": "Pakistani",
-     "ownership": "Pakistani private",
-     "title": "India says 'cockroach' movement leader Das told not to use passport",
-     "url": "https://www.dawn.com/news/2047015/india-says-cockroach-movement-leader-das-told-not-to-use-passport",
-     "date": "2026-11-25T15:10:39+00:00"
-    },
-    {
-     "outlet": "Yonhap",
-     "camp": "asia-pacific",
-     "camp_label": "Asia-Pacific",
-     "ownership": "South Korean state-funded agency",
-     "title": "Foreign ministry discusses support for Korean firms facing challenges in India",
-     "url": "https://en.yna.co.kr/view/AEN20261125008500315",
-     "date": "2026-11-25T07:33:56+00:00"
-    }
-   ],
-   "missing": [
-    {
-     "camp": "india",
-     "label": "Indian",
-     "search": [
-      {
-       "outlet": "The Hindu",
-       "url": "https://duckduckgo.com/?q=site%3Athehindu.com%20india%20movement%20leader%20cockroach%20das"
-      }
-     ]
-    }
-   ]
-  },
-  "5e8567db5f": {
-   "bodies": [],
-   "id": "5e8567db5f",
-   "headline": "Hundreds evacuated from Japanese mall after fatal stabbing of parking attendant",
-   "countries": [
-    "JPN"
-   ],
-   "score": 4.53,
-   "outlets": 1,
-   "camps": 1,
-   "updated": "2026-11-25T15:00:46+00:00",
-   "sources": [
-    {
-     "outlet": "South China Morning Post",
-     "camp": "asia-pacific",
-     "camp_label": "Asia-Pacific",
-     "ownership": "Hong Kong private (Alibaba)",
-     "title": "Hundreds evacuated from Japanese mall after fatal stabbing of parking attendant",
-     "url": "https://www.scmp.com/news/asia/east-asia/article/3375803/hundreds-evacuated-japanese-mall-after-fatal-stabbing-parking-attendant",
-     "date": "2026-11-25T15:00:46+00:00"
-    }
-   ],
-   "missing": []
-  },
-  "f2a5159ace": {
-   "bodies": [],
-   "id": "f2a5159ace",
-   "headline": "Houthi rebels close in on Aden, Yemeni forces dig in behind fortified line",
-   "countries": [
-    "YEM",
-    "IRN"
-   ],
-   "score": 6.52,
-   "outlets": 2,
-   "camps": 1,
-   "updated": "2026-11-25T14:52:06+00:00",
-   "sources": [
-    {
-     "outlet": "France 24",
-     "camp": "western",
-     "camp_label": "Western",
-     "ownership": "French public broadcaster",
-     "title": "Houthi rebels close in on Aden, Yemeni forces dig in behind fortified line",
-     "url": "https://www.france24.com/en/video/20261125-houthi-rebels-close-in-on-aden-yemeni-forces-dig-in-behind-fortified-line",
-     "date": "2026-11-25T14:52:06+00:00"
-    }
-   ],
-   "missing": [
-    {
-     "camp": "arab",
-     "label": "Arab / Gulf",
-     "search": [
-      {
-       "outlet": "Al Jazeera",
-       "url": "https://duckduckgo.com/?q=site%3Aaljazeera.com%20houthi%20aden%20yemeni%20rebel%20close"
-      },
-      {
-       "outlet": "Middle East Eye",
-       "url": "https://duckduckgo.com/?q=site%3Amiddleeasteye.net%20houthi%20aden%20yemeni%20rebel%20close"
+       "outlet": "MercoPress",
+       "url": "https://duckduckgo.com/?q=site%3Amercopress.com%20mexico%20strawberry%20grower%20struggle%20dumping"
       }
      ]
     },
-    {
-     "camp": "iran-state",
-     "label": "Iranian state",
-     "search": [
-      {
-       "outlet": "Tehran Times",
-       "url": "https://duckduckgo.com/?q=site%3Atehrantimes.com%20houthi%20aden%20yemeni%20rebel%20close"
-      }
-     ]
-    }
-   ]
-  },
-  "7bcd8eb0f1": {
-   "bodies": [],
-   "id": "7bcd8eb0f1",
-   "headline": "Central African Republic: Overview of incidents affecting humanitarian workers (october 2026)",
-   "countries": [
-    "CAF"
-   ],
-   "score": 9.51,
-   "outlets": 2,
-   "camps": 2,
-   "updated": "2026-11-25T14:46:38+00:00",
-   "sources": [
-    {
-     "outlet": "ReliefWeb",
-     "camp": "multilateral",
-     "camp_label": "UN / multilateral",
-     "ownership": "UN OCHA",
-     "title": "Central African Republic: Overview of incidents affecting humanitarian workers (october 2026)",
-     "url": "https://reliefweb.int/report/central-african-republic/central-african-republic-overview-incidents-affecting-humanitarian-workers-october-2026",
-     "date": "2026-11-25T14:46:38+00:00"
-    },
-    {
-     "outlet": "Africanews",
-     "camp": "africa",
-     "camp_label": "African",
-     "ownership": "Pan-African (Euronews group)",
-     "title": "A day without news: Media outlets in CAR go dark to protest 'intimidation'",
-     "url": "http://www.africanews.com/2026/11/25/a-day-without-news-media-outlets-in-car-go-dark-to-protest-intimidation/",
-     "date": "2026-11-25T09:48:15+00:00"
-    }
-   ],
-   "missing": []
-  },
-  "d67780aed7": {
-   "bodies": [],
-   "id": "d67780aed7",
-   "headline": "Japanese judge dismissed over online casino gambling",
-   "countries": [
-    "JPN"
-   ],
-   "score": 4.5,
-   "outlets": 1,
-   "camps": 1,
-   "updated": "2026-11-25T14:40:00+00:00",
-   "sources": [
-    {
-     "outlet": "Japan Times",
-     "camp": "asia-pacific",
-     "camp_label": "Asia-Pacific",
-     "ownership": "Japanese private",
-     "title": "Japanese judge dismissed over online casino gambling",
-     "url": "https://www.japantimes.co.jp/news/2026/11/25/japan/judge-casino-gambling/",
-     "date": "2026-11-25T14:40:00+00:00"
-    }
-   ],
-   "missing": []
-  },
-  "b440739c83": {
-   "bodies": [],
-   "id": "b440739c83",
-   "headline": "Ethiopia launches polio vaccination campaign to protect more than 11 million children: WHO deployed 28 staff to support the vaccination campaign",
-   "countries": [
-    "ETH"
-   ],
-   "score": 4.42,
-   "outlets": 1,
-   "camps": 1,
-   "updated": "2026-11-25T13:37:29+00:00",
-   "sources": [
-    {
-     "outlet": "ReliefWeb",
-     "camp": "multilateral",
-     "camp_label": "UN / multilateral",
-     "ownership": "UN OCHA",
-     "title": "Ethiopia launches polio vaccination campaign to protect more than 11 million children: WHO deployed 28 staff to support the vaccination campaign",
-     "url": "https://reliefweb.int/report/ethiopia/ethiopia-launches-polio-vaccination-campaign-protect-more-11-million-children-who-deployed-28-staff-support-vaccination-campaign",
-     "date": "2026-11-25T13:37:29+00:00"
-    }
-   ],
-   "missing": [
-    {
-     "camp": "africa",
-     "label": "African",
-     "search": [
-      {
-       "outlet": "Africanews",
-       "url": "https://duckduckgo.com/?q=site%3Aafricanews.com%20vaccination%20campaign%20ethiopia%20launche%20polio"
-      },
-      {
-       "outlet": "Premium Times",
-       "url": "https://duckduckgo.com/?q=site%3Apremiumtimesng.com%20vaccination%20campaign%20ethiopia%20launche%20polio"
-      }
-     ]
-    }
-   ]
-  },
-  "0dc77b6294": {
-   "bodies": [
-    "EU"
-   ],
-   "id": "0dc77b6294",
-   "headline": "China calls on Netherlands to help safeguard industrial and supply chains",
-   "countries": [
-    "CHN",
-    "NLD",
-    "CHE"
-   ],
-   "score": 9.4,
-   "outlets": 2,
-   "camps": 2,
-   "updated": "2026-11-25T13:27:50+00:00",
-   "sources": [
-    {
-     "outlet": "CGTN",
-     "camp": "china-state",
-     "camp_label": "Chinese state",
-     "ownership": "Chinese state broadcaster",
-     "title": "Protectionism leads nowhere, China says on EU hybrid-car safeguards",
-     "url": "https://news.cgtn.com/news/2026-11-24/Protectionism-leads-nowhere-China-says-on-EU-hybrid-car-safeguards-1SkLcJ9mw36/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-     "date": "2026-11-24T10:00:51+00:00"
-    },
-    {
-     "outlet": "South China Morning Post",
-     "camp": "asia-pacific",
-     "camp_label": "Asia-Pacific",
-     "ownership": "Hong Kong private (Alibaba)",
-     "title": "China calls on Netherlands to help safeguard industrial and supply chains",
-     "url": "https://www.scmp.com/news/china/diplomacy/article/3375796/china-calls-netherlands-help-safeguard-industrial-and-supply-chains",
-     "date": "2026-11-25T13:27:50+00:00"
-    }
-   ],
-   "missing": [
     {
      "camp": "western",
      "label": "Western",
      "search": [
       {
        "outlet": "BBC News",
-       "url": "https://duckduckgo.com/?q=site%3Abbc.com%20china%20safeguard%20call%20netherland%20help"
+       "url": "https://duckduckgo.com/?q=site%3Abbc.com%20mexico%20strawberry%20grower%20struggle%20dumping"
       },
       {
        "outlet": "The Guardian",
-       "url": "https://duckduckgo.com/?q=site%3Atheguardian.com%20china%20safeguard%20call%20netherland%20help"
-      }
-     ]
-    }
-   ]
-  },
-  "84514833d9": {
-   "bodies": [],
-   "id": "84514833d9",
-   "headline": "2 men charged in burglary at home of Prince and Princess of Wales stole cufflinks and a clock, police say",
-   "countries": [
-    "GBR"
-   ],
-   "score": 9.39,
-   "outlets": 2,
-   "camps": 2,
-   "updated": "2026-11-25T13:17:35+00:00",
-   "sources": [
-    {
-     "outlet": "CBC News",
-     "camp": "western",
-     "camp_label": "Western",
-     "ownership": "Canadian public broadcaster",
-     "title": "2 men charged in burglary at home of Prince and Princess of Wales stole cufflinks and a clock, police say",
-     "url": "https://www.cbc.ca/news/world/breakin-royals-sandringham-anmer-hall-9.7435154?cmp=rss",
-     "date": "2026-11-25T10:53:46+00:00"
-    },
-    {
-     "outlet": "The Hindu",
-     "camp": "india",
-     "camp_label": "Indian",
-     "ownership": "Indian private",
-     "title": "UK police charge two men over a break-in at Prince William and Princess Catherine’s country home",
-     "url": "https://www.thehindu.com/news/international/uk-police-charge-two-men-over-a-break-in-at-prince-william-and-princess-catherines-country-home/article71742079.ece",
-     "date": "2026-11-25T13:17:35+00:00"
-    }
-   ],
-   "missing": []
-  },
-  "9c36131a40": {
-   "bodies": [],
-   "id": "9c36131a40",
-   "headline": "Why Indian nationals are still ending up in Russia's war on Ukraine",
-   "countries": [
-    "RUS",
-    "USA",
-    "UKR"
-   ],
-   "score": 14.39,
-   "outlets": 3,
-   "camps": 3,
-   "updated": "2026-11-25T13:17:00+00:00",
-   "sources": [
-    {
-     "outlet": "Meduza",
-     "camp": "russia-independent",
-     "camp_label": "Russian independent (exile)",
-     "ownership": "Russian independent, in exile",
-     "title": "Trump administration abandons business deals as incentive for Russia to end Ukraine war, shifts back to ‘land for peace’ approach, FT reports",
-     "url": "https://meduza.io/en/feature/2026/11/25/trump-administration-abandons-business-deals-as-incentive-for-russia-to-end-ukraine-war-shifts-back-to-land-for-peace-approach-ft-reports",
-     "date": "2026-11-25T10:57:03+00:00"
-    },
-    {
-     "outlet": "DW",
-     "camp": "western",
-     "camp_label": "Western",
-     "ownership": "German public broadcaster",
-     "title": "Why Indian nationals are still ending up in Russia's war on Ukraine",
-     "url": "https://www.dw.com/en/why-indian-nationals-are-still-ending-up-in-russia-s-war-on-ukraine/a-80048537?maca=en-rss-en-world-4025-rdf",
-     "date": "2026-11-25T13:17:00+00:00"
-    },
-    {
-     "outlet": "The Hindu",
-     "camp": "india",
-     "camp_label": "Indian",
-     "ownership": "Indian private",
-     "title": "U.S. shelves proposals to use business deals with Russia to end Ukraine war, FT reports",
-     "url": "https://www.thehindu.com/news/international/us-shelves-proposals-to-use-business-deals-with-russia-to-end-ukraine-war-ft-reports/article71741201.ece",
-     "date": "2026-11-25T05:41:19+00:00"
-    }
-   ],
-   "missing": [
-    {
-     "camp": "russia-state",
-     "label": "Russian state",
-     "search": [
-      {
-       "outlet": "RT",
-       "url": "https://duckduckgo.com/?q=site%3Art.com%20russia%20war%20ukraine%20business%20deal"
-      },
-      {
-       "outlet": "TASS",
-       "url": "https://duckduckgo.com/?q=site%3Atass.com%20russia%20war%20ukraine%20business%20deal"
-      }
-     ]
-    }
-   ]
-  },
-  "358523ed6c": {
-   "bodies": [],
-   "id": "358523ed6c",
-   "headline": "DR Congo: Casi 6 de cada 10 mujeres y niñas adolescentes encuestadas denuncian un aumento de la violencia y los abusos en Ituri, provincia afectada por el ébola",
-   "countries": [
-    "COD",
-    "COG"
-   ],
-   "score": 4.37,
-   "outlets": 1,
-   "camps": 1,
-   "updated": "2026-11-25T13:03:09+00:00",
-   "sources": [
-    {
-     "outlet": "ReliefWeb",
-     "camp": "multilateral",
-     "camp_label": "UN / multilateral",
-     "ownership": "UN OCHA",
-     "title": "DR Congo: Casi 6 de cada 10 mujeres y niñas adolescentes encuestadas denuncian un aumento de la violencia y los abusos en Ituri, provincia afectada por el ébola",
-     "url": "https://reliefweb.int/report/democratic-republic-congo/casi-6-de-cada-10-mujeres-y-ninas-adolescentes-encuestadas-denuncian-un-aumento-de-la-violencia-y-los-abusos-en-ituri-provincia-afectada-por-el-ebola",
-     "date": "2026-11-25T13:03:09+00:00"
-    }
-   ],
-   "missing": [
-    {
-     "camp": "africa",
-     "label": "African",
-     "search": [
-      {
-       "outlet": "Africanews",
-       "url": "https://duckduckgo.com/?q=site%3Aafricanews.com%20congo%20casi%20cada%20mujere%20adolescente"
-      },
-      {
-       "outlet": "Premium Times",
-       "url": "https://duckduckgo.com/?q=site%3Apremiumtimesng.com%20congo%20casi%20cada%20mujere%20adolescente"
-      }
-     ]
-    }
-   ]
-  },
-  "ea3b60e056": {
-   "bodies": [],
-   "id": "ea3b60e056",
-   "headline": "Bangladesh: Forgotten but Not Over: Qatar Charity Keeps the Rohingya Crisis in Focus [EN/AR]",
-   "countries": [
-    "BGD",
-    "QAT",
-    "MYS"
-   ],
-   "score": 4.34,
-   "outlets": 1,
-   "camps": 1,
-   "updated": "2026-11-25T12:45:26+00:00",
-   "sources": [
-    {
-     "outlet": "ReliefWeb",
-     "camp": "multilateral",
-     "camp_label": "UN / multilateral",
-     "ownership": "UN OCHA",
-     "title": "Bangladesh: Forgotten but Not Over: Qatar Charity Keeps the Rohingya Crisis in Focus [EN/AR]",
-     "url": "https://reliefweb.int/report/bangladesh/forgotten-not-over-qatar-charity-keeps-rohingya-crisis-focus-enar",
-     "date": "2026-11-25T12:45:26+00:00"
-    }
-   ],
-   "missing": [
-    {
-     "camp": "arab",
-     "label": "Arab / Gulf",
-     "search": [
-      {
-       "outlet": "Al Jazeera",
-       "url": "https://duckduckgo.com/?q=site%3Aaljazeera.com%20bangladesh%20forgotten%20qatar%20charity%20keep"
-      },
-      {
-       "outlet": "Middle East Eye",
-       "url": "https://duckduckgo.com/?q=site%3Amiddleeasteye.net%20bangladesh%20forgotten%20qatar%20charity%20keep"
-      }
-     ]
-    }
-   ]
-  },
-  "5086d228cf": {
-   "bodies": [],
-   "id": "5086d228cf",
-   "headline": "Rawalpindiz secure Matthew Short as direct signing; Hyderabad Kingsmen opt out",
-   "countries": [
-    "AUS",
-    "PAK"
-   ],
-   "score": 4.31,
-   "outlets": 1,
-   "camps": 1,
-   "updated": "2026-11-25T12:19:59+00:00",
-   "sources": [
-    {
-     "outlet": "Dawn",
-     "camp": "pakistan",
-     "camp_label": "Pakistani",
-     "ownership": "Pakistani private",
-     "title": "Rawalpindiz secure Matthew Short as direct signing; Hyderabad Kingsmen opt out",
-     "url": "https://www.dawn.com/news/2047000/rawalpindiz-secure-matthew-short-as-direct-signing-hyderabad-kingsmen-opt-out",
-     "date": "2026-11-25T12:19:59+00:00"
-    }
-   ],
-   "missing": [
-    {
-     "camp": "western",
-     "label": "Western",
-     "search": [
-      {
-       "outlet": "BBC News",
-       "url": "https://duckduckgo.com/?q=site%3Abbc.com%20rawalpindiz%20secure%20matthew%20short%20direct"
-      },
-      {
-       "outlet": "The Guardian",
-       "url": "https://duckduckgo.com/?q=site%3Atheguardian.com%20rawalpindiz%20secure%20matthew%20short%20direct"
-      }
-     ]
-    }
-   ]
-  },
-  "56f966b1de": {
-   "bodies": [],
-   "id": "56f966b1de",
-   "headline": "Microsoft declares ‘Code Red’ after historic outage, internal memos show",
-   "countries": [
-    "JPN",
-    "USA",
-    "CHN"
-   ],
-   "score": 9.28,
-   "outlets": 2,
-   "camps": 2,
-   "updated": "2026-11-25T11:59:00+00:00",
-   "sources": [
-    {
-     "outlet": "Japan Times",
-     "camp": "asia-pacific",
-     "camp_label": "Asia-Pacific",
-     "ownership": "Japanese private",
-     "title": "Japan to declare aim to become AI nation after U.S. and China",
-     "url": "https://www.japantimes.co.jp/news/2026/11/25/japan/ai-nation-aim/",
-     "date": "2026-11-25T11:59:00+00:00"
-    },
-    {
-     "outlet": "The Hindu",
-     "camp": "india",
-     "camp_label": "Indian",
-     "ownership": "Indian private",
-     "title": "Microsoft declares ‘Code Red’ after historic outage, internal memos show",
-     "url": "https://www.thehindu.com/sci-tech/technology/microsoft-declares-code-red-after-historic-outage-internal-memos-show/article71740915.ece",
-     "date": "2026-11-25T07:28:13+00:00"
-    }
-   ],
-   "missing": [
-    {
-     "camp": "western",
-     "label": "Western",
-     "search": [
-      {
-       "outlet": "BBC News",
-       "url": "https://duckduckgo.com/?q=site%3Abbc.com%20declare%20japan%20aim%20become%20nation"
-      },
-      {
-       "outlet": "The Guardian",
-       "url": "https://duckduckgo.com/?q=site%3Atheguardian.com%20declare%20japan%20aim%20become%20nation"
+       "url": "https://duckduckgo.com/?q=site%3Atheguardian.com%20mexico%20strawberry%20grower%20struggle%20dumping"
       }
      ]
     }
@@ -2767,7 +3470,7 @@ window.CC_STORIES = {
     "ITA",
     "ARG"
    ],
-   "score": 4.22,
+   "score": 2.23,
    "outlets": 1,
    "camps": 1,
    "updated": "2026-11-25T11:19:00+00:00",
@@ -2798,965 +3501,6 @@ window.CC_STORIES = {
      ]
     }
    ]
-  },
-  "5905b06476": {
-   "bodies": [],
-   "id": "5905b06476",
-   "headline": "Additional personal info leaked from Bithumb in hacks",
-   "countries": [],
-   "score": 6.22,
-   "outlets": 2,
-   "camps": 1,
-   "updated": "2026-11-25T11:17:54+00:00",
-   "sources": [
-    {
-     "outlet": "Yonhap",
-     "camp": "asia-pacific",
-     "camp_label": "Asia-Pacific",
-     "ownership": "South Korean state-funded agency",
-     "title": "Additional personal info leaked from Bithumb in hacks",
-     "url": "https://en.yna.co.kr/view/AEN20261125010400320",
-     "date": "2026-11-25T11:17:54+00:00"
-    }
-   ],
-   "missing": []
-  },
-  "5586ff8c06": {
-   "bodies": [],
-   "id": "5586ff8c06",
-   "headline": "Nepal hedges between ‘2 Asian giants’ as ties with India thaw",
-   "countries": [
-    "IND",
-    "NPL"
-   ],
-   "score": 4.2,
-   "outlets": 1,
-   "camps": 1,
-   "updated": "2026-11-25T11:00:16+00:00",
-   "sources": [
-    {
-     "outlet": "South China Morning Post",
-     "camp": "asia-pacific",
-     "camp_label": "Asia-Pacific",
-     "ownership": "Hong Kong private (Alibaba)",
-     "title": "Nepal hedges between ‘2 Asian giants’ as ties with India thaw",
-     "url": "https://www.scmp.com/week-asia/politics/article/3375772/nepal-hedges-between-two-asian-giants-ties-india-thaw",
-     "date": "2026-11-25T11:00:16+00:00"
-    }
-   ],
-   "missing": [
-    {
-     "camp": "india",
-     "label": "Indian",
-     "search": [
-      {
-       "outlet": "The Hindu",
-       "url": "https://duckduckgo.com/?q=site%3Athehindu.com%20nepal%20hedge%20between%20asian%20giant"
-      }
-     ]
-    }
-   ]
-  },
-  "aaac63a07e": {
-   "bodies": [],
-   "id": "aaac63a07e",
-   "headline": "9 dead, 17 trapped in Indonesia after illegal gold mine floods",
-   "countries": [
-    "IDN"
-   ],
-   "score": 9.2,
-   "outlets": 2,
-   "camps": 2,
-   "updated": "2026-11-25T10:59:19+00:00",
-   "sources": [
-    {
-     "outlet": "South China Morning Post",
-     "camp": "asia-pacific",
-     "camp_label": "Asia-Pacific",
-     "ownership": "Hong Kong private (Alibaba)",
-     "title": "9 dead, 17 trapped in Indonesia after illegal gold mine floods",
-     "url": "https://www.scmp.com/news/asia/southeast-asia/article/3375778/3-dead-23-trapped-indonesia-after-illegal-gold-mine-floods",
-     "date": "2026-11-25T10:59:19+00:00"
-    },
-    {
-     "outlet": "Africanews",
-     "camp": "africa",
-     "camp_label": "African",
-     "ownership": "Pan-African (Euronews group)",
-     "title": "Indonesia: Search continues for workers trapped after deadly factory fire",
-     "url": "http://www.africanews.com/2026/11/24/indonesia-search-continues-for-workers-trapped-after-deadly-factory-fire/",
-     "date": "2026-11-24T09:19:50+00:00"
-    }
-   ],
-   "missing": []
-  },
-  "5fe1c4ac52": {
-   "bodies": [
-    "EU"
-   ],
-   "id": "5fe1c4ac52",
-   "headline": "Indonesia signs ‘ambitious’ trade deal with EU but will export boom follow?",
-   "countries": [
-    "IDN"
-   ],
-   "score": 4.19,
-   "outlets": 1,
-   "camps": 1,
-   "updated": "2026-11-25T10:54:19+00:00",
-   "sources": [
-    {
-     "outlet": "South China Morning Post",
-     "camp": "asia-pacific",
-     "camp_label": "Asia-Pacific",
-     "ownership": "Hong Kong private (Alibaba)",
-     "title": "Indonesia signs ‘ambitious’ trade deal with EU but will export boom follow?",
-     "url": "https://www.scmp.com/week-asia/economics/article/3375775/indonesia-signs-ambitious-trade-deal-eu-will-export-boom-follow",
-     "date": "2026-11-25T10:54:19+00:00"
-    }
-   ],
-   "missing": []
-  },
-  "e560f03c7a": {
-   "bodies": [],
-   "id": "e560f03c7a",
-   "headline": "'Let’s not blow it out of proportion': De Villiers urges cricket to move on from 'Sandpapergate'",
-   "countries": [
-    "AUS",
-    "ZAF"
-   ],
-   "score": 4.19,
-   "outlets": 1,
-   "camps": 1,
-   "updated": "2026-11-25T10:52:48+00:00",
-   "sources": [
-    {
-     "outlet": "Dawn",
-     "camp": "pakistan",
-     "camp_label": "Pakistani",
-     "ownership": "Pakistani private",
-     "title": "'Let’s not blow it out of proportion': De Villiers urges cricket to move on from 'Sandpapergate'",
-     "url": "https://www.dawn.com/news/2046997/lets-not-blow-it-out-of-proportion-de-villiers-urges-cricket-to-move-on-from-sandpapergate",
-     "date": "2026-11-25T10:52:48+00:00"
-    }
-   ],
-   "missing": [
-    {
-     "camp": "western",
-     "label": "Western",
-     "search": [
-      {
-       "outlet": "BBC News",
-       "url": "https://duckduckgo.com/?q=site%3Abbc.com%20let%20blow%20proportion%20villier%20urge"
-      },
-      {
-       "outlet": "The Guardian",
-       "url": "https://duckduckgo.com/?q=site%3Atheguardian.com%20let%20blow%20proportion%20villier%20urge"
-      }
-     ]
-    },
-    {
-     "camp": "africa",
-     "label": "African",
-     "search": [
-      {
-       "outlet": "Africanews",
-       "url": "https://duckduckgo.com/?q=site%3Aafricanews.com%20let%20blow%20proportion%20villier%20urge"
-      },
-      {
-       "outlet": "Premium Times",
-       "url": "https://duckduckgo.com/?q=site%3Apremiumtimesng.com%20let%20blow%20proportion%20villier%20urge"
-      }
-     ]
-    }
-   ]
-  },
-  "c1a0b09f31": {
-   "bodies": [],
-   "id": "c1a0b09f31",
-   "headline": "China promises to help Thailand and Myanmar fight Mekong basin pollution",
-   "countries": [
-    "CHN",
-    "THA",
-    "MMR"
-   ],
-   "score": 6.18,
-   "outlets": 2,
-   "camps": 1,
-   "updated": "2026-11-25T10:51:16+00:00",
-   "sources": [
-    {
-     "outlet": "South China Morning Post",
-     "camp": "asia-pacific",
-     "camp_label": "Asia-Pacific",
-     "ownership": "Hong Kong private (Alibaba)",
-     "title": "China promises to help Thailand and Myanmar fight Mekong basin pollution",
-     "url": "https://www.scmp.com/news/china/diplomacy/article/3375773/china-promises-help-thailand-and-myanmar-fight-mekong-basin-pollution",
-     "date": "2026-11-25T10:51:16+00:00"
-    }
-   ],
-   "missing": [
-    {
-     "camp": "china-state",
-     "label": "Chinese state",
-     "search": [
-      {
-       "outlet": "Global Times",
-       "url": "https://duckduckgo.com/?q=site%3Aglobaltimes.cn%20china%20help%20thailand%20myanmar%20promise"
-      },
-      {
-       "outlet": "CGTN",
-       "url": "https://duckduckgo.com/?q=site%3Acgtn.com%20china%20help%20thailand%20myanmar%20promise"
-      }
-     ]
-    }
-   ]
-  },
-  "88f56546ca": {
-   "bodies": [],
-   "id": "88f56546ca",
-   "headline": "Meta officials meet India’s Congress party to calm social media takedown row",
-   "countries": [
-    "IND",
-    "USA"
-   ],
-   "score": 4.02,
-   "outlets": 1,
-   "camps": 1,
-   "updated": "2026-11-25T08:55:34+00:00",
-   "sources": [
-    {
-     "outlet": "South China Morning Post",
-     "camp": "asia-pacific",
-     "camp_label": "Asia-Pacific",
-     "ownership": "Hong Kong private (Alibaba)",
-     "title": "Meta officials meet India’s Congress party to calm social media takedown row",
-     "url": "https://www.scmp.com/news/asia/south-asia/article/3375747/meta-officials-meet-indias-congress-party-calm-social-media-takedown-row",
-     "date": "2026-11-25T08:55:34+00:00"
-    }
-   ],
-   "missing": [
-    {
-     "camp": "india",
-     "label": "Indian",
-     "search": [
-      {
-       "outlet": "The Hindu",
-       "url": "https://duckduckgo.com/?q=site%3Athehindu.com%20meta%20official%20meet%20india%20congress"
-      }
-     ]
-    },
-    {
-     "camp": "western",
-     "label": "Western",
-     "search": [
-      {
-       "outlet": "BBC News",
-       "url": "https://duckduckgo.com/?q=site%3Abbc.com%20meta%20official%20meet%20india%20congress"
-      },
-      {
-       "outlet": "The Guardian",
-       "url": "https://duckduckgo.com/?q=site%3Atheguardian.com%20meta%20official%20meet%20india%20congress"
-      }
-     ]
-    }
-   ]
-  },
-  "8f82992849": {
-   "bodies": [],
-   "id": "8f82992849",
-   "headline": "Is Malaysia’s subsidy tsar next to leave Anwar Ibrahim’s cabinet?",
-   "countries": [
-    "MYS",
-    "MMR"
-   ],
-   "score": 8.98,
-   "outlets": 2,
-   "camps": 2,
-   "updated": "2026-11-25T08:23:34+00:00",
-   "sources": [
-    {
-     "outlet": "South China Morning Post",
-     "camp": "asia-pacific",
-     "camp_label": "Asia-Pacific",
-     "ownership": "Hong Kong private (Alibaba)",
-     "title": "Is Malaysia’s subsidy tsar next to leave Anwar Ibrahim’s cabinet?",
-     "url": "https://www.scmp.com/week-asia/politics/article/3375739/malaysias-subsidy-tsar-next-leave-anwar-ibrahims-cabinet",
-     "date": "2026-11-25T08:23:34+00:00"
-    },
-    {
-     "outlet": "The Hindu",
-     "camp": "india",
-     "camp_label": "Indian",
-     "ownership": "Indian private",
-     "title": "Malaysia to repatriate another 6,803 Myanmar nationals despite ICJ genocide ruling",
-     "url": "https://www.thehindu.com/news/international/malaysia-to-repatriate-another-6803-myanmar-nationals-despite-icj-genocide-ruling/article71740198.ece",
-     "date": "2026-11-24T22:36:29+00:00"
-    }
-   ],
-   "missing": []
-  },
-  "fc402692a0": {
-   "bodies": [],
-   "id": "fc402692a0",
-   "headline": "Eisenkot clinches first coalition agreement in bid to form Israel's government",
-   "countries": [
-    "ISR"
-   ],
-   "score": 8.86,
-   "outlets": 2,
-   "camps": 2,
-   "updated": "2026-11-25T06:54:15+00:00",
-   "sources": [
-    {
-     "outlet": "Dawn",
-     "camp": "pakistan",
-     "camp_label": "Pakistani",
-     "ownership": "Pakistani private",
-     "title": "Eisenkot clinches first coalition agreement in bid to form Israel's government",
-     "url": "https://www.dawn.com/news/2046976/eisenkot-clinches-first-coalition-agreement-in-bid-to-form-israels-government",
-     "date": "2026-11-25T06:54:15+00:00"
-    },
-    {
-     "outlet": "The Hindu",
-     "camp": "india",
-     "camp_label": "Indian",
-     "ownership": "Indian private",
-     "title": "Israel’s Eisenkot clinches first coalition agreement in bid to form government",
-     "url": "https://www.thehindu.com/news/international/israels-eisenkot-clinches-first-coalition-agreement-in-bid-to-form-government/article71740200.ece",
-     "date": "2026-11-24T22:56:23+00:00"
-    }
-   ],
-   "missing": [
-    {
-     "camp": "israel",
-     "label": "Israeli",
-     "search": [
-      {
-       "outlet": "Times of Israel",
-       "url": "https://duckduckgo.com/?q=site%3Atimesofisrael.com%20clinche%20coalition%20agreement%20bid%20form"
-      }
-     ]
-    }
-   ]
-  },
-  "a131d7bddc": {
-   "bodies": [],
-   "id": "a131d7bddc",
-   "headline": "Australia edges China out of Pacific foothold in Solomon Islands",
-   "countries": [
-    "AUS",
-    "CHN",
-    "SLB"
-   ],
-   "score": 8.65,
-   "outlets": 2,
-   "camps": 2,
-   "updated": "2026-11-25T04:29:00+00:00",
-   "sources": [
-    {
-     "outlet": "Japan Times",
-     "camp": "asia-pacific",
-     "camp_label": "Asia-Pacific",
-     "ownership": "Japanese private",
-     "title": "Australia edges China out of Pacific foothold in Solomon Islands",
-     "url": "https://www.japantimes.co.jp/news/2026/11/25/asia-pacific/politics/australia-solomon-islands-pact-china/",
-     "date": "2026-11-25T04:29:00+00:00"
-    },
-    {
-     "outlet": "The Hindu",
-     "camp": "india",
-     "camp_label": "Indian",
-     "ownership": "Indian private",
-     "title": "Solomon Islands names Australia as its primary security partner in a new treaty that excludes China",
-     "url": "https://www.thehindu.com/news/international/solomon-islands-names-australia-as-its-primary-security-partner-in-a-new-treaty-that-excludes-china/article71741038.ece",
-     "date": "2026-11-25T04:15:07+00:00"
-    }
-   ],
-   "missing": [
-    {
-     "camp": "western",
-     "label": "Western",
-     "search": [
-      {
-       "outlet": "BBC News",
-       "url": "https://duckduckgo.com/?q=site%3Abbc.com%20australia%20china%20solomon%20island%20edge"
-      },
-      {
-       "outlet": "The Guardian",
-       "url": "https://duckduckgo.com/?q=site%3Atheguardian.com%20australia%20china%20solomon%20island%20edge"
-      }
-     ]
-    },
-    {
-     "camp": "china-state",
-     "label": "Chinese state",
-     "search": [
-      {
-       "outlet": "Global Times",
-       "url": "https://duckduckgo.com/?q=site%3Aglobaltimes.cn%20australia%20china%20solomon%20island%20edge"
-      },
-      {
-       "outlet": "CGTN",
-       "url": "https://duckduckgo.com/?q=site%3Acgtn.com%20australia%20china%20solomon%20island%20edge"
-      }
-     ]
-    }
-   ]
-  },
-  "95b0d5ee7f": {
-   "bodies": [],
-   "id": "95b0d5ee7f",
-   "headline": "Indonesian rescuers searching for possibly ‘dozens’ trapped in mine",
-   "countries": [
-    "IDN"
-   ],
-   "score": 3.58,
-   "outlets": 1,
-   "camps": 1,
-   "updated": "2026-11-25T03:38:07+00:00",
-   "sources": [
-    {
-     "outlet": "The Hindu",
-     "camp": "india",
-     "camp_label": "Indian",
-     "ownership": "Indian private",
-     "title": "Indonesian rescuers searching for possibly ‘dozens’ trapped in mine",
-     "url": "https://www.thehindu.com/news/international/indonesian-rescuers-searching-for-possibly-dozens-trapped-in-mine/article71741002.ece",
-     "date": "2026-11-25T03:38:07+00:00"
-    }
-   ],
-   "missing": []
-  },
-  "754904087a": {
-   "bodies": [],
-   "id": "754904087a",
-   "headline": "Remains of S. Korean Army corporal killed in Vietnam War to be returned home",
-   "countries": [
-    "VNM",
-    "KOR"
-   ],
-   "score": 3.49,
-   "outlets": 1,
-   "camps": 1,
-   "updated": "2026-11-25T02:28:10+00:00",
-   "sources": [
-    {
-     "outlet": "Yonhap",
-     "camp": "asia-pacific",
-     "camp_label": "Asia-Pacific",
-     "ownership": "South Korean state-funded agency",
-     "title": "Remains of S. Korean Army corporal killed in Vietnam War to be returned home",
-     "url": "https://en.yna.co.kr/view/AEN20261125004000315",
-     "date": "2026-11-25T02:28:10+00:00"
-    }
-   ],
-   "missing": []
-  },
-  "9c19f1f553": {
-   "bodies": [],
-   "id": "9c19f1f553",
-   "headline": "Shavon Shields powers Fenerbahce to comeback win over Barcelona in EuroLeague",
-   "countries": [
-    "DNK",
-    "USA",
-    "TUR"
-   ],
-   "score": 3.45,
-   "outlets": 1,
-   "camps": 1,
-   "updated": "2026-11-25T01:58:46+00:00",
-   "sources": [
-    {
-     "outlet": "Anadolu Agency",
-     "camp": "turkey-state",
-     "camp_label": "Turkish state",
-     "ownership": "Turkish state agency",
-     "title": "Shavon Shields powers Fenerbahce to comeback win over Barcelona in EuroLeague",
-     "url": "https://www.aa.com.tr/en/sports/shavon-shields-powers-fenerbahce-to-comeback-win-over-barcelona-in-euroleague/4136546",
-     "date": "2026-11-25T01:58:46+00:00"
-    }
-   ],
-   "missing": [
-    {
-     "camp": "western",
-     "label": "Western",
-     "search": [
-      {
-       "outlet": "BBC News",
-       "url": "https://duckduckgo.com/?q=site%3Abbc.com%20shavon%20shield%20power%20fenerbahce%20comeback"
-      },
-      {
-       "outlet": "The Guardian",
-       "url": "https://duckduckgo.com/?q=site%3Atheguardian.com%20shavon%20shield%20power%20fenerbahce%20comeback"
-      }
-     ]
-    }
-   ]
-  },
-  "c173ce113a": {
-   "bodies": [],
-   "id": "c173ce113a",
-   "headline": "Shot in the face at 15: The lives shattered by Cameroon's decade of conflict",
-   "countries": [
-    "CMR",
-    "NOR"
-   ],
-   "score": 8.36,
-   "outlets": 2,
-   "camps": 2,
-   "updated": "2026-11-25T01:00:36+00:00",
-   "sources": [
-    {
-     "outlet": "Africanews",
-     "camp": "africa",
-     "camp_label": "African",
-     "ownership": "Pan-African (Euronews group)",
-     "title": "Cameroon separatist leader pleads not guilty at Norway war crimes trial",
-     "url": "http://www.africanews.com/2026/11/24/cameroon-separatist-leader-pleads-not-guilty-at-norway-war-crimes-trial/",
-     "date": "2026-11-24T21:26:00+00:00"
-    },
-    {
-     "outlet": "BBC News",
-     "camp": "western",
-     "camp_label": "Western",
-     "ownership": "UK public broadcaster",
-     "title": "Shot in the face at 15: The lives shattered by Cameroon's decade of conflict",
-     "url": "https://www.bbc.co.uk/news/articles/crd6128y1qn1o?at_medium=RSS&at_campaign=rss",
-     "date": "2026-11-25T01:00:36+00:00"
-    }
-   ],
-   "missing": []
-  },
-  "63cd30f88f": {
-   "bodies": [],
-   "id": "63cd30f88f",
-   "headline": "Argentina enters technical recession after two quarters of contraction, the first since 2024",
-   "countries": [
-    "ARG"
-   ],
-   "score": 3.36,
-   "outlets": 1,
-   "camps": 1,
-   "updated": "2026-11-25T00:55:00+00:00",
-   "sources": [
-    {
-     "outlet": "MercoPress",
-     "camp": "latam",
-     "camp_label": "Latin American",
-     "ownership": "Uruguay-based private",
-     "title": "Argentina enters technical recession after two quarters of contraction, the first since 2024",
-     "url": "https://en.mercopress.com/2026/11/25/argentina-enters-technical-recession-after-two-quarters-of-contraction-the-first-since-2024?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
-     "date": "2026-11-25T00:55:00+00:00"
-    }
-   ],
-   "missing": []
-  },
-  "bdcc31ada9": {
-   "bodies": [],
-   "id": "bdcc31ada9",
-   "headline": "The flag at waist height: the rules for visiting the Argentine Military Cemetery in the Falklands",
-   "countries": [
-    "ARG"
-   ],
-   "score": 3.16,
-   "outlets": 1,
-   "camps": 1,
-   "updated": "2026-11-24T22:31:00+00:00",
-   "sources": [
-    {
-     "outlet": "MercoPress",
-     "camp": "latam",
-     "camp_label": "Latin American",
-     "ownership": "Uruguay-based private",
-     "title": "The flag at waist height: the rules for visiting the Argentine Military Cemetery in the Falklands",
-     "url": "https://en.mercopress.com/2026/11/24/the-flag-at-waist-height-the-rules-for-visiting-the-argentine-military-cemetery-in-the-falklands?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss",
-     "date": "2026-11-24T22:31:00+00:00"
-    }
-   ],
-   "missing": []
-  },
-  "b9822b17b5": {
-   "bodies": [],
-   "id": "b9822b17b5",
-   "headline": "Cameroon crushed 4-0 by Mexico after second-half collapse",
-   "countries": [
-    "MEX",
-    "USA",
-    "CMR"
-   ],
-   "score": 8.0,
-   "outlets": 2,
-   "camps": 2,
-   "updated": "2026-11-24T20:35:50+00:00",
-   "sources": [
-    {
-     "outlet": "Africanews",
-     "camp": "africa",
-     "camp_label": "African",
-     "ownership": "Pan-African (Euronews group)",
-     "title": "Cameroon crushed 4-0 by Mexico after second-half collapse",
-     "url": "http://www.africanews.com/2026/11/24/cameroon-crushed-4-0-by-mexico-after-second-half-collapse/",
-     "date": "2026-11-24T20:03:23+00:00"
-    },
-    {
-     "outlet": "CGTN",
-     "camp": "china-state",
-     "camp_label": "Chinese state",
-     "ownership": "Chinese state broadcaster",
-     "title": "Mexico's strawberry growers struggle amid US dumping claims",
-     "url": "https://newsus.cgtn.com/news/2026-11-25/Mexico-s-strawberry-growers-struggle-amid-US-dumping-claims-1Slxg0EFqWk/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World",
-     "date": "2026-11-24T20:35:50+00:00"
-    }
-   ],
-   "missing": [
-    {
-     "camp": "latam",
-     "label": "Latin American",
-     "search": [
-      {
-       "outlet": "MercoPress",
-       "url": "https://duckduckgo.com/?q=site%3Amercopress.com%20mexico%20strawberry%20grower%20struggle%20dumping"
-      }
-     ]
-    },
-    {
-     "camp": "western",
-     "label": "Western",
-     "search": [
-      {
-       "outlet": "BBC News",
-       "url": "https://duckduckgo.com/?q=site%3Abbc.com%20mexico%20strawberry%20grower%20struggle%20dumping"
-      },
-      {
-       "outlet": "The Guardian",
-       "url": "https://duckduckgo.com/?q=site%3Atheguardian.com%20mexico%20strawberry%20grower%20struggle%20dumping"
-      }
-     ]
-    }
-   ]
-  },
-  "1d8369adb3": {
-   "bodies": [],
-   "id": "1d8369adb3",
-   "headline": "Tanzania fall to Brazil in Under-17 World Cup Group I",
-   "countries": [
-    "TZA",
-    "BRA"
-   ],
-   "score": 2.95,
-   "outlets": 1,
-   "camps": 1,
-   "updated": "2026-11-24T20:00:24+00:00",
-   "sources": [
-    {
-     "outlet": "Africanews",
-     "camp": "africa",
-     "camp_label": "African",
-     "ownership": "Pan-African (Euronews group)",
-     "title": "Tanzania fall to Brazil in Under-17 World Cup Group I",
-     "url": "http://www.africanews.com/2026/11/24/tanzania-fall-to-brazil-in-under-17-world-cup-group-i/",
-     "date": "2026-11-24T20:00:24+00:00"
-    }
-   ],
-   "missing": [
-    {
-     "camp": "latam",
-     "label": "Latin American",
-     "search": [
-      {
-       "outlet": "MercoPress",
-       "url": "https://duckduckgo.com/?q=site%3Amercopress.com%20tanzania%20fall%20brazil%20under%20world"
-      }
-     ]
-    }
-   ]
-  },
-  "256da723ad": {
-   "bodies": [],
-   "id": "256da723ad",
-   "headline": "DR Congo rebel group announces pullback after heavy fighting near Bunia",
-   "countries": [
-    "COD",
-    "UGA"
-   ],
-   "score": 2.89,
-   "outlets": 1,
-   "camps": 1,
-   "updated": "2026-11-24T19:22:04+00:00",
-   "sources": [
-    {
-     "outlet": "Anadolu Agency",
-     "camp": "turkey-state",
-     "camp_label": "Turkish state",
-     "ownership": "Turkish state agency",
-     "title": "DR Congo rebel group announces pullback after heavy fighting near Bunia",
-     "url": "https://www.aa.com.tr/en/world/dr-congo-rebel-group-announces-pullback-after-heavy-fighting-near-bunia/4136391",
-     "date": "2026-11-24T19:22:04+00:00"
-    }
-   ],
-   "missing": [
-    {
-     "camp": "africa",
-     "label": "African",
-     "search": [
-      {
-       "outlet": "Africanews",
-       "url": "https://duckduckgo.com/?q=site%3Aafricanews.com%20congo%20rebel%20group%20announce%20pullback"
-      },
-      {
-       "outlet": "Premium Times",
-       "url": "https://duckduckgo.com/?q=site%3Apremiumtimesng.com%20congo%20rebel%20group%20announce%20pullback"
-      }
-     ]
-    },
-    {
-     "camp": "africa",
-     "label": "African",
-     "search": [
-      {
-       "outlet": "Africanews",
-       "url": "https://duckduckgo.com/?q=site%3Aafricanews.com%20congo%20rebel%20group%20announce%20pullback"
-      },
-      {
-       "outlet": "Premium Times",
-       "url": "https://duckduckgo.com/?q=site%3Apremiumtimesng.com%20congo%20rebel%20group%20announce%20pullback"
-      }
-     ]
-    }
-   ]
-  },
-  "2b9860286d": {
-   "bodies": [],
-   "id": "2b9860286d",
-   "headline": "Amnesty calls for probe into possible war crimes in Ethiopia's Tigray",
-   "countries": [
-    "ETH"
-   ],
-   "score": 2.74,
-   "outlets": 1,
-   "camps": 1,
-   "updated": "2026-11-24T17:30:34+00:00",
-   "sources": [
-    {
-     "outlet": "Africanews",
-     "camp": "africa",
-     "camp_label": "African",
-     "ownership": "Pan-African (Euronews group)",
-     "title": "Amnesty calls for probe into possible war crimes in Ethiopia's Tigray",
-     "url": "http://www.africanews.com/2026/11/24/amnesty-calls-for-probe-into-possible-war-crimes-in-ethiopias-tigray/",
-     "date": "2026-11-24T17:30:34+00:00"
-    }
-   ],
-   "missing": []
-  },
-  "9b17a6426b": {
-   "bodies": [],
-   "id": "9b17a6426b",
-   "headline": "DRC president says mineral wealth must benefit its people",
-   "countries": [
-    "COD"
-   ],
-   "score": 2.72,
-   "outlets": 1,
-   "camps": 1,
-   "updated": "2026-11-24T17:14:52+00:00",
-   "sources": [
-    {
-     "outlet": "Africanews",
-     "camp": "africa",
-     "camp_label": "African",
-     "ownership": "Pan-African (Euronews group)",
-     "title": "DRC president says mineral wealth must benefit its people",
-     "url": "http://www.africanews.com/2026/11/24/drc-president-says-mineral-wealth-must-benefit-its-people/",
-     "date": "2026-11-24T17:14:52+00:00"
-    }
-   ],
-   "missing": []
-  },
-  "58edbc6d78": {
-   "bodies": [
-    "NATO"
-   ],
-   "id": "58edbc6d78",
-   "headline": "Ukraine's bid for NATO membership and more air defense remains controversial",
-   "countries": [
-    "UKR",
-    "RUS",
-    "DEU"
-   ],
-   "score": 7.64,
-   "outlets": 2,
-   "camps": 2,
-   "updated": "2026-11-24T16:18:00+00:00",
-   "sources": [
-    {
-     "outlet": "RT",
-     "camp": "russia-state",
-     "camp_label": "Russian state",
-     "ownership": "Russian state-funded",
-     "title": "Merz digs at NATO’s Ukraine membership failure",
-     "url": "https://rt-english.com/news/649292-merz-swipe-merkel-ukraine-nato-bid/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-     "date": "2026-11-24T11:20:27+00:00"
-    },
-    {
-     "outlet": "DW",
-     "camp": "western",
-     "camp_label": "Western",
-     "ownership": "German public broadcaster",
-     "title": "Ukraine's bid for NATO membership and more air defense remains controversial",
-     "url": "https://www.dw.com/en/ukraine-s-bid-for-nato-membership-and-more-air-defense-remains-controversial/a-80029852?maca=en-rss-en-world-4025-rdf",
-     "date": "2026-11-24T16:18:00+00:00"
-    }
-   ],
-   "missing": [
-    {
-     "camp": "ukraine",
-     "label": "Ukrainian",
-     "search": [
-      {
-       "outlet": "Kyiv Independent",
-       "url": "https://duckduckgo.com/?q=site%3Akyivindependent.com%20ukraine%20nato%20membership%20bid%20air"
-      },
-      {
-       "outlet": "Ukrainska Pravda",
-       "url": "https://duckduckgo.com/?q=site%3Apravda.com.ua%20ukraine%20nato%20membership%20bid%20air"
-      }
-     ]
-    }
-   ]
-  },
-  "0a27744c28": {
-   "bodies": [],
-   "id": "0a27744c28",
-   "headline": "Brazil turns heat on Big Tech and Bolsonaro camp over foreign interference in elections",
-   "countries": [
-    "BRA",
-    "USA"
-   ],
-   "score": 2.44,
-   "outlets": 1,
-   "camps": 1,
-   "updated": "2026-11-24T13:57:53+00:00",
-   "sources": [
-    {
-     "outlet": "The Hindu",
-     "camp": "india",
-     "camp_label": "Indian",
-     "ownership": "Indian private",
-     "title": "Brazil turns heat on Big Tech and Bolsonaro camp over foreign interference in elections",
-     "url": "https://www.thehindu.com/news/international/brazil-turns-heat-on-big-tech-and-bolsonaro-camp-over-foreign-interference-in-elections/article71714470.ece",
-     "date": "2026-11-24T13:57:53+00:00"
-    }
-   ],
-   "missing": [
-    {
-     "camp": "latam",
-     "label": "Latin American",
-     "search": [
-      {
-       "outlet": "MercoPress",
-       "url": "https://duckduckgo.com/?q=site%3Amercopress.com%20brazil%20big%20tech%20turn%20heat"
-      }
-     ]
-    },
-    {
-     "camp": "western",
-     "label": "Western",
-     "search": [
-      {
-       "outlet": "BBC News",
-       "url": "https://duckduckgo.com/?q=site%3Abbc.com%20brazil%20big%20tech%20turn%20heat"
-      },
-      {
-       "outlet": "The Guardian",
-       "url": "https://duckduckgo.com/?q=site%3Atheguardian.com%20brazil%20big%20tech%20turn%20heat"
-      }
-     ]
-    }
-   ]
-  },
-  "ef47270895": {
-   "bodies": [
-    "UN"
-   ],
-   "id": "ef47270895",
-   "headline": "Security Council LIVE: Can conflict resolution keep pace as AI and drones reshape war?",
-   "countries": [],
-   "score": 2.28,
-   "outlets": 1,
-   "camps": 1,
-   "updated": "2026-11-24T12:00:00+00:00",
-   "sources": [
-    {
-     "outlet": "UN News",
-     "camp": "multilateral",
-     "camp_label": "UN / multilateral",
-     "ownership": "United Nations",
-     "title": "Security Council LIVE: Can conflict resolution keep pace as AI and drones reshape war?",
-     "url": "https://news.un.org/feed/view/en/story/2026/11/1168866",
-     "date": "2026-11-24T12:00:00+00:00"
-    }
-   ],
-   "missing": []
-  },
-  "3c92b08b0a": {
-   "bodies": [],
-   "id": "3c92b08b0a",
-   "headline": "Vietnam Blast: Six killed, dozens injured in a hot pot eatery blast in Hanoi",
-   "countries": [
-    "VNM"
-   ],
-   "score": 2.28,
-   "outlets": 1,
-   "camps": 1,
-   "updated": "2026-11-24T11:58:47+00:00",
-   "sources": [
-    {
-     "outlet": "The Hindu",
-     "camp": "india",
-     "camp_label": "Indian",
-     "ownership": "Indian private",
-     "title": "Vietnam Blast: Six killed, dozens injured in a hot pot eatery blast in Hanoi",
-     "url": "https://www.thehindu.com/news/international/vietnam-blast-six-killed-dozens-injured-in-a-hot-pot-eatery-blast-in-hanoi/article71738306.ece",
-     "date": "2026-11-24T11:58:47+00:00"
-    }
-   ],
-   "missing": []
-  },
-  "82b58e9664": {
-   "bodies": [],
-   "id": "82b58e9664",
-   "headline": "Watch: Moment troops raid home and capture Mexican drug lord",
-   "countries": [
-    "MEX"
-   ],
-   "score": 2.04,
-   "outlets": 1,
-   "camps": 1,
-   "updated": "2026-11-24T09:09:41+00:00",
-   "sources": [
-    {
-     "outlet": "BBC News",
-     "camp": "western",
-     "camp_label": "Western",
-     "ownership": "UK public broadcaster",
-     "title": "Watch: Moment troops raid home and capture Mexican drug lord",
-     "url": "https://www.bbc.co.uk/news/videos/cm62p9y3y04qo?at_medium=RSS&at_campaign=rss",
-     "date": "2026-11-24T09:09:41+00:00"
-    }
-   ],
-   "missing": [
-    {
-     "camp": "latam",
-     "label": "Latin American",
-     "search": [
-      {
-       "outlet": "MercoPress",
-       "url": "https://duckduckgo.com/?q=site%3Amercopress.com%20moment%20troop%20raid%20home%20capture"
-      }
-     ]
-    }
-   ]
   }
  },
  "feeds": [
@@ -3768,12 +3512,12 @@ window.CC_STORIES = {
   {
    "outlet": "The Guardian",
    "ok": true,
-   "items": 40
+   "items": 39
   },
   {
    "outlet": "DW",
    "ok": true,
-   "items": 10
+   "items": 12
   },
   {
    "outlet": "France 24",
@@ -3783,7 +3527,7 @@ window.CC_STORIES = {
   {
    "outlet": "NPR",
    "ok": true,
-   "items": 10
+   "items": 8
   },
   {
    "outlet": "CBC News",
@@ -3803,7 +3547,7 @@ window.CC_STORIES = {
   {
    "outlet": "RT",
    "ok": true,
-   "items": 28
+   "items": 27
   },
   {
    "outlet": "TASS",
@@ -3838,7 +3582,7 @@ window.CC_STORIES = {
   {
    "outlet": "Yonhap",
    "ok": true,
-   "items": 73
+   "items": 80
   },
   {
    "outlet": "Times of Israel",
@@ -3868,22 +3612,22 @@ window.CC_STORIES = {
   {
    "outlet": "Anadolu Agency",
    "ok": true,
-   "items": 30
+   "items": 27
   },
   {
    "outlet": "The Hindu",
    "ok": true,
-   "items": 60
+   "items": 41
   },
   {
    "outlet": "Dawn",
    "ok": true,
-   "items": 27
+   "items": 28
   },
   {
    "outlet": "Africanews",
    "ok": true,
-   "items": 35
+   "items": 42
   },
   {
    "outlet": "Premium Times",
@@ -3897,8 +3641,8 @@ window.CC_STORIES = {
   },
   {
    "outlet": "UN News",
-   "ok": true,
-   "items": 12
+   "ok": false,
+   "error": "not well-formed (invalid token): line 1, column 0"
   },
   {
    "outlet": "ReliefWeb",

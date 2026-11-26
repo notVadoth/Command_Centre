@@ -6691,6 +6691,297 @@
    "url": "https://www.amnesty.org/en/latest/news/2026/11/women-and-girls-bear-the-crushing-toll-of-israels-ongoing-genocide-in-gaza/",
    "date": "2026-11-24T15:59:00+00:00",
    "seen": "2026-11-25T20:38:32.372450+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "Palestinian",
+   "iso": "PSE",
+   "province": "West Bank",
+   "province_id": "83478781B28849486138516",
+   "outlet": "The Guardian",
+   "host": "theguardian.com",
+   "partisan": false,
+   "title": "Israel ‘officially sanctions’ torture of Palestinian prisoners to extract confessions, report concludes",
+   "sentence": "Public Committee Against Torture in Israel examined 42 complaints against Shin Bet interrogators over past decade Israel has institutionalised the use of torture to extract confessions from Palestinian prisoners, sometimes documenting abuse in official records or granting advanced approval for “spec",
+   "url": "https://www.theguardian.com/world/2026/nov/26/israel-officially-sanctions-torture-palestinian-prisoners-confessions-report",
+   "date": "2026-11-26T10:00:52+00:00",
+   "seen": "2026-11-26T20:32:08.627176+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Crimea",
+   "iso": "UKR",
+   "province": "Autonomous Republic of Crimea",
+   "province_id": "14850775B24260608407062",
+   "outlet": "Kyiv Independent",
+   "host": "kyivindependent.com",
+   "partisan": false,
+   "title": "Large-scale power outage hits Russian-occupied Crimea, disrupts transport",
+   "sentence": "Large-scale power outage hits Russian-occupied Crimea, disrupts transport.",
+   "url": "https://kyivindependent.com/large-scale-power-outage-hits-russian-occupied-crimea-disrupts-transport/",
+   "date": "2026-11-26T15:05:36+00:00",
+   "seen": "2026-11-26T20:32:08.627176+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Khmelnytskyi",
+   "iso": "UKR",
+   "province": "Khmelnytskyi Oblast",
+   "province_id": "14850775B78366470925827",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "Fire breaks out at business premises in Khmelnytskyi district following Russian attack",
+   "sentence": "Fire breaks out at business premises in Khmelnytskyi district following Russian attack.",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/26/8064869/",
+   "date": "2026-11-26T19:24:00+00:00",
+   "seen": "2026-11-26T20:32:08.627176+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Crimea",
+   "iso": "UKR",
+   "province": "Autonomous Republic of Crimea",
+   "province_id": "14850775B24260608407062",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "Large-scale power outage reported in Crimea",
+   "sentence": "A major blackout has affected Russian-occupied Crimea; Sevastopol is completely without electricity and outages have been reported in dozens of settlements across the peninsula.",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/26/8064806/",
+   "date": "2026-11-26T13:24:00+00:00",
+   "seen": "2026-11-26T20:32:08.627176+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Odesa",
+   "iso": "UKR",
+   "province": "Odessa Oblast",
+   "province_id": "14850775B53240635394722",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "Russian attack on Odesa kills 70-year-old man",
+   "sentence": "Russian attack on Odesa kills 70-year-old man.",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/26/8064800/",
+   "date": "2026-11-26T13:06:00+00:00",
+   "seen": "2026-11-26T20:32:08.627176+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Libya",
+   "iso": "RUS",
+   "province": "Novgorod Oblast",
+   "province_id": "28173009B16533507618293",
+   "outlet": "Africanews",
+   "host": "africanews.com",
+   "partisan": false,
+   "title": "Italy's Meloni concerned after Ukraine attack on Russian ship in Libya",
+   "sentence": "Italy's Meloni concerned after Ukraine attack on Russian ship in Libya.",
+   "url": "http://www.africanews.com/2026/11/26/italys-meloni-concerned-after-ukraine-attack-on-russian-ship-in-libya/",
+   "date": "2026-11-26T15:42:06+00:00",
+   "seen": "2026-11-26T20:32:08.627176+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Ukraine"
+   ],
+   "place": "Kherson",
+   "iso": "UKR",
+   "province": "Kherson Oblast",
+   "province_id": "14850775B65901307765467",
+   "outlet": "Global Issues",
+   "host": "globalissues.org",
+   "partisan": false,
+   "title": "Ukrainians Brace for Another Winter on the War’s Frontline in Kherson",
+   "sentence": "Ukrainians Brace for Another Winter on the War’s Frontline in Kherson.",
+   "url": "https://www.globalissues.org/news/2026/11/26/44700",
+   "date": "2026-11-25T16:00:00+00:00",
+   "seen": "2026-11-26T20:32:08.627176+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Marib",
+   "iso": "YEM",
+   "province": "Ma'rib Governorate",
+   "province_id": "18629408B1777518619063",
+   "outlet": "operativmm",
+   "host": "operativmm.az",
+   "partisan": false,
+   "title": "Yemen army reports clashes 80 km from Sanaa as casualties top 13,000",
+   "sentence": "Yemen’s army says it clashed with Houthi forces in Marib province, about 80 km from Sanaa.",
+   "url": "https://operativmm.az/en/post/yemen-army-reports-clashes-80-km-from-sanaa-as-casualties-top-13000/88911",
+   "date": "2026-11-26T01:42:00+00:00",
+   "seen": "2026-11-26T20:32:08.627176+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Sanaa",
+   "iso": "YEM",
+   "province": "Sanʿaʾ Governorate",
+   "province_id": "18629408B64822604790923",
+   "outlet": "operativmm",
+   "host": "operativmm.az",
+   "partisan": false,
+   "title": "Yemen army reports clashes 80 km from Sanaa as casualties top 13,000",
+   "sentence": "Yemen’s army says it clashed with Houthi forces in Marib province, about 80 km from Sanaa.",
+   "url": "https://operativmm.az/en/post/yemen-army-reports-clashes-80-km-from-sanaa-as-casualties-top-13000/88911",
+   "date": "2026-11-26T01:42:00+00:00",
+   "seen": "2026-11-26T20:32:08.627176+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Government"
+   ],
+   "place": "Sanaa",
+   "iso": "YEM",
+   "province": "Sanʿaʾ Governorate",
+   "province_id": "18629408B64822604790923",
+   "outlet": "Anadolu Agency",
+   "host": "aa.com.tr",
+   "partisan": false,
+   "title": "Yemeni army reports clashes 80 kilometers from Sanaa as casualties exceed 13,000 since August",
+   "sentence": "Yemeni army reports clashes 80 kilometers from Sanaa as casualties exceed 13,000 since August.",
+   "url": "https://www.aa.com.tr/en/middle-east/yemeni-army-reports-clashes-80-kilometers-from-sanaa-as-casualties-exceed-13-000-since-august/4139629",
+   "date": "2026-11-26T00:37:00+00:00",
+   "seen": "2026-11-26T20:32:08.627176+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Marib",
+   "iso": "YEM",
+   "province": "Ma'rib Governorate",
+   "province_id": "18629408B1777518619063",
+   "outlet": "Anadolu Agency",
+   "host": "aa.com.tr",
+   "partisan": false,
+   "title": "Yemeni army reports clashes 80 kilometers from Sanaa as casualties exceed 13,000 since August",
+   "sentence": "Army reports clashes with the Houthis in Marib and Al-Jawf and airstrikes on the group’s positions in Taiz",
+   "url": "https://www.aa.com.tr/en/middle-east/yemeni-army-reports-clashes-80-kilometers-from-sanaa-as-casualties-exceed-13-000-since-august/4139629",
+   "date": "2026-11-26T00:37:00+00:00",
+   "seen": "2026-11-26T20:32:08.627176+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Taiz",
+   "iso": "YEM",
+   "province": "Ta'izz Governorate",
+   "province_id": "18629408B66245584752084",
+   "outlet": "Anadolu Agency",
+   "host": "aa.com.tr",
+   "partisan": false,
+   "title": "Yemeni army reports clashes 80 kilometers from Sanaa as casualties exceed 13,000 since August",
+   "sentence": "Army reports clashes with the Houthis in Marib and Al-Jawf and airstrikes on the group’s positions in Taiz",
+   "url": "https://www.aa.com.tr/en/middle-east/yemeni-army-reports-clashes-80-kilometers-from-sanaa-as-casualties-exceed-13-000-since-august/4139629",
+   "date": "2026-11-26T00:37:00+00:00",
+   "seen": "2026-11-26T20:32:08.627176+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Marib",
+   "iso": "YEM",
+   "province": "Ma'rib Governorate",
+   "province_id": "18629408B1777518619063",
+   "outlet": "Jordan News",
+   "host": "jordannews.jo",
+   "partisan": false,
+   "title": "Yemeni Forces Report Clashes With Houthis on Marib and Al-Jawf Fronts",
+   "sentence": "Yemeni Forces Report Clashes With Houthis on Marib and Al-Jawf Fronts.",
+   "url": "https://www.jordannews.jo/Section-20/Middle-East/Yemeni-Forces-Report-Clashes-With-Houthis-on-Marib-and-Al-Jawf-Fronts-59375",
+   "date": "2026-11-25T16:00:00+00:00",
+   "seen": "2026-11-26T20:32:08.627176+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis"
+   ],
+   "place": "Aden",
+   "iso": "YEM",
+   "province": "‘Adan Governorate",
+   "province_id": "18629408B11945654439238",
+   "outlet": "SBS News",
+   "host": "news.sbs.co.kr",
+   "partisan": false,
+   "title": "Houthis Advance on Yemen's Interim Capital of Aden, Leaving Residents Terrified and Preparing to Flee",
+   "sentence": "Houthis Advance on Yemen's Interim Capital of Aden, Leaving Residents Terrified and Preparing to Flee.",
+   "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008864233",
+   "date": "2026-11-26T01:23:00+00:00",
+   "seen": "2026-11-26T20:32:08.627176+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis",
+    "Government"
+   ],
+   "place": "Yemeni",
+   "iso": "YEM",
+   "province": "Hadhramaut",
+   "province_id": "18629408B49078263925584",
+   "outlet": "The Chosun Ilbo on MSN",
+   "host": "msn.com",
+   "partisan": false,
+   "title": "Iran-backed Houthis advance toward Yemeni government's Aden stronghold",
+   "sentence": "Iran-backed Houthis advance toward Yemeni government's Aden stronghold.",
+   "url": "https://www.msn.com/en-xl/news/other/iran-backed-houthis-advance-toward-yemeni-governments-aden-stronghold/ar-AA2iguRj",
+   "date": "2026-11-26T06:26:15+00:00",
+   "seen": "2026-11-26T20:32:08.627176+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel",
+    "Hamas"
+   ],
+   "place": "Gaza",
+   "iso": "PSE",
+   "province": "Gaza",
+   "province_id": "83478781B7121896376882",
+   "outlet": "The Jerusalem Post on MSN",
+   "host": "msn.com",
+   "partisan": false,
+   "title": "After losing his leg in a Hamas ambush in Gaza, IDF veteran sets sights on 2028 Paralympics",
+   "sentence": "After losing his leg in a Hamas ambush in Gaza, IDF veteran sets sights on 2028 Paralympics.",
+   "url": "https://www.msn.com/en-ca/news/other/after-losing-his-leg-in-a-hamas-ambush-in-gaza-idf-veteran-sets-sights-on-2028-paralympics/ar-AA2iiKkF",
+   "date": "2026-11-25T22:35:00+00:00",
+   "seen": "2026-11-26T20:32:08.627176+00:00"
   }
  ],
  "truce": [
@@ -6833,6 +7124,16 @@
    "sentence": "On 7 December 2025, renewed fighting in eastern Democratic Republic of the Congo, particularly in South Kivu Province, triggered a significant movement of people towards Rwanda.",
    "url": "https://reliefweb.int/report/rwanda/rwanda-population-movement-2025-dref-final-report-mdrrw024",
    "date": "2026-11-23T14:20:16+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "kind": "end",
+   "outlet": "ynetnews",
+   "partisan": false,
+   "title": "Battlefield experience is not enough: IDF returns to training after three years of war",
+   "sentence": "With troops still deployed across multiple fronts and renewed fighting with Iran a possibility, IDF seeks to restore combat readiness, address command failures exposed on Oct.",
+   "url": "https://www.ynetnews.com/article/b1voxlrj7g",
+   "date": "2026-11-25T16:00:00+00:00"
   }
  ],
  "withdrawals": [],

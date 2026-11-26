@@ -3335,5 +3335,80 @@
  "Hodeida|MMR": [],
  "Yemeni|MMR": [],
  "Aden|SDN": [],
- "Nusrat al-Islam|BFA,MLI,NER": []
+ "Nusrat al-Islam|BFA,MLI,NER": [],
+ "Public Committee Against|PSE": [],
+ "Public Committee Against|LBN": [],
+ "Mediterranean Sea|RUS,UKR": [],
+ "Vladimir Putin|RUS,UKR": [],
+ "Valdai|RUS,UKR": [
+  {
+   "qid": "Q2415261",
+   "iso": "RUS",
+   "lat": 57.9875,
+   "lon": 33.295
+  },
+  {
+   "qid": "Q194196",
+   "iso": "RUS",
+   "lat": 57,
+   "lon": 33.5
+  },
+  {
+   "qid": "Q2040163",
+   "iso": "RUS",
+   "lat": 57.62778,
+   "lon": 33.06528
+  },
+  {
+   "qid": "Q132947",
+   "iso": "RUS",
+   "lat": 57.966666666667,
+   "lon": 33.25
+  },
+  {
+   "qid": "Q115943340",
+   "iso": "RUS",
+   "lat": 57.972447,
+   "lon": 33.247305
+  },
+  {
+   "qid": "Q125044578",
+   "iso": "RUS",
+   "lat": 57.97602,
+   "lon": 33.25179
+  }
+ ],
+ "Ukraine’s Moscow-annexed Donetsk|RUS,UKR": [],
+ "Krasny Liman|RUS,UKR": [
+  {
+   "qid": "Q4239507",
+   "iso": "RUS",
+   "lat": 51.525833333333,
+   "lon": 39.841944444444
+  },
+  {
+   "qid": "Q19804993",
+   "iso": "RUS",
+   "lat": 51.44472,
+   "lon": 39.85111
+  },
+  {
+   "qid": "Q4239509",
+   "iso": "UKR",
+   "lat": 48.343888888889,
+   "lon": 37.2375
+  }
+ ],
+ "War’s Frontline|RUS,UKR": [],
+ "Sanaa|SDN": [],
+ "Marib|SDN": [],
+ "Yemen's Interim Capital|YEM": [],
+ "Saudi Arabia’s Ras|YEM": [],
+ "Saudi Aramco's Jazan|YEM": [],
+ "Houthi|MMR": [],
+ "Blue Nile|MMR": [],
+ "Suda|MMR": [],
+ "Muslims|SDN": [],
+ "Negev|PSE": [],
+ "Negev|LBN": []
 }

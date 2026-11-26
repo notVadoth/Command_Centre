@@ -1,6 +1,6 @@
 // written by trawler.py — loaded automatically by commandcenter-map.html
 window.TRAWLER_GROUPINGS = {
- "generated": "2026-11-25T20:37:37.061967+00:00",
+ "generated": "2026-11-26T20:31:34.533493+00:00",
  "extractor": "rules",
  "verification": {
   "wikidata": true,
@@ -13,7 +13,7 @@ window.TRAWLER_GROUPINGS = {
    "conflict": "Wikidata contradicts the claim — review"
   }
  },
- "articles_in_store": 2815,
+ "articles_in_store": 2949,
  "blocs": {
   "EU": {
    "name": "European Union",
@@ -58,18 +58,152 @@ window.TRAWLER_GROUPINGS = {
     "qid": "Q458",
     "label": null
    },
-   "baseline_audit": {
-    "in_wikidata_not_baseline": [],
-    "in_baseline_not_wikidata": [
-     "NLD"
-    ]
-   },
+   "baseline_audit": null,
    "changes": [
     {
      "country": "GBR",
+     "action": "applied",
+     "status": "corroborated",
+     "wikidata": "unknown",
+     "independent_outlets": 2,
+     "evidence": [
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "EU presses UK to guarantee discounted university tuition fees for European students",
+       "url": "https://www.theguardian.com/world/2026/nov/05/eu-seeks-firmer-pledge-from-uk-discounted-university-tuition-fees",
+       "date": "2026-11-05T16:58:54+00:00",
+       "sentence": "Failure to agree lower fees for EU citizens studying in UK should delay prized food and drink deal, members say\nUK politics live – latest updates\nThe EU is seeking a firmer pledge from the British government to guarantee European students discounted rates on university tuition fees before a much-anticipated summit this month.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "EU presses UK to guarantee discounted university tuition fees for European students",
+       "url": "https://www.theguardian.com/world/2026/nov/05/eu-seeks-firmer-pledge-from-uk-discounted-university-tuition-fees",
+       "date": "2026-11-05T16:58:54+00:00",
+       "sentence": "Failure to agree lower fees for EU citizens studying in UK should delay prized food and drink deal, members say\nUK politics live – latest updates\nThe EU is seeking a firmer pledge from the British government to guarantee European students discounted rates on university tuition fees before a much-anticipated summit this month.",
+       "hedged": false,
+       "syndicated_copy": true
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Britain willing to discuss paying into EU to join electricity market, says minister",
+       "url": "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer",
+       "date": "2026-11-10T17:52:07+00:00",
+       "sentence": "The UK had been seeking to join the first round of the EU’s Security Action for Europe (Safe) fund, a low-interest loan scheme that is part of the EU’s push to grow defence spending by €800bn.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Britain willing to discuss paying into EU to join electricity market, says minister",
+       "url": "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer",
+       "date": "2026-11-10T17:52:07+00:00",
+       "sentence": "The UK had been seeking to join the first round of the EU’s Security Action for Europe (Safe) fund, a low-interest loan scheme that is part of the EU’s push to grow defence spending by €800bn.",
+       "hedged": false,
+       "syndicated_copy": true
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "EU to reject UK talks on longer-term ties pending clarity from Burnham on next steps",
+       "url": "https://www.theguardian.com/politics/2026/nov/18/eu-uk-reset-summit-talks-burnham-brexit",
+       "date": "2026-11-18T19:17:19+00:00",
+       "sentence": "Diplomats says piecemeal approach of resets coming to an end and they want government decision on whether it will seek to reverse Brexit\nThe EU will shut the door to discussions with Andy Burnham about the UK’s longer-term relationship with the bloc until the government has decided whether it wants to proceed with reversing Brexit, diplomats have said.",
+       "hedged": true,
+       "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
+       "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
+       "date": "2026-11-19T17:19:17+00:00",
+       "sentence": "Asked about Britain’s status as a rule taker, No 10 said the Labour manifesto had aimed to build closer ties with the EU, adding: “We were obviously elected on a manifesto that promised to reset the relationship and seek to deepen ties with our European friends.”\nAccording to EU sources, the UK has been pushing to have a formal role in EU committees involved in implementing existing and setting ne",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
+       "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
+       "date": "2026-11-19T17:19:17+00:00",
+       "sentence": "Asked about Britain’s status as a rule taker, No 10 said the Labour manifesto had aimed to build closer ties with the EU, adding: “We were obviously elected on a manifesto that promised to reset the relationship and seek to deepen ties with our European friends.”\nAccording to EU sources, the UK has been pushing to have a formal role in EU committees involved in implementing existing and setting ne",
+       "hedged": false,
+       "syndicated_copy": true
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
+       "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
+       "date": "2026-11-19T17:19:17+00:00",
+       "sentence": "Asked about Britain’s status as a rule taker, No 10 said the Labour manifesto had aimed to build closer ties with the EU, adding: “We were obviously elected on a manifesto that promised to reset the relationship and seek to deepen ties with our European friends.”\nAccording to EU sources, the UK has been pushing to have a formal role in EU committees involved in implementing existing and setting ne",
+       "hedged": false,
+       "syndicated_copy": true
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
+       "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
+       "date": "2026-11-19T17:19:17+00:00",
+       "sentence": "The UK has prioritised seeking commitments on Britain’s position relating to the EU’s Made in Europe legislation.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "DW World",
+       "domain": "dw.com",
+       "title": "EU and UK strike 'landmark deal' to strengthen ties after Brexit",
+       "url": "https://www.dw.com/en/eu-and-uk-strike-landmark-deal-to-strengthen-ties-after-brexit/a-80001076?maca=en-rss-en-world-4025-rdf",
+       "date": "2026-11-20T14:30:00+00:00",
+       "sentence": "She also said Britain will rejoin the Erasmus+ program, adding, \"We miss them so much.\"\nBurnham said the agreements reached Friday, however, represent the most the UK could achieve at the moment, \"What we are announcing today is probably ‌the limit of what we can achieve in this ‌Parliament, given what needs ‌to be done to implement it.\"\nIn September, Burnham said he would seek a political consens",
+       "hedged": true,
+       "syndicated_copy": false
+      },
+      {
+       "source": "BBC World",
+       "domain": "bbc.co.uk",
+       "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+       "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+       "date": "2026-11-20T17:49:48+00:00",
+       "sentence": "He said over the coming months before the next UK-EU summit both sides will \"seek to conduct an informal brainstorming process\" to look at what those options are.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
+       "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
+       "date": "2026-11-20T17:59:55+00:00",
+       "sentence": "And it’s why we need the UK-EU food trade deal announced today.”\nTo celebrate the EU-UK reset deal Andy Burnham and his cabinet are invited to lunch with the European Commission and European Council.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
+       "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
+       "date": "2026-11-20T17:59:55+00:00",
+       "sentence": "And it’s why we need the UK-EU food trade deal announced today.”\nTo celebrate the EU-UK reset deal Andy Burnham and his cabinet are invited to lunch with the European Commission and European Council.",
+       "hedged": false,
+       "syndicated_copy": true
+      }
+     ]
+    },
+    {
+     "country": "GBR",
      "action": "left",
-     "status": "confirmed",
-     "wikidata": "agrees",
+     "status": "corroborated",
+     "wikidata": "unknown",
      "independent_outlets": 3,
      "evidence": [
       {
@@ -251,183 +385,16 @@ window.TRAWLER_GROUPINGS = {
        "sentence": "I do feel that we lost something in the U.K. when we left the EU.\"\nKenneth Robbie, another resident, says he decided how to vote on his way to the polls during the last referendum, eventually casting his ballot to remain.",
        "hedged": false,
        "syndicated_copy": false
-      }
-     ]
-    },
-    {
-     "country": "LTU",
-     "action": "left",
-     "status": "conflict",
-     "wikidata": "disagrees",
-     "independent_outlets": 1,
-     "evidence": [
+      },
       {
-       "source": "Al Jazeera",
-       "domain": "aljazeera.com",
-       "title": "Russia warns Ukraine of ‘dangerous trend’ after Libya and Baltic attacks",
-       "url": "https://www.aljazeera.com/news/2026/11/23/russia-warns-ukraine-of-dangerous-trend-after-libya-and-baltic-attacks?traffic_source=rss",
-       "date": "2026-11-23T16:23:33+00:00",
-       "sentence": "Lithuania restricted the transit of goods, including construction materials, from Russia to the exclave in line with European Union sanctions in 2022, leaving Kaliningrad heavily dependent on sea-borne supplies.",
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "How much of the sharp fall in UK immigration is due to Labour’s policies?",
+       "url": "https://www.theguardian.com/uk-news/2026/nov/26/how-much-sharp-fall-uk-immigration-labour-policies",
+       "date": "2026-11-26T19:38:26+00:00",
+       "sentence": "The new method, introduced last year, has taken “tens of thousands off the net migration figure”, she said.\n\n\nafter newsletter promotion\nThird, high migration under the previous government – and particularly under Johnson – has left a temporary legacy of high numbers of non-EU citizens leaving the UK under Labour.",
        "hedged": false,
        "syndicated_copy": false
-      }
-     ]
-    },
-    {
-     "country": "IRL",
-     "action": "left",
-     "status": "conflict",
-     "wikidata": "disagrees",
-     "independent_outlets": 1,
-     "evidence": [
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Brussels on split-screen: where it flexes – and where it bends",
-       "url": "https://www.theguardian.com/world/2026/nov/25/this-is-europe-brussels-eu-uk-summit",
-       "date": "2026-11-25T15:39:54+00:00",
-       "sentence": "Second, the EU’s climate commissioner, Wopke Hoekstra, and Ireland’s Darragh O’Brien, representing the bloc’s rotating council presidency, worked in tandem, leaving little room for wedges between the Brussels bureaucrats and national capitals.",
-       "hedged": false,
-       "syndicated_copy": false
-      }
-     ]
-    },
-    {
-     "country": "GBR",
-     "action": "applied",
-     "status": "corroborated",
-     "wikidata": "unknown",
-     "independent_outlets": 2,
-     "evidence": [
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "EU presses UK to guarantee discounted university tuition fees for European students",
-       "url": "https://www.theguardian.com/world/2026/nov/05/eu-seeks-firmer-pledge-from-uk-discounted-university-tuition-fees",
-       "date": "2026-11-05T16:58:54+00:00",
-       "sentence": "Failure to agree lower fees for EU citizens studying in UK should delay prized food and drink deal, members say\nUK politics live – latest updates\nThe EU is seeking a firmer pledge from the British government to guarantee European students discounted rates on university tuition fees before a much-anticipated summit this month.",
-       "hedged": false,
-       "syndicated_copy": false
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "EU presses UK to guarantee discounted university tuition fees for European students",
-       "url": "https://www.theguardian.com/world/2026/nov/05/eu-seeks-firmer-pledge-from-uk-discounted-university-tuition-fees",
-       "date": "2026-11-05T16:58:54+00:00",
-       "sentence": "Failure to agree lower fees for EU citizens studying in UK should delay prized food and drink deal, members say\nUK politics live – latest updates\nThe EU is seeking a firmer pledge from the British government to guarantee European students discounted rates on university tuition fees before a much-anticipated summit this month.",
-       "hedged": false,
-       "syndicated_copy": true
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Britain willing to discuss paying into EU to join electricity market, says minister",
-       "url": "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer",
-       "date": "2026-11-10T17:52:07+00:00",
-       "sentence": "The UK had been seeking to join the first round of the EU’s Security Action for Europe (Safe) fund, a low-interest loan scheme that is part of the EU’s push to grow defence spending by €800bn.",
-       "hedged": false,
-       "syndicated_copy": false
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "Britain willing to discuss paying into EU to join electricity market, says minister",
-       "url": "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer",
-       "date": "2026-11-10T17:52:07+00:00",
-       "sentence": "The UK had been seeking to join the first round of the EU’s Security Action for Europe (Safe) fund, a low-interest loan scheme that is part of the EU’s push to grow defence spending by €800bn.",
-       "hedged": false,
-       "syndicated_copy": true
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "EU to reject UK talks on longer-term ties pending clarity from Burnham on next steps",
-       "url": "https://www.theguardian.com/politics/2026/nov/18/eu-uk-reset-summit-talks-burnham-brexit",
-       "date": "2026-11-18T19:17:19+00:00",
-       "sentence": "Diplomats says piecemeal approach of resets coming to an end and they want government decision on whether it will seek to reverse Brexit\nThe EU will shut the door to discussions with Andy Burnham about the UK’s longer-term relationship with the bloc until the government has decided whether it wants to proceed with reversing Brexit, diplomats have said.",
-       "hedged": true,
-       "syndicated_copy": false
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
-       "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
-       "date": "2026-11-19T17:19:17+00:00",
-       "sentence": "Asked about Britain’s status as a rule taker, No 10 said the Labour manifesto had aimed to build closer ties with the EU, adding: “We were obviously elected on a manifesto that promised to reset the relationship and seek to deepen ties with our European friends.”\nAccording to EU sources, the UK has been pushing to have a formal role in EU committees involved in implementing existing and setting ne",
-       "hedged": false,
-       "syndicated_copy": false
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
-       "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
-       "date": "2026-11-19T17:19:17+00:00",
-       "sentence": "Asked about Britain’s status as a rule taker, No 10 said the Labour manifesto had aimed to build closer ties with the EU, adding: “We were obviously elected on a manifesto that promised to reset the relationship and seek to deepen ties with our European friends.”\nAccording to EU sources, the UK has been pushing to have a formal role in EU committees involved in implementing existing and setting ne",
-       "hedged": false,
-       "syndicated_copy": true
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
-       "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
-       "date": "2026-11-19T17:19:17+00:00",
-       "sentence": "Asked about Britain’s status as a rule taker, No 10 said the Labour manifesto had aimed to build closer ties with the EU, adding: “We were obviously elected on a manifesto that promised to reset the relationship and seek to deepen ties with our European friends.”\nAccording to EU sources, the UK has been pushing to have a formal role in EU committees involved in implementing existing and setting ne",
-       "hedged": false,
-       "syndicated_copy": true
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
-       "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
-       "date": "2026-11-19T17:19:17+00:00",
-       "sentence": "The UK has prioritised seeking commitments on Britain’s position relating to the EU’s Made in Europe legislation.",
-       "hedged": false,
-       "syndicated_copy": false
-      },
-      {
-       "source": "DW World",
-       "domain": "dw.com",
-       "title": "EU and UK strike 'landmark deal' to strengthen ties after Brexit",
-       "url": "https://www.dw.com/en/eu-and-uk-strike-landmark-deal-to-strengthen-ties-after-brexit/a-80001076?maca=en-rss-en-world-4025-rdf",
-       "date": "2026-11-20T14:30:00+00:00",
-       "sentence": "She also said Britain will rejoin the Erasmus+ program, adding, \"We miss them so much.\"\nBurnham said the agreements reached Friday, however, represent the most the UK could achieve at the moment, \"What we are announcing today is probably ‌the limit of what we can achieve in this ‌Parliament, given what needs ‌to be done to implement it.\"\nIn September, Burnham said he would seek a political consens",
-       "hedged": true,
-       "syndicated_copy": false
-      },
-      {
-       "source": "BBC World",
-       "domain": "bbc.co.uk",
-       "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-       "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-       "date": "2026-11-20T17:49:48+00:00",
-       "sentence": "He said over the coming months before the next UK-EU summit both sides will \"seek to conduct an informal brainstorming process\" to look at what those options are.",
-       "hedged": false,
-       "syndicated_copy": false
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
-       "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
-       "date": "2026-11-20T17:59:55+00:00",
-       "sentence": "And it’s why we need the UK-EU food trade deal announced today.”\nTo celebrate the EU-UK reset deal Andy Burnham and his cabinet are invited to lunch with the European Commission and European Council.",
-       "hedged": false,
-       "syndicated_copy": false
-      },
-      {
-       "source": "The Guardian World",
-       "domain": "theguardian.com",
-       "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
-       "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
-       "date": "2026-11-20T17:59:55+00:00",
-       "sentence": "And it’s why we need the UK-EU food trade deal announced today.”\nTo celebrate the EU-UK reset deal Andy Burnham and his cabinet are invited to lunch with the European Commission and European Council.",
-       "hedged": false,
-       "syndicated_copy": true
       }
      ]
     },
@@ -936,6 +903,25 @@ window.TRAWLER_GROUPINGS = {
      ]
     },
     {
+     "country": "LTU",
+     "action": "left",
+     "status": "single-source",
+     "wikidata": "unknown",
+     "independent_outlets": 1,
+     "evidence": [
+      {
+       "source": "Al Jazeera",
+       "domain": "aljazeera.com",
+       "title": "Russia warns Ukraine of ‘dangerous trend’ after Libya and Baltic attacks",
+       "url": "https://www.aljazeera.com/news/2026/11/23/russia-warns-ukraine-of-dangerous-trend-after-libya-and-baltic-attacks?traffic_source=rss",
+       "date": "2026-11-23T16:23:33+00:00",
+       "sentence": "Lithuania restricted the transit of goods, including construction materials, from Russia to the exclave in line with European Union sanctions in 2022, leaving Kaliningrad heavily dependent on sea-borne supplies.",
+       "hedged": false,
+       "syndicated_copy": false
+      }
+     ]
+    },
+    {
      "country": "MKD",
      "action": "applied",
      "status": "single-source",
@@ -1117,6 +1103,44 @@ window.TRAWLER_GROUPINGS = {
        "sentence": "The EU opened accession negotiations with Albania, which has been an EU candidate since 2014, in July 2022.",
        "hedged": false,
        "syndicated_copy": true
+      }
+     ]
+    },
+    {
+     "country": "IRL",
+     "action": "left",
+     "status": "single-source",
+     "wikidata": "unknown",
+     "independent_outlets": 1,
+     "evidence": [
+      {
+       "source": "The Guardian World",
+       "domain": "theguardian.com",
+       "title": "Brussels on split-screen: where it flexes – and where it bends",
+       "url": "https://www.theguardian.com/world/2026/nov/25/this-is-europe-brussels-eu-uk-summit",
+       "date": "2026-11-25T15:39:54+00:00",
+       "sentence": "Second, the EU’s climate commissioner, Wopke Hoekstra, and Ireland’s Darragh O’Brien, representing the bloc’s rotating council presidency, worked in tandem, leaving little room for wedges between the Brussels bureaucrats and national capitals.",
+       "hedged": false,
+       "syndicated_copy": false
+      }
+     ]
+    },
+    {
+     "country": "IDN",
+     "action": "applied",
+     "status": "single-source",
+     "wikidata": "unknown",
+     "independent_outlets": 1,
+     "evidence": [
+      {
+       "source": "DW World",
+       "domain": "dw.com",
+       "title": "EU-Indonesia trade deal opens new markets, but challenges remain",
+       "url": "https://www.dw.com/en/eu-indonesia-trade-deal-opens-new-markets-but-challenges-remain/a-80059568?maca=en-rss-en-world-4025-rdf",
+       "date": "2026-11-26T13:41:00+00:00",
+       "sentence": "As the European Union seeks to deepen its presence in Asia and diversify its trade relationships, Indonesia is emerging as an increasingly important partner.",
+       "hedged": false,
+       "syndicated_copy": false
       }
      ]
     },
@@ -2383,6 +2407,25 @@ window.TRAWLER_GROUPINGS = {
        "syndicated_copy": false
       }
      ]
+    },
+    {
+     "country": "SOM",
+     "action": "left",
+     "status": "single-source",
+     "wikidata": "unknown",
+     "independent_outlets": 1,
+     "evidence": [
+      {
+       "source": "BBC World",
+       "domain": "bbc.co.uk",
+       "title": "Has global jihadism failed, or is it simply changing shape?",
+       "url": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss",
+       "date": "2026-11-26T00:22:18+00:00",
+       "sentence": "African Union forces are withdrawing from Somalia amid funding cuts and the approaching end of their mandate in December.",
+       "hedged": false,
+       "syndicated_copy": false
+      }
+     ]
     }
    ]
   },
@@ -3376,6 +3419,206 @@ window.TRAWLER_GROUPINGS = {
   },
   {
    "group": "European Union",
+   "country": "GBR",
+   "action": "left",
+   "status": "corroborated",
+   "wikidata": "unknown",
+   "independent_outlets": 3,
+   "evidence": [
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "Home Office sued after stripping almost 1,500 EU citizens of right to live in UK",
+     "url": "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled",
+     "date": "2026-11-07T09:15:35+00:00",
+     "sentence": "Campaign group the3million lodges court papers after EU citizens told pre-settled status was an ‘error’\nThe Home Office is being sued for alleged breach of the Brexit withdrawal agreement after stripping almost 1,500 EU citizens of their full rights to live in the UK.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "Home Office sued after stripping almost 1,500 EU citizens of right to live in UK",
+     "url": "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled",
+     "date": "2026-11-07T09:15:35+00:00",
+     "sentence": "Campaign group the3million lodges court papers after EU citizens told pre-settled status was an ‘error’\nThe Home Office is being sued for alleged breach of the Brexit withdrawal agreement after stripping almost 1,500 EU citizens of their full rights to live in the UK.",
+     "hedged": false,
+     "syndicated_copy": true
+    },
+    {
+     "source": "BBC World",
+     "domain": "bbc.co.uk",
+     "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-07T15:19:35+00:00",
+     "sentence": "The prime minister has said rejoining the bloc's internal market was among options he could pursue as part of a reshaping of ties since the UK's exit from the EU nearly six years ago.",
+     "hedged": true,
+     "syndicated_copy": false
+    },
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "Britain willing to discuss paying into EU to join electricity market, says minister",
+     "url": "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer",
+     "date": "2026-11-10T17:52:07+00:00",
+     "sentence": "Clearly it’s something that on the EU side there’s real interest, so we are engaging in that discussion but I can’t comment in detail on the negotiations.”\nFalconer was firmly positive about the UK’s return next year to the Erasmus+ student exchange scheme, which the UK left under Boris Johnson’s Brexit deal in 2020, and will be open not just to universities but also to schools and colleges.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "Andy Burnham says UK has ‘lost more than we gained’ through Brexit",
+     "url": "https://www.theguardian.com/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit",
+     "date": "2026-11-14T15:34:54+00:00",
+     "sentence": "PM accuses Tories of burning ‘all our bridges’ and says deal he is pursuing with EU will ‘get food prices down’\nAndy Burnham has said the UK has “lost more than we gained” since leaving the EU, the prime minister’s latest in a string of comments criticising Brexit.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "Andy Burnham says UK has ‘lost more than we gained’ through Brexit",
+     "url": "https://www.theguardian.com/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit",
+     "date": "2026-11-14T15:34:54+00:00",
+     "sentence": "PM accuses Tories of burning ‘all our bridges’ and says deal he is pursuing with EU will ‘get food prices down’\nAndy Burnham has said the UK has “lost more than we gained” since leaving the EU, the prime minister’s latest in a string of comments criticising Brexit.",
+     "hedged": false,
+     "syndicated_copy": true
+    },
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "Monday briefing: The many stages of the UK-EU relationship – and what’s next",
+     "url": "https://www.theguardian.com/world/2026/nov/16/monday-briefing-the-many-stages-of-the-uk-eu-relationship-and-whats-next",
+     "date": "2026-11-16T06:46:27+00:00",
+     "sentence": "While the guy you really want to hear from right now – David Cameron, the prime minister who lost the 2016 Brexit referendum – has insisted the UK’s problems have nothing to do with its exit from the EU.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "Andy Burnham to say Brexit ‘has not worked’ and he will sign new deal with EU",
+     "url": "https://www.theguardian.com/politics/2026/nov/16/andy-burnham-brexit-has-not-worked-sign-new-deal-with-eu",
+     "date": "2026-11-16T07:00:38+00:00",
+     "sentence": "It is the latest in a string of comments by the prime minister criticising Brexit, after he told the Welsh Labour conference on Saturday that the UK has “lost more than we gained” through leaving the EU.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "Al Jazeera",
+     "domain": "aljazeera.com",
+     "title": "As Burnham heads to Brussels, are new Brexit wars about to begin?",
+     "url": "https://www.aljazeera.com/news/2026/11/19/as-burnham-heads-to-brussels-are-new-brexit-wars-about-to-begin?traffic_source=rss",
+     "date": "2026-11-19T15:24:51+00:00",
+     "sentence": "In September, 55 percent of respondents told YouGov that leaving the EU was a wrong turn for the UK.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answered readers questions",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
+     "date": "2026-11-19T18:02:33+00:00",
+     "sentence": "I don’t think Brexit had an impact on the rise of far-right parties in the EU countries – other than to discourage some of them, which had been toying with the idea of backing withdrawal from the EU, to give up on the idea because it ended so badly for the UK.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answered readers questions",
+     "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
+     "date": "2026-11-19T18:02:33+00:00",
+     "sentence": "I don’t think Brexit had an impact on the rise of far-right parties in the EU countries – other than to discourage some of them, which had been toying with the idea of backing withdrawal from the EU, to give up on the idea because it ended so badly for the UK.",
+     "hedged": false,
+     "syndicated_copy": true
+    },
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
+     "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
+     "date": "2026-11-22T16:12:54+00:00",
+     "sentence": "In her BBC interview, May, who comments sparingly on live political subjects despite being an active Tory peer, did not even try to argue that Brexit had been a success, instead saying it was impossible to know, given events such as Covid and Russia’s invasion of Ukraine, and then adding: “I don’t think Britain’s state today is about whether or not we left the European Union.”\nMany voters are much",
+     "hedged": true,
+     "syndicated_copy": false
+    },
+    {
+     "source": "CBC World",
+     "domain": "cbc.ca",
+     "title": "'Brexit means Brexit' no more? Why the U.K. now wants closer ties with the EU",
+     "url": "https://www.cbc.ca/news/world/brexit-breturn-andy-burnham-uk-eu-ties-9.7433260?cmp=rss",
+     "date": "2026-11-24T09:00:00+00:00",
+     "sentence": "It was relentlessly repeated by former British prime minister Theresa May — herself a remainer — as she sought to convince her own governing Conservatives that she wouldn’t allow any backsliding on the decision while negotiating the terms of Britain’s exit from the EU.",
+     "hedged": true,
+     "syndicated_copy": false
+    },
+    {
+     "source": "CBC World",
+     "domain": "cbc.ca",
+     "title": "'Brexit means Brexit' no more? Why the U.K. now wants closer ties with the EU",
+     "url": "https://www.cbc.ca/news/world/brexit-breturn-andy-burnham-uk-eu-ties-9.7433260?cmp=rss",
+     "date": "2026-11-24T09:00:00+00:00",
+     "sentence": "Since leaving the EU, the U.K.'s GDP per capita is now six to eight per cent lower than it would have been had the country remained, by one estimate.",
+     "hedged": true,
+     "syndicated_copy": false
+    },
+    {
+     "source": "CBC World",
+     "domain": "cbc.ca",
+     "title": "'Brexit means Brexit' no more? Why the U.K. now wants closer ties with the EU",
+     "url": "https://www.cbc.ca/news/world/brexit-breturn-andy-burnham-uk-eu-ties-9.7433260?cmp=rss",
+     "date": "2026-11-24T09:00:00+00:00",
+     "sentence": "Reset talks spark debate over Britain rejoining the EU\nAnd Theresa May, of \"Brexit means Brexit\" fame, told the BBC that she was \"aghast\" at the talk of rejoining, saying Burnham needed to \"move on.\" \nMay was eventually felled by divisions within her Conservative Party over how \"hard\" Britain’s exit from the EU should be and replaced by Boris Johnson, who recently told the Daily Telegraph that Bri",
+     "hedged": true,
+     "syndicated_copy": false
+    },
+    {
+     "source": "CBC World",
+     "domain": "cbc.ca",
+     "title": "'Brexit means Brexit' no more? Why the U.K. now wants closer ties with the EU",
+     "url": "https://www.cbc.ca/news/world/brexit-breturn-andy-burnham-uk-eu-ties-9.7433260?cmp=rss",
+     "date": "2026-11-24T09:00:00+00:00",
+     "sentence": "Reset talks spark debate over Britain rejoining the EU\nAnd Theresa May, of \"Brexit means Brexit\" fame, told the BBC that she was \"aghast\" at the talk of rejoining, saying Burnham needed to \"move on.\" \nMay was eventually felled by divisions within her Conservative Party over how \"hard\" Britain’s exit from the EU should be and replaced by Boris Johnson, who recently told the Daily Telegraph that Bri",
+     "hedged": true,
+     "syndicated_copy": true
+    },
+    {
+     "source": "CBC World",
+     "domain": "cbc.ca",
+     "title": "'Brexit means Brexit' no more? Why the U.K. now wants closer ties with the EU",
+     "url": "https://www.cbc.ca/news/world/brexit-breturn-andy-burnham-uk-eu-ties-9.7433260?cmp=rss",
+     "date": "2026-11-24T09:00:00+00:00",
+     "sentence": "Mitchell/Getty Images)\nEconomist Patrick Minford, who campaigned for Brexit, argues Britain’s sluggish economy isn’t suffering from leaving the EU, but from bad management.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "CBC World",
+     "domain": "cbc.ca",
+     "title": "'Brexit means Brexit' no more? Why the U.K. now wants closer ties with the EU",
+     "url": "https://www.cbc.ca/news/world/brexit-breturn-andy-burnham-uk-eu-ties-9.7433260?cmp=rss",
+     "date": "2026-11-24T09:00:00+00:00",
+     "sentence": "I do feel that we lost something in the U.K. when we left the EU.\"\nKenneth Robbie, another resident, says he decided how to vote on his way to the polls during the last referendum, eventually casting his ballot to remain.",
+     "hedged": false,
+     "syndicated_copy": false
+    },
+    {
+     "source": "The Guardian World",
+     "domain": "theguardian.com",
+     "title": "How much of the sharp fall in UK immigration is due to Labour’s policies?",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/26/how-much-sharp-fall-uk-immigration-labour-policies",
+     "date": "2026-11-26T19:38:26+00:00",
+     "sentence": "The new method, introduced last year, has taken “tens of thousands off the net migration figure”, she said.\n\n\nafter newsletter promotion\nThird, high migration under the previous government – and particularly under Johnson – has left a temporary legacy of high numbers of non-EU citizens leaving the UK under Labour.",
+     "hedged": false,
+     "syndicated_copy": false
+    }
+   ]
+  },
+  {
+   "group": "European Union",
    "country": "CAN",
    "action": "joined",
    "status": "single-source",
@@ -3798,8 +4041,8 @@ window.TRAWLER_GROUPINGS = {
    "group": "European Union",
    "country": "LTU",
    "action": "left",
-   "status": "conflict",
-   "wikidata": "disagrees",
+   "status": "single-source",
+   "wikidata": "unknown",
    "independent_outlets": 1,
    "evidence": [
     {
@@ -4008,8 +4251,8 @@ window.TRAWLER_GROUPINGS = {
    "group": "European Union",
    "country": "IRL",
    "action": "left",
-   "status": "conflict",
-   "wikidata": "disagrees",
+   "status": "single-source",
+   "wikidata": "unknown",
    "independent_outlets": 1,
    "evidence": [
     {
@@ -4019,6 +4262,26 @@ window.TRAWLER_GROUPINGS = {
      "url": "https://www.theguardian.com/world/2026/nov/25/this-is-europe-brussels-eu-uk-summit",
      "date": "2026-11-25T15:39:54+00:00",
      "sentence": "Second, the EU’s climate commissioner, Wopke Hoekstra, and Ireland’s Darragh O’Brien, representing the bloc’s rotating council presidency, worked in tandem, leaving little room for wedges between the Brussels bureaucrats and national capitals.",
+     "hedged": false,
+     "syndicated_copy": false
+    }
+   ]
+  },
+  {
+   "group": "European Union",
+   "country": "IDN",
+   "action": "applied",
+   "status": "single-source",
+   "wikidata": "unknown",
+   "independent_outlets": 1,
+   "evidence": [
+    {
+     "source": "DW World",
+     "domain": "dw.com",
+     "title": "EU-Indonesia trade deal opens new markets, but challenges remain",
+     "url": "https://www.dw.com/en/eu-indonesia-trade-deal-opens-new-markets-but-challenges-remain/a-80059568?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-11-26T13:41:00+00:00",
+     "sentence": "As the European Union seeks to deepen its presence in Asia and diversify its trade relationships, Indonesia is emerging as an increasingly important partner.",
      "hedged": false,
      "syndicated_copy": false
     }
@@ -4659,6 +4922,26 @@ window.TRAWLER_GROUPINGS = {
      "url": "https://www.bbc.co.uk/news/articles/c977ppnezep6o?at_medium=RSS&at_campaign=rss",
      "date": "2026-11-06T08:18:10+00:00",
      "sentence": "Uganda, the largest contributor of troops to the African Union mission fighting the militants, announced this week that it planned to withdraw its forces by the end of the year, adding to concerns about Somalia's security.",
+     "hedged": false,
+     "syndicated_copy": false
+    }
+   ]
+  },
+  {
+   "group": "African Union",
+   "country": "SOM",
+   "action": "left",
+   "status": "single-source",
+   "wikidata": "unknown",
+   "independent_outlets": 1,
+   "evidence": [
+    {
+     "source": "BBC World",
+     "domain": "bbc.co.uk",
+     "title": "Has global jihadism failed, or is it simply changing shape?",
+     "url": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss",
+     "date": "2026-11-26T00:22:18+00:00",
+     "sentence": "African Union forces are withdrawing from Somalia amid funding cuts and the approaching end of their mandate in December.",
      "hedged": false,
      "syndicated_copy": false
     }
