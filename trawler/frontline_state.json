@@ -6982,6 +6982,588 @@
    "url": "https://www.msn.com/en-ca/news/other/after-losing-his-leg-in-a-hamas-ambush-in-gaza-idf-veteran-sets-sights-on-2028-paralympics/ar-AA2iiKkF",
    "date": "2026-11-25T22:35:00+00:00",
    "seen": "2026-11-26T20:32:08.627176+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Donetsk Oblast",
+   "iso": "UKR",
+   "province": "Donetsk Oblast",
+   "province_id": "14850775B15615817748403",
+   "outlet": "Kyiv Independent",
+   "host": "kyivindependent.com",
+   "partisan": false,
+   "title": "Ukraine's Azov announces 'Hell-3' operation, destroys Russian fuel depot in occupied Donetsk Oblast",
+   "sentence": "Ukraine's Azov announces 'Hell-3' operation, destroys Russian fuel depot in occupied Donetsk Oblast.",
+   "url": "https://kyivindependent.com/ukraines-azov-announces-hell-3-operation-destroys-russian-fuel-depot-in-occupied-donetsk-oblast/",
+   "date": "2026-11-27T15:59:54+00:00",
+   "seen": "2026-11-27T20:18:29.319877+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Zaporizhzhia",
+   "iso": "UKR",
+   "province": "Zaporizhia Oblast",
+   "province_id": "14850775B92888097715572",
+   "outlet": "Kyiv Independent",
+   "host": "kyivindependent.com",
+   "partisan": false,
+   "title": "9 Ukrainian children returned from Russian-occupied territories, Russia through Melania Trump's mediation, Zelensky says",
+   "sentence": "President Volodymyr Zelensky said the children were brought back from Russian-occupied Crimea, as well as parts of Zaporizhzhia and Kherson oblasts.",
+   "url": "https://kyivindependent.com/9-ukrainian-children-returned-from-russian-occupied-territories-russia-through-melania-trumps-mediation-zelensky-says/",
+   "date": "2026-11-27T14:05:45+00:00",
+   "seen": "2026-11-27T20:18:29.319877+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Crimea",
+   "iso": "UKR",
+   "province": "Autonomous Republic of Crimea",
+   "province_id": "14850775B24260608407062",
+   "outlet": "Kyiv Independent",
+   "host": "kyivindependent.com",
+   "partisan": false,
+   "title": "9 Ukrainian children returned from Russian-occupied territories, Russia through Melania Trump's mediation, Zelensky says",
+   "sentence": "President Volodymyr Zelensky said the children were brought back from Russian-occupied Crimea, as well as parts of Zaporizhzhia and Kherson oblasts.",
+   "url": "https://kyivindependent.com/9-ukrainian-children-returned-from-russian-occupied-territories-russia-through-melania-trumps-mediation-zelensky-says/",
+   "date": "2026-11-27T14:05:45+00:00",
+   "seen": "2026-11-27T20:18:29.319877+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Libya",
+   "iso": "RUS",
+   "province": "Novgorod Oblast",
+   "province_id": "28173009B16533507618293",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "Zelenskyy confirms that attack on Russian ship in Libya was not coordinated with Ukraine’s partners",
+   "sentence": "Zelenskyy confirms that attack on Russian ship in Libya was not coordinated with Ukraine’s partners.",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/27/8065044/",
+   "date": "2026-11-27T19:13:00+00:00",
+   "seen": "2026-11-27T20:18:29.319877+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Kharkiv",
+   "iso": "UKR",
+   "province": "Kharkiv Oblast",
+   "province_id": "14850775B15913324833724",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "Eight injured, including children, in Russian attack on village near Kharkiv",
+   "sentence": "Eight injured, including children, in Russian attack on village near Kharkiv.",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/27/8065024/",
+   "date": "2026-11-27T17:16:00+00:00",
+   "seen": "2026-11-27T20:18:29.319877+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Zhytomyr Oblast",
+   "iso": "UKR",
+   "province": "Zhytomyr Oblast",
+   "province_id": "14850775B79197734087513",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "Russians attack civilian business in Zhytomyr Oblast: one killed, 12 injured",
+   "sentence": "Russians attack civilian business in Zhytomyr Oblast: one killed, 12 injured.",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/27/8064970/",
+   "date": "2026-11-27T16:22:00+00:00",
+   "seen": "2026-11-27T20:18:29.319877+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Nizhyn",
+   "iso": "UKR",
+   "province": "Chernihiv Oblast",
+   "province_id": "14850775B55286662261645",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "Russians attack business in Nizhyn: number injured rises to 3 – photos",
+   "sentence": "Russians attack business in Nizhyn: number injured rises to 3",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/27/8064954/",
+   "date": "2026-11-27T15:24:00+00:00",
+   "seen": "2026-11-27T20:18:29.319877+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Ukraine"
+   ],
+   "place": "Kherson",
+   "iso": "UKR",
+   "province": "Kherson Oblast",
+   "province_id": "14850775B65901307765467",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "Ukraine brings back 11 people from occupation and Russia, including children and deported Oleshky care home resident – photos",
+   "sentence": "Ukraine has brought back nine children from occupied Kherson, Zaporizhzhia and Crimea alongside two women, including deported Oleshky care home resident Anastasiia Mamotiuk, bringing repatriations assisted by Melania Trump to 40.",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/27/8064994/",
+   "date": "2026-11-27T15:18:00+00:00",
+   "seen": "2026-11-27T20:18:29.319877+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Libya",
+   "iso": "RUS",
+   "province": "Novgorod Oblast",
+   "province_id": "28173009B16533507618293",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "Italy denies that Zelenskyy coordinated attack on Russian ship in Libya with partners",
+   "sentence": "Italy denies that Zelenskyy coordinated attack on Russian ship in Libya with partners.",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/27/8064990/",
+   "date": "2026-11-27T14:47:00+00:00",
+   "seen": "2026-11-27T20:18:29.319877+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Libya",
+   "iso": "RUS",
+   "province": "Novgorod Oblast",
+   "province_id": "28173009B16533507618293",
+   "outlet": "RT",
+   "host": "rt-english.com",
+   "partisan": true,
+   "title": "NATO gave Kiev naval strike capability. Then the Ukrainians attacked Libya",
+   "sentence": "The Ukrainian attack on a Russian ship in Libya fits a long pattern of Western military adventurism causing blowback Read Full Article at RT.com",
+   "url": "https://rt-english.com/news/649416-ukrainian-attack-libya-blowback/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+   "date": "2026-11-27T11:34:53+00:00",
+   "seen": "2026-11-27T20:18:29.319877+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Ukraine"
+   ],
+   "place": "Kherson Region",
+   "iso": "UKR",
+   "province": "Kherson Oblast",
+   "province_id": "14850775B65901307765467",
+   "outlet": "TASS",
+   "host": "tass.com",
+   "partisan": true,
+   "title": "Eleven civilians killed, 20 injured in Ukrainian attacks on Kherson Region over week",
+   "sentence": "Eleven civilians killed, 20 injured in Ukrainian attacks on Kherson Region over week.",
+   "url": "https://tass.com/politics/2226017",
+   "date": "2026-11-27T14:26:57+00:00",
+   "seen": "2026-11-27T20:18:29.319877+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "Palestine",
+   "iso": "PSE",
+   "province": "West Bank",
+   "province_id": "83478781B28849486138516",
+   "outlet": "Anadolu Agency",
+   "host": "aa.com.tr",
+   "partisan": false,
+   "title": "Türkiye urges MIKTA to help build new global system amid UN failures",
+   "sentence": "Parliament speaker says structural flaws in UN Security Council undermine global efforts to halt Israel’s attacks on Palestine, urging MIKTA group to help build fairer int'l order",
+   "url": "https://www.aa.com.tr/en/turkiye/turkiye-urges-mikta-to-help-build-new-global-system-amid-un-failures/4140705",
+   "date": "2026-11-27T15:39:05+00:00",
+   "seen": "2026-11-27T20:18:29.319877+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Libya",
+   "iso": "RUS",
+   "province": "Novgorod Oblast",
+   "province_id": "28173009B16533507618293",
+   "outlet": "Africanews",
+   "host": "africanews.com",
+   "partisan": false,
+   "title": "Algeria condemns 'spillover' of Ukraine war into Libya",
+   "sentence": "Algeria on Thursday condemned what it called the ‘spillover’ of the war in Ukraine into Libya, after Kyiv’s attack on two Russian vessels off eastern Libya.",
+   "url": "http://www.africanews.com/2026/11/27/algeria-condemns-spillover-of-ukraine-war-into-libya/",
+   "date": "2026-11-27T08:55:08+00:00",
+   "seen": "2026-11-27T20:18:29.319877+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Kupyansk",
+   "iso": "UKR",
+   "province": "Kharkiv Oblast",
+   "province_id": "14850775B15913324833724",
+   "outlet": "Voennoe Delo",
+   "host": "voennoedelo.com",
+   "partisan": false,
+   "title": "Ukraine Frontline Update, November 27: Latest Battlefield Developments",
+   "sentence": "November 27 frontline report covering intensified fighting near Kupyansk, new Russian positions north of Belozerskoye and developments across nine sectors.",
+   "url": "https://voennoedelo.com/en/posts/id22747-russia-ukraine-frontline-report-battlefield-updates-for-november-27-2026",
+   "date": "2026-11-27T01:58:00+00:00",
+   "seen": "2026-11-27T20:18:29.319877+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Belozerskoye",
+   "iso": "RUS",
+   "province": "Kurgan Oblast",
+   "province_id": "28173009B71296032393878",
+   "outlet": "Voennoe Delo",
+   "host": "voennoedelo.com",
+   "partisan": false,
+   "title": "Ukraine Frontline Update, November 27: Latest Battlefield Developments",
+   "sentence": "November 27 frontline report covering intensified fighting near Kupyansk, new Russian positions north of Belozerskoye and developments across nine sectors.",
+   "url": "https://voennoedelo.com/en/posts/id22747-russia-ukraine-frontline-report-battlefield-updates-for-november-27-2026",
+   "date": "2026-11-27T01:58:00+00:00",
+   "seen": "2026-11-27T20:18:29.319877+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Kupiansk",
+   "iso": "UKR",
+   "province": "Kharkiv Oblast",
+   "province_id": "14850775B15913324833724",
+   "outlet": "UA.NEWS",
+   "host": "ua.news",
+   "partisan": false,
+   "title": "The occupiers have advanced in the Kupiansk direction; Petropavlivka has entered the gray zone – DeepState",
+   "sentence": "The occupiers have advanced in the Kupiansk direction; Petropavlivka has entered the gray zone",
+   "url": "https://ua.news/en/war-vs-rf/okupanti-prosunulisia-na-kupianskomu-napriamku-petropavlivka-pereishla-v-siru-zonu-deepstate",
+   "date": "2026-11-27T03:04:00+00:00",
+   "seen": "2026-11-27T20:18:29.319877+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Vovchanski Khutory",
+   "iso": "UKR",
+   "province": "Kharkiv Oblast",
+   "province_id": "14850775B15913324833724",
+   "outlet": "UNITED24 Media",
+   "host": "united24media.com",
+   "partisan": false,
+   "title": "Russia Tries to Use Fog to Its Advantage in Kharkiv Region—But Ukrainian Soldiers See Through It",
+   "sentence": "Ukrainian border guards halted a Russian mechanized assault using dense fog in northern Kharkiv region near Vovchanski Khutory and Dobropillia Donetsk.",
+   "url": "https://united24media.com/war-in-ukraine/russia-tries-to-use-fog-to-its-advantage-in-kharkiv-region-but-ukrainian-soldiers-see-through-it-24772",
+   "date": "2026-11-27T05:57:00+00:00",
+   "seen": "2026-11-27T20:18:29.319877+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Zaporizhzhia",
+   "iso": "UKR",
+   "province": "Zaporizhia Oblast",
+   "province_id": "14850775B92888097715572",
+   "outlet": "UA.NEWS",
+   "host": "ua.news",
+   "partisan": false,
+   "title": "Russian commanders are to be sent to lead an assault following setbacks on the Zaporizhzhia front",
+   "sentence": "Russian commanders are to be sent to lead an assault following setbacks on the Zaporizhzhia front.",
+   "url": "https://ua.news/en/war-vs-rf/rosiiskikh-komandiriv-khochut-vidpraviti-na-shturm-cherez-nevdachi-na-zaporizkomu-napriamku",
+   "date": "2026-11-27T03:58:00+00:00",
+   "seen": "2026-11-27T20:18:29.319877+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Kupyansk",
+   "iso": "UKR",
+   "province": "Kharkiv Oblast",
+   "province_id": "14850775B15913324833724",
+   "outlet": "Fakti.bg",
+   "host": "fakti.bg",
+   "partisan": false,
+   "title": "Russia pushes toward Kupyansk, 16 attacks near Pokrovsk in one day",
+   "sentence": "Russia pushes toward Kupyansk, 16 attacks near Pokrovsk in one day.",
+   "url": "https://fakti.bg/en/world/1104990-russia-pushes-toward-kupyansk-16-attacks-near-pokrovsk-in-one-day",
+   "date": "2026-11-26T21:03:00+00:00",
+   "seen": "2026-11-27T20:18:29.319877+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia"
+   ],
+   "place": "Kharkiv",
+   "iso": "UKR",
+   "province": "Kharkiv Oblast",
+   "province_id": "14850775B15913324833724",
+   "outlet": "Glavnoe in Ukraine",
+   "host": "glavnoe.in.ua",
+   "partisan": false,
+   "title": "Russian attacks on Kharkiv region kill 86-year-old woman, leave 15 others injured or affected",
+   "sentence": "Russian attacks on Kharkiv region kill 86-year-old woman, leave 15 others injured or affected.",
+   "url": "https://glavnoe.in.ua/en/news-en/russian-attacks-on-kharkiv-region-kill-86-year-old-woman-leave-15-others-injured-or-affected",
+   "date": "2026-11-27T01:19:00+00:00",
+   "seen": "2026-11-27T20:18:29.319877+00:00"
+  },
+  {
+   "war": "sudan",
+   "sides": [
+    "SAF"
+   ],
+   "place": "Blue Nile",
+   "iso": "SDN",
+   "province": "Blue Nile",
+   "province_id": "86620642B86272532082738",
+   "outlet": "africa.dailynewsegypt",
+   "host": "africa.dailynewsegypt.com",
+   "partisan": false,
+   "title": "Sudan’s army says it retook Khor Maganza in Blue Nile fighting",
+   "sentence": "Sudan’s army says it retook Khor Maganza in Blue Nile fighting.",
+   "url": "https://africa.dailynewsegypt.com/blue-nile-fighting-khor-maganza/",
+   "date": "2026-11-27T10:29:00+00:00",
+   "seen": "2026-11-27T20:18:29.319877+00:00"
+  },
+  {
+   "war": "sudan",
+   "sides": [
+    "RSF"
+   ],
+   "place": "East Darfur",
+   "iso": "SDN",
+   "province": "East Darfur",
+   "province_id": "86620642B42892304507154",
+   "outlet": "Anadolu Agency",
+   "host": "aa.com.tr",
+   "partisan": false,
+   "title": "At least 14 killed in RSF attacks on East Darfur, West Kordofan: Sudan rights group",
+   "sentence": "At least 14 killed in RSF attacks on East Darfur, West Kordofan: Sudan rights group.",
+   "url": "https://www.aa.com.tr/en/middle-east/at-least-14-killed-in-rsf-attacks-on-east-darfur-west-kordofan-sudan-rights-group/4140138",
+   "date": "2026-11-27T04:36:00+00:00",
+   "seen": "2026-11-27T20:18:29.319877+00:00"
+  },
+  {
+   "war": "sudan",
+   "sides": [
+    "RSF"
+   ],
+   "place": "East Darfur",
+   "iso": "SDN",
+   "province": "East Darfur",
+   "province_id": "86620642B42892304507154",
+   "outlet": "en.yenisafak",
+   "host": "en.yenisafak.com",
+   "partisan": false,
+   "title": "At least 14 killed in RSF attacks on Sudan's East Darfur, West Kordofan",
+   "sentence": "A Sudanese rights group says at least 14 people were killed in Rapid Support Forces attacks on East Darfur and West Kordofan, with 12 deaths in East Darfur.",
+   "url": "https://en.yenisafak.com/world/at-least-14-killed-in-rsf-attacks-on-sudans-east-darfur-west-kordofan-3726065",
+   "date": "2026-11-27T06:01:00+00:00",
+   "seen": "2026-11-27T20:18:29.319877+00:00"
+  },
+  {
+   "war": "sudan",
+   "sides": [
+    "SAF"
+   ],
+   "place": "Blue Nile",
+   "iso": "SDN",
+   "province": "Blue Nile",
+   "province_id": "86620642B86272532082738",
+   "outlet": "Asharq Al-Awsat on MSN",
+   "host": "msn.com",
+   "partisan": false,
+   "title": "Military sources: Sudanese army recaptures strategic town in Blue Nile",
+   "sentence": "Kampala : Sudanese military sources said the army recaptured the strategic town of Maqanza in the Blue Nile region on Friday, about 22 kilometers from the regional capital, Ed Damazin, after the Rapid ...",
+   "url": "https://www.msn.com/en-ae/news/other/military-sources-sudanese-army-recaptures-strategic-town-in-blue-nile/ar-AA2inDMd",
+   "date": "2026-11-27T09:02:38+00:00",
+   "seen": "2026-11-27T20:18:29.319877+00:00"
+  },
+  {
+   "war": "sudan",
+   "sides": [
+    "RSF"
+   ],
+   "place": "Sudan",
+   "iso": "SDN",
+   "province": "North Kordofan",
+   "province_id": "86620642B75144405979625",
+   "outlet": "operativmm",
+   "host": "operativmm.az",
+   "partisan": false,
+   "title": "At least 14 killed in RSF attacks in Sudan",
+   "sentence": "At least 14 killed in RSF attacks in Sudan.",
+   "url": "https://operativmm.az/en/post/at-least-14-killed-in-rsf-attacks-in-sudan/89078",
+   "date": "2026-11-27T08:41:00+00:00",
+   "seen": "2026-11-27T20:18:29.319877+00:00"
+  },
+  {
+   "war": "sudan",
+   "sides": [
+    "RSF"
+   ],
+   "place": "Sudan",
+   "iso": "SDN",
+   "province": "North Kordofan",
+   "province_id": "86620642B75144405979625",
+   "outlet": "Vatican News",
+   "host": "vaticannews.va",
+   "partisan": false,
+   "title": "Sudanese civilians bearing brunt of war as violence spreads",
+   "sentence": "At least 22 civilians were killed, and dozens were injured in a series of attacks attributed to the paramilitary Rapid Support Forces (RSF) in Sudan’s ...",
+   "url": "https://www.vaticannews.va/en/world/news/2026-11/sudan-war-civilians-humanitarian-crisis-deaths-displacement.html",
+   "date": "2026-11-27T06:36:00+00:00",
+   "seen": "2026-11-27T20:18:29.319877+00:00"
+  },
+  {
+   "war": "sudan",
+   "sides": [
+    "RSF"
+   ],
+   "place": "Sudan",
+   "iso": "SDN",
+   "province": "North Kordofan",
+   "province_id": "86620642B75144405979625",
+   "outlet": "UA.NEWS",
+   "host": "ua.news",
+   "partisan": false,
+   "title": "At least 14 killed in Sudan in Rapid Support Forces attacks — Anadolu Agency",
+   "sentence": "At least 14 killed in Sudan in Rapid Support Forces attacks",
+   "url": "https://ua.news/en/dovkolo-svitu/u-sudani-cherez-ataki-sil-shvidkoyi-pidtrimki-zaginuli-shchonaimenshe-14-liudei-anadolu-agency",
+   "date": "2026-11-27T03:40:00+00:00",
+   "seen": "2026-11-27T20:18:29.319877+00:00"
+  },
+  {
+   "war": "sudan",
+   "sides": [
+    "RSF"
+   ],
+   "place": "El Fasher",
+   "iso": "SDN",
+   "province": "North Darfur",
+   "province_id": "86620642B32784125865646",
+   "outlet": "RealLifeLore on MSN",
+   "host": "msn.com",
+   "partisan": false,
+   "title": "Sudan's RSF captured El Fasher after an 18-month siege - an estimated 260,000 residents had been trapped inside",
+   "sentence": "Sudan's RSF captured El Fasher after an 18-month siege",
+   "url": "https://www.msn.com/en-us/news/other/sudans-rsf-captured-el-fasher-after-an-18-month-siege-an-estimated-260000-residents-had-been-trapped-inside/vi-AA2ilOAZ",
+   "date": "2026-11-27T04:18:50+00:00",
+   "seen": "2026-11-27T20:18:29.319877+00:00"
+  },
+  {
+   "war": "sudan",
+   "sides": [
+    "SAF",
+    "RSF"
+   ],
+   "place": "Ed Damazin",
+   "iso": "SDN",
+   "province": "Blue Nile",
+   "province_id": "86620642B86272532082738",
+   "outlet": "Sudan Tribune",
+   "host": "sudantribune.com",
+   "partisan": false,
+   "title": "Sudanese army recaptures Khor Maganza in Blue Nile state",
+   "sentence": "The Sudanese army retook Khor Maganza south of Ed Damazin on Friday, two days after an RSF and SPLM-N alliance claimed control of the Blue Nile state area.",
+   "url": "https://sudantribune.com/article/321717",
+   "date": "2026-11-27T06:10:00+00:00",
+   "seen": "2026-11-27T20:18:29.319877+00:00"
+  },
+  {
+   "war": "sudan",
+   "sides": [
+    "SAF"
+   ],
+   "place": "Blue Nile",
+   "iso": "SDN",
+   "province": "Blue Nile",
+   "province_id": "86620642B86272532082738",
+   "outlet": "UA.NEWS",
+   "host": "ua.news",
+   "partisan": false,
+   "title": "Sudanese army says it has retaken Makanza in Blue Nile state — Anadolu Agency",
+   "sentence": "The Sudanese army said it retook Makanza in Blue Nile state, while more than 14,000 people fled intensified fighting to South Sudan’s Upper Nile state.",
+   "url": "https://ua.news/en/dovkolo-svitu/armiia-sudanu-zaiavila-pro-povernennia-makanzi-u-shtati-blakitnii-nil-anadolu-agency",
+   "date": "2026-11-27T06:40:00+00:00",
+   "seen": "2026-11-27T20:18:29.319877+00:00"
+  },
+  {
+   "war": "myanmar",
+   "sides": [
+    "Military"
+   ],
+   "place": "Bago Region",
+   "iso": "MMR",
+   "province": "Bago",
+   "province_id": "20573499B19694912925518",
+   "outlet": "Karen News",
+   "host": "karennews.org",
+   "partisan": false,
+   "title": "Myanmar Junta Torches Homes Across Seven Villages in Mon State",
+   "sentence": "The offensive began on November 3, when a large regime force advanced along the border between Kyaikto Township and Shwegyin Township in Bago Region.",
+   "url": "https://karennews.org/2026/11/myanmar-junta-torches-homes-across-seven-villages-in-mon-state/",
+   "date": "2026-11-26T17:50:00+00:00",
+   "seen": "2026-11-27T20:18:29.319877+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "West Bank",
+   "iso": "PSE",
+   "province": "West Bank",
+   "province_id": "83478781B28849486138516",
+   "outlet": "AFP on MSN",
+   "host": "msn.com",
+   "partisan": false,
+   "title": "Under-attack Palestinians find unlikely ally in Israeli retired general",
+   "sentence": "The four Israeli soldiers stepped out of their car in the occupied West Bank, their faces masked, their uniforms unmarked and automatic weapons strapped across their shoulders.",
+   "url": "https://www.msn.com/en-us/news/other/under-attack-palestinians-find-unlikely-ally-in-israeli-retired-general/ar-AA2ilDrG",
+   "date": "2026-11-27T03:25:00+00:00",
+   "seen": "2026-11-27T20:18:29.319877+00:00"
   }
  ],
  "truce": [
@@ -7134,6 +7716,16 @@
    "sentence": "With troops still deployed across multiple fronts and renewed fighting with Iran a possibility, IDF seeks to restore combat readiness, address command failures exposed on Oct.",
    "url": "https://www.ynetnews.com/article/b1voxlrj7g",
    "date": "2026-11-25T16:00:00+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "kind": "start",
+   "outlet": "Bastille Post",
+   "partisan": false,
+   "title": "Lingering Lebanon-Israel conflict hinders Lebanon's olive harvest",
+   "sentence": "Two years after the Lebanon-Israel ceasefire agreement took effect, fighting still continues and is putting a damper on the olive harvest in southern Lebanon, which is now drawing to a close.",
+   "url": "https://www.bastillepost.com/global/article/6402011-lingering-lebanon-israel-conflict-hinders-lebanons-olive-harvest",
+   "date": "2026-11-27T08:58:00+00:00"
   }
  ],
  "withdrawals": [],

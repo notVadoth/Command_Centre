@@ -3410,5 +3410,228 @@
  "Suda|MMR": [],
  "Muslims|SDN": [],
  "Negev|PSE": [],
- "Negev|LBN": []
+ "Negev|LBN": [],
+ "Nizhyn|RUS,UKR": [
+  {
+   "qid": "Q952457",
+   "iso": "UKR",
+   "lat": 51.04736111111111,
+   "lon": 31.8805
+  },
+  {
+   "qid": "Q103860141",
+   "iso": "UKR",
+   "lat": 50.981844,
+   "lon": 32.124886
+  },
+  {
+   "qid": "Q2991957",
+   "iso": "UKR",
+   "lat": 51.12194444,
+   "lon": 31.99527778
+  },
+  {
+   "qid": "Q4316200",
+   "iso": "UKR",
+   "lat": 51.0179844,
+   "lon": 31.8886075
+  },
+  {
+   "qid": "Q4316186",
+   "iso": "UKR",
+   "lat": 51.088888888889,
+   "lon": 31.870277777778
+  },
+  {
+   "qid": "Q7042257",
+   "iso": "UKR",
+   "lat": 51.0525,
+   "lon": 31.88083333
+  },
+  {
+   "qid": "Q12134570",
+   "iso": "UKR",
+   "lat": 51.019398,
+   "lon": 31.887426
+  },
+  {
+   "qid": "Q24817225",
+   "iso": "UKR",
+   "lat": 46.489,
+   "lon": 30.719916666666666
+  }
+ ],
+ "Libya|MMR": [],
+ "Western|MMR": [],
+ "Belarus|RUS,UKR": [
+  {
+   "qid": "Q9091",
+   "iso": "UKR",
+   "lat": 53,
+   "lon": 27
+  }
+ ],
+ "Donbas|RUS,UKR": [
+  {
+   "qid": "Q16335075",
+   "iso": "UKR",
+   "lat": 48,
+   "lon": 38
+  },
+  {
+   "qid": "Q605714",
+   "iso": "UKR",
+   "lat": 48,
+   "lon": 37.8
+  },
+  {
+   "qid": "Q180479",
+   "iso": "UKR",
+   "lat": 48.020833,
+   "lon": 37.809722
+  },
+  {
+   "qid": "Q111655119",
+   "iso": "UKR",
+   "lat": 49,
+   "lon": 38
+  },
+  {
+   "qid": "Q4166093",
+   "iso": "UKR",
+   "lat": 48.470276,
+   "lon": 38.805384
+  },
+  {
+   "qid": "Q12153734",
+   "iso": "UKR",
+   "lat": 48.85636667,
+   "lon": 37.57121944
+  },
+  {
+   "qid": "Q157873",
+   "iso": "UKR",
+   "lat": 49.966666666667,
+   "lon": 36.316666666667
+  }
+ ],
+ "Donbas|SDN": [],
+ "Islamabad|YEM": [],
+ "Turkey|YEM": [],
+ "UN Security Council|PSE": [],
+ "UN Security Council|LBN": [],
+ "Islamabad|SDN": [],
+ "West Asia|SDN": [],
+ "Saudi Arabia|SDN": [],
+ "Makkah Joint Defence|YEM": [],
+ "Belozerskoye|RUS,UKR": [
+  {
+   "qid": "Q3637871",
+   "iso": "RUS",
+   "lat": 55.821111111111,
+   "lon": 65.576388888889
+  }
+ ],
+ "Blantyre|RUS,UKR": [],
+ "Petropavlivka|RUS,UKR": [
+  {
+   "qid": "Q1002960",
+   "iso": "UKR",
+   "lat": 48.454929042588,
+   "lon": 36.439409602835
+  },
+  {
+   "qid": "Q2991922",
+   "iso": "UKR",
+   "lat": 48.4536,
+   "lon": 36.4326
+  },
+  {
+   "qid": "Q4361064",
+   "iso": "UKR",
+   "lat": 48.804444444444,
+   "lon": 39.262777777778
+  },
+  {
+   "qid": "Q4361513",
+   "iso": "UKR",
+   "lat": 46.340277777778,
+   "lon": 29.569722222222
+  },
+  {
+   "qid": "Q4361498",
+   "iso": "UKR",
+   "lat": 49.71666666666667,
+   "lon": 37.719166666666666
+  },
+  {
+   "qid": "Q4361502",
+   "iso": "UKR",
+   "lat": 47.2925,
+   "lon": 33.569444444444
+  },
+  {
+   "qid": "Q4361491",
+   "iso": "UKR",
+   "lat": 50.161666666667,
+   "lon": 37.145833333333
+  },
+  {
+   "qid": "Q4361515",
+   "iso": "UKR",
+   "lat": 49.241666666667,
+   "lon": 31.345
+  },
+  {
+   "qid": "Q4361487",
+   "iso": "UKR",
+   "lat": 47.733333333333,
+   "lon": 31.497222222222
+  },
+  {
+   "qid": "Q4361497",
+   "iso": "UKR",
+   "lat": 44.9,
+   "lon": 34.163888888889
+  },
+  {
+   "qid": "Q4361486",
+   "iso": "UKR",
+   "lat": 50.053888888889,
+   "lon": 35.690277777778
+  },
+  {
+   "qid": "Q4493106",
+   "iso": "UKR",
+   "lat": 47.681388888889,
+   "lon": 30.906666666667
+  }
+ ],
+ "Kupiansk District|RUS,UKR": [],
+ "Ras Tanura|YEM": [],
+ "Ras Tanura|MMR": [],
+ "Khor Maganza|SDN": [],
+ "Sudan’s East Darfur|SDN": [],
+ "Sudan's East Darfur|SDN": [],
+ "Maqanza|SDN": [],
+ "Maqanza|MMR": [],
+ "El Fasher|SDN": [
+  {
+   "qid": "Q311204",
+   "iso": "SDN",
+   "lat": 13.626983333333,
+   "lon": 25.349583333333
+  },
+  {
+   "qid": "Q1433286",
+   "iso": "SDN",
+   "lat": 13.614722222222,
+   "lon": 25.324444444444
+  }
+ ],
+ "Sudan's Blue Nile|SDN": [],
+ "Sudan's Blue Nile|MMR": [],
+ "Makanza|SDN": [],
+ "Batumi|PSE": [],
+ "Batumi|LBN": []
 }
