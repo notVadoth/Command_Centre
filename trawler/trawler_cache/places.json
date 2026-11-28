@@ -3633,5 +3633,74 @@
  "Sudan's Blue Nile|MMR": [],
  "Makanza|SDN": [],
  "Batumi|PSE": [],
- "Batumi|LBN": []
+ "Batumi|LBN": [],
+ "Israel-occupied Palestinian|PSE": [],
+ "Israel-occupied Palestinian|LBN": [],
+ "Berdiansk|RUS,UKR": [
+  {
+   "qid": "Q33292",
+   "iso": "UKR",
+   "lat": 46.75555555555555,
+   "lon": 36.78888888888889
+  },
+  {
+   "qid": "Q2652770",
+   "iso": "UKR",
+   "lat": 46.759514,
+   "lon": 36.803106
+  },
+  {
+   "qid": "Q4084163",
+   "iso": "UKR",
+   "lat": 46.75055556,
+   "lon": 36.77916667
+  },
+  {
+   "qid": "Q103821298",
+   "iso": "UKR",
+   "lat": 46.919925,
+   "lon": 36.48717
+  },
+  {
+   "qid": "Q83987823",
+   "iso": "UKR",
+   "lat": 46.759787424073,
+   "lon": 36.784501356212
+  },
+  {
+   "qid": "Q20073063",
+   "iso": "UKR",
+   "lat": 46.751,
+   "lon": 36.8039
+  },
+  {
+   "qid": "Q12082008",
+   "iso": "UKR",
+   "lat": 46.755,
+   "lon": 36.783611
+  },
+  {
+   "qid": "Q4084169",
+   "iso": "UKR",
+   "lat": 47.106666666667,
+   "lon": 37.442222222222
+  }
+ ],
+ "USAID|RUS,UKR": [],
+ "Ituri Province|YEM": [],
+ "Ituri Province|SOM": [],
+ "Yemen's Taiz|YEM": [],
+ "Yemen's Taiz|BFA,MLI,NER": [],
+ "Yemen's Taiz|SOM": [],
+ "Jazan|YEM": [],
+ "Taiz-Lahj|YEM": [],
+ "Taiz-Lahj|SDN": [],
+ "Taiz-Lahj|BFA,MLI,NER": [],
+ "Houthi|BFA,MLI,NER": [],
+ "Samsour|SDN": [],
+ "Lubero|SDN": [],
+ "Israeli Arab|MMR": [],
+ "West Bank Palestinian|MMR": [],
+ "West Bank Palestinian|PSE": [],
+ "West Bank Palestinian|LBN": []
 }

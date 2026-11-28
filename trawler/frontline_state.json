@@ -7564,6 +7564,284 @@
    "url": "https://www.msn.com/en-us/news/other/under-attack-palestinians-find-unlikely-ally-in-israeli-retired-general/ar-AA2ilDrG",
    "date": "2026-11-27T03:25:00+00:00",
    "seen": "2026-11-27T20:18:29.319877+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "Gaza",
+   "iso": "PSE",
+   "province": "Gaza",
+   "province_id": "83478781B7121896376882",
+   "outlet": "The Guardian",
+   "host": "theguardian.com",
+   "partisan": false,
+   "title": "Costa Rica bars UN rapporteur on Palestinian territories from entering the country",
+   "sentence": "Francesca Albanese, leading critic of Israeli abuses in Gaza and West Bank, barred on ‘national security grounds’ Costa Rica has barred entry to the UN special rapporteur on the Israel-occupied Palestinian territories, Francesca Albanese, earning the ire of the UN human rights chief.",
+   "url": "https://www.theguardian.com/world/2026/nov/28/costa-rica-bars-un-rapporteur-francesca-albanese-palestinian-territories",
+   "date": "2026-11-28T18:44:41+00:00",
+   "seen": "2026-11-28T19:07:58.451294+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "Palestinian",
+   "iso": "PSE",
+   "province": "West Bank",
+   "province_id": "83478781B28849486138516",
+   "outlet": "The Guardian",
+   "host": "theguardian.com",
+   "partisan": false,
+   "title": "Costa Rica bars UN rapporteur on Palestinian territories from entering the country",
+   "sentence": "Francesca Albanese, leading critic of Israeli abuses in Gaza and West Bank, barred on ‘national security grounds’ Costa Rica has barred entry to the UN special rapporteur on the Israel-occupied Palestinian territories, Francesca Albanese, earning the ire of the UN human rights chief.",
+   "url": "https://www.theguardian.com/world/2026/nov/28/costa-rica-bars-un-rapporteur-francesca-albanese-palestinian-territories",
+   "date": "2026-11-28T18:44:41+00:00",
+   "seen": "2026-11-28T19:07:58.451294+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "West Bank",
+   "iso": "PSE",
+   "province": "West Bank",
+   "province_id": "83478781B28849486138516",
+   "outlet": "France 24",
+   "host": "france24.com",
+   "partisan": false,
+   "title": "War in the Middle East: Surge of violence in occupied West Bank",
+   "sentence": "The four Israeli soldiers stepped out of their car in the occupied West Bank, their faces masked, their uniforms unmarked and automatic weapons strapped across their shoulders.",
+   "url": "https://www.france24.com/en/middle-east-surge-of-violence-in-occupied-west-bank",
+   "date": "2026-11-28T10:51:21+00:00",
+   "seen": "2026-11-28T19:07:58.451294+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Zaporizhzhia Oblast",
+   "iso": "UKR",
+   "province": "Zaporizhia Oblast",
+   "province_id": "14850775B92888097715572",
+   "outlet": "Kyiv Independent",
+   "host": "kyivindependent.com",
+   "partisan": false,
+   "title": "'Over 30 killed' — Ukraine hits Russia's elite 'Rubicon' drone unit base in occupied Zaporizhzhia Oblast",
+   "sentence": "Ukraine hits Russia's elite 'Rubicon' drone unit base in occupied Zaporizhzhia Oblast.",
+   "url": "https://kyivindependent.com/over-30-killed-ukraine-hits-russias-elite-rubicon-drone-unit-base-in-occupied-zaporizhzhia-oblast/",
+   "date": "2026-11-28T18:29:30+00:00",
+   "seen": "2026-11-28T19:07:58.451294+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Donetsk",
+   "iso": "UKR",
+   "province": "Donetsk Oblast",
+   "province_id": "14850775B15615817748403",
+   "outlet": "Ukrainska Pravda",
+   "host": "pravda.com.ua",
+   "partisan": false,
+   "title": "Russians sentence Colombian POW who fought for Ukraine to 20 years in prison",
+   "sentence": "A Russian-controlled court in occupied Donetsk has sentenced 33-year-old Colombian POW Cristian Morales Mendoza, who fought for Ukraine, to 20 years in prison.",
+   "url": "https://www.pravda.com.ua/eng/news/2026/11/28/8065115/",
+   "date": "2026-11-28T12:46:00+00:00",
+   "seen": "2026-11-28T19:07:58.451294+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Ukraine"
+   ],
+   "place": "Kursk Region",
+   "iso": "RUS",
+   "province": "Kursk Oblast",
+   "province_id": "28173009B94971452660823",
+   "outlet": "TASS",
+   "host": "tass.com",
+   "partisan": true,
+   "title": "Ukrainian attack kills three people in Kursk Region — governor",
+   "sentence": "Ukrainian attack kills three people in Kursk Region",
+   "url": "https://tass.com/emergencies/2226439",
+   "date": "2026-11-28T17:50:50+00:00",
+   "seen": "2026-11-28T19:07:58.451294+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Ukraine"
+   ],
+   "place": "Lugansk",
+   "iso": "UKR",
+   "province": "Luhansk Oblast",
+   "province_id": "14850775B31033086218351",
+   "outlet": "TASS",
+   "host": "tass.com",
+   "partisan": true,
+   "title": "Ukrainian attack kills three in Lugansk — governor",
+   "sentence": "Ukrainian attack kills three in Lugansk",
+   "url": "https://tass.com/emergencies/2226437",
+   "date": "2026-11-28T17:41:58+00:00",
+   "seen": "2026-11-28T19:07:58.451294+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Nizhyn",
+   "iso": "UKR",
+   "province": "Chernihiv Oblast",
+   "province_id": "14850775B55286662261645",
+   "outlet": "South China Morning Post",
+   "host": "scmp.com",
+   "partisan": false,
+   "title": "Ukraine reports at least 9 killed, Russia shoots down over 1200 drones",
+   "sentence": "Seven people were killed and seven others wounded in a Russian attack on an enterprise in Nizhyn, in Ukraine’s northern Chernihiv region, the State Emergency Service reported on Saturday.",
+   "url": "https://www.scmp.com/news/world/russia-central-asia/article/3376148/ukraine-reports-least-9-killed-russia-shoots-down-over-1200-drones",
+   "date": "2026-11-28T14:09:55+00:00",
+   "seen": "2026-11-28T19:07:58.451294+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "Palestinian",
+   "iso": "PSE",
+   "province": "West Bank",
+   "province_id": "83478781B28849486138516",
+   "outlet": "South China Morning Post",
+   "host": "scmp.com",
+   "partisan": false,
+   "title": "Costa Rica bars UN-picked human rights expert on Palestinian territories",
+   "sentence": "Costa Rica denied entry ⁠to the United Nations special rapporteur on ⁠the Israeli-occupied Palestinian territories, drawing criticism from UN human rights chief Volker Turk on Friday.",
+   "url": "https://www.scmp.com/news/world/americas/article/3376110/costa-rica-bars-un-picked-human-rights-expert-palestinian-territories",
+   "date": "2026-11-28T03:27:22+00:00",
+   "seen": "2026-11-28T19:07:58.451294+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Nizhyn",
+   "iso": "UKR",
+   "province": "Chernihiv Oblast",
+   "province_id": "14850775B55286662261645",
+   "outlet": "The Hindu",
+   "host": "thehindu.com",
+   "partisan": false,
+   "title": "At least nine reported killed across Ukraine, while Russia downs near-record number of drones",
+   "sentence": "Seven people were killed and seven others wounded in a Russian attack on an enterprise in Nizhyn, in Ukraine's northern Chernihiv region, the State Emergency Service reported",
+   "url": "https://www.thehindu.com/news/international/at-least-nine-reported-killed-across-ukraine-while-russia-downs-near-record-number-of-drones/article71755315.ece",
+   "date": "2026-11-28T16:31:39+00:00",
+   "seen": "2026-11-28T19:07:58.451294+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "sides": [
+    "Russia",
+    "Ukraine"
+   ],
+   "place": "Kursk",
+   "iso": "RUS",
+   "province": "Kursk Oblast",
+   "province_id": "28173009B94971452660823",
+   "outlet": "EADaily",
+   "host": "eadaily.com",
+   "partisan": false,
+   "title": "The Russian Armed Forces stopped the APU's attempt to cross the border of the Kursk region — summary",
+   "sentence": "Russian troops repelled an attempt by Ukrainian units to invade the Glushkovsky district of the Kursk region.",
+   "url": "https://eadaily.com/en/news/2026/11/27/the-russian-armed-forces-stopped-the-apus-attempt-to-cross-the-border-of-the-kursk-region-summary",
+   "date": "2026-11-27T13:45:00+00:00",
+   "seen": "2026-11-28T19:07:58.451294+00:00"
+  },
+  {
+   "war": "yemen",
+   "sides": [
+    "Houthis",
+    "Government"
+   ],
+   "place": "Taiz",
+   "iso": "YEM",
+   "province": "Ta'izz Governorate",
+   "province_id": "18629408B66245584752084",
+   "outlet": "The Sunday Guardian Live on MSN",
+   "host": "msn.com",
+   "partisan": false,
+   "title": "Yemen conflict: Government forces shoot down Houthi drone over Taiz as two people are killed in attack",
+   "sentence": "28 -- Yemeni government forces have shot down a Houthi drone over the eastern front of Taiz city, amid ongoing fighting in the conflict-hit region.",
+   "url": "https://www.msn.com/en-in/news/other/yemen-conflict-government-forces-shoot-down-houthi-drone-over-taiz-as-two-people-are-killed-in-attack/ar-AA2ipMvy",
+   "date": "2026-11-28T07:04:00+00:00",
+   "seen": "2026-11-28T19:07:58.451294+00:00"
+  },
+  {
+   "war": "sudan",
+   "sides": [
+    "SAF",
+    "RSF"
+   ],
+   "place": "Blue Nile",
+   "iso": "SDN",
+   "province": "Blue Nile",
+   "province_id": "86620642B86272532082738",
+   "outlet": "Middle East Monitor",
+   "host": "middleeastmonitor.com",
+   "partisan": false,
+   "title": "Sudanese army takes control of Samsour in Blue Nile state after clashes with RSF, allies",
+   "sentence": "Sudanese army takes control of Samsour in Blue Nile state after clashes with RSF, allies.",
+   "url": "https://www.middleeastmonitor.com/20261128-sudanese-army-takes-control-of-samsour-in-blue-nile-state-after-clashes-with-rsf-allies/",
+   "date": "2026-11-28T07:27:00+00:00",
+   "seen": "2026-11-28T19:07:58.451294+00:00"
+  },
+  {
+   "war": "sudan",
+   "sides": [
+    "SAF",
+    "RSF"
+   ],
+   "place": "Blue Nile",
+   "iso": "SDN",
+   "province": "Blue Nile",
+   "province_id": "86620642B86272532082738",
+   "outlet": "Sudan Tribune on MSN",
+   "host": "msn.com",
+   "partisan": false,
+   "title": "Sudanese army recaptures Khor Maganza in Blue Nile state",
+   "sentence": "The Sudanese army on Friday retook Khor Maganza south of Blue Nile state capital Ed Damazin, two days after an alliance of the Rapid Support Forces (RSF) and the Sudan ...",
+   "url": "https://www.msn.com/en-xl/news/other/sudanese-army-recaptures-khor-maganza-in-blue-nile-state/ar-AA2io9LG",
+   "date": "2026-11-27T17:03:14+00:00",
+   "seen": "2026-11-28T19:07:58.451294+00:00"
+  },
+  {
+   "war": "israel-gaza",
+   "sides": [
+    "Israel"
+   ],
+   "place": "Palestinian",
+   "iso": "PSE",
+   "province": "West Bank",
+   "province_id": "83478781B28849486138516",
+   "outlet": "The Times of Israel",
+   "host": "timesofisrael.com",
+   "partisan": false,
+   "title": "9 suspects arrested over attack on Palestinian, Israeli electrical workers in West Bank",
+   "sentence": "9 suspects arrested over attack on Palestinian, Israeli electrical workers in West Bank.",
+   "url": "https://www.timesofisrael.com/liveblog_entry/9-suspects-arrested-over-attack-on-palestinian-israeli-electrical-workers-in-west-bank/",
+   "date": "2026-11-28T08:12:00+00:00",
+   "seen": "2026-11-28T19:07:58.451294+00:00"
   }
  ],
  "truce": [
@@ -7726,6 +8004,36 @@
    "sentence": "Two years after the Lebanon-Israel ceasefire agreement took effect, fighting still continues and is putting a damper on the olive harvest in southern Lebanon, which is now drawing to a close.",
    "url": "https://www.bastillepost.com/global/article/6402011-lingering-lebanon-israel-conflict-hinders-lebanons-olive-harvest",
    "date": "2026-11-27T08:58:00+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "kind": "end",
+   "outlet": "France 24",
+   "partisan": false,
+   "title": "Gaza strike kills two Doctors Without Borders staff Israel links to Hamas",
+   "sentence": "The Friday night strike in Gaza City drew swift condemnation from the head of the UN's World Health Organization and came despite a ceasefire in the war-shattered Palestinian territory.",
+   "url": "https://www.france24.com/en/gaza-strike-kills-two-doctors-without-borders-staff-israel-links-to-hamas",
+   "date": "2026-11-28T14:31:26+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "kind": "start",
+   "outlet": "The New Arab",
+   "partisan": false,
+   "title": "Two years after Israel-Hezbollah ceasefire: What is happening in southern Lebanon?",
+   "sentence": "Two years after Hezbollah and Israel agreed to a ceasefire, is Lebanon any closer to securing an Israeli withdrawal or disarming the Iran-backed group?",
+   "url": "https://www.newarab.com/analysis/lebanon-israel-ceasefire-two-years-what-happening",
+   "date": "2026-11-28T07:55:00+00:00"
+  },
+  {
+   "war": "russia-ukraine",
+   "kind": "end",
+   "outlet": "StrategyPage",
+   "partisan": false,
+   "title": "Yemen: More Disasters in Yemen",
+   "sentence": "Renewed hostilities across Yemen are uprooting children by the tens of thousands and forcing them into harm’s way.",
+   "url": "https://www.strategypage.com/qnd/yemen/articles/20261128100827.aspx",
+   "date": "2026-11-27T16:00:00+00:00"
   }
  ],
  "withdrawals": [],

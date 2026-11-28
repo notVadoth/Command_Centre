@@ -1,6 +1,6 @@
 // written by trawler.py — loaded automatically by commandcenter-map.html
 window.TRAWLER_GROUPINGS = {
- "generated": "2026-11-27T20:17:15.830464+00:00",
+ "generated": "2026-11-28T19:07:19.404855+00:00",
  "extractor": "rules",
  "verification": {
   "wikidata": true,
@@ -13,7 +13,7 @@ window.TRAWLER_GROUPINGS = {
    "conflict": "Wikidata contradicts the claim — review"
   }
  },
- "articles_in_store": 3067,
+ "articles_in_store": 3167,
  "blocs": {
   "EU": {
    "name": "European Union",
@@ -49,6 +49,7 @@ window.TRAWLER_GROUPINGS = {
    ],
    "partners": [],
    "applicants": [
+    "ALB",
     "GBR",
     "RUS",
     "UKR"
@@ -341,6 +342,25 @@ window.TRAWLER_GROUPINGS = {
      ]
     },
     {
+     "country": "ESP",
+     "action": "left",
+     "status": "conflict",
+     "wikidata": "disagrees",
+     "independent_outlets": 1,
+     "evidence": [
+      {
+       "source": "DW World",
+       "domain": "dw.com",
+       "title": "As Spain votes, what could change for Europe?",
+       "url": "https://www.dw.com/en/as-spain-votes-what-could-change-for-europe/a-80035381?maca=en-rss-en-world-4025-rdf",
+       "date": "2026-11-28T11:24:00+00:00",
+       "sentence": "Pedro Sanchez is one of the few social democratic prime ministers left in the European Union, and Spain is the largest member state still led by one.",
+       "hedged": false,
+       "syndicated_copy": false
+      }
+     ]
+    },
+    {
      "country": "GBR",
      "action": "applied",
      "status": "corroborated",
@@ -602,6 +622,55 @@ window.TRAWLER_GROUPINGS = {
        "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
        "date": "2026-11-24T16:24:49+00:00",
        "sentence": "But the visit comes just days after Hungary dropped its opposition to opening of the remaining “clusters” in Ukraine’s talks on accession to the EU, as reported by Euronews, with Magyar seeking a more constructive relationship with Ukraine.",
+       "hedged": false,
+       "syndicated_copy": false
+      }
+     ]
+    },
+    {
+     "country": "ALB",
+     "action": "applied",
+     "status": "corroborated",
+     "wikidata": "unknown",
+     "independent_outlets": 2,
+     "evidence": [
+      {
+       "source": "DW World",
+       "domain": "dw.com",
+       "title": "EU enlargement: Why do some EU member states use their vetoes to block the accession of certain candidate countries?",
+       "url": "https://www.dw.com/en/eu-enlargement-why-do-some-eu-member-states-use-their-vetoes-to-block-the-accession-of-certain-candidate-countries/a-80034401?maca=en-rss-en-world-4025-rdf",
+       "date": "2026-11-24T14:49:00+00:00",
+       "sentence": "The EU opened accession negotiations with Albania, which has been an EU candidate since 2014, in July 2022.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "DW World",
+       "domain": "dw.com",
+       "title": "EU enlargement: Why do some EU member states use their vetoes to block the accession of certain candidate countries?",
+       "url": "https://www.dw.com/en/eu-enlargement-why-do-some-eu-member-states-use-their-vetoes-to-block-the-accession-of-certain-candidate-countries/a-80034401?maca=en-rss-en-world-4025-rdf",
+       "date": "2026-11-24T14:49:00+00:00",
+       "sentence": "The EU opened accession negotiations with Albania, which has been an EU candidate since 2014, in July 2022.",
+       "hedged": false,
+       "syndicated_copy": true
+      },
+      {
+       "source": "DW World",
+       "domain": "dw.com",
+       "title": "Albania's youth are protesting, no longer leaving the country",
+       "url": "https://www.dw.com/en/albania-s-youth-are-protesting-no-longer-leaving-the-country/a-80068939?maca=en-rss-en-world-4025-rdf",
+       "date": "2026-11-26T20:44:00+00:00",
+       "sentence": "Rama has argued that his resignation would jeopardize Albania's bid to join the European Union by 2030, but the vast majority of Albanians are pro-European, including those on the streets and in the opposition.",
+       "hedged": true,
+       "syndicated_copy": false
+      },
+      {
+       "source": "CBC World",
+       "domain": "cbc.ca",
+       "title": "Student-led protests in Albania turn violent as thousands call for prime minister to resign",
+       "url": "https://www.cbc.ca/news/world/albania-student-protest-violence-9.7440320?cmp=rss",
+       "date": "2026-11-28T16:08:54+00:00",
+       "sentence": "Albania is leading a posse of Balkan countries seeking to join the European Union and is aiming for entry by 2030.",
        "hedged": false,
        "syndicated_copy": false
       }
@@ -1140,45 +1209,6 @@ window.TRAWLER_GROUPINGS = {
      ]
     },
     {
-     "country": "ALB",
-     "action": "applied",
-     "status": "single-source",
-     "wikidata": "unknown",
-     "independent_outlets": 1,
-     "evidence": [
-      {
-       "source": "DW World",
-       "domain": "dw.com",
-       "title": "EU enlargement: Why do some EU member states use their vetoes to block the accession of certain candidate countries?",
-       "url": "https://www.dw.com/en/eu-enlargement-why-do-some-eu-member-states-use-their-vetoes-to-block-the-accession-of-certain-candidate-countries/a-80034401?maca=en-rss-en-world-4025-rdf",
-       "date": "2026-11-24T14:49:00+00:00",
-       "sentence": "The EU opened accession negotiations with Albania, which has been an EU candidate since 2014, in July 2022.",
-       "hedged": false,
-       "syndicated_copy": false
-      },
-      {
-       "source": "DW World",
-       "domain": "dw.com",
-       "title": "EU enlargement: Why do some EU member states use their vetoes to block the accession of certain candidate countries?",
-       "url": "https://www.dw.com/en/eu-enlargement-why-do-some-eu-member-states-use-their-vetoes-to-block-the-accession-of-certain-candidate-countries/a-80034401?maca=en-rss-en-world-4025-rdf",
-       "date": "2026-11-24T14:49:00+00:00",
-       "sentence": "The EU opened accession negotiations with Albania, which has been an EU candidate since 2014, in July 2022.",
-       "hedged": false,
-       "syndicated_copy": true
-      },
-      {
-       "source": "DW World",
-       "domain": "dw.com",
-       "title": "Albania's youth are protesting, no longer leaving the country",
-       "url": "https://www.dw.com/en/albania-s-youth-are-protesting-no-longer-leaving-the-country/a-80068939?maca=en-rss-en-world-4025-rdf",
-       "date": "2026-11-26T20:44:00+00:00",
-       "sentence": "Rama has argued that his resignation would jeopardize Albania's bid to join the European Union by 2030, but the vast majority of Albanians are pro-European, including those on the streets and in the opposition.",
-       "hedged": true,
-       "syndicated_copy": false
-      }
-     ]
-    },
-    {
      "country": "IDN",
      "action": "applied",
      "status": "single-source",
@@ -1438,8 +1468,102 @@ window.TRAWLER_GROUPINGS = {
     "qid": "Q7184",
     "label": null
    },
-   "baseline_audit": null,
+   "baseline_audit": {
+    "in_wikidata_not_baseline": [],
+    "in_baseline_not_wikidata": [
+     "DNK",
+     "NLD"
+    ]
+   },
    "changes": [
+    {
+     "country": "FRA",
+     "action": "left",
+     "status": "conflict",
+     "wikidata": "disagrees",
+     "independent_outlets": 1,
+     "evidence": [
+      {
+       "source": "France 24",
+       "domain": "france24.com",
+       "title": "🔴 Watch live: 'We must change everything,' French far-left presidential candidate Mélenchon says",
+       "url": "https://www.france24.com/en/france/20261107-french-presidential-hopeful-m%C3%A9lenchon-launches-campaign-by-vowing-lower-retirement-age",
+       "date": "2026-11-07T14:44:24+00:00",
+       "sentence": "On ​foreign policy, Mélenchon's programme reiterates his long-standing criticism of NATO and calls for France's gradual withdrawal from the military alliance, starting with an exit from its integrated military command.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "France 24",
+       "domain": "france24.com",
+       "title": "🔴 Watch live: 'We must change everything,' French far-left presidential candidate Mélenchon says",
+       "url": "https://www.france24.com/en/france/20261107-french-presidential-hopeful-m%C3%A9lenchon-launches-campaign-by-vowing-lower-retirement-age",
+       "date": "2026-11-07T14:44:24+00:00",
+       "sentence": "France previously withdrew from NATO's integrated military command in 1966 under president Charles de Gaulle, a decision later reversed under right-wing president Nicolas Sarkozy in 2009.",
+       "hedged": false,
+       "syndicated_copy": false
+      }
+     ]
+    },
+    {
+     "country": "USA",
+     "action": "left",
+     "status": "conflict",
+     "wikidata": "disagrees",
+     "independent_outlets": 2,
+     "evidence": [
+      {
+       "source": "DW World",
+       "domain": "dw.com",
+       "title": "Ukraine: Zelenskyy says security deal could go to referendum",
+       "url": "https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-world-4025-rdf",
+       "date": "2026-11-14T11:40:00+00:00",
+       "sentence": "Ukrainian President Volodymyr Zelenskyy said US peace envoys asked whether Kyiv would withdraw from its eastern region of ‌Donbas ⁠in exchange ⁠for joining NATO, according to remarks to the media published on Saturday.",
+       "hedged": true,
+       "syndicated_copy": false
+      },
+      {
+       "source": "Al Jazeera",
+       "domain": "aljazeera.com",
+       "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
+       "url": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
+       "date": "2026-11-14T11:43:06+00:00",
+       "sentence": "Meanwhile, in Friday’s comments to reporters that were under embargo until Saturday, Ukrainian President Volodymyr Zelenskyy said United States negotiators had asked during this week’s Abu Dhabi talks whether Ukraine would withdraw its troops from its eastern region of Donbas in exchange for joining NATO, the transatlantic military alliance.",
+       "hedged": true,
+       "syndicated_copy": false
+      },
+      {
+       "source": "BBC World",
+       "domain": "bbc.co.uk",
+       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+       "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+       "date": "2026-11-14T15:15:57+00:00",
+       "sentence": "US negotiators have touted the idea of Ukraine withdrawing its remaining forces from the eastern Donbas region in exchange for Nato membership, Volodymyr Zelensky has said.",
+       "hedged": false,
+       "syndicated_copy": false
+      },
+      {
+       "source": "CBC World",
+       "domain": "cbc.ca",
+       "title": "European security plan floated by U.S. would benefit Putin, Zelenskyy says",
+       "url": "https://www.cbc.ca/news/world/european-security-zelenskyy-putin-9.7422273?cmp=rss",
+       "date": "2026-11-14T19:06:09+00:00",
+       "sentence": "Zelenskyy said the U.S. had asked for the first time whether Ukraine would withdraw from parts of the Donbas region in eastern Ukraine that Russia does not control if Kyiv were admitted to NATO.",
+       "hedged": true,
+       "syndicated_copy": false
+      },
+      {
+       "source": "Al Jazeera",
+       "domain": "aljazeera.com",
+       "title": "Starshield restrictions help Russia’s energy attacks on Ukraine: Zelenskyy",
+       "url": "https://www.aljazeera.com/news/2026/11/15/starshield-restrictions-help-russias-energy-attacks-on-ukraine-zelenskyy?traffic_source=rss",
+       "date": "2026-11-15T13:37:08+00:00",
+       "sentence": "Zelenskyy said the US floated the idea of Ukraine withdrawing its remaining forces from the eastern Donbas region in exchange for NATO membership.",
+       "hedged": false,
+       "syndicated_copy": false
+      }
+     ]
+    },
     {
      "country": "UKR",
      "action": "joined",
@@ -1932,94 +2056,6 @@ window.TRAWLER_GROUPINGS = {
        "sentence": "The draft agreement with NATO also proposed that Russia and NATO members that had already joined the alliance as of May 27, 1997, refrain from deploying additional troops or weapons on the territory of other European countries beyond the levels stationed there on that date.",
        "hedged": true,
        "syndicated_copy": true
-      }
-     ]
-    },
-    {
-     "country": "USA",
-     "action": "left",
-     "status": "corroborated",
-     "wikidata": "unknown",
-     "independent_outlets": 2,
-     "evidence": [
-      {
-       "source": "DW World",
-       "domain": "dw.com",
-       "title": "Ukraine: Zelenskyy says security deal could go to referendum",
-       "url": "https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-world-4025-rdf",
-       "date": "2026-11-14T11:40:00+00:00",
-       "sentence": "Ukrainian President Volodymyr Zelenskyy said US peace envoys asked whether Kyiv would withdraw from its eastern region of ‌Donbas ⁠in exchange ⁠for joining NATO, according to remarks to the media published on Saturday.",
-       "hedged": true,
-       "syndicated_copy": false
-      },
-      {
-       "source": "Al Jazeera",
-       "domain": "aljazeera.com",
-       "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
-       "url": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
-       "date": "2026-11-14T11:43:06+00:00",
-       "sentence": "Meanwhile, in Friday’s comments to reporters that were under embargo until Saturday, Ukrainian President Volodymyr Zelenskyy said United States negotiators had asked during this week’s Abu Dhabi talks whether Ukraine would withdraw its troops from its eastern region of Donbas in exchange for joining NATO, the transatlantic military alliance.",
-       "hedged": true,
-       "syndicated_copy": false
-      },
-      {
-       "source": "BBC World",
-       "domain": "bbc.co.uk",
-       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-       "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-       "date": "2026-11-14T15:15:57+00:00",
-       "sentence": "US negotiators have touted the idea of Ukraine withdrawing its remaining forces from the eastern Donbas region in exchange for Nato membership, Volodymyr Zelensky has said.",
-       "hedged": false,
-       "syndicated_copy": false
-      },
-      {
-       "source": "CBC World",
-       "domain": "cbc.ca",
-       "title": "European security plan floated by U.S. would benefit Putin, Zelenskyy says",
-       "url": "https://www.cbc.ca/news/world/european-security-zelenskyy-putin-9.7422273?cmp=rss",
-       "date": "2026-11-14T19:06:09+00:00",
-       "sentence": "Zelenskyy said the U.S. had asked for the first time whether Ukraine would withdraw from parts of the Donbas region in eastern Ukraine that Russia does not control if Kyiv were admitted to NATO.",
-       "hedged": true,
-       "syndicated_copy": false
-      },
-      {
-       "source": "Al Jazeera",
-       "domain": "aljazeera.com",
-       "title": "Starshield restrictions help Russia’s energy attacks on Ukraine: Zelenskyy",
-       "url": "https://www.aljazeera.com/news/2026/11/15/starshield-restrictions-help-russias-energy-attacks-on-ukraine-zelenskyy?traffic_source=rss",
-       "date": "2026-11-15T13:37:08+00:00",
-       "sentence": "Zelenskyy said the US floated the idea of Ukraine withdrawing its remaining forces from the eastern Donbas region in exchange for NATO membership.",
-       "hedged": false,
-       "syndicated_copy": false
-      }
-     ]
-    },
-    {
-     "country": "FRA",
-     "action": "left",
-     "status": "single-source",
-     "wikidata": "unknown",
-     "independent_outlets": 1,
-     "evidence": [
-      {
-       "source": "France 24",
-       "domain": "france24.com",
-       "title": "🔴 Watch live: 'We must change everything,' French far-left presidential candidate Mélenchon says",
-       "url": "https://www.france24.com/en/france/20261107-french-presidential-hopeful-m%C3%A9lenchon-launches-campaign-by-vowing-lower-retirement-age",
-       "date": "2026-11-07T14:44:24+00:00",
-       "sentence": "On ​foreign policy, Mélenchon's programme reiterates his long-standing criticism of NATO and calls for France's gradual withdrawal from the military alliance, starting with an exit from its integrated military command.",
-       "hedged": false,
-       "syndicated_copy": false
-      },
-      {
-       "source": "France 24",
-       "domain": "france24.com",
-       "title": "🔴 Watch live: 'We must change everything,' French far-left presidential candidate Mélenchon says",
-       "url": "https://www.france24.com/en/france/20261107-french-presidential-hopeful-m%C3%A9lenchon-launches-campaign-by-vowing-lower-retirement-age",
-       "date": "2026-11-07T14:44:24+00:00",
-       "sentence": "France previously withdrew from NATO's integrated military command in 1966 under president Charles de Gaulle, a decision later reversed under right-wing president Nicolas Sarkozy in 2009.",
-       "hedged": false,
-       "syndicated_copy": false
       }
      ]
     },
@@ -4116,9 +4152,9 @@ window.TRAWLER_GROUPINGS = {
    "group": "European Union",
    "country": "ALB",
    "action": "applied",
-   "status": "single-source",
+   "status": "corroborated",
    "wikidata": "unknown",
-   "independent_outlets": 1,
+   "independent_outlets": 2,
    "evidence": [
     {
      "source": "DW World",
@@ -4148,6 +4184,16 @@ window.TRAWLER_GROUPINGS = {
      "date": "2026-11-26T20:44:00+00:00",
      "sentence": "Rama has argued that his resignation would jeopardize Albania's bid to join the European Union by 2030, but the vast majority of Albanians are pro-European, including those on the streets and in the opposition.",
      "hedged": true,
+     "syndicated_copy": false
+    },
+    {
+     "source": "CBC World",
+     "domain": "cbc.ca",
+     "title": "Student-led protests in Albania turn violent as thousands call for prime minister to resign",
+     "url": "https://www.cbc.ca/news/world/albania-student-protest-violence-9.7440320?cmp=rss",
+     "date": "2026-11-28T16:08:54+00:00",
+     "sentence": "Albania is leading a posse of Balkan countries seeking to join the European Union and is aiming for entry by 2030.",
+     "hedged": false,
      "syndicated_copy": false
     }
    ]
@@ -4267,6 +4313,26 @@ window.TRAWLER_GROUPINGS = {
      "url": "https://www.france24.com/en/france/20261127-french-far-left-candidate-m%C3%A9lenchon-demands-thorough-overhaul-germany-ties",
      "date": "2026-11-27T17:31:15+00:00",
      "sentence": "Issued on: 27/11/2026 - 18:31\nFrench hard-left presidential candidate Jean-Luc Mélenchon on Friday called for an \"overhaul\" of ties with Berlin, voicing stinging criticism of Germany's economic dominance in the EU and its record military spending.",
+     "hedged": false,
+     "syndicated_copy": false
+    }
+   ]
+  },
+  {
+   "group": "European Union",
+   "country": "ESP",
+   "action": "left",
+   "status": "conflict",
+   "wikidata": "disagrees",
+   "independent_outlets": 1,
+   "evidence": [
+    {
+     "source": "DW World",
+     "domain": "dw.com",
+     "title": "As Spain votes, what could change for Europe?",
+     "url": "https://www.dw.com/en/as-spain-votes-what-could-change-for-europe/a-80035381?maca=en-rss-en-world-4025-rdf",
+     "date": "2026-11-28T11:24:00+00:00",
+     "sentence": "Pedro Sanchez is one of the few social democratic prime ministers left in the European Union, and Spain is the largest member state still led by one.",
      "hedged": false,
      "syndicated_copy": false
     }
@@ -4466,8 +4532,8 @@ window.TRAWLER_GROUPINGS = {
    "group": "NATO",
    "country": "FRA",
    "action": "left",
-   "status": "single-source",
-   "wikidata": "unknown",
+   "status": "conflict",
+   "wikidata": "disagrees",
    "independent_outlets": 1,
    "evidence": [
     {
@@ -4826,8 +4892,8 @@ window.TRAWLER_GROUPINGS = {
    "group": "NATO",
    "country": "USA",
    "action": "left",
-   "status": "corroborated",
-   "wikidata": "unknown",
+   "status": "conflict",
+   "wikidata": "disagrees",
    "independent_outlets": 2,
    "evidence": [
     {
